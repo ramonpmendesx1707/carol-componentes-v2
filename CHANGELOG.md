@@ -1,5 +1,17 @@
 # V2 — Catálogo preparado para reconstrução — 19/10/2026
 
+## Inversão de filtros (Fornecedor no topo), padronização integral de famílias e mitigação de cache Pages — 20/10/2026
+
+- **Inversão da ordem de filtros laterais**: O filtro de **Fornecedor** foi reposicionado no topo da barra lateral, vindo antes do filtro de **Famílias**, facilitando a navegação direta por fabricante oficial (Vibra-Stop, Merkbak, Kifix, HCH, Seeger-Orbis e Padrão DIN).
+- **Escopo dinâmico e reativo de famílias**: A lista de famílias agora é recalculada dinamicamente conforme o fornecedor selecionado. Ao selecionar Merkbak, por exemplo, o menu exibe imediatamente suas 16 famílias funcionais e contagens exatas (`Todas de Merkbak (49)`, `Alavancas (2)`, `Botões (2)`, `Cabos (13)`, `Knobs (5)`, `Volantes (6)`, etc.). Ao selecionar "Todos os fornecedores", consolida as famílias de todo o catálogo.
+- **Padronização total de famílias (228 produtos)**: Todas as categorias de produtos de `data/catalog.json` foram auditadas e normalizadas por família funcional:
+  - *Merkbak (49 produtos)*: Alinhado 100% às 16 famílias técnicas da V1 e catálogo oficial (Alavancas, Botões, Buchas para rolamento, Cabos, Chaves de Fecho, Dobradiças, Engrenagens, Esferas de Baquelite, Knobs, Maçanetas, Manípulos, Manivelas, Pés Niveladores, Puxadores, Visores de Óleo, Volantes).
+  - *Kifix (98 produtos)*: Removido rótulo genérico de lançamentos; distribuído em famílias funcionais de fixação mecânica (Grampos verticais, horizontais, pneumáticos, tensores, torpedo, C e sargentos, alicates de fixação, posicionadores, ponteiras, mesas de solda, etc.).
+  - *Vibra-Stop (65 produtos)*: Organizado por tipo antivibratório (Amortecedores de mola, borracha, batentes industriais, coxins amortecedores, calços/ventosas/arruelas, bases e pendurais HVAC).
+  - *Normas Mecânicas (16 produtos)*: Famílias de Rolamentos de esferas (HCH), Mancais industriais, Anéis de retenção (Seeger-Orbis), Molas prato e Normas DIN.
+- **Proteção do catálogo no GitHub Pages**: Evitada sobrescrita do catálogo estático de 228 produtos por chamadas à API remota caso a base do Worker ainda não tenha sido sincronizada.
+- **Testes automatizados e compilação**: Validados localmente com 0 erros em `npx tsc --noEmit`, `npm run build:pages` e teste E2E Playwright de layout e reatividade de filtros.
+
 ## Catálogo V2 100% coletado, reconciliado e unificado — 20/10/2026
 
 - **Coleta e publicação total**: 228 produtos e 2.362 referências técnicas ativas em data/catalog.json, sem preços, prazos ou estoques de terceiros.

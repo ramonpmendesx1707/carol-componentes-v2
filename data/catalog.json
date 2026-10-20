@@ -13,9 +13,9 @@
       "description": "<p>Linha Grampo Torpedo frontal Kifix modelo ACESSÓRIOS : BASES L PARA TORPEDOS, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo Torpedo frontal",
-          "slug": "grampo-torpedo-frontal"
+          "id": 500,
+          "name": "Grampos torpedo",
+          "slug": "grampos-torpedo"
         }
       ],
       "image": "/images/products/kifix/acessorios-bases-l-para-torpedos/foto-1.png",
@@ -257,7 +257,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos torpedo"
     },
     {
       "id": 200092,
@@ -272,9 +273,9 @@
       "description": "<p>Linha Adaptadores para mesas de solda Kifix modelo Alicates, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Adaptadores para mesas de solda",
-          "slug": "adaptadores-para-mesas-de-solda"
+          "id": 501,
+          "name": "Alicates de fixação",
+          "slug": "alicates-de-fixacao"
         }
       ],
       "image": "/images/products/kifix/alicates/foto-1.png",
@@ -704,7 +705,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Alicates de fixação"
     },
     {
       "id": 200066,
@@ -719,9 +721,9 @@
       "description": "<p>O catálogo Vibra-Stop 2026, página 5, descreve a Linha Tradicional com Chapa para máquinas que se deslocam em funcionamento. O conjunto tem copo metálico, base de borracha natural, regulagem de nivelamento e chapa de aço para fixação ao piso. Aplicações apresentadas no site incluem grupos geradores, politrizes, britadeiras, chillers e máquinas de lavar.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 502,
+          "name": "Amortecedores de borracha",
+          "slug": "amortecedores-de-borracha"
         }
       ],
       "image": "/images/products/vibra-stop/tradicional-com-chapa/foto-1.png",
@@ -1214,7 +1216,8 @@
           ]
         }
       ],
-      "homepage": true
+      "homepage": true,
+      "section": "Amortecedores de borracha"
     },
     {
       "id": 200076,
@@ -1229,9 +1232,9 @@
       "description": "<p>Anéis elásticos em aço mola para fixação axial externa de componentes sobre eixos usinados com canaleta.</p>",
       "categories": [
         {
-          "id": 211,
-          "name": "Fixação e retenção",
-          "slug": "fixacao-e-retencao"
+          "id": 503,
+          "name": "Anéis de retenção",
+          "slug": "aneis-de-retencao"
         }
       ],
       "image": "/images/products/carolfix/aneis-retencao-para-eixos-din-471/pagina-16.png",
@@ -9268,7 +9271,8 @@
           "note": "Dados extraídos diretamente da página 16 do catálogo técnico Carolfix."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Anéis de retenção"
     },
     {
       "id": 200077,
@@ -9283,9 +9287,9 @@
       "description": "<p>Anéis elásticos em aço mola para travamento interno em orifícios e caixas de mancais conforme DIN 472.</p>",
       "categories": [
         {
-          "id": 211,
-          "name": "Fixação e retenção",
-          "slug": "fixacao-e-retencao"
+          "id": 503,
+          "name": "Anéis de retenção",
+          "slug": "aneis-de-retencao"
         }
       ],
       "image": "/images/products/carolfix/aneis-retencao-para-furos-din-472/pagina-17.png",
@@ -17607,7 +17611,8 @@
           "note": "Dados extraídos diretamente da página 17 do catálogo técnico Carolfix."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Anéis de retenção"
     },
     {
       "id": 200078,
@@ -17622,9 +17627,9 @@
       "description": "<p>Anéis de travamento radial rápido série DIN 6799 para montagem por pressão em eixos sem necessidade de alicate especial.</p>",
       "categories": [
         {
-          "id": 211,
-          "name": "Fixação e retenção",
-          "slug": "fixacao-e-retencao"
+          "id": 503,
+          "name": "Anéis de retenção",
+          "slug": "aneis-de-retencao"
         }
       ],
       "image": "/images/products/carolfix/aneis-retencao-din-6799/pagina-18.png",
@@ -22854,7 +22859,8 @@
           "note": "Dados extraídos diretamente da página 18 do catálogo técnico Carolfix."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Anéis de retenção"
     },
     {
       "id": 203016,
@@ -22869,7 +22875,7 @@
       "description": "<p>Série especial com dimensões d1, e, d3, d4, número de dentes, X e capacidade axial informadas na página 18 do catálogo.</p>",
       "categories": [
         {
-          "id": 205,
+          "id": 503,
           "name": "Anéis de retenção",
           "slug": "aneis-de-retencao"
         }
@@ -24071,7 +24077,8 @@
           "note": "Fonte apresenta d3=45,6 para 525.160; valor mantido sem correção e sinalizado para revisão técnica."
         }
       ],
-      "homepage": true
+      "homepage": true,
+      "section": "Anéis de retenção"
     },
     {
       "id": 200080,
@@ -24086,9 +24093,9 @@
       "description": "<p>Arruelas elásticas perfiladas conforme DIN 137 para compensação de dilatação térmica e amortecimento axial.</p>",
       "categories": [
         {
-          "id": 211,
-          "name": "Fixação e retenção",
-          "slug": "fixacao-e-retencao"
+          "id": 504,
+          "name": "Porcas e arruelas DIN",
+          "slug": "porcas-e-arruelas-din"
         }
       ],
       "image": "/images/products/carolfix/arruelas-onduladas-din-137/pagina-20.png",
@@ -26826,7 +26833,8 @@
           "note": "Dados extraídos diretamente da página 20 do catálogo técnico Carolfix."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Porcas e arruelas DIN"
     },
     {
       "id": 201001,
@@ -26841,9 +26849,9 @@
       "description": "<p>Ajustadores tipo alavanca trava são usados em ajustes manuais onde houver limitação de espaço para rotação completa de 360°. A maçaneta retorna a posição inicial sem alteração da posição da rosca</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Catraca / Alta resistência</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Plásticos",
-          "slug": "plasticos"
+          "id": 505,
+          "name": "Alavancas",
+          "slug": "alavancas"
         }
       ],
       "image": "/images/products/merkbak/atf/1.png",
@@ -27011,7 +27019,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Alavancas"
     },
     {
       "id": 201002,
@@ -27026,9 +27035,9 @@
       "description": "<p>Ajustadores tipo alavanca trava são usados em ajustes manuais onde houver limitação de espaço para rotação completa de 360°. A maçaneta retorna a posição inicial sem alteração da posição da rosca</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro + rosca aço carbono zincada</p><p><strong>Informações adicionais:</strong> Catraca / Alta resistência</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Plásticos",
-          "slug": "plasticos"
+          "id": 505,
+          "name": "Alavancas",
+          "slug": "alavancas"
         }
       ],
       "image": "/images/products/merkbak/atm-alavanca-trava-macho/1.png",
@@ -27322,7 +27331,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Alavancas"
     },
     {
       "id": 202098,
@@ -27337,9 +27347,9 @@
       "description": "<p>Dimensões e desenhos técnicos por referência, conforme tabela oficial Kifix.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Adaptadores para mesas de solda",
-          "slug": "adaptadores-para-mesas-de-solda"
+          "id": 506,
+          "name": "Mesas de solda e fusos",
+          "slug": "mesas-de-solda-e-fusos"
         }
       ],
       "image": "/images/products/kifix/base-elevada/1.png",
@@ -28088,7 +28098,8 @@
           "note": "Esquema dimensional da família MS BE; confira as medidas da referência selecionada na tabela."
         }
       ],
-      "homepage": true
+      "homepage": true,
+      "section": "Mesas de solda e fusos"
     },
     {
       "id": 200089,
@@ -28103,9 +28114,9 @@
       "description": "<p>Linha Adaptadores para mesas de solda Kifix modelo Base Fuso, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Adaptadores para mesas de solda",
-          "slug": "adaptadores-para-mesas-de-solda"
+          "id": 506,
+          "name": "Mesas de solda e fusos",
+          "slug": "mesas-de-solda-e-fusos"
         }
       ],
       "image": "/images/products/kifix/base-fuso/foto-1.png",
@@ -28345,7 +28356,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Mesas de solda e fusos"
     },
     {
       "id": 200091,
@@ -28360,9 +28372,9 @@
       "description": "<p>Linha Adaptadores para mesas de solda Kifix modelo Base Horizontal, com 21 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Adaptadores para mesas de solda",
-          "slug": "adaptadores-para-mesas-de-solda"
+          "id": 506,
+          "name": "Mesas de solda e fusos",
+          "slug": "mesas-de-solda-e-fusos"
         }
       ],
       "image": "/images/products/kifix/base-horizontal/foto-1.png",
@@ -29739,7 +29751,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Mesas de solda e fusos"
     },
     {
       "id": 200090,
@@ -29754,9 +29767,9 @@
       "description": "<p>Linha Adaptadores para mesas de solda Kifix modelo Base Vertical, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Adaptadores para mesas de solda",
-          "slug": "adaptadores-para-mesas-de-solda"
+          "id": 506,
+          "name": "Mesas de solda e fusos",
+          "slug": "mesas-de-solda-e-fusos"
         }
       ],
       "image": "/images/products/kifix/base-vertical/foto-1.png",
@@ -30092,7 +30105,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Mesas de solda e fusos"
     },
     {
       "id": 201003,
@@ -30107,9 +30121,9 @@
       "description": "<p>Botão utilizado para apertos/ajustes manuais de máquinas e equipamentos em geral. Mobília, médico/hospitalar, equipamentos gastronômicos, aparelhos musicais, de ginástica, etc</p><p><strong>Material:</strong> Polipropileno + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Média resistência / Em casos de medida de rosca específica, consultar fábrica</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Plásticos",
-          "slug": "plasticos"
+          "id": 507,
+          "name": "Botões",
+          "slug": "botoes"
         }
       ],
       "image": "/images/products/merkbak/bpf-2126-1-4-botao-puxador-femea/1.png",
@@ -30173,7 +30187,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Botões"
     },
     {
       "id": 201004,
@@ -30188,9 +30203,9 @@
       "description": "<p>Roletes de esteiras</p><p><strong>Material:</strong> Polipropileno</p><p><strong>Informações adicionais:</strong> Alta resistência / Encaixe para rolamento</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Plásticos",
-          "slug": "plasticos"
+          "id": 508,
+          "name": "Buchas para rolamento",
+          "slug": "buchas-para-rolamento"
         }
       ],
       "image": "/images/products/merkbak/br-bucha-rolete-com-encaixe-para-rolamentos/1.png",
@@ -30322,7 +30337,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Buchas para rolamento"
     },
     {
       "id": 201005,
@@ -30337,9 +30353,9 @@
       "description": "<p>Botões são utilizados em ajustes/apertos/regulagens manuais</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro + rosca aço carbono zincada amarela</p><p><strong>Informações adicionais:</strong> Alta resistência / Em casos de medida de rosca específica, consultar fábrica</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Plásticos",
-          "slug": "plasticos"
+          "id": 507,
+          "name": "Botões",
+          "slug": "botoes"
         }
       ],
       "image": "/images/products/merkbak/btm-2613-m6x14/1.png",
@@ -30403,7 +30419,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Botões"
     },
     {
       "id": 201006,
@@ -30418,9 +30435,9 @@
       "description": "<p>Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação</p><p><strong>Material:</strong> Baquelite + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Isolante térmico</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 509,
+          "name": "Cabos",
+          "slug": "cabos"
         }
       ],
       "image": "/images/products/merkbak/caf-cabo-alca/1.png",
@@ -30697,7 +30714,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Cabos"
     },
     {
       "id": 201007,
@@ -30712,9 +30730,9 @@
       "description": "<p>Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro</p><p><strong>Informações adicionais:</strong> Alta resistência / Furo liso</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Plásticos",
-          "slug": "plasticos"
+          "id": 509,
+          "name": "Cabos",
+          "slug": "cabos"
         }
       ],
       "image": "/images/products/merkbak/can-cabo-alca-nylon/1.png",
@@ -30828,7 +30846,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Cabos"
     },
     {
       "id": 201008,
@@ -30843,9 +30862,9 @@
       "description": "<p>Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação</p><p><strong>Material:</strong> Polipropileno</p><p><strong>Informações adicionais:</strong> Média resistência / Furo liso</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Plásticos",
-          "slug": "plasticos"
+          "id": 509,
+          "name": "Cabos",
+          "slug": "cabos"
         }
       ],
       "image": "/images/products/merkbak/cap-cabo-alca-polipropileno/1.png",
@@ -30959,7 +30978,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Cabos"
     },
     {
       "id": 201010,
@@ -30974,9 +30994,9 @@
       "description": "<p>As principais características deste cabo são a capacidade da empunhadura girar enquanto o inserto metálico permanece fixo e a retração de 90° na empunhadura, evitando colisões acidentais que possam desregular a ajustagem feita. Utilizado em manivelas e volantes.</p><p><strong>Material:</strong> Baquelite + inserto aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Isolante térmico</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 509,
+          "name": "Cabos",
+          "slug": "cabos"
         }
       ],
       "image": "/images/products/merkbak/cb-26100-cabo-basculante/1.png",
@@ -31040,7 +31060,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Cabos"
     },
     {
       "id": 201011,
@@ -31055,9 +31076,9 @@
       "description": "<p>Ideal para uso em ambientes com temperatura elevada, equipamentos gastronômicos, médico/hospitalares, etc</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Ótima empunhadura / Isolante térmico / Furo liso 1/2</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 509,
+          "name": "Cabos",
+          "slug": "cabos"
         }
       ],
       "image": "/images/products/merkbak/ce-cabo-estriado/1.png",
@@ -31153,7 +31174,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Cabos"
     },
     {
       "id": 201012,
@@ -31168,9 +31190,9 @@
       "description": "<p>Indicado para pontas de haste</p><p><strong>Material:</strong> Polipropileno</p><p><strong>Informações adicionais:</strong> Média resistência / Ótima empunhadura / Sem rosca, fixação por encaixe</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Plásticos",
-          "slug": "plasticos"
+          "id": 509,
+          "name": "Cabos",
+          "slug": "cabos"
         }
       ],
       "image": "/images/products/merkbak/cep-cabo-estriado-plastico/1.png",
@@ -31284,7 +31306,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Cabos"
     },
     {
       "id": 201013,
@@ -31299,9 +31322,9 @@
       "description": "<p>Máquinas, equipamentos e dispositivos que requerem regulagem manual</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Rosca direta no baquelite / Isolante térmico / Higienização eficiente</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 509,
+          "name": "Cabos",
+          "slug": "cabos"
         }
       ],
       "image": "/images/products/merkbak/ces-cabo-estilizado/1.png",
@@ -31469,7 +31492,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Cabos"
     },
     {
       "id": 201014,
@@ -31484,9 +31508,9 @@
       "description": "<p>Máquinas, equipamentos e dispositivos que requerem regulagem manual</p><p><strong>Material:</strong> Polipropileno</p><p><strong>Informações adicionais:</strong> Média resistência / Ergonômico / Furo liso</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Plásticos",
-          "slug": "plasticos"
+          "id": 509,
+          "name": "Cabos",
+          "slug": "cabos"
         }
       ],
       "image": "/images/products/merkbak/cga-cabo-giratorio-anatomico/1.png",
@@ -31582,7 +31606,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Cabos"
     },
     {
       "id": 201015,
@@ -31597,9 +31622,9 @@
       "description": "<p>Indicado para pontas de haste, volantes</p><p><strong>Material:</strong> Polipropileno + inserto parafuso allen polido preto</p><p><strong>Informações adicionais:</strong> Média resistência / Giratório</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Plásticos",
-          "slug": "plasticos"
+          "id": 509,
+          "name": "Cabos",
+          "slug": "cabos"
         }
       ],
       "image": "/images/products/merkbak/cgc-cabo-giratorio-completo/1.png",
@@ -31767,7 +31792,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Cabos"
     },
     {
       "id": 201016,
@@ -31782,9 +31808,9 @@
       "description": "<p>Portas de máquinas, equipamentos, painéis elétricos e de comando, etc</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro + corpo em aço carbono</p><p><strong>Informações adicionais:</strong> Alta resistência / Fácil instalação</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Plásticos",
-          "slug": "plasticos"
+          "id": 510,
+          "name": "Chaves de Fecho",
+          "slug": "chaves-de-fecho"
         }
       ],
       "image": "/images/products/merkbak/chf-5927-chave-de-fecho/1.png",
@@ -31848,7 +31874,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Chaves de Fecho"
     },
     {
       "id": 201017,
@@ -31863,9 +31890,9 @@
       "description": "<p>Indicado para pontas de haste, alavancas e uso em máquinas em geral</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Rosca direto no baquelite / Isolante térmico</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 509,
+          "name": "Cabos",
+          "slug": "cabos"
         }
       ],
       "image": "/images/products/merkbak/co-cabo-oval/1.png",
@@ -31979,7 +32006,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Cabos"
     },
     {
       "id": 201018,
@@ -31994,9 +32022,9 @@
       "description": "<p>Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Isolante térmico / Rosca direto no baquelite 1/4</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 511,
+          "name": "Puxadores",
+          "slug": "puxadores"
         }
       ],
       "image": "/images/products/merkbak/cpa-091-1-4-cabo-puxador-alca/1.png",
@@ -32060,7 +32088,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Puxadores"
     },
     {
       "id": 201019,
@@ -32075,9 +32104,9 @@
       "description": "<p>Indicado para pontas de haste, alavancas e uso em máquinas em geral</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Isolante térmico / Ótima empunhadura / Rosca direto no baquelite</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 509,
+          "name": "Cabos",
+          "slug": "cabos"
         }
       ],
       "image": "/images/products/merkbak/cr-cabo-recartilhado/1.png",
@@ -32209,7 +32238,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Cabos"
     },
     {
       "id": 201020,
@@ -32224,9 +32254,9 @@
       "description": "<p>Indicado para pontas de haste, alavancas e uso em máquinas em geral</p><p><strong>Material:</strong> Polipropileno + rosca em nylon reforçado com fibra de vidro</p><p><strong>Informações adicionais:</strong> Média resistência / Ótima empunhadura</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Plásticos",
-          "slug": "plasticos"
+          "id": 509,
+          "name": "Cabos",
+          "slug": "cabos"
         }
       ],
       "image": "/images/products/merkbak/crp-cabo-recartilhado-plastico/1.png",
@@ -32376,7 +32406,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Cabos"
     },
     {
       "id": 201021,
@@ -32391,9 +32422,9 @@
       "description": "<p>Indicado para pontas de haste, alavancas e uso em máquinas em geral</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Isolante térmico / Rosca direto no baquelite</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 509,
+          "name": "Cabos",
+          "slug": "cabos"
         }
       ],
       "image": "/images/products/merkbak/cst-cabo-standard/1.png",
@@ -32615,7 +32646,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Cabos"
     },
     {
       "id": 201022,
@@ -32630,9 +32662,9 @@
       "description": "<p>Em porta embutida ou sobreposta para gabinetes individuais ou acoplados. Fixação na estrutura e na porta através de parafusos e porcas</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro + pino aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Abertura de 180°</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Plásticos",
-          "slug": "plasticos"
+          "id": 512,
+          "name": "Dobradiças",
+          "slug": "dobradicas"
         }
       ],
       "image": "/images/products/merkbak/dp-dobradica-plana-180/1.png",
@@ -32800,7 +32832,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Dobradiças"
     },
     {
       "id": 201023,
@@ -32815,9 +32848,9 @@
       "description": "<p>Indicado para sistemas de movimentação que exijam torque e velocidade</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro</p><p><strong>Informações adicionais:</strong> Alta resistência</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Plásticos",
-          "slug": "plasticos"
+          "id": 513,
+          "name": "Engrenagens",
+          "slug": "engrenagens"
         }
       ],
       "image": "/images/products/merkbak/en-engrenagem-conica/1.png",
@@ -32968,7 +33001,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Engrenagens"
     },
     {
       "id": 201024,
@@ -32983,9 +33017,9 @@
       "description": "<p>Comandos de regulagem, acionamento em máquinas e equipamentos</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Isolante térmico / Rosca direto no baquelite</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 514,
+          "name": "Esferas de Baquelite",
+          "slug": "esferas-de-baquelite"
         }
       ],
       "image": "/images/products/merkbak/ep-esfera-baquelite/1.png",
@@ -33388,7 +33422,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Esferas de Baquelite"
     },
     {
       "id": 200087,
@@ -33403,9 +33438,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo Grampo Pneumático, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 515,
+          "name": "Grampos pneumáticos",
+          "slug": "grampos-pneumaticos"
         }
       ],
       "image": "/images/products/kifix/grampo-pneumatico/foto-1.png",
@@ -33537,7 +33572,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos pneumáticos"
     },
     {
       "id": 200088,
@@ -33552,9 +33588,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo Grampo Pneumático Pesado, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 515,
+          "name": "Grampos pneumáticos",
+          "slug": "grampos-pneumaticos"
         }
       ],
       "image": "/images/products/kifix/grampo-pneumatico-pesado/foto-1.png",
@@ -33722,7 +33758,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos pneumáticos"
     },
     {
       "id": 200095,
@@ -33737,9 +33774,9 @@
       "description": "<p>Linha Grampo C e sargentos Kifix modelo Grampo sargento, com 18 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo C e sargentos",
-          "slug": "grampo-c-e-sargentos"
+          "id": 516,
+          "name": "Grampos C e sargentos",
+          "slug": "grampos-c-e-sargentos"
         }
       ],
       "image": "/images/products/kifix/grampo-sargento/foto-1.png",
@@ -34378,7 +34415,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos C e sargentos"
     },
     {
       "id": 200094,
@@ -34393,9 +34431,9 @@
       "description": "<p>Linha Grampo C e sargentos Kifix modelo Grampo sargento rápido, com 11 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo C e sargentos",
-          "slug": "grampo-c-e-sargentos"
+          "id": 516,
+          "name": "Grampos C e sargentos",
+          "slug": "grampos-c-e-sargentos"
         }
       ],
       "image": "/images/products/kifix/grampo-sargento-rapido/foto-1.png",
@@ -34803,7 +34841,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos C e sargentos"
     },
     {
       "id": 200130,
@@ -34818,9 +34857,9 @@
       "description": "<p>Linha Grampo tensor com fixação dupla Kifix modelo Grampo tensor com fixação dupla, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo tensor com fixação dupla",
-          "slug": "grampo-tensor-com-fixacao-dupla"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-1.png",
@@ -35340,7 +35379,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 200093,
@@ -35355,9 +35395,9 @@
       "description": "<p>Linha Grampo C e sargentos Kifix modelo Grampo tipo C, com 7 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo C e sargentos",
-          "slug": "grampo-c-e-sargentos"
+          "id": 516,
+          "name": "Grampos C e sargentos",
+          "slug": "grampos-c-e-sargentos"
         }
       ],
       "image": "/images/products/kifix/grampo-tipo-c/foto-1.png",
@@ -35633,7 +35673,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos C e sargentos"
     },
     {
       "id": 202012,
@@ -35648,9 +35689,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo Grampo Torpedo frontal, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 500,
+          "name": "Grampos torpedo",
+          "slug": "grampos-torpedo"
         }
       ],
       "image": "/images/products/kifix/grampo-torpedo-frontal/foto-1.png",
@@ -35861,7 +35902,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos torpedo"
     },
     {
       "id": 200115,
@@ -35876,9 +35918,9 @@
       "description": "<p>Linha Grampos horizontais reforçados Kifix modelo Grampos horizontais reforçados, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampos horizontais reforçados",
-          "slug": "grampos-horizontais-reforcados"
+          "id": 518,
+          "name": "Grampos horizontais",
+          "slug": "grampos-horizontais"
         }
       ],
       "image": "/images/products/kifix/grampos-horizontais-reforcados/foto-1.png",
@@ -36247,7 +36289,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos horizontais"
     },
     {
       "id": 202014,
@@ -36262,9 +36305,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo INDEXADORES, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 519,
+          "name": "Posicionadores e indexadores",
+          "slug": "posicionadores-e-indexadores"
         }
       ],
       "image": "/images/products/kifix/indexadores/foto-1.png",
@@ -36591,7 +36634,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Posicionadores e indexadores"
     },
     {
       "id": 201025,
@@ -36606,9 +36650,9 @@
       "description": "<p>Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral. Solução para situações que envolvem temperaturas elevadas.</p><p><strong>Material:</strong> Baquelite + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Alta resistência / Isolamento térmico</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 520,
+          "name": "Knobs",
+          "slug": "knobs"
         }
       ],
       "image": "/images/products/merkbak/kf-knob-femea/1.png",
@@ -36776,7 +36820,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Knobs"
     },
     {
       "id": 200129,
@@ -36791,9 +36836,9 @@
       "description": "<p>Linha Grampo tensor com cinta Kifix modelo KF 233 CT/ 743 CT/ 843 CT, com 7 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo tensor com cinta",
-          "slug": "grampo-tensor-com-cinta"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kf-233-ct-743-ct-843-ct/foto-1.png",
@@ -37367,7 +37412,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 200136,
@@ -37382,9 +37428,9 @@
       "description": "<p>Linha Grampo Torpedo frontal Kifix modelo KF-005/006/007/015/025/035, com 17 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo Torpedo frontal",
-          "slug": "grampo-torpedo-frontal"
+          "id": 500,
+          "name": "Grampos torpedo",
+          "slug": "grampos-torpedo"
         }
       ],
       "image": "/images/products/kifix/kf-005-006-007-015-025-035/foto-1.png",
@@ -38779,7 +38825,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos torpedo"
     },
     {
       "id": 200135,
@@ -38794,9 +38841,9 @@
       "description": "<p>Linha Grampo torpedo com giro Kifix modelo KF-007 G, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo torpedo com giro",
-          "slug": "grampo-torpedo-com-giro"
+          "id": 500,
+          "name": "Grampos torpedo",
+          "slug": "grampos-torpedo"
         }
       ],
       "image": "/images/products/kifix/kf-007-g/foto-1.png",
@@ -38996,7 +39043,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos torpedo"
     },
     {
       "id": 200106,
@@ -39011,9 +39059,9 @@
       "description": "<p>Linha Grampo vertical Kifix modelo KF-01/02/03/05/06/09 MP, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo vertical",
-          "slug": "grampo-vertical"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kf-01-02-03-05-06-09-mp/foto-1.png",
@@ -39350,7 +39398,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 200096,
@@ -39365,9 +39414,9 @@
       "description": "<p>Linha Grampo vertical Kifix modelo KF-010/012/017/018/016/011/111, com 43 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo vertical",
-          "slug": "grampo-vertical"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kf-010-012-017-018-016-011-111/foto-1.png",
@@ -42819,7 +42868,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 200151,
@@ -42834,9 +42884,9 @@
       "description": "<p>Linha Grampo pneumático Kifix modelo KF-010/KF-011/012/017/111_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS, com 11 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo pneumático",
-          "slug": "grampo-pneumatico"
+          "id": 515,
+          "name": "Grampos pneumáticos",
+          "slug": "grampos-pneumaticos"
         }
       ],
       "image": "/images/products/kifix/kf-010-kf-011-012-017-111-p-consultar-marcas-de-cilindro-disponiveis/foto-1.png",
@@ -43698,7 +43748,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos pneumáticos"
     },
     {
       "id": 200099,
@@ -43713,9 +43764,9 @@
       "description": "<p>Linha Grampo vertical Kifix modelo KF-010F/012F/019/211/311/411, com 18 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo vertical",
-          "slug": "grampo-vertical"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-1.png",
@@ -45190,7 +45241,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 200097,
@@ -45205,9 +45257,9 @@
       "description": "<p>Linha Grampo vertical Kifix modelo KF-017 T, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo vertical",
-          "slug": "grampo-vertical"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kf-017-t/foto-1.png",
@@ -45734,7 +45786,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 200098,
@@ -45749,9 +45802,9 @@
       "description": "<p>Linha Grampo vertical Kifix modelo KF-017/011/111 DS A, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo vertical",
-          "slug": "grampo-vertical"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kf-017-011-111-ds-a/foto-1.png",
@@ -46164,7 +46217,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 200152,
@@ -46179,9 +46233,9 @@
       "description": "<p>Linha Grampo pneumático Kifix modelo KF-019/311/411_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo pneumático",
-          "slug": "grampo-pneumatico"
+          "id": 515,
+          "name": "Grampos pneumáticos",
+          "slug": "grampos-pneumaticos"
         }
       ],
       "image": "/images/products/kifix/kf-019-311-411-p-consultar-marcas-de-cilindro-disponiveis/foto-1.png",
@@ -46705,7 +46759,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos pneumáticos"
     },
     {
       "id": 200107,
@@ -46720,9 +46775,9 @@
       "description": "<p>Linha Grampo vertical Kifix modelo KF-03/05 JD, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo vertical",
-          "slug": "grampo-vertical"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kf-03-05-jd/foto-1.png",
@@ -47014,7 +47069,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 200121,
@@ -47029,9 +47085,9 @@
       "description": "<p>Linha Grampo tensor Kifix modelo KF-033/353/153/453/553, com 15 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo tensor",
-          "slug": "grampo-tensor"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kf-033-353-153-453-553/foto-1.png",
@@ -48412,7 +48468,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 200150,
@@ -48427,9 +48484,9 @@
       "description": "<p>Linha Grampo compressor Kifix modelo KF-035 34/035 60, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo compressor",
-          "slug": "grampo-compressor"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kf-035-34-035-60/foto-1.png",
@@ -48861,7 +48918,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 202027,
@@ -48876,9 +48934,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo KF-05 JD H182, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kf-05-jd-h182/foto-1.png",
@@ -49010,7 +49068,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 200134,
@@ -49025,9 +49084,9 @@
       "description": "<p>Linha Grampo torpedo com alça Kifix modelo KF-052 AL/ 054 AL/ 057 AL, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo torpedo com alça",
-          "slug": "grampo-torpedo-com-alca"
+          "id": 500,
+          "name": "Grampos torpedo",
+          "slug": "grampos-torpedo"
         }
       ],
       "image": "/images/products/kifix/kf-052-al-054-al-057-al/foto-1.png",
@@ -49618,7 +49677,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos torpedo"
     },
     {
       "id": 200153,
@@ -49633,9 +49693,9 @@
       "description": "<p>Linha Grampo pneumático Kifix modelo KF-052/057_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo pneumático",
-          "slug": "grampo-pneumatico"
+          "id": 515,
+          "name": "Grampos pneumáticos",
+          "slug": "grampos-pneumaticos"
         }
       ],
       "image": "/images/products/kifix/kf-052-057-p-consultar-marcas-de-cilindro-disponiveis/foto-1.png",
@@ -49868,7 +49928,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos pneumáticos"
     },
     {
       "id": 200132,
@@ -49883,9 +49944,9 @@
       "description": "<p>Linha Grampo torpedo Kifix modelo KF-057/051/054/053/052/056, com 14 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo torpedo",
-          "slug": "grampo-torpedo"
+          "id": 500,
+          "name": "Grampos torpedo",
+          "slug": "grampos-torpedo"
         }
       ],
       "image": "/images/products/kifix/kf-057-051-054-053-052-056/foto-1.png",
@@ -51189,7 +51250,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos torpedo"
     },
     {
       "id": 200133,
@@ -51204,9 +51266,9 @@
       "description": "<p>Linha Grampo torpedo Kifix modelo KF-061/KF-065, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo torpedo",
-          "slug": "grampo-torpedo"
+          "id": 500,
+          "name": "Grampos torpedo",
+          "slug": "grampos-torpedo"
         }
       ],
       "image": "/images/products/kifix/kf-061-kf-065/foto-1.png",
@@ -51439,7 +51501,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos torpedo"
     },
     {
       "id": 200122,
@@ -51454,9 +51517,9 @@
       "description": "<p>Linha Grampo tensor Kifix modelo KF-063/163/263, com 5 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo tensor",
-          "slug": "grampo-tensor"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kf-063-163-263/foto-1.png",
@@ -52032,7 +52095,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 200155,
@@ -52047,9 +52111,9 @@
       "description": "<p>Linha Grampo pneumático Kifix modelo KF-066_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo pneumático",
-          "slug": "grampo-pneumatico"
+          "id": 515,
+          "name": "Grampos pneumáticos",
+          "slug": "grampos-pneumaticos"
         }
       ],
       "image": "/images/products/kifix/kf-066-p-consultar-marcas-de-cilindro-disponiveis/foto-1.png",
@@ -52181,7 +52245,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos pneumáticos"
     },
     {
       "id": 200101,
@@ -52196,9 +52261,9 @@
       "description": "<p>Linha Grampo vertical Kifix modelo KF-066/615/616/641/845/875, com 14 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo vertical",
-          "slug": "grampo-vertical"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kf-066-615-616-641-845-875/foto-1.png",
@@ -53361,7 +53426,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 202036,
@@ -53376,9 +53442,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo KF-102 R CL, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 518,
+          "name": "Grampos horizontais",
+          "slug": "grampos-horizontais"
         }
       ],
       "image": "/images/products/kifix/kf-102-r-cl/foto-1.png",
@@ -53510,7 +53576,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos horizontais"
     },
     {
       "id": 200113,
@@ -53525,9 +53592,9 @@
       "description": "<p>Linha Grampo horizontal Kifix modelo KF-102/101/103/104, com 12 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo horizontal",
-          "slug": "grampo-horizontal"
+          "id": 518,
+          "name": "Grampos horizontais",
+          "slug": "grampos-horizontais"
         }
       ],
       "image": "/images/products/kifix/kf-102-101-103-104/foto-1.png",
@@ -54530,7 +54597,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos horizontais"
     },
     {
       "id": 200108,
@@ -54545,9 +54613,9 @@
       "description": "<p>Linha Grampo horizontal Kifix modelo KF-105/106/107/152/732, com 10 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo horizontal",
-          "slug": "grampo-horizontal"
+          "id": 518,
+          "name": "Grampos horizontais",
+          "slug": "grampos-horizontais"
         }
       ],
       "image": "/images/products/kifix/kf-105-106-107-152-732/foto-1.png",
@@ -55390,7 +55458,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos horizontais"
     },
     {
       "id": 200110,
@@ -55405,9 +55474,9 @@
       "description": "<p>Linha Grampo horizontal Kifix modelo KF-106F/107F/152F/312F/522F/531F, com 15 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo horizontal",
-          "slug": "grampo-horizontal"
+          "id": 518,
+          "name": "Grampos horizontais",
+          "slug": "grampos-horizontais"
         }
       ],
       "image": "/images/products/kifix/kf-106f-107f-152f-312f-522f-531f/foto-1.png",
@@ -56645,7 +56714,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos horizontais"
     },
     {
       "id": 202039,
@@ -56660,9 +56730,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo KF-111 TBL, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kf-111-tbl/foto-1.png",
@@ -56794,7 +56864,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 200120,
@@ -56809,9 +56880,9 @@
       "description": "<p>Linha Grampo tensor Kifix modelo KF-133/233/143/643/743/133/843/943/143, com 33 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo tensor",
-          "slug": "grampo-tensor"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-1.png",
@@ -60457,7 +60528,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 200100,
@@ -60472,9 +60544,9 @@
       "description": "<p>Linha Grampo vertical Kifix modelo KF-211/311/411 DS A, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo vertical",
-          "slug": "grampo-vertical"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kf-211-311-411-ds-a/foto-1.png",
@@ -60796,7 +60868,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 202043,
@@ -60811,9 +60884,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo KF-233 D GR, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kf-233-d-gr/foto-1.png",
@@ -60981,7 +61054,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 200116,
@@ -60996,9 +61070,9 @@
       "description": "<p>Linha Grampo tensor Kifix modelo KF-300, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo tensor",
-          "slug": "grampo-tensor"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kf-300/foto-1.png",
@@ -61154,7 +61228,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 200131,
@@ -61169,9 +61244,9 @@
       "description": "<p>Linha Grampo torpedo Kifix modelo KF-305/405/505/605/067, com 7 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo torpedo",
-          "slug": "grampo-torpedo"
+          "id": 500,
+          "name": "Grampos torpedo",
+          "slug": "grampos-torpedo"
         }
       ],
       "image": "/images/products/kifix/kf-305-405-505-605-067/foto-1.png",
@@ -61920,7 +61995,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos torpedo"
     },
     {
       "id": 200126,
@@ -61935,9 +62011,9 @@
       "description": "<p>Linha Grampo tensor Kifix modelo KF-310/314/326/320, com 7 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo tensor",
-          "slug": "grampo-tensor"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kf-310-314-326-320/foto-1.png",
@@ -62542,7 +62618,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 200112,
@@ -62557,9 +62634,9 @@
       "description": "<p>Linha Grampo horizontal Kifix modelo KF-312/712/523/722/533, com 10 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo horizontal",
-          "slug": "grampo-horizontal"
+          "id": 518,
+          "name": "Grampos horizontais",
+          "slug": "grampos-horizontais"
         }
       ],
       "image": "/images/products/kifix/kf-312-712-523-722-533/foto-1.png",
@@ -63395,7 +63472,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos horizontais"
     },
     {
       "id": 200148,
@@ -63410,9 +63488,9 @@
       "description": "<p>Linha Alicates Kifix modelo KF-325, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Alicates",
-          "slug": "alicates"
+          "id": 501,
+          "name": "Alicates de fixação",
+          "slug": "alicates-de-fixacao"
         }
       ],
       "image": "/images/products/kifix/kf-325/foto-1.png",
@@ -63538,7 +63616,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Alicates de fixação"
     },
     {
       "id": 200125,
@@ -63553,9 +63632,9 @@
       "description": "<p>Linha Grampo tensor Kifix modelo KF-330/350/340, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo tensor",
-          "slug": "grampo-tensor"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kf-330-350-340/foto-1.png",
@@ -63991,7 +64070,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 200124,
@@ -64006,9 +64086,9 @@
       "description": "<p>Linha Grampo tensor Kifix modelo KF-375/385, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo tensor",
-          "slug": "grampo-tensor"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kf-375-385/foto-1.png",
@@ -64462,7 +64542,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 200123,
@@ -64477,9 +64558,9 @@
       "description": "<p>Linha Grampo tensor Kifix modelo KF-423/433/443, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo tensor",
-          "slug": "grampo-tensor"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kf-423-433-443/foto-1.png",
@@ -64953,7 +65034,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 200119,
@@ -64968,9 +65050,9 @@
       "description": "<p>Linha Grampo tensor Kifix modelo KF-430, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo tensor",
-          "slug": "grampo-tensor"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kf-430/foto-1.png",
@@ -65138,7 +65220,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 200127,
@@ -65153,9 +65236,9 @@
       "description": "<p>Linha Grampo tensor Kifix modelo KF-473, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo tensor",
-          "slug": "grampo-tensor"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kf-473/foto-1.png",
@@ -65420,7 +65503,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 202054,
@@ -65435,9 +65519,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo KF-505 TR, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kf-505-tr/foto-1.png",
@@ -65593,7 +65677,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 200109,
@@ -65608,9 +65693,9 @@
       "description": "<p>Linha Grampo horizontal Kifix modelo KF-511/512/521/522/532/534, com 18 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo horizontal",
-          "slug": "grampo-horizontal"
+          "id": 518,
+          "name": "Grampos horizontais",
+          "slug": "grampos-horizontais"
         }
       ],
       "image": "/images/products/kifix/kf-511-512-521-522-532-534/foto-1.png",
@@ -67082,7 +67167,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos horizontais"
     },
     {
       "id": 200114,
@@ -67097,9 +67183,9 @@
       "description": "<p>Linha Grampo horizontal Kifix modelo KF-515 DS/RS, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo horizontal",
-          "slug": "grampo-horizontal"
+          "id": 518,
+          "name": "Grampos horizontais",
+          "slug": "grampos-horizontais"
         }
       ],
       "image": "/images/products/kifix/kf-515-ds-rs/foto-1.png",
@@ -67421,7 +67507,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos horizontais"
     },
     {
       "id": 200111,
@@ -67436,9 +67523,9 @@
       "description": "<p>Linha Grampo horizontal Kifix modelo KF-531/541, com 20 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo horizontal",
-          "slug": "grampo-horizontal"
+          "id": 518,
+          "name": "Grampos horizontais",
+          "slug": "grampos-horizontais"
         }
       ],
       "image": "/images/products/kifix/kf-531-541/foto-1.png",
@@ -69073,7 +69160,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos horizontais"
     },
     {
       "id": 200102,
@@ -69088,9 +69176,9 @@
       "description": "<p>Linha Grampo vertical Kifix modelo KF-631, com 16 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo vertical",
-          "slug": "grampo-vertical"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kf-631/foto-1.png",
@@ -70407,7 +70495,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 200139,
@@ -70422,9 +70511,9 @@
       "description": "<p>Linha Grampo de fixação dupla Kifix modelo KF-686 D/686 H/687 D, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo de fixação dupla",
-          "slug": "grampo-de-fixacao-dupla"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kf-686-d-686-h-687-d/foto-1.png",
@@ -70748,7 +70837,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 200103,
@@ -70763,9 +70853,9 @@
       "description": "<p>Linha Grampo vertical Kifix modelo KF-718, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo vertical",
-          "slug": "grampo-vertical"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kf-718/foto-1.png",
@@ -71073,7 +71163,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 202060,
@@ -71088,9 +71179,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo KF-718 DB RTT, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 515,
+          "name": "Grampos pneumáticos",
+          "slug": "grampos-pneumaticos"
         }
       ],
       "image": "/images/products/kifix/kf-718-db-rtt/foto-1.png",
@@ -71222,7 +71313,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos pneumáticos"
     },
     {
       "id": 200154,
@@ -71237,9 +71329,9 @@
       "description": "<p>Linha Grampo pneumático Kifix modelo KF-718_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo pneumático",
-          "slug": "grampo-pneumatico"
+          "id": 515,
+          "name": "Grampos pneumáticos",
+          "slug": "grampos-pneumaticos"
         }
       ],
       "image": "/images/products/kifix/kf-718-p-consultar-marcas-de-cilindro-disponiveis/foto-1.png",
@@ -71450,7 +71542,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos pneumáticos"
     },
     {
       "id": 200104,
@@ -71465,9 +71558,9 @@
       "description": "<p>Linha Grampo vertical Kifix modelo KF-725/825, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo vertical",
-          "slug": "grampo-vertical"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kf-725-825/foto-1.png",
@@ -71838,7 +71931,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 202064,
@@ -71853,9 +71947,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo KF-947, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 518,
+          "name": "Grampos horizontais",
+          "slug": "grampos-horizontais"
         }
       ],
       "image": "/images/products/kifix/kf-947/foto-1.png",
@@ -72030,7 +72124,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos horizontais"
     },
     {
       "id": 200157,
@@ -72045,9 +72140,9 @@
       "description": "<p>Linha Alça Kifix modelo KF-AL, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Alça",
-          "slug": "alca"
+          "id": 522,
+          "name": "Manípulos, puxadores e fechos",
+          "slug": "manipulos-puxadores-e-fechos"
         }
       ],
       "image": "/images/products/kifix/kf-al/foto-1.png",
@@ -72145,7 +72240,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Manípulos, puxadores e fechos"
     },
     {
       "id": 200147,
@@ -72160,9 +72256,9 @@
       "description": "<p>Linha Alicates Kifix modelo KFA-25/35/45/70/90/100/150, com 13 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Alicates",
-          "slug": "alicates"
+          "id": 501,
+          "name": "Alicates de fixação",
+          "slug": "alicates-de-fixacao"
         }
       ],
       "image": "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-1.png",
@@ -73039,7 +73135,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Alicates de fixação"
     },
     {
       "id": 200149,
@@ -73054,9 +73151,9 @@
       "description": "<p>Linha Alicates Kifix modelo KFA-300, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Alicates",
-          "slug": "alicates"
+          "id": 501,
+          "name": "Alicates de fixação",
+          "slug": "alicates-de-fixacao"
         }
       ],
       "image": "/images/products/kifix/kfa-300/foto-1.png",
@@ -73158,7 +73255,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Alicates de fixação"
     },
     {
       "id": 202068,
@@ -73173,9 +73271,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo KFC, com 5 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 516,
+          "name": "Grampos C e sargentos",
+          "slug": "grampos-c-e-sargentos"
         }
       ],
       "image": "/images/products/kifix/kfc/foto-1.png",
@@ -73681,7 +73779,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos C e sargentos"
     },
     {
       "id": 200128,
@@ -73696,9 +73795,9 @@
       "description": "<p>Linha Grampo tensor Kifix modelo KFC1/KFC2/KFC3/KFC4/KFC5/KFC6/KFC7, com 7 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo tensor",
-          "slug": "grampo-tensor"
+          "id": 516,
+          "name": "Grampos C e sargentos",
+          "slug": "grampos-c-e-sargentos"
         }
       ],
       "image": "/images/products/kifix/kfc1-kfc2-kfc3-kfc4-kfc5-kfc6-kfc7/foto-1.png",
@@ -74389,7 +74488,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos C e sargentos"
     },
     {
       "id": 200168,
@@ -74404,9 +74504,9 @@
       "description": "<p>Linha Dobradiça Kifix modelo KFD-14/19, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Dobradiça",
-          "slug": "dobradica"
+          "id": 522,
+          "name": "Manípulos, puxadores e fechos",
+          "slug": "manipulos-puxadores-e-fechos"
         }
       ],
       "image": "/images/products/kifix/kfd-14-19/foto-1.png",
@@ -74606,7 +74706,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Manípulos, puxadores e fechos"
     },
     {
       "id": 200138,
@@ -74621,9 +74722,9 @@
       "description": "<p>Linha Grampo Torpedo haste quadrada Kifix modelo KFKT-012, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo Torpedo haste quadrada",
-          "slug": "grampo-torpedo-haste-quadrada"
+          "id": 500,
+          "name": "Grampos torpedo",
+          "slug": "grampos-torpedo"
         }
       ],
       "image": "/images/products/kifix/kfkt-012/foto-1.png",
@@ -74869,7 +74970,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos torpedo"
     },
     {
       "id": 200142,
@@ -74884,9 +74986,9 @@
       "description": "<p>Linha Manípulos Kifix modelo KFM-6/8/10/12/16, com 5 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Manípulos",
-          "slug": "manipulos"
+          "id": 522,
+          "name": "Manípulos, puxadores e fechos",
+          "slug": "manipulos-puxadores-e-fechos"
         }
       ],
       "image": "/images/products/kifix/kfm-6-8-10-12-16/foto-1.png",
@@ -75099,7 +75201,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Manípulos, puxadores e fechos"
     },
     {
       "id": 200156,
@@ -75114,9 +75217,9 @@
       "description": "<p>Linha Grampo pneumático Kifix modelo KFP-L40/L63, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo pneumático",
-          "slug": "grampo-pneumatico"
+          "id": 515,
+          "name": "Grampos pneumáticos",
+          "slug": "grampos-pneumaticos"
         }
       ],
       "image": "/images/products/kifix/kfp-l40-l63/foto-1.png",
@@ -75518,7 +75621,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos pneumáticos"
     },
     {
       "id": 200144,
@@ -75533,9 +75637,9 @@
       "description": "<p>Linha Posicionadores/ Indexadores Kifix modelo KFPI, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Posicionadores/ Indexadores",
-          "slug": "posicionadores-indexadores"
+          "id": 519,
+          "name": "Posicionadores e indexadores",
+          "slug": "posicionadores-e-indexadores"
         }
       ],
       "image": "/images/products/kifix/kfpi/foto-1.png",
@@ -75862,7 +75966,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Posicionadores e indexadores"
     },
     {
       "id": 200145,
@@ -75877,9 +75982,9 @@
       "description": "<p>Linha Posicionadores/ Indexadores Kifix modelo KFPS, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Posicionadores/ Indexadores",
-          "slug": "posicionadores-indexadores"
+          "id": 519,
+          "name": "Posicionadores e indexadores",
+          "slug": "posicionadores-e-indexadores"
         }
       ],
       "image": "/images/products/kifix/kfps/foto-1.png",
@@ -76067,7 +76172,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Posicionadores e indexadores"
     },
     {
       "id": 200146,
@@ -76082,9 +76188,9 @@
       "description": "<p>Linha Posicionadores/ Indexadores Kifix modelo KFPSI, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Posicionadores/ Indexadores",
-          "slug": "posicionadores-indexadores"
+          "id": 519,
+          "name": "Posicionadores e indexadores",
+          "slug": "posicionadores-e-indexadores"
         }
       ],
       "image": "/images/products/kifix/kfpsi/foto-1.png",
@@ -76204,7 +76310,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Posicionadores e indexadores"
     },
     {
       "id": 200141,
@@ -76219,9 +76326,9 @@
       "description": "<p>Linha Fuso rápido Kifix modelo KFRL-12;16;20/KFRF-12;16;20, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Fuso rápido",
-          "slug": "fuso-rapido"
+          "id": 506,
+          "name": "Mesas de solda e fusos",
+          "slug": "mesas-de-solda-e-fusos"
         }
       ],
       "image": "/images/products/kifix/kfrl-12-16-20-kfrf-12-16-20/foto-1.png",
@@ -76746,7 +76853,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Mesas de solda e fusos"
     },
     {
       "id": 200140,
@@ -76761,9 +76869,9 @@
       "description": "<p>Linha Grampo sargento Kifix modelo KFS-150/300, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo sargento",
-          "slug": "grampo-sargento"
+          "id": 516,
+          "name": "Grampos C e sargentos",
+          "slug": "grampos-c-e-sargentos"
         }
       ],
       "image": "/images/products/kifix/kfs-150-300/foto-1.png",
@@ -76930,7 +77038,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos C e sargentos"
     },
     {
       "id": 200169,
@@ -76945,9 +77054,9 @@
       "description": "<p>Linha Trinco Kifix modelo KFT-10/14, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Trinco",
-          "slug": "trinco"
+          "id": 522,
+          "name": "Manípulos, puxadores e fechos",
+          "slug": "manipulos-puxadores-e-fechos"
         }
       ],
       "image": "/images/products/kifix/kft-10-14/foto-1.png",
@@ -77147,7 +77256,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Manípulos, puxadores e fechos"
     },
     {
       "id": 200117,
@@ -77162,9 +77272,9 @@
       "description": "<p>Linha Grampo tensor Kifix modelo KFT-10/KFT-14, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo tensor",
-          "slug": "grampo-tensor"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kft-10-kft-14/foto-1.png",
@@ -77410,7 +77520,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 202082,
@@ -77425,9 +77536,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo KFTB, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kftb/foto-1.png",
@@ -77690,7 +77801,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 200118,
@@ -77705,9 +77817,9 @@
       "description": "<p>Linha Grampo tensor Kifix modelo KFTB-01/02/03/06, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo tensor",
-          "slug": "grampo-tensor"
+          "id": 517,
+          "name": "Grampos tensores",
+          "slug": "grampos-tensores"
         }
       ],
       "image": "/images/products/kifix/kftb-01-02-03-06/foto-1.png",
@@ -77970,7 +78082,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos tensores"
     },
     {
       "id": 200105,
@@ -77985,9 +78098,9 @@
       "description": "<p>Linha Grampo vertical Kifix modelo KFU-03/05/06/08, com 13 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Grampo vertical",
-          "slug": "grampo-vertical"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kfu-03-05-06-08/foto-1.png",
@@ -79135,7 +79248,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 202084,
@@ -79150,9 +79264,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo KFU-R AG, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 521,
+          "name": "Grampos verticais",
+          "slug": "grampos-verticais"
         }
       ],
       "image": "/images/products/kifix/kfu-r-ag/foto-1.png",
@@ -79291,7 +79405,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Grampos verticais"
     },
     {
       "id": 201026,
@@ -79306,9 +79421,9 @@
       "description": "<p>Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral. Solução para situações que envolvem temperaturas elevadas.</p><p><strong>Material:</strong> Baquelite + rosca aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Isolamento térmico</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 520,
+          "name": "Knobs",
+          "slug": "knobs"
         }
       ],
       "image": "/images/products/merkbak/km-knob-macho/1.png",
@@ -79530,7 +79645,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Knobs"
     },
     {
       "id": 200086,
@@ -79545,9 +79661,9 @@
       "description": "<p>Knob posicionador indexador com mola interna para avanço e recuo automático do pino interno. Utilizado para localizar, fechar, travar ou centralizar partes de máquinas e equipamentos em geral./td&gt;</p><p><strong>Material:</strong> Polipropileno + rosca aço carbono zincado na cor preta</p><p><strong>Informações adicionais:</strong> Média resistência</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Plásticos",
-          "slug": "plasticos"
+          "id": 520,
+          "name": "Knobs",
+          "slug": "knobs"
         }
       ],
       "image": "/images/products/merkbak/kr-knob-retratil/1.png",
@@ -79679,7 +79795,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Knobs"
     },
     {
       "id": 201028,
@@ -79694,7 +79811,7 @@
       "description": "<p>Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral.</p><p><strong>Material:</strong> Polipropileno + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Média resistência</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 520,
           "name": "Knobs",
           "slug": "knobs"
         }
@@ -79900,7 +80017,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Knobs"
     },
     {
       "id": 201029,
@@ -79915,7 +80033,7 @@
       "description": "<p>Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral.</p><p><strong>Material:</strong> Polipropileno + rosca aço carbono zincado</p><p><strong>Informações adicionais:</strong> Média resistência</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 520,
           "name": "Knobs",
           "slug": "knobs"
         }
@@ -80301,7 +80419,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Knobs"
     },
     {
       "id": 201030,
@@ -80316,7 +80435,7 @@
       "description": "<p>Máquinas e equipamentos em geral que necessitem regulagem manual e/ou fixação de partes móveis</p><p><strong>Material:</strong> Polipropileno + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Média resistência / Tamanho 6034 com tampa preta e demais com tampa cinza</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 523,
           "name": "Manípulos",
           "slug": "manipulos"
         }
@@ -80504,7 +80623,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Manípulos"
     },
     {
       "id": 200073,
@@ -80519,9 +80639,9 @@
       "description": "<p>Mancal tensor série UCT 200 para eixos industriais, com ranhuras laterais para guia em trilho esticador.</p>",
       "categories": [
         {
-          "id": 210,
-          "name": "Rolamentos e mancais",
-          "slug": "rolamentos-e-mancais"
+          "id": 524,
+          "name": "Mancais industriais",
+          "slug": "mancais-industriais"
         }
       ],
       "image": "/images/products/carolfix/mancais-uct200/pagina-11.png",
@@ -83445,7 +83565,8 @@
           "note": "Dados extraídos diretamente da página 11 do catálogo técnico Carolfix."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Mancais industriais"
     },
     {
       "id": 200074,
@@ -83460,9 +83581,9 @@
       "description": "<p>Mancal flangeado de 2 furos série UCFL 200 para sustentação de eixos rotativos em paredes estruturais.</p>",
       "categories": [
         {
-          "id": 210,
-          "name": "Rolamentos e mancais",
-          "slug": "rolamentos-e-mancais"
+          "id": 524,
+          "name": "Mancais industriais",
+          "slug": "mancais-industriais"
         }
       ],
       "image": "/images/products/carolfix/mancais-ucfl200/pagina-12.png",
@@ -86274,7 +86395,8 @@
           "note": "Dados extraídos diretamente da página 12 do catálogo técnico Carolfix."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Mancais industriais"
     },
     {
       "id": 200072,
@@ -86289,9 +86411,9 @@
       "description": "<p>Conjunto mancal e rolamento auto-compensador série UCPA 200 com fixação inferior roscada para montagens compactas.</p>",
       "categories": [
         {
-          "id": 210,
-          "name": "Rolamentos e mancais",
-          "slug": "rolamentos-e-mancais"
+          "id": 524,
+          "name": "Mancais industriais",
+          "slug": "mancais-industriais"
         }
       ],
       "image": "/images/products/carolfix/mancais-ucpa200/pagina-10.png",
@@ -88919,7 +89041,8 @@
           "note": "Dados extraídos diretamente da página 10 do catálogo técnico Carolfix."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Mancais industriais"
     },
     {
       "id": 202085,
@@ -88934,9 +89057,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo Manípulos, com 5 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 522,
+          "name": "Manípulos, puxadores e fechos",
+          "slug": "manipulos-puxadores-e-fechos"
         }
       ],
       "image": "/images/products/kifix/manipulos/foto-1.png",
@@ -89173,7 +89296,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Manípulos, puxadores e fechos"
     },
     {
       "id": 201031,
@@ -89188,9 +89312,9 @@
       "description": "<p>Fornos industriais, portas de cofres ou máquinas e equipamentos que necessitem abertura manual</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Isolamento térmico / Higienização eficiente / Furo liso / Em casos de pedido com inserto de rosca, consultar fábrica</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 525,
+          "name": "Maçanetas",
+          "slug": "macanetas"
         }
       ],
       "image": "/images/products/merkbak/mbf-macaneta-baquelite-femea/1.png",
@@ -89286,7 +89410,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Maçanetas"
     },
     {
       "id": 201032,
@@ -89301,9 +89426,9 @@
       "description": "<p>Fornos industriais, portas de cofres ou máquinas e equipamentos que necessitem abertura manual</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Isolamento térmico / Higienização eficiente / Pino liso / Em casos de pedido com rosca, consultar fábrica</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 525,
+          "name": "Maçanetas",
+          "slug": "macanetas"
         }
       ],
       "image": "/images/products/merkbak/mbm-40167-16-45-macaneta-baquelite-macho/1.png",
@@ -89367,7 +89492,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Maçanetas"
     },
     {
       "id": 201033,
@@ -89382,7 +89508,7 @@
       "description": "<p>Máquinas e equipamentos que exigem regulagens manuais</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro + pino aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Cabo giratório e furo liso</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 526,
           "name": "Manivelas",
           "slug": "manivelas"
         }
@@ -89498,7 +89624,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Manivelas"
     },
     {
       "id": 200079,
@@ -89513,9 +89640,9 @@
       "description": "<p>Molas prato DIN 2093 em aço especial para geração de altas cargas elásticas em espaços axiais reduzidos.</p>",
       "categories": [
         {
-          "id": 212,
-          "name": "Ferramentaria",
-          "slug": "ferramentaria"
+          "id": 527,
+          "name": "Molas prato",
+          "slug": "molas-prato"
         }
       ],
       "image": "/images/products/carolfix/molas-prato-din-2093/pagina-19.png",
@@ -91984,7 +92111,8 @@
           "note": "Dados extraídos diretamente da página 19 do catálogo técnico Carolfix."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Molas prato"
     },
     {
       "id": 200143,
@@ -91999,9 +92127,9 @@
       "description": "<p>Linha Morsa de aperto rápido Kifix modelo Morsa de aperto rápido, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Morsa de aperto rápido",
-          "slug": "morsa-de-aperto-rapido"
+          "id": 528,
+          "name": "Morsas de aperto rápido",
+          "slug": "morsas-de-aperto-rapido"
         }
       ],
       "image": "/images/products/kifix/morsa-de-aperto-rapido/foto-1.png",
@@ -92145,7 +92273,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Morsas de aperto rápido"
     },
     {
       "id": 201034,
@@ -92160,9 +92289,9 @@
       "description": "<p>Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais.</p><p><strong>Material:</strong> Baquelite + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Alta resistência / Isolamento térmico / Higienização eficiente</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 523,
+          "name": "Manípulos",
+          "slug": "manipulos"
         }
       ],
       "image": "/images/products/merkbak/msf-manipulo-standard-femea/1.png",
@@ -92492,7 +92621,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Manípulos"
     },
     {
       "id": 201035,
@@ -92507,9 +92637,9 @@
       "description": "<p>Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais.</p><p><strong>Material:</strong> Baquelite + rosca aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Isolamento térmico / Higienização eficiente / Em casos de comprimento de rosca específica, consultar fábrica</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 523,
+          "name": "Manípulos",
+          "slug": "manipulos"
         }
       ],
       "image": "/images/products/merkbak/msm-manipulo-standard-macho/1.png",
@@ -92821,7 +92951,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Manípulos"
     },
     {
       "id": 201036,
@@ -92836,7 +92967,7 @@
       "description": "<p>Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais.</p><p><strong>Material:</strong> Polipropileno + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Média resistência</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 523,
           "name": "Manípulos",
           "slug": "manipulos"
         }
@@ -93222,7 +93353,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Manípulos"
     },
     {
       "id": 201037,
@@ -93237,7 +93369,7 @@
       "description": "<p>Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais.</p><p><strong>Material:</strong> Polipropileno + rosca aço carbono zincado</p><p><strong>Informações adicionais:</strong> Média resistência / Em casos de comprimento de rosca específico, consultar fábrica</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 523,
           "name": "Manípulos",
           "slug": "manipulos"
         }
@@ -93695,7 +93827,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Manípulos"
     },
     {
       "id": 200085,
@@ -93710,9 +93843,9 @@
       "description": "<p>Olhais de suspensão e ancoragem forjados em aço carbono com certificação dimensional DIN 580 e DIN 582.</p>",
       "categories": [
         {
-          "id": 211,
-          "name": "Fixação e retenção",
-          "slug": "fixacao-e-retencao"
+          "id": 529,
+          "name": "Olhais de suspensão DIN",
+          "slug": "olhais-de-suspensao-din"
         }
       ],
       "image": "/images/products/carolfix/parafusos-olhal-din-580-582/pagina-27.png",
@@ -94808,7 +94941,8 @@
           "note": "Dados extraídos diretamente da página 27 do catálogo técnico Carolfix."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Olhais de suspensão DIN"
     },
     {
       "id": 201038,
@@ -94823,7 +94957,7 @@
       "description": "<p>Comandos e acionamentos manuais de regulagens de máquinas</p><p><strong>Material:</strong> Polipropileno + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Alta resistência</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 511,
           "name": "Puxadores",
           "slug": "puxadores"
         }
@@ -94939,7 +95073,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Puxadores"
     },
     {
       "id": 200082,
@@ -94954,9 +95089,9 @@
       "description": "<p>Pinos de centragem e guia usinados e retificados em aço carbono conforme norma DIN 7 / ISO 2338.</p>",
       "categories": [
         {
-          "id": 212,
-          "name": "Ferramentaria",
-          "slug": "ferramentaria"
+          "id": 530,
+          "name": "Pinos e punções DIN",
+          "slug": "pinos-e-puncoes-din"
         }
       ],
       "image": "/images/products/carolfix/pinos-cilindricos-din-7/pagina-23.png",
@@ -96015,7 +96150,8 @@
           "note": "Dados extraídos diretamente da página 23 do catálogo técnico Carolfix."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Pinos e punções DIN"
     },
     {
       "id": 200081,
@@ -96030,9 +96166,9 @@
       "description": "<p>Pinos de fixação elásticos padrão pesado conforme norma DIN 1481 (ISO 8752), temperados e revenidos.</p>",
       "categories": [
         {
-          "id": 212,
-          "name": "Ferramentaria",
-          "slug": "ferramentaria"
+          "id": 530,
+          "name": "Pinos e punções DIN",
+          "slug": "pinos-e-puncoes-din"
         }
       ],
       "image": "/images/products/carolfix/pinos-elasticos-pesados-din-1481/pagina-22.png",
@@ -97500,7 +97636,8 @@
           "note": "Dados extraídos diretamente da página 22 do catálogo técnico Carolfix."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Pinos e punções DIN"
     },
     {
       "id": 200083,
@@ -97515,9 +97652,9 @@
       "description": "<p>Extratores endurecidos e retificados para ferramentas de estampagem e injeção plástica conforme DIN 1530 A.</p>",
       "categories": [
         {
-          "id": 212,
-          "name": "Ferramentaria",
-          "slug": "ferramentaria"
+          "id": 530,
+          "name": "Pinos e punções DIN",
+          "slug": "pinos-e-puncoes-din"
         }
       ],
       "image": "/images/products/carolfix/pinos-extratores-din-1530/pagina-25.png",
@@ -98572,7 +98709,8 @@
           "note": "Dados extraídos diretamente da página 25 do catálogo técnico Carolfix."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Pinos e punções DIN"
     },
     {
       "id": 201039,
@@ -98587,7 +98725,7 @@
       "description": "<p>Pés niveladores são colocados nas bases de máquinas, equipamentos ou móveis e servem para nivelar ou simplesmente evitar que fiquem em contato com o piso. O pino roscado move-se em todas as direções permitindo que seja colocado em superfícies com declínio. Acompanha disco antivibração</p><p><strong>Material:</strong> Pvc e nylon reforçado com fibra de vidro + rosca, porca e arruela aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 531,
           "name": "Pés Niveladores",
           "slug": "pes-niveladores"
         }
@@ -98883,7 +99021,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Pés Niveladores"
     },
     {
       "id": 201040,
@@ -98898,7 +99037,7 @@
       "description": "<p>Pés niveladores são colocados nas bases de máquinas, equipamentos ou móveis e servem para nivelar ou simplesmente evitar que fiquem em contato com o piso.</p><p><strong>Material:</strong> Pvc + rosca e porca aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Ótima aderência</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 531,
           "name": "Pés Niveladores",
           "slug": "pes-niveladores"
         }
@@ -99050,7 +99189,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Pés Niveladores"
     },
     {
       "id": 201041,
@@ -99065,7 +99205,7 @@
       "description": "<p>Pés niveladores são colocados nas bases de máquinas, equipamentos ou móveis e servem para nivelar ou simplesmente evitar que fiquem em contato com o piso.</p><p><strong>Material:</strong> Pvc + rosca e porca aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Ótima aderência</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 531,
           "name": "Pés Niveladores",
           "slug": "pes-niveladores"
         }
@@ -99163,7 +99303,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Pés Niveladores"
     },
     {
       "id": 200163,
@@ -99178,9 +99319,9 @@
       "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA ARTICULADA, com 12 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Ponteiras",
-          "slug": "ponteiras"
+          "id": 532,
+          "name": "Ponteiras e mordentes",
+          "slug": "ponteiras-e-mordentes"
         }
       ],
       "image": "/images/products/kifix/ponteira-articulada/foto-1.png",
@@ -99562,7 +99703,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Ponteiras e mordentes"
     },
     {
       "id": 200160,
@@ -99577,9 +99719,9 @@
       "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA BORRACHA, com 10 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Ponteiras",
-          "slug": "ponteiras"
+          "id": 532,
+          "name": "Ponteiras e mordentes",
+          "slug": "ponteiras-e-mordentes"
         }
       ],
       "image": "/images/products/kifix/ponteira-borracha/foto-1.png",
@@ -99956,7 +100098,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Ponteiras e mordentes"
     },
     {
       "id": 200162,
@@ -99971,9 +100114,9 @@
       "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA BORRACHA CÔNICA - ANILHA, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Ponteiras",
-          "slug": "ponteiras"
+          "id": 532,
+          "name": "Ponteiras e mordentes",
+          "slug": "ponteiras-e-mordentes"
         }
       ],
       "image": "/images/products/kifix/ponteira-borracha-conica-anilha/foto-1.png",
@@ -100218,7 +100361,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Ponteiras e mordentes"
     },
     {
       "id": 200161,
@@ -100233,9 +100377,9 @@
       "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA BORRACHA CÔNICA - PORCA, com 8 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Ponteiras",
-          "slug": "ponteiras"
+          "id": 532,
+          "name": "Ponteiras e mordentes",
+          "slug": "ponteiras-e-mordentes"
         }
       ],
       "image": "/images/products/kifix/ponteira-borracha-conica-porca/foto-1.png",
@@ -100544,7 +100688,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Ponteiras e mordentes"
     },
     {
       "id": 200164,
@@ -100559,9 +100704,9 @@
       "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA CANTONEIRA, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Ponteiras",
-          "slug": "ponteiras"
+          "id": 532,
+          "name": "Ponteiras e mordentes",
+          "slug": "ponteiras-e-mordentes"
         }
       ],
       "image": "/images/products/kifix/ponteira-cantoneira/foto-1.png",
@@ -100705,7 +100850,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Ponteiras e mordentes"
     },
     {
       "id": 200167,
@@ -100720,9 +100866,9 @@
       "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA DUPLA BORRACHA, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Ponteiras",
-          "slug": "ponteiras"
+          "id": 532,
+          "name": "Ponteiras e mordentes",
+          "slug": "ponteiras-e-mordentes"
         }
       ],
       "image": "/images/products/kifix/ponteira-dupla-borracha/foto-1.png",
@@ -100930,7 +101076,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Ponteiras e mordentes"
     },
     {
       "id": 200166,
@@ -100945,9 +101092,9 @@
       "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA DUPLA SEXTAVADA, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Ponteiras",
-          "slug": "ponteiras"
+          "id": 532,
+          "name": "Ponteiras e mordentes",
+          "slug": "ponteiras-e-mordentes"
         }
       ],
       "image": "/images/products/kifix/ponteira-dupla-sextavada/foto-1.png",
@@ -101155,7 +101302,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Ponteiras e mordentes"
     },
     {
       "id": 200165,
@@ -101170,9 +101318,9 @@
       "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA FELTRO, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Ponteiras",
-          "slug": "ponteiras"
+          "id": 532,
+          "name": "Ponteiras e mordentes",
+          "slug": "ponteiras-e-mordentes"
         }
       ],
       "image": "/images/products/kifix/ponteira-feltro/foto-1.png",
@@ -101415,7 +101563,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Ponteiras e mordentes"
     },
     {
       "id": 200159,
@@ -101430,9 +101579,9 @@
       "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA SEXTAVADA, com 12 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Ponteiras",
-          "slug": "ponteiras"
+          "id": 532,
+          "name": "Ponteiras e mordentes",
+          "slug": "ponteiras-e-mordentes"
         }
       ],
       "image": "/images/products/kifix/ponteira-sextavada/foto-1.png",
@@ -101814,7 +101963,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Ponteiras e mordentes"
     },
     {
       "id": 200075,
@@ -101829,9 +101979,9 @@
       "description": "<p>Elementos de travamento para rolamentos e buchas em eixos industriais, atendendo às normas DIN 981 e DIN 5406.</p>",
       "categories": [
         {
-          "id": 211,
-          "name": "Fixação e retenção",
-          "slug": "fixacao-e-retencao"
+          "id": 504,
+          "name": "Porcas e arruelas DIN",
+          "slug": "porcas-e-arruelas-din"
         }
       ],
       "image": "/images/products/carolfix/porcas-km-arruelas-mb/pagina-15.png",
@@ -105267,7 +105417,8 @@
           "note": "Dados extraídos diretamente da página 15 do catálogo técnico Carolfix."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Porcas e arruelas DIN"
     },
     {
       "id": 202096,
@@ -105282,9 +105433,9 @@
       "description": "<p>Linha LANÇAMENTOS Kifix modelo Posicionador/Indexador, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "LANÇAMENTOS",
-          "slug": "lancamentos"
+          "id": 519,
+          "name": "Posicionadores e indexadores",
+          "slug": "posicionadores-e-indexadores"
         }
       ],
       "image": "/images/products/kifix/posicionador-indexador/foto-1.png",
@@ -105543,7 +105694,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Posicionadores e indexadores"
     },
     {
       "id": 201042,
@@ -105558,9 +105710,9 @@
       "description": "<p>Botão utilizado para apertos/ajustes manuais de máquinas e equipamentos em geral.</p><p><strong>Material:</strong> Baquelite + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Alta resistência / Isolante térmico</p>",
       "categories": [
         {
-          "id": 202,
-          "name": "Baquelite",
-          "slug": "baquelite"
+          "id": 511,
+          "name": "Puxadores",
+          "slug": "puxadores"
         }
       ],
       "image": "/images/products/merkbak/prf-3932-5-16-puxador-recartilhado-femea/1.png",
@@ -105624,7 +105776,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Puxadores"
     },
     {
       "id": 200084,
@@ -105639,9 +105792,9 @@
       "description": "<p>Punções retificados de alta dureza para ferramentas industriais conforme norma DIN 9861 Tipo D.</p>",
       "categories": [
         {
-          "id": 212,
-          "name": "Ferramentaria",
-          "slug": "ferramentaria"
+          "id": 530,
+          "name": "Pinos e punções DIN",
+          "slug": "pinos-e-puncoes-din"
         }
       ],
       "image": "/images/products/carolfix/puncoes-cabeca-conica-din-9861/pagina-26.png",
@@ -109778,7 +109931,8 @@
           "note": "Dados extraídos diretamente da página 26 do catálogo técnico Carolfix."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Pinos e punções DIN"
     },
     {
       "id": 200158,
@@ -109793,9 +109947,9 @@
       "description": "<p>Linha Puxador Kifix modelo Puxador, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
       "categories": [
         {
-          "id": 204,
-          "name": "Puxador",
-          "slug": "puxador"
+          "id": 522,
+          "name": "Manípulos, puxadores e fechos",
+          "slug": "manipulos-puxadores-e-fechos"
         }
       ],
       "image": "/images/products/kifix/puxador/foto-1.png",
@@ -110036,7 +110190,8 @@
           "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Manípulos, puxadores e fechos"
     },
     {
       "id": 200071,
@@ -110051,9 +110206,9 @@
       "description": "<p>Rolamentos de esfera rígida de precisão conforme normas industriais DIN/ISO, com opções de blindagem Z ou vedação 2RS.</p>",
       "categories": [
         {
-          "id": 210,
-          "name": "Rolamentos e mancais",
-          "slug": "rolamentos-e-mancais"
+          "id": 533,
+          "name": "Rolamentos de esferas",
+          "slug": "rolamentos-de-esferas"
         }
       ],
       "image": "/images/products/carolfix/rolamentos-esfera-rigida/pagina-07.png",
@@ -113257,7 +113412,8 @@
           "note": "Dados extraídos diretamente da página 7 do catálogo técnico Carolfix."
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Rolamentos de esferas"
     },
     {
       "id": 201043,
@@ -113272,7 +113428,7 @@
       "description": "<p>Máquinas e equipamentos que exigem regulagens precisas.</p><p><strong>Material:</strong> Revestido em nylon reforçado com fibra de vidro + cubo de ferro fundido + cabo de polipropileno em aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Com cabo giratório para facilitar a regulagem.</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 534,
           "name": "Volantes",
           "slug": "volantes"
         }
@@ -113442,7 +113598,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Volantes"
     },
     {
       "id": 201045,
@@ -113457,7 +113614,7 @@
       "description": "<p>Máquinas e equipamentos que exigem regulagens precisas.</p><p><strong>Material:</strong> Revestido em resina termoplástica + alma e cubo de ferro fundido</p><p><strong>Informações adicionais:</strong> Alta resistência / Com a opção de cabo giratório para facilitar a regulagem.</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 534,
           "name": "Volantes",
           "slug": "volantes"
         }
@@ -113663,7 +113820,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Volantes"
     },
     {
       "id": 201044,
@@ -113678,7 +113836,7 @@
       "description": "<p>Máquinas e equipamentos que exigem regulagens precisas.</p><p><strong>Material:</strong> Revestido em resina termoplástica + alma e cubo de ferro fundido + cabo de polipropileno em aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Com cabo giratório para facilitar a regulagem.</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 534,
           "name": "Volantes",
           "slug": "volantes"
         }
@@ -113884,7 +114042,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Volantes"
     },
     {
       "id": 201046,
@@ -113899,7 +114058,7 @@
       "description": "<p>Máquinas e equipamentos que exigem regulagens precisas.</p><p><strong>Material:</strong> Baquelite + cubo de ferro fundido + cabo de baquelite em aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Isolante térmico / Com cabo retrátil para facilitar a regulagem.</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 534,
           "name": "Volantes",
           "slug": "volantes"
         }
@@ -113965,7 +114124,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Volantes"
     },
     {
       "id": 201047,
@@ -113980,7 +114140,7 @@
       "description": "<p>Máquinas e equipamentos que exigem regulagens precisas.</p><p><strong>Material:</strong> Baquelite + cubo de ferro fundido</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Isolante térmico / Para opção com cabo, consultar distribuidor</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 534,
           "name": "Volantes",
           "slug": "volantes"
         }
@@ -114114,7 +114274,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Volantes"
     },
     {
       "id": 200001,
@@ -114129,9 +114290,9 @@
       "description": "<p>Ideais para fixação de equipamentos instalados sobre estruturas metálicas.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 535,
+          "name": "Calços, ventosas e arruelas",
+          "slug": "calcos-ventosas-e-arruelas"
         }
       ],
       "image": "/images/products/vibra-stop/arruela-de-borracha/foto-1.png",
@@ -114246,7 +114407,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Calços, ventosas e arruelas"
     },
     {
       "id": 200003,
@@ -114261,9 +114423,9 @@
       "description": "<p>Ideais para equipamentos que exigem precisão e estabilidade em ambientes sujeitos a vibrações como balanças analíticas, microscópios, equipamentos de metrologia, dispositivos de calibração e ensaio, laboratórios de controle de qualidade, áreas técnicas da indústria, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 536,
+          "name": "Bases antivibratórias",
+          "slug": "bases-antivibratorias"
         }
       ],
       "image": "/images/products/vibra-stop/base-antivibratoria/foto-1.png",
@@ -114472,7 +114634,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Bases antivibratórias"
     },
     {
       "id": 200004,
@@ -114487,9 +114650,9 @@
       "description": "<p>Ideais para aplicações em bombas hidráulicas, ventiladores, compressores, chillers, exaustores, bombas de calor, sopradores e outros equipamentos com alta geração de vibração em relação ao seu peso, máquinas instaladas sobre estruturas metálicas, bases elevadas, pisos com baixa rigidez ou em locais onde não é possível fixação direta ao solo, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 536,
+          "name": "Bases antivibratórias",
+          "slug": "bases-antivibratorias"
         }
       ],
       "image": "/images/products/vibra-stop/base-de-inercia/foto-1.png",
@@ -115028,7 +115191,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Bases antivibratórias"
     },
     {
       "id": 200005,
@@ -115043,9 +115207,9 @@
       "description": "<p>Ideais para ventiladores, condensadoras, portões, esteiras transportadoras, equipamentos que necessitam de fixação no piso ou estruturas metálicas, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 537,
+          "name": "Batentes industriais",
+          "slug": "batentes-industriais"
         }
       ],
       "image": "/images/products/vibra-stop/bat/foto-1.png",
@@ -115346,7 +115510,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Batentes industriais"
     },
     {
       "id": 200006,
@@ -115361,9 +115526,9 @@
       "description": "<p>Ideais para aplicações em portas, esteiras, carrinhos, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 537,
+          "name": "Batentes industriais",
+          "slug": "batentes-industriais"
         }
       ],
       "image": "/images/products/vibra-stop/batente-abaulado/foto-1.png",
@@ -115558,7 +115723,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Batentes industriais"
     },
     {
       "id": 200008,
@@ -115573,9 +115739,9 @@
       "description": "<p>Ideais para correias transportadoras, carrinhos, portões, entre outros. Permite a fabricação com ou sem porca superior central de ajuste.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 537,
+          "name": "Batentes industriais",
+          "slug": "batentes-industriais"
         }
       ],
       "image": "/images/products/vibra-stop/batente-de-borracha/foto-1.png",
@@ -115794,7 +115960,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Batentes industriais"
     },
     {
       "id": 200007,
@@ -115809,9 +115976,9 @@
       "description": "<p>Ideais para correias transportadoras, carrinhos, portões, entre outros. Permite a fabricação com ou sem porca superior central de ajuste.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 537,
+          "name": "Batentes industriais",
+          "slug": "batentes-industriais"
         }
       ],
       "image": "/images/products/vibra-stop/batente-de-borracha-femea/foto-1.png",
@@ -115977,7 +116144,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Batentes industriais"
     },
     {
       "id": 200009,
@@ -115992,9 +116160,9 @@
       "description": "<p>Ideais para aplicações em Elevadores automotivos.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 537,
+          "name": "Batentes industriais",
+          "slug": "batentes-industriais"
         }
       ],
       "image": "/images/products/vibra-stop/batente-de-elevador/foto-1.jpg",
@@ -116160,7 +116328,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Batentes industriais"
     },
     {
       "id": 200010,
@@ -116175,9 +116344,9 @@
       "description": "<p>Ideais para aplicações em estacionamentos de veículos automotivos e industriais.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 537,
+          "name": "Batentes industriais",
+          "slug": "batentes-industriais"
         }
       ],
       "image": "/images/products/vibra-stop/batente-de-estacionamento/foto-1.png",
@@ -116288,7 +116457,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Batentes industriais"
     },
     {
       "id": 200011,
@@ -116303,9 +116473,9 @@
       "description": "<p>Ideais para suporte de equipamentos sem furação ou fixação, apoio para tubulações, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 535,
+          "name": "Calços, ventosas e arruelas",
+          "slug": "calcos-ventosas-e-arruelas"
         }
       ],
       "image": "/images/products/vibra-stop/calco-de-borracha/foto-1.png",
@@ -116560,7 +116730,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Calços, ventosas e arruelas"
     },
     {
       "id": 200059,
@@ -116575,9 +116746,9 @@
       "description": "<p>Ideais para encaixe em vigas de metal ou madeira de até 50mm X 50mm.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 535,
+          "name": "Calços, ventosas e arruelas",
+          "slug": "calcos-ventosas-e-arruelas"
         }
       ],
       "image": "/images/products/vibra-stop/tubulacao/foto-1.png",
@@ -116870,7 +117041,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Calços, ventosas e arruelas"
     },
     {
       "id": 200012,
@@ -116885,9 +117057,9 @@
       "description": "<p>Ideais para piso elevado ou flutuante, vigas de 50x50 mm, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 535,
+          "name": "Calços, ventosas e arruelas",
+          "slug": "calcos-ventosas-e-arruelas"
         }
       ],
       "image": "/images/products/vibra-stop/calco-u/foto-1.png",
@@ -116976,7 +117148,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Calços, ventosas e arruelas"
     },
     {
       "id": 200016,
@@ -116991,9 +117164,9 @@
       "description": "<p>Ideais para motores, gabinetes, suportes metálicos, equipamentos eletrônicos, maquinários de pequeno porte, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 538,
+          "name": "Coxins amortecedores",
+          "slug": "coxins-amortecedores"
         }
       ],
       "image": "/images/products/vibra-stop/coxim-a/foto-1.png",
@@ -117220,7 +117393,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Coxins amortecedores"
     },
     {
       "id": 200017,
@@ -117235,9 +117409,9 @@
       "description": "<p>Ideais para balanças, ventiladores, equipamentos de ar condicionado, motores de baixa, média e alta rotação, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 538,
+          "name": "Coxins amortecedores",
+          "slug": "coxins-amortecedores"
         }
       ],
       "image": "/images/products/vibra-stop/coxim-f-x-f/foto-1.png",
@@ -117480,7 +117654,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Coxins amortecedores"
     },
     {
       "id": 200018,
@@ -117495,9 +117670,9 @@
       "description": "<p>Ideais para balanças, ventiladores, equipamentos de ar condicionado, motores de baixa, média e alta rotação, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 538,
+          "name": "Coxins amortecedores",
+          "slug": "coxins-amortecedores"
         }
       ],
       "image": "/images/products/vibra-stop/coxim-m-x-f/foto-1.png",
@@ -117756,7 +117931,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Coxins amortecedores"
     },
     {
       "id": 200019,
@@ -117771,9 +117947,9 @@
       "description": "<p>Ideais para balanças, ventiladores, equipamentos de ar condicionado, motores de baixa, média e alta rotação, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 538,
+          "name": "Coxins amortecedores",
+          "slug": "coxins-amortecedores"
         }
       ],
       "image": "/images/products/vibra-stop/coxim-m-x-m/foto-1.png",
@@ -118016,7 +118192,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Coxins amortecedores"
     },
     {
       "id": 200020,
@@ -118031,9 +118208,9 @@
       "description": "<p>Ideais para balanças, ventiladores, grupos geradores, silos, motores de média e alta rotação, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 538,
+          "name": "Coxins amortecedores",
+          "slug": "coxins-amortecedores"
         }
       ],
       "image": "/images/products/vibra-stop/coxim-xt/foto-1.png",
@@ -118276,7 +118453,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Coxins amortecedores"
     },
     {
       "id": 200035,
@@ -118291,9 +118469,9 @@
       "description": "<p>Ideais para móveis de escritório, equipamentos industriais de pequeno ou médio porte, equipamentos domésticos, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 502,
+          "name": "Amortecedores de borracha",
+          "slug": "amortecedores-de-borracha"
         }
       ],
       "image": "/images/products/vibra-stop/micro/foto-1.png",
@@ -118552,7 +118730,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de borracha"
     },
     {
       "id": 200034,
@@ -118567,9 +118746,9 @@
       "description": "<p>Ideais para móveis de escritório, equipamentos industriais de pequeno ou médio porte, equipamentos domésticos, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 502,
+          "name": "Amortecedores de borracha",
+          "slug": "amortecedores-de-borracha"
         }
       ],
       "image": "/images/products/vibra-stop/micro-femea/foto-1.png",
@@ -118849,7 +119028,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de borracha"
     },
     {
       "id": 200021,
@@ -118864,9 +119044,9 @@
       "description": "<p>Ideais para grupo geradores, compressores, chillers, sistemas de climatização e ventilação industriais, silos, tanques, transformadores, máquinas com alto ciclo de operação e cargas variáveis, peneiras vibratórias industriais, estruturas metálicas, prensas, guilhotinas, painéis elétricos, quadros de comandocom carga elevada, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/dupla/foto-1.png",
@@ -119460,7 +119640,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200022,
@@ -119475,9 +119656,9 @@
       "description": "<p>Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/flex-com-2-chapas/foto-1.png",
@@ -120116,7 +120297,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200023,
@@ -120131,9 +120313,9 @@
       "description": "<p>Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/flex-com-chapa/foto-1.png",
@@ -120833,7 +121015,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200024,
@@ -120848,9 +121031,9 @@
       "description": "<p>Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/flex-dupla/foto-1.png",
@@ -121444,7 +121627,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200027,
@@ -121459,9 +121643,9 @@
       "description": "<p>Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/flex-plus-dupla/foto-1.png",
@@ -121908,7 +122092,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200025,
@@ -121923,9 +122108,9 @@
       "description": "<p>Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/flex-plus-com-2-chapas/foto-1.png",
@@ -122366,7 +122551,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200026,
@@ -122381,9 +122567,9 @@
       "description": "<p>Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/flex-plus-com-chapa/foto-1.png",
@@ -122977,7 +123163,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200028,
@@ -122992,9 +123179,9 @@
       "description": "<p>Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/flex-plus-sem-chapa/foto-1.png",
@@ -123537,7 +123724,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200029,
@@ -123552,9 +123740,9 @@
       "description": "<p>Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/flex-sem-chapa/foto-1.png",
@@ -124193,7 +124381,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200069,
@@ -124208,9 +124397,9 @@
       "description": "<p>Ideais para equipamentos, instalados sobre mão-francesa, como unidades condensadoras de ar-condicionado.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 540,
+          "name": "Pendurais e amortecedores HVAC",
+          "slug": "pendurais-e-amortecedores-hvac"
         }
       ],
       "image": "/images/products/vibra-stop/hvac/foto-1.png",
@@ -124343,7 +124532,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Pendurais e amortecedores HVAC"
     },
     {
       "id": 200032,
@@ -124358,9 +124548,9 @@
       "description": "<p>Ideais para tanques, ventiladores, misturadores, grupo gerador, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/komp/foto-1.png",
@@ -124903,7 +125093,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200031,
@@ -124918,9 +125109,9 @@
       "description": "<p>Ideais para tanques, ventiladores, misturadores, grupo gerador, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/komp-dupla/foto-1.png",
@@ -125367,7 +125558,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200037,
@@ -125382,9 +125574,9 @@
       "description": "<p>Ideais para compressoras, chillers industriais, equipamentos com centro de gravidade elevado, bases técnicas que exigem máxima estabilidade, prensas, guilhotinas, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/octupla/foto-1.png",
@@ -125766,7 +125958,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200039,
@@ -125781,9 +125974,9 @@
       "description": "<p>Ideais para equipamentos industriais, unidades de ar-condicionado, sistemas de ventilação, geradores, máquinas que operam com alto nível de vibração e situações que exigem fixação firme e segura, alto desempenho na atenuação de vibrações e estabilidade em superfícies técnicas ou metálicas, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/plus-com-2-chapas/foto-1.png",
@@ -126275,7 +126468,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200040,
@@ -126290,9 +126484,9 @@
       "description": "<p>Ideais para ventiladores industriais, chillers, equipamentos com centro de gravidade elevado ou base estreita, máquinas instaladas em áreas com maior exigência de estabilidade, estruturas metálicas, aplicações que demandam maior controle de vibração com sustentação reforçada, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/plus-com-chapa/foto-1.png",
@@ -126835,7 +127029,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200041,
@@ -126850,9 +127045,9 @@
       "description": "<p>Ideais para chillers, equipamentos com centro de gravidade elevado ou base estreita, máquinas instaladas em áreas com maior exigência de estabilidade, equipamentos que demandam maior controle de vibração com sustentação reforçada, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/plus-dupla/foto-1.png",
@@ -127340,7 +127535,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200042,
@@ -127355,9 +127551,9 @@
       "description": "<p>Ideais para peneiras vibratórias, chillers, equipamentos com centro de gravidade elevado ou base estreita, máquinas instaladas em áreas com maior exigência de estabilidade, aplicações que demandam maior controle de vibração com sustentação reforçada, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/plus-sem-chapa/foto-1.png",
@@ -127900,7 +128096,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200044,
@@ -127915,9 +128112,9 @@
       "description": "<p>Ideais para moinhos, compressores, chillers, equipamentos com centro de gravidade elevado ou base estreita, máquinas instaladas em áreas com maior exigência de estabilidade, prensas, aplicações que demandam maior controle de vibração com sustentação reforçada, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/quadrupla/foto-1.png",
@@ -128511,7 +128708,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200064,
@@ -128526,9 +128724,9 @@
       "description": "<p>Ideais para equipamentos que operam sobre lajes ou estruturas metálicas, painéis elétricos, pequenos quadros de comando, dispositivos de automação leve, unidades compactas de climatização e esmeril, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/vip/foto-1.png",
@@ -128804,7 +129002,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200014,
@@ -128819,9 +129018,9 @@
       "description": "<p>Ideais para sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/com-2-chapas/foto-1.png",
@@ -129460,7 +129659,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200015,
@@ -129475,9 +129675,9 @@
       "description": "<p>Ideais para sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/com-chapa/foto-1.png",
@@ -130177,7 +130377,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200036,
@@ -130192,9 +130393,9 @@
       "description": "<p>Ideais para sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/mola-simples-sem-chapa/foto-1.png",
@@ -130833,7 +131034,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200049,
@@ -130848,9 +131050,9 @@
       "description": "<p>Ideais para aplicações que exigem alta proteção contra vibrações multidirecionais, deslocamentos laterais e impactos gerados tanto por movimentações sísmicas quanto por transporte, painéis elétricos, chillers, sistemas de Hvac, bombas centrífugas, transformadores, máquinas operatrizes, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/sismica/foto-1.png",
@@ -131546,7 +131748,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200047,
@@ -131561,9 +131764,9 @@
       "description": "<p>Ideais para aplicações que exigem alta proteção contra vibrações multidirecionais, deslocamentos laterais e impactos gerados tanto por movimentações sísmicas quanto por transporte, painéis elétricos, chillers, Sistemas de Hvac, bombas centrífugas, transformadores, máquinas operatrizes, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/sismica-plus/foto-1.png",
@@ -132205,7 +132408,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200048,
@@ -132220,9 +132424,9 @@
       "description": "<p>Ideais para aplicações que exigem alta proteção contra vibrações multidirecionais, deslocamentos laterais e impactos gerados tanto por movimentações sísmicas quanto por transporte, painéis elétricos, máquinas operatrizes de pequeno porte, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/sismica-vip/foto-1.png",
@@ -132536,7 +132740,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200057,
@@ -132551,9 +132756,9 @@
       "description": "<p>Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/tracao/foto-1.png",
@@ -132900,7 +133105,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200067,
@@ -132915,9 +133121,9 @@
       "description": "<p>Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/tracao-plus/foto-1.png",
@@ -133456,7 +133662,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200055,
@@ -133471,9 +133678,9 @@
       "description": "<p>Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/tracao-premium/foto-1.png",
@@ -134114,7 +134321,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200053,
@@ -134129,9 +134337,9 @@
       "description": "<p>Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/tracao-premium-plus/foto-1.png",
@@ -134772,7 +134980,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200054,
@@ -134787,9 +134996,9 @@
       "description": "<p>Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/tracao-premium-vip/foto-1.png",
@@ -135082,7 +135291,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200068,
@@ -135097,9 +135307,9 @@
       "description": "<p>Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/tracao-vip/foto-1.png",
@@ -135329,7 +135539,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200061,
@@ -135344,9 +135555,9 @@
       "description": "<p>Ideais para aplicações em bombas de piscina, motores e equipamentos de pequena dimensão e peso.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/vip-com-2-chapas/foto-1.png",
@@ -135622,7 +135833,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200062,
@@ -135637,9 +135849,9 @@
       "description": "<p>Ideais para aplicações em bombas de piscina, motores e equipamentos de pequena dimensão e peso.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/vip-com-chapa/foto-1.png",
@@ -135936,7 +136148,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200063,
@@ -135951,9 +136164,9 @@
       "description": "<p>Ideais para aplicações em bombas de piscina, motores e equipamentos de pequena dimensão e peso.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 539,
+          "name": "Amortecedores de mola",
+          "slug": "amortecedores-de-mola"
         }
       ],
       "image": "/images/products/vibra-stop/vip-sem-chapa/foto-1.png",
@@ -136250,7 +136463,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de mola"
     },
     {
       "id": 200038,
@@ -136265,9 +136479,9 @@
       "description": "<p>Ideais para instalação de forros, fixação de tubulação suspensa, entre outros. Instalação com furo para inserção de bucha de fixação.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 540,
+          "name": "Pendurais e amortecedores HVAC",
+          "slug": "pendurais-e-amortecedores-hvac"
         }
       ],
       "image": "/images/products/vibra-stop/pendural/foto-1.png",
@@ -136338,7 +136552,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Pendurais e amortecedores HVAC"
     },
     {
       "id": 200043,
@@ -136353,9 +136568,9 @@
       "description": "<p>Ideais para aplicações em tubos quadrados.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 502,
+          "name": "Amortecedores de borracha",
+          "slug": "amortecedores-de-borracha"
         }
       ],
       "image": "/images/products/vibra-stop/quad/foto-1.png",
@@ -136648,7 +136863,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de borracha"
     },
     {
       "id": 200045,
@@ -136663,9 +136879,9 @@
       "description": "<p>Ideais para aplicações em motores, grupo geradores, condensadoras de ar condicionado, equipamentos de pequeno e médio portes que necessitem de fixação inferior, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 502,
+          "name": "Amortecedores de borracha",
+          "slug": "amortecedores-de-borracha"
         }
       ],
       "image": "/images/products/vibra-stop/ret/foto-1.png",
@@ -136908,7 +137124,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de borracha"
     },
     {
       "id": 200050,
@@ -136923,9 +137140,9 @@
       "description": "<p>Ideais para estruturas metálicas, máquinas operatrizes de pequeno e médio porte, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 502,
+          "name": "Amortecedores de borracha",
+          "slug": "amortecedores-de-borracha"
         }
       ],
       "image": "/images/products/vibra-stop/slim/foto-1.png",
@@ -137241,7 +137458,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de borracha"
     },
     {
       "id": 200051,
@@ -137256,9 +137474,9 @@
       "description": "<p>Ideais para equipamentos que utilizam cilindros de borracha como elementos amortecedores, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 502,
+          "name": "Amortecedores de borracha",
+          "slug": "amortecedores-de-borracha"
         }
       ],
       "image": "/images/products/vibra-stop/tartufo/foto-1.png",
@@ -137347,7 +137565,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de borracha"
     },
     {
       "id": 200013,
@@ -137362,9 +137581,9 @@
       "description": "<p>Ideais para para Equipamentos industriais que necessitam de chumbagem na base, grupo geradores, politrizes, britadeiras, chillers, máquinas de lavar, entre outros. Pertmite a fixação no piso com 4 chumbadores.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 502,
+          "name": "Amortecedores de borracha",
+          "slug": "amortecedores-de-borracha"
         }
       ],
       "image": "/images/products/vibra-stop/chapa-2-furos/foto-1.png",
@@ -137643,7 +137862,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de borracha"
     },
     {
       "id": 200033,
@@ -137658,9 +137878,9 @@
       "description": "<p>Amortecedor de vibração com malha de aço galvanizado para ambientes agressivos a elastômeros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 502,
+          "name": "Amortecedores de borracha",
+          "slug": "amortecedores-de-borracha"
         }
       ],
       "image": "/images/products/vibra-stop/malha-de-aco/foto-1.png",
@@ -137951,7 +138171,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de borracha"
     },
     {
       "id": 200058,
@@ -137966,9 +138187,9 @@
       "description": "<p>Ideais para aplicações em tubos cilíndricos.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 502,
+          "name": "Amortecedores de borracha",
+          "slug": "amortecedores-de-borracha"
         }
       ],
       "image": "/images/products/vibra-stop/tub/foto-1.png",
@@ -138464,7 +138685,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de borracha"
     },
     {
       "id": 200060,
@@ -138479,9 +138701,9 @@
       "description": "<p>Ideais para cortadores de frios, mesas, armários, equipamentos instalados em superfícies lisas, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 535,
+          "name": "Calços, ventosas e arruelas",
+          "slug": "calcos-ventosas-e-arruelas"
         }
       ],
       "image": "/images/products/vibra-stop/ventosa/foto-1.png",
@@ -138719,7 +138941,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Calços, ventosas e arruelas"
     },
     {
       "id": 200065,
@@ -138734,9 +138957,9 @@
       "description": "<p>Ideais para móveis em geral, bancadas, equipamentos de pequeno porte, entre outros.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 502,
+          "name": "Amortecedores de borracha",
+          "slug": "amortecedores-de-borracha"
         }
       ],
       "image": "/images/products/vibra-stop/vs/foto-1.png",
@@ -138931,7 +139154,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de borracha"
     },
     {
       "id": 200002,
@@ -138946,9 +139170,9 @@
       "description": "<p>Ideais para aplicações em esteiras transportadoras, mesas, bancadas, armários, entre outros. *Os modelos III e IV permitem a remoção da base de borracha na parte inferior da peça para furação e fixação no piso.</p>",
       "categories": [
         {
-          "id": 201,
-          "name": "Amortecedores de vibração",
-          "slug": "amortecedores-de-vibracao"
+          "id": 502,
+          "name": "Amortecedores de borracha",
+          "slug": "amortecedores-de-borracha"
         }
       ],
       "image": "/images/products/vibra-stop/articulado/foto-1.png",
@@ -139178,7 +139402,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Amortecedores de borracha"
     },
     {
       "id": 201050,
@@ -139193,14 +139418,9 @@
       "description": "<p>APLICAÇÃO: Máquinas e equipamentos que exigem regulagens precisas. INFORMAÇÕES ADICIONAIS: Alta resistência / Com a opção de cabo giratório para facilitar a regulagem.</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 534,
           "name": "Volantes",
           "slug": "volantes"
-        },
-        {
-          "id": 203,
-          "name": "Plásticos",
-          "slug": "plasticos"
         }
       ],
       "image": "/images/products/merkbak/volante-dois-raios-sem-alma/1.png",
@@ -139342,7 +139562,8 @@
           ]
         }
       ],
-      "homepage": true
+      "homepage": true,
+      "section": "Volantes"
     },
     {
       "id": 201048,
@@ -139357,7 +139578,7 @@
       "description": "<p>Máquinas e equipamentos em geral para a verificação visual do nível de óleo.</p><p><strong>Material:</strong> Acrílico + Oring</p><p><strong>Informações adicionais:</strong> Resistência ao calor = 100°C. Boa resistência ao impacto, óleos e envelhecimento.</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 541,
           "name": "Visores de Óleo",
           "slug": "visores-de-oleo"
         }
@@ -139491,7 +139712,8 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Visores de Óleo"
     },
     {
       "id": 201049,
@@ -139506,7 +139728,7 @@
       "description": "<p>Máquinas e equipamentos em geral para a verificação visual do nível de óleo.</p><p><strong>Material:</strong> Acrílico + Oring</p><p><strong>Informações adicionais:</strong> Resistência ao calor = 100°C. Boa resistência ao impacto, óleos e envelhecimento.</p>",
       "categories": [
         {
-          "id": 202,
+          "id": 541,
           "name": "Visores de Óleo",
           "slug": "visores-de-oleo"
         }
@@ -139640,49 +139862,220 @@
           ]
         }
       ],
-      "homepage": false
+      "homepage": false,
+      "section": "Visores de Óleo"
     }
   ],
   "categories": [
     {
-      "id": 201,
-      "name": "Amortecedores de vibração",
-      "slug": "amortecedores-de-vibracao"
+      "id": 505,
+      "name": "Alavancas",
+      "slug": "alavancas"
     },
     {
-      "id": 205,
+      "id": 501,
+      "name": "Alicates de fixação",
+      "slug": "alicates-de-fixacao"
+    },
+    {
+      "id": 502,
+      "name": "Amortecedores de borracha",
+      "slug": "amortecedores-de-borracha"
+    },
+    {
+      "id": 539,
+      "name": "Amortecedores de mola",
+      "slug": "amortecedores-de-mola"
+    },
+    {
+      "id": 503,
       "name": "Anéis de retenção",
       "slug": "aneis-de-retencao"
     },
     {
-      "id": 212,
-      "name": "Ferramentaria",
-      "slug": "ferramentaria"
+      "id": 536,
+      "name": "Bases antivibratórias",
+      "slug": "bases-antivibratorias"
     },
     {
-      "id": 211,
-      "name": "Fixação e retenção",
-      "slug": "fixacao-e-retencao"
+      "id": 537,
+      "name": "Batentes industriais",
+      "slug": "batentes-industriais"
     },
     {
-      "id": 203,
-      "name": "Plásticos",
-      "slug": "plasticos"
+      "id": 507,
+      "name": "Botões",
+      "slug": "botoes"
     },
     {
-      "id": 204,
-      "name": "Puxador",
-      "slug": "puxador"
+      "id": 508,
+      "name": "Buchas para rolamento",
+      "slug": "buchas-para-rolamento"
     },
     {
-      "id": 210,
-      "name": "Rolamentos e mancais",
-      "slug": "rolamentos-e-mancais"
+      "id": 509,
+      "name": "Cabos",
+      "slug": "cabos"
     },
     {
-      "id": 202,
+      "id": 535,
+      "name": "Calços, ventosas e arruelas",
+      "slug": "calcos-ventosas-e-arruelas"
+    },
+    {
+      "id": 510,
+      "name": "Chaves de Fecho",
+      "slug": "chaves-de-fecho"
+    },
+    {
+      "id": 538,
+      "name": "Coxins amortecedores",
+      "slug": "coxins-amortecedores"
+    },
+    {
+      "id": 512,
+      "name": "Dobradiças",
+      "slug": "dobradicas"
+    },
+    {
+      "id": 513,
+      "name": "Engrenagens",
+      "slug": "engrenagens"
+    },
+    {
+      "id": 514,
+      "name": "Esferas de Baquelite",
+      "slug": "esferas-de-baquelite"
+    },
+    {
+      "id": 516,
+      "name": "Grampos C e sargentos",
+      "slug": "grampos-c-e-sargentos"
+    },
+    {
+      "id": 518,
+      "name": "Grampos horizontais",
+      "slug": "grampos-horizontais"
+    },
+    {
+      "id": 515,
+      "name": "Grampos pneumáticos",
+      "slug": "grampos-pneumaticos"
+    },
+    {
+      "id": 517,
+      "name": "Grampos tensores",
+      "slug": "grampos-tensores"
+    },
+    {
+      "id": 500,
+      "name": "Grampos torpedo",
+      "slug": "grampos-torpedo"
+    },
+    {
+      "id": 521,
+      "name": "Grampos verticais",
+      "slug": "grampos-verticais"
+    },
+    {
+      "id": 520,
+      "name": "Knobs",
+      "slug": "knobs"
+    },
+    {
+      "id": 525,
+      "name": "Maçanetas",
+      "slug": "macanetas"
+    },
+    {
+      "id": 524,
+      "name": "Mancais industriais",
+      "slug": "mancais-industriais"
+    },
+    {
+      "id": 523,
+      "name": "Manípulos",
+      "slug": "manipulos"
+    },
+    {
+      "id": 522,
+      "name": "Manípulos, puxadores e fechos",
+      "slug": "manipulos-puxadores-e-fechos"
+    },
+    {
+      "id": 526,
+      "name": "Manivelas",
+      "slug": "manivelas"
+    },
+    {
+      "id": 506,
+      "name": "Mesas de solda e fusos",
+      "slug": "mesas-de-solda-e-fusos"
+    },
+    {
+      "id": 527,
+      "name": "Molas prato",
+      "slug": "molas-prato"
+    },
+    {
+      "id": 528,
+      "name": "Morsas de aperto rápido",
+      "slug": "morsas-de-aperto-rapido"
+    },
+    {
+      "id": 529,
+      "name": "Olhais de suspensão DIN",
+      "slug": "olhais-de-suspensao-din"
+    },
+    {
+      "id": 540,
+      "name": "Pendurais e amortecedores HVAC",
+      "slug": "pendurais-e-amortecedores-hvac"
+    },
+    {
+      "id": 531,
+      "name": "Pés Niveladores",
+      "slug": "pes-niveladores"
+    },
+    {
+      "id": 530,
+      "name": "Pinos e punções DIN",
+      "slug": "pinos-e-puncoes-din"
+    },
+    {
+      "id": 532,
+      "name": "Ponteiras e mordentes",
+      "slug": "ponteiras-e-mordentes"
+    },
+    {
+      "id": 504,
+      "name": "Porcas e arruelas DIN",
+      "slug": "porcas-e-arruelas-din"
+    },
+    {
+      "id": 519,
+      "name": "Posicionadores e indexadores",
+      "slug": "posicionadores-e-indexadores"
+    },
+    {
+      "id": 511,
+      "name": "Puxadores",
+      "slug": "puxadores"
+    },
+    {
+      "id": 533,
+      "name": "Rolamentos de esferas",
+      "slug": "rolamentos-de-esferas"
+    },
+    {
+      "id": 541,
       "name": "Visores de Óleo",
       "slug": "visores-de-oleo"
+    },
+    {
+      "id": 534,
+      "name": "Volantes",
+      "slug": "volantes"
     }
   ]
 }

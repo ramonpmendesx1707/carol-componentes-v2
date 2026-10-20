@@ -185,17 +185,6 @@ export default function Experience({
   initialProduct?: string;
 }) {
   const [products, setProducts] = useState(initialProducts);
-  const categories = Array.from(
-    new Map(
-      products.flatMap((p) => p.categories).map((c) => [c.name, c]),
-    ).values(),
-  )
-    .map((c) => ({
-      ...c,
-      count: products.filter((p) => p.categories.some((x) => x.name === c.name))
-        .length,
-    }))
-    .sort((a, b) => a.name.localeCompare(b.name, "pt-BR"));
   const suppliers = [...new Set(products.map((p) => p.supplier || p.brand))]
     .filter(Boolean)
     .sort((a, b) => a.localeCompare(b, "pt-BR"));
@@ -259,6 +248,25 @@ export default function Experience({
     [docsOpen, setDocsOpen] = useState(false),
     [docPage, setDocPage] = useState(5),
     [hydrated, setHydrated] = useState(false);
+  const categories = Array.from(
+    new Map(
+      (supplier === "Todos"
+        ? products
+        : products.filter((p) => (p.supplier || p.brand) === supplier)
+      )
+        .flatMap((p) => p.categories)
+        .map((c) => [c.name, c]),
+    ).values(),
+  )
+    .map((c) => ({
+      ...c,
+      count: products.filter(
+        (p) =>
+          (supplier === "Todos" || (p.supplier || p.brand) === supplier) &&
+          p.categories.some((x) => x.name === c.name),
+      ).length,
+    }))
+    .sort((a, b) => a.name.localeCompare(b.name, "pt-BR"));
   const selection = buildSelection(products, quotes, saved);
   const [cnpj, setCnpj] = useState(""),
     [phone, setPhone] = useState(""),
@@ -1106,8 +1114,38 @@ export default function Experience({
               </div>
               <div className="catalog-layout">
                 <aside className="filters">
-                  <div className="filter-title">
-                    <SlidersHorizontal size={18} />
+                  <div className="filter-title supplier-filter-title">
+                    <Building2 size={18} />
+                    <strong>Fornecedor</strong>
+                  </div>
+                  <button
+                    className={supplier === "Todos" ? "selected" : ""}
+                    onClick={() => {
+                      setSupplier("Todos");
+                      setCat("Todas");
+                      setPage(1);
+                    }}
+                  >
+                    Todos os fornecedores <span>{products.length}</span>
+                  </button>
+                  {suppliers.map((name) => (
+                    <button
+                      key={name}
+                      className={supplier === name ? "selected" : ""}
+                      onClick={() => {
+                        setSupplier(name);
+                        setCat("Todas");
+                        setPage(1);
+                      }}
+                    >
+                      {name}
+                      <span>
+                        {products.filter((p) => (p.supplier || p.brand) === name).length}
+                      </span>
+                    </button>
+                  ))}
+                  <div className="filter-title families-filter-title">
+                    <Layers size={18} />
                     <strong>Famílias</strong>
                   </div>
                   <button
@@ -1117,11 +1155,22 @@ export default function Experience({
                       setPage(1);
                     }}
                   >
-                    Todos os componentes <span>{products.length}</span>
+                    {supplier === "Todos"
+                      ? "Todas as famílias"
+                      : `Todas de ${supplier}`}{" "}
+                    <span>
+                      {
+                        products.filter(
+                          (p) =>
+                            supplier === "Todos" ||
+                            (p.supplier || p.brand) === supplier,
+                        ).length
+                      }
+                    </span>
                   </button>
                   {categories.map((c) => (
                     <button
-                      key={c.id}
+                      key={c.name}
                       className={cat === c.name ? "selected" : ""}
                       onClick={() => {
                         setCat(c.name);
@@ -1132,9 +1181,6 @@ export default function Experience({
                       <span>{c.count}</span>
                     </button>
                   ))}
-                  <div className="filter-title supplier-filter-title"><SlidersHorizontal size={18} /><strong>Fornecedor</strong></div>
-                  <button className={supplier === "Todos" ? "selected" : ""} onClick={() => {setSupplier("Todos");setPage(1);}}>Todos os fornecedores <span>{products.length}</span></button>
-                  {suppliers.map(name=><button key={name} className={supplier===name?"selected":""} onClick={()=>{setSupplier(name);setPage(1);}}>{name}<span>{products.filter(p=>(p.supplier||p.brand)===name).length}</span></button>)}
                   <div className="filter-help">
                     <Wrench size={23} />
                     <strong>Não achou a peça?</strong>
