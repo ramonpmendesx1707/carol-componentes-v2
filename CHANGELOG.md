@@ -1,3 +1,9 @@
+# V2 — Catálogo preparado para reconstrução — 19/10/2026
+
+- Catálogo de 50 produtos/290 medidas da V1 arquivado em `data/archive/catalog-v1.json`, fora da listagem ativa, com restauração assistida por `scripts/catalog-restore.mjs`.
+- Catálogo ativo iniciado vazio. API da V2 passa a usar estado próprio `catalog_v2` e o frontend aponta para o Site V2; nenhuma leitura ou gravação de catálogo usa o Site original.
+- TypeScript, build GitHub Pages e build Worker passaram. O acervo antigo e os arquivos técnicos permanecem disponíveis no histórico Git e no arquivo de backup.
+
 # V2 — Base independente — 19/10/2026
 
 - Projeto duplicado a partir da versão 2.7.0 para uma nova linha de evolução, preservando o site anterior sem alterações.
