@@ -3,7 +3,7 @@ import fs from 'node:fs';
 const {chromium}=await import(process.env.CAROL_PLAYWRIGHT_PACKAGE||'playwright');
 const browser=await chromium.launch({headless:true,executablePath:process.env.CAROL_CHROME_EXECUTABLE});
 const page=await browser.newPage({viewport:{width:1440,height:1000}});
-const base=process.env.CAROL_TEST_URL||'http://127.0.0.1:4173/carol-componentes/';
+const base=process.env.CAROL_TEST_URL||'http://127.0.0.1:4173/carol-componentes-v2/';
 const catalog=JSON.parse(fs.readFileSync(new URL('../data/catalog.json',import.meta.url)));
 await page.route('**/api/catalog',r=>r.fulfill({json:{products:catalog.products,revision:1}}));
 await page.route('**/api/manage/**',r=>r.fulfill({json:r.request().url().endsWith('/login')?{token:'qa-only',mustChange:false}:{products:catalog.products,revision:1}}));

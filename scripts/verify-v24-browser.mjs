@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import{readFileSync}from'node:fs';
 const{chromium}=await import(process.env.CAROL_PLAYWRIGHT_PACKAGE||'playwright');
-const base=process.env.CAROL_TEST_URL||'http://127.0.0.1:4173/carol-componentes/';
+const base=process.env.CAROL_TEST_URL||'http://127.0.0.1:4173/carol-componentes-v2/';
 const catalog=JSON.parse(readFileSync(new URL('../data/catalog.json',import.meta.url),'utf8'));
 const browser=await chromium.launch({executablePath:process.env.CAROL_CHROME_EXECUTABLE,headless:true});const page=await browser.newPage({viewport:{width:1440,height:900}});
 const errors=[];page.on('pageerror',e=>errors.push(e.message));

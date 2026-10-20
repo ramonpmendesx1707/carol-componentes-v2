@@ -1,3 +1,10 @@
+# V2 — Base independente — 19/10/2026
+
+- Projeto duplicado a partir da versão 2.7.0 para uma nova linha de evolução, preservando o site anterior sem alterações.
+- Novo repositório e GitHub Pages em `carol-componentes-v2`, com prefixo estático próprio.
+- Novo projeto de hospedagem no ChatGPT Sites, sem reutilizar a identidade de publicação do site congelado.
+- TypeScript e build estático validados antes da primeira publicação da V2.
+
 # 2.7.0 — Identidade oficial em todo o primeiro site — 10/10/2026
 
 - Azul-marinho, dourado e superfícies claras no catálogo, produto, diálogos, validação, privacidade e administração.

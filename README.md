@@ -4,9 +4,9 @@
 
 > Atualização v2.3.0: consulte [administração e integrações](docs/ADMINISTRACAO.md) para o backend compartilhado, autenticação, Excel, CNPJ e e-mail. As limitações antigas de catálogo exclusivamente estático foram substituídas pela arquitetura descrita nesse documento.
 
-# Carol Componentes
+# Carol Componentes V2
 
-Prévia GitHub Pages: https://ramonpmendesx1707.github.io/carol-componentes/ . Repositório público por autorização explícita do proprietário. Publicação automática via Actions; verificar execução para estado atual.
+Publicação GitHub Pages: https://ramonpmendesx1707.github.io/carol-componentes-v2/ . Esta V2 é uma evolução independente; o projeto `carol-componentes` original permanece congelado. Publicação automática via Actions; verificar execução para estado atual.
 
 Versão 2.2 — **Movimento e proximidade**. Identidade azul-marinho e dourado, superfícies claras e composição mecânica que responde à rolagem. Atendimento em Joinville com envio para todo o Brasil. Barlow e Source Sans; marca tipográfica provisória. A primeira proposta permanece no histórico/tag v1.0.0.
 
@@ -16,7 +16,7 @@ Versão 2.2 — **Movimento e proximidade**. Identidade azul-marinho e dourado, 
 - [Instalação, GitHub Pages e domínio oficial](DEPLOY_MANUAL.md)
 - [Regras de continuidade](AGENTS.md)
 
-`npm run install:ci` instala o lockfile. `npm run build:pages` gera a publicação estática em dist-pages; `npm run preview:pages` abre a prévia no prefixo /carol-componentes/. `npm run build` mantém o alvo Worker/Sites. Não são builds intercambiáveis. O pacote estático funciona sem a máquina do autor ou plugin Codex.
+`npm run install:ci` instala o lockfile. `npm run build:pages` gera a publicação estática em dist-pages; `npm run preview:pages` abre a prévia no prefixo /carol-componentes-v2/. `npm run build` mantém o alvo Worker/Sites. Não são builds intercambiáveis. O pacote estático funciona sem a máquina do autor ou plugin Codex.
 
 A seção institucional agora é uma linha do tempo de **quatro marcos históricos/propostos**, com avanço na rolagem; os três passos comerciais foram removidos. Carrossel de marcas, pagamentos e contatos completos integrados.
 

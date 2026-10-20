@@ -1,4 +1,4 @@
-name: Publish Carol on GitHub Pages
+name: Publish Carol V2 on GitHub Pages
 on:
   push:
     branches: [main]
