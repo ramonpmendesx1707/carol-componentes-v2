@@ -107,5 +107,51 @@
   "videos": [],
   "headings": [
     "Vibra-Stop Mola Óctupla"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20OCTUPLA/MO%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20OCTUPLA/MO%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade de Carga\tDeflexão\tParafuso\tDiâmetro Externo Batente\tDiâmetro Externo Mola\tDiâmetro do Arame da Mola\tAltura Chapa a Chapa\tDiâm. do Furo/Dist. entre Furos\nMedidas\tKgf\tmm/Kgf\t(f)\t(D) mm\t(De) mm\t(a) mm\t(H) mm\t(f x t) mm\nMO4000\t4000\t6,60/4.000\t5/8”, 3/4\", 1”\t70\t75\t12,7\t113\t13 x 440\nMO5600\t5600\t5,72/5.600\t5/8”, 3/4\", 1”\t70\t75\t14,5\t113\t13 x 440\nMO8000\t8000\t8,71/8.000\t5/8”, 3/4\", 1”\t70\t75\t16\t113\t13 x 440\nMO12000\t12000\t9,82/12.000\t5/8”, 3/4\", 1”\t70\t79\t17,8\t113\t13 x 440\nMO16000\t16000\t8,58/16.000\t5/8”, 3/4\", 1”\t70\t78\t17,8\t113\t13 x 440\nMO20000\t20000\t10,02/20.000\t5/8”, 3/4\", 1”\t70\t82\t19,5\t113\t13 x 440",
+      "images": [],
+      "videos": [],
+      "tables": [
+        8
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20OCTUPLA/Manual%20de%20Instalacao%20-%20MO.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:58:58.120Z"
 }

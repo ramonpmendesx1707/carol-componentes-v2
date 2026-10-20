@@ -1,0 +1,1072 @@
+{
+  "id": 203012,
+  "slug": "carolfix-pinos-extratores-din-1530",
+  "name": "Pinos Extratores para Moldes DIN 1530 Tipo A",
+  "sku": "DIN 1530 A",
+  "brand": "Padrão DIN",
+  "supplier": "Padrão DIN",
+  "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=25",
+  "type": "product",
+  "summary": "Pinos extratores retificados de cabeça cônica/cilíndrica para matrizes e moldes de injeção.",
+  "description": "<p>Extratores endurecidos e retificados para ferramentas de estampagem e injeção plástica conforme DIN 1530 A.</p>",
+  "categories": [
+    {
+      "id": 212,
+      "name": "Ferramentaria",
+      "slug": "ferramentaria"
+    }
+  ],
+  "image": "/images/products/carolfix/pinos-extratores-din-1530/pagina-25.png",
+  "images": [
+    "/images/products/carolfix/pinos-extratores-din-1530/pagina-25.png"
+  ],
+  "attributes": [
+    {
+      "name": "Norma / Padrão",
+      "value": "DIN 1530 A"
+    },
+    {
+      "name": "Fonte documental",
+      "value": "Catálogo Técnico Carolfix, Página 25"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240686,
+      "sku": "D1 g6",
+      "label": "D1 g6",
+      "attributes": [
+        {
+          "name": "",
+          "value": "D2 -0,2"
+        },
+        {
+          "name": "",
+          "value": "K -0,5"
+        },
+        {
+          "name": "",
+          "value": "R"
+        },
+        {
+          "name": "",
+          "value": "C +2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240687,
+      "sku": "1",
+      "label": "1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "3"
+        },
+        {
+          "name": "",
+          "value": "2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240688,
+      "sku": "D 1,5",
+      "label": "D 1,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "1 D 3"
+        },
+        {
+          "name": "",
+          "value": "2 K *"
+        },
+        {
+          "name": "",
+          "value": "0,2 R"
+        },
+        {
+          "name": "",
+          "value": "C +"
+        },
+        {
+          "name": "",
+          "value": "2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240689,
+      "sku": "2 g",
+      "label": "2 g",
+      "attributes": [
+        {
+          "name": "",
+          "value": "6 4 -0"
+        },
+        {
+          "name": "",
+          "value": ",2 2 -0"
+        },
+        {
+          "name": "",
+          "value": ",5"
+        },
+        {
+          "name": "",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "0 125"
+        },
+        {
+          "name": "",
+          "value": "160"
+        },
+        {
+          "name": "",
+          "value": "20"
+        },
+        {
+          "name": "",
+          "value": "0 25"
+        },
+        {
+          "name": "",
+          "value": "0 31"
+        },
+        {
+          "name": "",
+          "value": "5 40"
+        },
+        {
+          "name": "",
+          "value": "0 50"
+        },
+        {
+          "name": "",
+          "value": "0 63"
+        },
+        {
+          "name": "",
+          "value": "0 80"
+        },
+        {
+          "name": "",
+          "value": "0 100"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240690,
+      "sku": "2,5",
+      "label": "2,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240691,
+      "sku": "1",
+      "label": "1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "0"
+        },
+        {
+          "name": "",
+          "value": "4 16 8"
+        },
+        {
+          "name": "",
+          "value": "5 3"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240692,
+      "sku": "1",
+      "label": "1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "2"
+        },
+        {
+          "name": "",
+          "value": "5 18 1"
+        },
+        {
+          "name": "",
+          "value": "0 7 3"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240693,
+      "sku": "1",
+      "label": "1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "4"
+        },
+        {
+          "name": "",
+          "value": "6 22 1"
+        },
+        {
+          "name": "",
+          "value": "2 7 5"
+        },
+        {
+          "name": "",
+          "value": "0,8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240694,
+      "sku": "1",
+      "label": "1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "8 22 1"
+        },
+        {
+          "name": "",
+          "value": "4 7 5"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240695,
+      "sku": "2",
+      "label": "2",
+      "attributes": [
+        {
+          "name": "",
+          "value": "0 1"
+        },
+        {
+          "name": "",
+          "value": "0 26 1"
+        },
+        {
+          "name": "",
+          "value": "6 8 5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240696,
+      "sku": "2",
+      "label": "2",
+      "attributes": [
+        {
+          "name": "",
+          "value": "5 1"
+        },
+        {
+          "name": "",
+          "value": "2 32 1"
+        },
+        {
+          "name": "",
+          "value": "8 10 7"
+        },
+        {
+          "name": "",
+          "value": "1,0"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240697,
+      "sku": "3",
+      "label": "3",
+      "attributes": [
+        {
+          "name": "",
+          "value": "2 1"
+        },
+        {
+          "name": "",
+          "value": "4 40 2"
+        },
+        {
+          "name": "",
+          "value": "2 10 7"
+        },
+        {
+          "name": "",
+          "value": "0,8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240698,
+      "sku": "16 22 7 Aço h13 - DIN 1.2344 - Nitretado e Retificado. Possuímos também em estoque medidas especiais como: 20 26 8 Dureza superficial do corpo: 65 + 2 HRC. Cabeça forjada com dureza de 45 ± 5 D1 = 3,2 - 4,2 - 4,5 - 5,5 - 6,5 - 7 - 8,5 - 9 - 11 *k = 12,55mm ou 322mm (favo10r consul1ta,0r com atecedência) HRC. Núlceo de grande tenacidade com dureza aprox. 40 HRC Outra3s2 medida4s0 sob enco10menda. Pinos de alta qualidade e precisão são indicados para extração em moldes de a = Mais Fabricados injeção de plástico, zamak ou alumínio.",
+      "label": "16 22 7 Aço h13 - DIN 1.2344 - Nitretado e Retificado. Possuímos também em estoque medidas especiais como: 20 26 8 Dureza superficial do corpo: 65 + 2 HRC. Cabeça forjada com dureza de 45 ± 5 D1 = 3,2 - 4,2 - 4,5 - 5,5 - 6,5 - 7 - 8,5 - 9 - 11 *k = 12,55mm ou 322mm (favo10r consul1ta,0r com atecedência) HRC. Núlceo de grande tenacidade com dureza aprox. 40 HRC Outra3s2 medida4s0 sob enco10menda. Pinos de alta qualidade e precisão são indicados para extração em moldes de a = Mais Fabricados injeção de plástico, zamak ou alumínio.",
+      "attributes": [
+        {
+          "name": "",
+          "value": "16 22 7 Aço h13 - DIN 1.2344 - Nitretado e Retificado. ossuímos também em estoque medidas especiais como: 20 26 8 Dureza superficial do corpo: 65 + 2 HRC. Cabeça forjada com dureza de 45 ± 5 1 = 3,2 - 4,2 - 4,5 - 5,5 - 6,5 - 7 - 8,5 - 9 - 11 = 12,55mm ou 322mm (favo10r consul1ta,0r com atecedência) HRC. Núlceo de grande tenacidade com dureza aprox. 40 HRC utra3s2 medida4s0 sob enco10menda. Pinos de alta qualidade e precisão são indicados para extração em moldes de"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240699,
+      "sku": "Possuem mesmos diâmetros, espessuras e acabamentos da tabela acima com comprimetimento máximo de 400mm. Para solicitação substituir as iniciais do código PA por PB. São fabricados em aço WS (aço prata tungstenado). Corpo com têmpera total de 60-62 HRC. Cabeça forjada com dureza de 45 + 5 HRC. Esta classe de pinos tipo B não é indicada para moldes de injeção de alumínio ou zamak.",
+      "label": "Possuem mesmos diâmetros, espessuras e acabamentos da tabela acima com comprimetimento máximo de 400mm. Para solicitação substituir as iniciais do código PA por PB. São fabricados em aço WS (aço prata tungstenado). Corpo com têmpera total de 60-62 HRC. Cabeça forjada com dureza de 45 + 5 HRC. Esta classe de pinos tipo B não é indicada para moldes de injeção de alumínio ou zamak.",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240700,
+      "sku": "D1 DI g6",
+      "label": "D1 DI g6",
+      "attributes": [
+        {
+          "name": "",
+          "value": "D2 N 153 -0,2"
+        },
+        {
+          "name": "",
+          "value": "D3 0 C g6"
+        },
+        {
+          "name": "",
+          "value": "K -0,05"
+        },
+        {
+          "name": "",
+          "value": "R +0,2"
+        },
+        {
+          "name": "",
+          "value": "C1 -2"
+        },
+        {
+          "name": "",
+          "value": "C +2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240701,
+      "sku": "1",
+      "label": "1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "D ,5 g"
+        },
+        {
+          "name": "",
+          "value": "1 6"
+        },
+        {
+          "name": "",
+          "value": "D 6 -0"
+        },
+        {
+          "name": "",
+          "value": "2 ,2"
+        },
+        {
+          "name": "",
+          "value": "3 g"
+        },
+        {
+          "name": "",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "3-0,"
+        },
+        {
+          "name": "",
+          "value": "05"
+        },
+        {
+          "name": "",
+          "value": "0,3+0,"
+        },
+        {
+          "name": "",
+          "value": "50"
+        },
+        {
+          "name": "",
+          "value": "PC1"
+        },
+        {
+          "name": "",
+          "value": "-5100"
+        },
+        {
+          "name": "",
+          "value": "PC1-5125"
+        },
+        {
+          "name": "",
+          "value": "PC1-51"
+        },
+        {
+          "name": "",
+          "value": "C + 50"
+        },
+        {
+          "name": "",
+          "value": "2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240702,
+      "sku": "2",
+      "label": "2",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240703,
+      "sku": "2",
+      "label": "2",
+      "attributes": [
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "4"
+        },
+        {
+          "name": "",
+          "value": "2"
+        },
+        {
+          "name": "",
+          "value": "2"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "75 50"
+        },
+        {
+          "name": "",
+          "value": "PC2"
+        },
+        {
+          "name": "",
+          "value": "-5100"
+        },
+        {
+          "name": "",
+          "value": "PC2"
+        },
+        {
+          "name": "",
+          "value": "-5125"
+        },
+        {
+          "name": "",
+          "value": "PC"
+        },
+        {
+          "name": "",
+          "value": "2-5150"
+        },
+        {
+          "name": "",
+          "value": "PC012"
+        },
+        {
+          "name": "",
+          "value": "00"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Catálogo Técnico Carolfix (Página 25)",
+      "url": "/downloads/catalogo-carol-componentes.pdf#page=25",
+      "kind": "pdf",
+      "note": "Referência técnica oficial extraída do catálogo histórico de 60 páginas."
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela Técnica Dimensional — Página 25",
+      "columns": [
+        "PINOS EXTRATORES tipo A DIN 1530",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "D1 g6",
+          "",
+          "D2 -0,2",
+          "K -0,5",
+          "R",
+          "",
+          "C +2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "",
+          "3",
+          "2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "D 1,5",
+          "",
+          "1 D 3",
+          "2 K *",
+          "0,2 R",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "C +",
+          "2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2 g",
+          "",
+          "6 4 -0",
+          ",2 2 -0",
+          ",5",
+          "",
+          "10",
+          "0 125",
+          "",
+          "160",
+          "20",
+          "0 25",
+          "",
+          "0 31",
+          "5 40",
+          "",
+          "0 50",
+          "",
+          "0 63",
+          "0 80",
+          "",
+          "0 100",
+          ""
+        ],
+        [
+          "2,5",
+          "",
+          "",
+          "2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "0",
+          "4 16 8",
+          "5 3",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "2",
+          "5 18 1",
+          "0 7 3",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "4",
+          "6 22 1",
+          "2 7 5",
+          "0,8",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "6",
+          "8 22 1",
+          "4 7 5",
+          "0,5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2",
+          "0 1",
+          "0 26 1",
+          "6 8 5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2",
+          "5 1",
+          "2 32 1",
+          "8 10 7",
+          "1,0",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3",
+          "2 1",
+          "4 40 2",
+          "2 10 7",
+          "0,8",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "16 22 7 Aço h13 - DIN 1.2344 - Nitretado e Retificado. Possuímos também em estoque medidas especiais como: 20 26 8 Dureza superficial do corpo: 65 + 2 HRC. Cabeça forjada com dureza de 45 ± 5 D1 = 3,2 - 4,2 - 4,5 - 5,5 - 6,5 - 7 - 8,5 - 9 - 11 *k = 12,55mm ou 322mm (favo10r consul1ta,0r com atecedência) HRC. Núlceo de grande tenacidade com dureza aprox. 40 HRC Outra3s2 medida4s0 sob enco10menda. Pinos de alta qualidade e precisão são indicados para extração em moldes de a = Mais Fabricados injeção de plástico, zamak ou alumínio.",
+          "16 22 7 Aço h13 - DIN 1.2344 - Nitretado e Retificado. ossuímos também em estoque medidas especiais como: 20 26 8 Dureza superficial do corpo: 65 + 2 HRC. Cabeça forjada com dureza de 45 ± 5 1 = 3,2 - 4,2 - 4,5 - 5,5 - 6,5 - 7 - 8,5 - 9 - 11 = 12,55mm ou 322mm (favo10r consul1ta,0r com atecedência) HRC. Núlceo de grande tenacidade com dureza aprox. 40 HRC utra3s2 medida4s0 sob enco10menda. Pinos de alta qualidade e precisão são indicados para extração em moldes de",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Possuem mesmos diâmetros, espessuras e acabamentos da tabela acima com comprimetimento máximo de 400mm. Para solicitação substituir as iniciais do código PA por PB. São fabricados em aço WS (aço prata tungstenado). Corpo com têmpera total de 60-62 HRC. Cabeça forjada com dureza de 45 + 5 HRC. Esta classe de pinos tipo B não é indicada para moldes de injeção de alumínio ou zamak.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "D1 DI g6",
+          "",
+          "D2 N 153 -0,2",
+          "",
+          "D3 0 C g6",
+          "",
+          "K -0,05",
+          "",
+          "R +0,2",
+          "",
+          "C1 -2",
+          "",
+          "C +2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "D ,5 g",
+          "1 6",
+          "D 6 -0",
+          "2 ,2",
+          "3 g",
+          "6",
+          "3-0,",
+          "05",
+          "0,3+0,",
+          "",
+          "50",
+          "PC1",
+          "-5100",
+          "PC1-5125",
+          "",
+          "PC1-51",
+          "",
+          "C + 50",
+          "2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2",
+          "",
+          "1",
+          "4",
+          "",
+          "2",
+          "",
+          "2",
+          "",
+          "0,2",
+          "",
+          "75 50",
+          "PC2",
+          "-5100",
+          "PC2",
+          "-5125",
+          "PC",
+          "2-5150",
+          "",
+          "",
+          "PC012",
+          "00",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "note": "Dados extraídos diretamente da página 25 do catálogo técnico Carolfix."
+    }
+  ],
+  "homepage": false
+}

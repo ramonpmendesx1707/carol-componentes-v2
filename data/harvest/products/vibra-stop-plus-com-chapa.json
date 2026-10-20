@@ -36,7 +36,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240184,
+      "id": 210239,
       "sku": "MPCC30",
       "label": "MPCC30",
       "attributes": [
@@ -74,7 +74,7 @@
       "image": null
     },
     {
-      "id": 240185,
+      "id": 210240,
       "sku": "MPCC50",
       "label": "MPCC50",
       "attributes": [
@@ -112,7 +112,7 @@
       "image": null
     },
     {
-      "id": 240186,
+      "id": 210241,
       "sku": "MPCC100",
       "label": "MPCC100",
       "attributes": [
@@ -150,7 +150,7 @@
       "image": null
     },
     {
-      "id": 240187,
+      "id": 210242,
       "sku": "MPCC200",
       "label": "MPCC200",
       "attributes": [
@@ -188,7 +188,7 @@
       "image": null
     },
     {
-      "id": 240188,
+      "id": 210243,
       "sku": "MPCC300",
       "label": "MPCC300",
       "attributes": [
@@ -226,7 +226,7 @@
       "image": null
     },
     {
-      "id": 240189,
+      "id": 210244,
       "sku": "MPCC400",
       "label": "MPCC400",
       "attributes": [
@@ -264,7 +264,7 @@
       "image": null
     },
     {
-      "id": 240190,
+      "id": 210245,
       "sku": "MPCC500",
       "label": "MPCC500",
       "attributes": [
@@ -302,7 +302,7 @@
       "image": null
     },
     {
-      "id": 240191,
+      "id": 210246,
       "sku": "MPCC700",
       "label": "MPCC700",
       "attributes": [
@@ -340,7 +340,7 @@
       "image": null
     },
     {
-      "id": 240192,
+      "id": 210247,
       "sku": "MPCC1000",
       "label": "MPCC1000",
       "attributes": [
@@ -378,7 +378,7 @@
       "image": null
     },
     {
-      "id": 240193,
+      "id": 210248,
       "sku": "MPCC1500",
       "label": "MPCC1500",
       "attributes": [
@@ -422,6 +422,12 @@
       "url": "/downloads/products/vibra-stop/plus-com-chapa/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Plus%20Com%20Chapa.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [],

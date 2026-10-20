@@ -1,0 +1,386 @@
+{
+  "id": 202013,
+  "slug": "kifix-grampos-horizontais-reforcados",
+  "name": "Grampos horizontais reforçados",
+  "sku": "Grampos horizontais reforçados",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampos-horizontais-reforcados/grampos-horizontais-reforcados/",
+  "type": "product",
+  "summary": "Linha Grampos horizontais reforçados Kifix modelo Grampos horizontais reforçados, com 4 referências dimensionais.",
+  "description": "<p>Linha Grampos horizontais reforçados Kifix modelo Grampos horizontais reforçados, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampos horizontais reforçados",
+      "slug": "grampos-horizontais-reforcados"
+    }
+  ],
+  "image": "/images/products/kifix/grampos-horizontais-reforcados/foto-1.png",
+  "images": [
+    "/images/products/kifix/grampos-horizontais-reforcados/foto-1.png",
+    "/images/products/kifix/grampos-horizontais-reforcados/foto-2.png",
+    "/images/products/kifix/grampos-horizontais-reforcados/foto-3.png",
+    "/images/products/kifix/grampos-horizontais-reforcados/foto-4.png",
+    "/images/products/kifix/grampos-horizontais-reforcados/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampos horizontais reforçados"
+    }
+  ],
+  "weight": "0,17 (0,37)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230084,
+      "sku": "KF-524 D",
+      "label": "KF-524 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "130 (286)"
+        },
+        {
+          "name": "A (in)",
+          "value": "34,4 (1,35)"
+        },
+        {
+          "name": "B (in)",
+          "value": "167 (6,57)"
+        },
+        {
+          "name": "C (in)",
+          "value": "19 (0,74)"
+        },
+        {
+          "name": "D (in)",
+          "value": "13,5 (0,53)"
+        },
+        {
+          "name": "E (in)",
+          "value": "17 (0,66)"
+        },
+        {
+          "name": "F (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "G (in)",
+          "value": "27 (1,06)"
+        },
+        {
+          "name": "H (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "J (in)",
+          "value": "4,5 (1,77)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M6"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "69"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,17 (0,37)"
+        }
+      ],
+      "weight": "0,17 (0,37)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230085,
+      "sku": "KF-525 D",
+      "label": "KF-525 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "230 (507)"
+        },
+        {
+          "name": "A (in)",
+          "value": "51,5 (2,02)"
+        },
+        {
+          "name": "B (in)",
+          "value": "242 (9,52)"
+        },
+        {
+          "name": "C (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "D (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "E (in)",
+          "value": "27 (1,06)"
+        },
+        {
+          "name": "F (in)",
+          "value": "42,5 (1,67)"
+        },
+        {
+          "name": "G (in)",
+          "value": "47 (1,85)"
+        },
+        {
+          "name": "H (in)",
+          "value": "64,5 (2,53)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7 (0,27)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M6"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "69"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,47 (1,03)"
+        }
+      ],
+      "weight": "0,47 (1,03)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230086,
+      "sku": "KF-527 D",
+      "label": "KF-527 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "230 (507)"
+        },
+        {
+          "name": "A (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "B (in)",
+          "value": "258 (10,15)"
+        },
+        {
+          "name": "C (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "D (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "E (in)",
+          "value": "29,9 (1,17)"
+        },
+        {
+          "name": "F (in)",
+          "value": "42,5 (1,67)"
+        },
+        {
+          "name": "G (in)",
+          "value": "46,9 (1,84)"
+        },
+        {
+          "name": "H (in)",
+          "value": "72 (2,83)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7 (0,27)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M6"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "69"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,60 (1,32)"
+        }
+      ],
+      "weight": "0,60 (1,32)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230087,
+      "sku": "KF-528 D",
+      "label": "KF-528 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "240 (529)"
+        },
+        {
+          "name": "A (in)",
+          "value": "70,8 (2,78)"
+        },
+        {
+          "name": "B (in)",
+          "value": "305 (12,00)"
+        },
+        {
+          "name": "C (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "D (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "E (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "F (in)",
+          "value": "62 (2,44)"
+        },
+        {
+          "name": "G (in)",
+          "value": "63,5 (2,50)"
+        },
+        {
+          "name": "H (in)",
+          "value": "93 (3,66)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M8"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "69"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,03 (2,27)"
+        }
+      ],
+      "weight": "1,03 (2,27)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "PONTEIRA",
+        "ÂNGULO DE ABERTURA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-524 D",
+          "130 (286)",
+          "34,4 (1,35)",
+          "167 (6,57)",
+          "19 (0,74)",
+          "13,5 (0,53)",
+          "17 (0,66)",
+          "25,4 (1,00)",
+          "27 (1,06)",
+          "42 (1,65)",
+          "4,5 (1,77)",
+          "M6",
+          "69",
+          "0,17 (0,37)"
+        ],
+        [
+          "KF-525 D",
+          "230 (507)",
+          "51,5 (2,02)",
+          "242 (9,52)",
+          "26 (1,02)",
+          "26 (1,02)",
+          "27 (1,06)",
+          "42,5 (1,67)",
+          "47 (1,85)",
+          "64,5 (2,53)",
+          "7 (0,27)",
+          "M6",
+          "69",
+          "0,47 (1,03)"
+        ],
+        [
+          "KF-527 D",
+          "230 (507)",
+          "60 (2,36)",
+          "258 (10,15)",
+          "35 (1,37)",
+          "26 (1,02)",
+          "29,9 (1,17)",
+          "42,5 (1,67)",
+          "46,9 (1,84)",
+          "72 (2,83)",
+          "7 (0,27)",
+          "M6",
+          "69",
+          "0,60 (1,32)"
+        ],
+        [
+          "KF-528 D",
+          "240 (529)",
+          "70,8 (2,78)",
+          "305 (12,00)",
+          "41 (1,61)",
+          "42 (1,65)",
+          "41 (1,61)",
+          "62 (2,44)",
+          "63,5 (2,50)",
+          "93 (3,66)",
+          "8,5 (0,33)",
+          "M8",
+          "69",
+          "1,03 (2,27)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/grampos-horizontais-reforcados/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

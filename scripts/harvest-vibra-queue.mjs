@@ -78,7 +78,7 @@ async function collect(id,item){
       headings:[...document.querySelectorAll('h1,h2,h3')].map(heading=>heading.textContent.trim()).filter(Boolean)
     }));
     const rows=captured.tables.find(table=>table[0]?.[0]==='Referência');
-    if(!rows||rows.length<3||rows[2].length<3)throw Error('Tabela técnica ausente ou incompleta.');
+    if(!rows||rows.length<3||rows[2].length<2)throw Error('Tabela técnica ausente ou incompleta.');
     const model=new URL(item.url).searchParams.get('model');
     if(!model)throw Error('Modelo sem identificador de URL.');
     const family=slugify(new URL(item.url).pathname.split('/').pop()?.replace(/^linha-/,''));

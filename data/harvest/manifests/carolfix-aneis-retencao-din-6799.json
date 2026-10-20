@@ -1,0 +1,5254 @@
+{
+  "source": "PDF pág. 18",
+  "product": {
+    "id": 203001,
+    "slug": "carolfix-aneis-retencao-din-6799",
+    "name": "Anéis de Retenção Rápida DIN 6799",
+    "sku": "DIN 6799",
+    "brand": "Seeger-Orbis",
+    "supplier": "Seeger-Orbis",
+    "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=18",
+    "type": "product",
+    "summary": "Anéis de retenção tipo ferradura para eixos de diâmetro reduzido conforme norma DIN 6799.",
+    "description": "<p>Anéis de travamento radial rápido série DIN 6799 para montagem por pressão em eixos sem necessidade de alicate especial.</p>",
+    "categories": [
+      {
+        "id": 211,
+        "name": "Fixação e retenção",
+        "slug": "fixacao-e-retencao"
+      }
+    ],
+    "image": "/images/products/carolfix/aneis-retencao-din-6799/pagina-18.png",
+    "images": [
+      "/images/products/carolfix/aneis-retencao-din-6799/pagina-18.png"
+    ],
+    "attributes": [
+      {
+        "name": "Norma / Padrão",
+        "value": "DIN 6799"
+      },
+      {
+        "name": "Fonte documental",
+        "value": "Catálogo Técnico Carolfix, Página 18"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240001,
+        "sku": "RS-1,2",
+        "label": "RS-1,2",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "1,4"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,9"
+          },
+          {
+            "name": "RANHURA",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "0 -0,06"
+          },
+          {
+            "name": "",
+            "value": "0,34"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240002,
+        "sku": "RS-1,5",
+        "label": "RS-1,5",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "0,4"
+          },
+          {
+            "name": "",
+            "value": "3,9"
+          },
+          {
+            "name": "RANHURA",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "0 -0,06"
+          },
+          {
+            "name": "",
+            "value": "0,44"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240003,
+        "sku": "RS-1,9",
+        "label": "RS-1,9",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "1,9"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "4,4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "1,9"
+          },
+          {
+            "name": "",
+            "value": "0 -0,06"
+          },
+          {
+            "name": "",
+            "value": "0,54"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240004,
+        "sku": "RS-2,3",
+        "label": "RS-2,3",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "2,3"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "0,6"
+          },
+          {
+            "name": "",
+            "value": "5,9"
+          },
+          {
+            "name": "RANHURA",
+            "value": "2,3"
+          },
+          {
+            "name": "",
+            "value": "0 -0,06"
+          },
+          {
+            "name": "",
+            "value": "0,64"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240005,
+        "sku": "RS-3,2",
+        "label": "RS-3,2",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "3,2"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "0,6"
+          },
+          {
+            "name": "",
+            "value": "6,9"
+          },
+          {
+            "name": "RANHURA",
+            "value": "3,2"
+          },
+          {
+            "name": "",
+            "value": "0 -0,75"
+          },
+          {
+            "name": "",
+            "value": "0,64"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240006,
+        "sku": "RS-4,0",
+        "label": "RS-4,0",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "0,7"
+          },
+          {
+            "name": "",
+            "value": "8,85"
+          },
+          {
+            "name": "RANHURA",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "0 -0,75"
+          },
+          {
+            "name": "",
+            "value": "0,74"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240007,
+        "sku": "RS-5,0",
+        "label": "RS-5,0",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "0,7"
+          },
+          {
+            "name": "",
+            "value": "10,85"
+          },
+          {
+            "name": "RANHURA",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "0 -0,75"
+          },
+          {
+            "name": "",
+            "value": "0,74"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240008,
+        "sku": "RS-6,0",
+        "label": "RS-6,0",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "9"
+          },
+          {
+            "name": "",
+            "value": "0,7"
+          },
+          {
+            "name": "",
+            "value": "11,8"
+          },
+          {
+            "name": "RANHURA",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "0 -0,75"
+          },
+          {
+            "name": "",
+            "value": "0,74"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240009,
+        "sku": "RS-7,0",
+        "label": "RS-7,0",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "0,9"
+          },
+          {
+            "name": "",
+            "value": "13,8"
+          },
+          {
+            "name": "RANHURA",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "0 -0,09"
+          },
+          {
+            "name": "",
+            "value": "0,94"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240010,
+        "sku": "RS-8,0",
+        "label": "RS-8,0",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "9"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "15,75"
+          },
+          {
+            "name": "RANHURA",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "0 -0,09"
+          },
+          {
+            "name": "",
+            "value": "1,05"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240011,
+        "sku": "RS-9,0",
+        "label": "RS-9,0",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "9"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "18,2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "9"
+          },
+          {
+            "name": "",
+            "value": "0 -0,11"
+          },
+          {
+            "name": "",
+            "value": "1,15"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240012,
+        "sku": "RS-10,0",
+        "label": "RS-10,0",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "15"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "19,7"
+          },
+          {
+            "name": "RANHURA",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "0 -0,11"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240013,
+        "sku": "RS-12,0",
+        "label": "RS-12,0",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "13"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "1,3"
+          },
+          {
+            "name": "",
+            "value": "22,7"
+          },
+          {
+            "name": "RANHURA",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "0 -0,11"
+          },
+          {
+            "name": "",
+            "value": "1,35"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240014,
+        "sku": "RS-15,0",
+        "label": "RS-15,0",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "15"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "24"
+          },
+          {
+            "name": "",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "28,7"
+          },
+          {
+            "name": "RANHURA",
+            "value": "15"
+          },
+          {
+            "name": "",
+            "value": "0 -0,13"
+          },
+          {
+            "name": "",
+            "value": "1,55"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240015,
+        "sku": "RS-19,0",
+        "label": "RS-19,0",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "19"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "31"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "36,7"
+          },
+          {
+            "name": "RANHURA",
+            "value": "19"
+          },
+          {
+            "name": "",
+            "value": "0 -0,13"
+          },
+          {
+            "name": "",
+            "value": "1,8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240016,
+        "sku": "SP-030",
+        "label": "SP-030",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "30"
+          },
+          {
+            "name": "",
+            "value": "1,12"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "3,25"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "27,4"
+          },
+          {
+            "name": "",
+            "value": "0,4"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,4"
+          },
+          {
+            "name": "Col 10",
+            "value": "28,17"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,25"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,35"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240017,
+        "sku": "SP-032",
+        "label": "SP-032",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "32"
+          },
+          {
+            "name": "",
+            "value": "1,12"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "3,25"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "29,4"
+          },
+          {
+            "name": "",
+            "value": "0,4"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,4"
+          },
+          {
+            "name": "Col 10",
+            "value": "30,15"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,25"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,35"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240018,
+        "sku": "SP-035",
+        "label": "SP-035",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "35"
+          },
+          {
+            "name": "",
+            "value": "1,12"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "3,25"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "32,4"
+          },
+          {
+            "name": "",
+            "value": "0,4"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,4"
+          },
+          {
+            "name": "Col 10",
+            "value": "33,17"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,25"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,35"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240019,
+        "sku": "SP-037",
+        "label": "SP-037",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "37"
+          },
+          {
+            "name": "",
+            "value": "1,12"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "3,25"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "34"
+          },
+          {
+            "name": "",
+            "value": "0,4"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,4"
+          },
+          {
+            "name": "Col 10",
+            "value": "34,77"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,25"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,35"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240020,
+        "sku": "SP-040",
+        "label": "SP-040",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "40"
+          },
+          {
+            "name": "",
+            "value": "1,12"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "3,25"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "37,3"
+          },
+          {
+            "name": "",
+            "value": "0,4"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,4"
+          },
+          {
+            "name": "Col 10",
+            "value": "38,1"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,25"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,35"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240021,
+        "sku": "SP-042",
+        "label": "SP-042",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "42"
+          },
+          {
+            "name": "",
+            "value": "1,12"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "3,25"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "38,9"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,4"
+          },
+          {
+            "name": "Col 10",
+            "value": "39,75"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,25"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,35"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240022,
+        "sku": "SP-044",
+        "label": "SP-044",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "44"
+          },
+          {
+            "name": "",
+            "value": "1,12"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "3,25"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "40,9"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,4"
+          },
+          {
+            "name": "Col 10",
+            "value": "41,75"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,25"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,35"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240023,
+        "sku": "SP-047",
+        "label": "SP-047",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "47"
+          },
+          {
+            "name": "",
+            "value": "1,12"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,04"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "43,7"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,4"
+          },
+          {
+            "name": "Col 10",
+            "value": "44,6"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,25"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,35"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240024,
+        "sku": "SP-050",
+        "label": "SP-050",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "50"
+          },
+          {
+            "name": "",
+            "value": "1,12"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,04"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "46,7"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,4"
+          },
+          {
+            "name": "Col 10",
+            "value": "47,6"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,25"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,35"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240025,
+        "sku": "SP-052",
+        "label": "SP-052",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "52"
+          },
+          {
+            "name": "",
+            "value": "1,12"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,04"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "48,8"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,4"
+          },
+          {
+            "name": "Col 10",
+            "value": "49,73"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,25"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,35"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240026,
+        "sku": "SP-055",
+        "label": "SP-055",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "55"
+          },
+          {
+            "name": "",
+            "value": "1,12"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,04"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "51,7"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,4"
+          },
+          {
+            "name": "Col 10",
+            "value": "52,6"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,25"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,35"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240027,
+        "sku": "SP-056",
+        "label": "SP-056",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "56"
+          },
+          {
+            "name": "",
+            "value": "1,12"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,04"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "52,4"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,4"
+          },
+          {
+            "name": "Col 10",
+            "value": "53,6"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,25"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,35"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240028,
+        "sku": "SP-058",
+        "label": "SP-058",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "58"
+          },
+          {
+            "name": "",
+            "value": "1,12"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,04"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "54,4"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,4"
+          },
+          {
+            "name": "Col 10",
+            "value": "55,6"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,25"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,35"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240029,
+        "sku": "SP-062",
+        "label": "SP-062",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "62"
+          },
+          {
+            "name": "",
+            "value": "1,7"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,04"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "58,2"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,4"
+          },
+          {
+            "name": "Col 10",
+            "value": "59,61"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,9"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240030,
+        "sku": "SP-065",
+        "label": "SP-065",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "65"
+          },
+          {
+            "name": "",
+            "value": "1,7"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,04"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "61,2"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,4"
+          },
+          {
+            "name": "Col 10",
+            "value": "62,6"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,9"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240031,
+        "sku": "SP-068",
+        "label": "SP-068",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "68"
+          },
+          {
+            "name": "",
+            "value": "1,7"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,85"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "63,4"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,6"
+          },
+          {
+            "name": "Col 10",
+            "value": "64,82"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,9"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240032,
+        "sku": "SP-072",
+        "label": "SP-072",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "72"
+          },
+          {
+            "name": "",
+            "value": "1,7"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,85"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "67,4"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,6"
+          },
+          {
+            "name": "Col 10",
+            "value": "68,81"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,9"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240033,
+        "sku": "SP-075",
+        "label": "SP-075",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "75"
+          },
+          {
+            "name": "",
+            "value": "1,7"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,85"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "70,4"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,6"
+          },
+          {
+            "name": "Col 10",
+            "value": "71,83"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,9"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240034,
+        "sku": "SP-080",
+        "label": "SP-080",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "80"
+          },
+          {
+            "name": "",
+            "value": "1,7"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,85"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "75,4"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,6"
+          },
+          {
+            "name": "Col 10",
+            "value": "76,81"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,9"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240035,
+        "sku": "SP-085",
+        "label": "SP-085",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "85"
+          },
+          {
+            "name": "",
+            "value": "1,7"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,85"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "80,4"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,6"
+          },
+          {
+            "name": "Col 10",
+            "value": "81,81"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "1,9"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240036,
+        "sku": "SP-090",
+        "label": "SP-090",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "90"
+          },
+          {
+            "name": "",
+            "value": "2,46"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,85"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "85,4"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,6"
+          },
+          {
+            "name": "Col 10",
+            "value": "86,79"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "2,7"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240037,
+        "sku": "SP-095",
+        "label": "SP-095",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "95"
+          },
+          {
+            "name": "",
+            "value": "2,46"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,85"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "90,4"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,7"
+          },
+          {
+            "name": "Col 10",
+            "value": "91,82"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "2,7"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240038,
+        "sku": "SP-100",
+        "label": "SP-100",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "100"
+          },
+          {
+            "name": "",
+            "value": "2,46"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,85"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "95,2"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,7"
+          },
+          {
+            "name": "Col 10",
+            "value": "96,8"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "2,7"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240039,
+        "sku": "SP-110",
+        "label": "SP-110",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "110"
+          },
+          {
+            "name": "",
+            "value": "2,46"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,85"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "105,2"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,7"
+          },
+          {
+            "name": "Col 10",
+            "value": "106,81"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "2,7"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240040,
+        "sku": "SP-115",
+        "label": "SP-115",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "115"
+          },
+          {
+            "name": "",
+            "value": "2,46"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "4,85"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "110,2"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,7"
+          },
+          {
+            "name": "Col 10",
+            "value": "111,81"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "2,7"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240041,
+        "sku": "SP-120",
+        "label": "SP-120",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "120"
+          },
+          {
+            "name": "",
+            "value": "2,82"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "7,21"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "113,6"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,7"
+          },
+          {
+            "name": "Col 10",
+            "value": "115,21"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "3,1"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240042,
+        "sku": "SP-125",
+        "label": "SP-125",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "125"
+          },
+          {
+            "name": "",
+            "value": "2,82"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "7,21"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "118,6"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,7"
+          },
+          {
+            "name": "Col 10",
+            "value": "120,22"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "3,1"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240043,
+        "sku": "SP-130",
+        "label": "SP-130",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "130"
+          },
+          {
+            "name": "",
+            "value": "2,82"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "7,21"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "123,6"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,7"
+          },
+          {
+            "name": "Col 10",
+            "value": "125,22"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "3,1"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240044,
+        "sku": "SP-140",
+        "label": "SP-140",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "140"
+          },
+          {
+            "name": "",
+            "value": "2,82"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "7,21"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "133"
+          },
+          {
+            "name": "",
+            "value": "1,6"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,7"
+          },
+          {
+            "name": "Col 10",
+            "value": "135,23"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "3,1"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240045,
+        "sku": "SP-145",
+        "label": "SP-145",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "145"
+          },
+          {
+            "name": "",
+            "value": "2,82"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "7,21"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "138"
+          },
+          {
+            "name": "",
+            "value": "1,6"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,7"
+          },
+          {
+            "name": "Col 10",
+            "value": "140,23"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "3,1"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240046,
+        "sku": "SP-150",
+        "label": "SP-150",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "150"
+          },
+          {
+            "name": "",
+            "value": "2,82"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "7,21"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "142,9"
+          },
+          {
+            "name": "",
+            "value": "1,6"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,7"
+          },
+          {
+            "name": "Col 10",
+            "value": "145,24"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "3,1"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240047,
+        "sku": "SP-160",
+        "label": "SP-160",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "160"
+          },
+          {
+            "name": "",
+            "value": "2,82"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "7,21"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "152,9"
+          },
+          {
+            "name": "",
+            "value": "1,6"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,7"
+          },
+          {
+            "name": "Col 10",
+            "value": "155,22"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "3,1"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240048,
+        "sku": "SP-170",
+        "label": "SP-170",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "170"
+          },
+          {
+            "name": "",
+            "value": "3,1"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "9,6"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "161,3"
+          },
+          {
+            "name": "",
+            "value": "1,6"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,7"
+          },
+          {
+            "name": "Col 10",
+            "value": "163,65"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "3,5"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240049,
+        "sku": "SP-180",
+        "label": "SP-180",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "180"
+          },
+          {
+            "name": "",
+            "value": "3,1"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "9,6"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "171,2"
+          },
+          {
+            "name": "",
+            "value": "1,6"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,7"
+          },
+          {
+            "name": "Col 10",
+            "value": "173,66"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "3,5"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240050,
+        "sku": "SP-190",
+        "label": "SP-190",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "190"
+          },
+          {
+            "name": "",
+            "value": "3,1"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "9,6"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "181"
+          },
+          {
+            "name": "",
+            "value": "1,8"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,7"
+          },
+          {
+            "name": "Col 10",
+            "value": "183,64"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "3,5"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240051,
+        "sku": "SP-200",
+        "label": "SP-200",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "200"
+          },
+          {
+            "name": "",
+            "value": "3,1"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "9,6"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "191"
+          },
+          {
+            "name": "",
+            "value": "1,8"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "Col 9",
+            "value": "0,7"
+          },
+          {
+            "name": "Col 10",
+            "value": "193,65"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "3,5"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240052,
+        "sku": "SP-210",
+        "label": "SP-210",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "210"
+          },
+          {
+            "name": "",
+            "value": "3,1"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "9,6"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "200,9"
+          },
+          {
+            "name": "",
+            "value": "1,8"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "Col 9",
+            "value": "1,2"
+          },
+          {
+            "name": "Col 10",
+            "value": "203,6"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "3,5"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240053,
+        "sku": "SP-215",
+        "label": "SP-215",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "215"
+          },
+          {
+            "name": "",
+            "value": "3,1"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "9,6"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "205,9"
+          },
+          {
+            "name": "",
+            "value": "1,8"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "Col 9",
+            "value": "1,2"
+          },
+          {
+            "name": "Col 10",
+            "value": "208,6"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "3,5"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240054,
+        "sku": "SP-225",
+        "label": "SP-225",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "225"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "214,6"
+          },
+          {
+            "name": "",
+            "value": "1,8"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "Col 9",
+            "value": "1,2"
+          },
+          {
+            "name": "Col 10",
+            "value": "217"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "4,5"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240055,
+        "sku": "SP-230",
+        "label": "SP-230",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "230"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "219,2"
+          },
+          {
+            "name": "",
+            "value": "1,8"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "Col 9",
+            "value": "1,2"
+          },
+          {
+            "name": "Col 10",
+            "value": "222"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "4,5"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240056,
+        "sku": "SP-240",
+        "label": "SP-240",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "240"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "229,2"
+          },
+          {
+            "name": "",
+            "value": "1,8"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "Col 9",
+            "value": "1,2"
+          },
+          {
+            "name": "Col 10",
+            "value": "232"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "4,5"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240057,
+        "sku": "SP-250",
+        "label": "SP-250",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "250"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "-0,15"
+          },
+          {
+            "name": "RANHURA",
+            "value": "239,2"
+          },
+          {
+            "name": "",
+            "value": "1,8"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "Col 9",
+            "value": "1,2"
+          },
+          {
+            "name": "Col 10",
+            "value": "242"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "4,5"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240058,
+        "sku": "SP-260",
+        "label": "SP-260",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "260"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "-0,3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "247,5"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "Col 9",
+            "value": "1,2"
+          },
+          {
+            "name": "Col 10",
+            "value": "252"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "4,5"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240059,
+        "sku": "SP-270",
+        "label": "SP-270",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "270"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "-0,3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "257,5"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "Col 9",
+            "value": "1,2"
+          },
+          {
+            "name": "Col 10",
+            "value": "262"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "4,5"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240060,
+        "sku": "SP-280",
+        "label": "SP-280",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "280"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "-0,3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "267,3"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "Col 9",
+            "value": "1,2"
+          },
+          {
+            "name": "Col 10",
+            "value": "272"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "4,5"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240061,
+        "sku": "SP-290",
+        "label": "SP-290",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "290"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "-0,1"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "-0,3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "277,5"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "Col 9",
+            "value": "1,2"
+          },
+          {
+            "name": "Col 10",
+            "value": "282"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "4,5"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240062,
+        "sku": "SP-300",
+        "label": "SP-300",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "300"
+          },
+          {
+            "name": "",
+            "value": "4,5"
+          },
+          {
+            "name": "",
+            "value": "-0,2"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "-0,3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "284,5"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "Col 9",
+            "value": "1,5"
+          },
+          {
+            "name": "Col 10",
+            "value": "290"
+          },
+          {
+            "name": "Col 11",
+            "value": "-0,5"
+          },
+          {
+            "name": "Col 12",
+            "value": "5,5"
+          },
+          {
+            "name": "Col 13",
+            "value": "0,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240063,
+        "sku": "525.015",
+        "label": "525.015",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,4"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240064,
+        "sku": "525.020",
+        "label": "525.020",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,85"
+          },
+          {
+            "name": "",
+            "value": "6,5"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "15"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240065,
+        "sku": "525.030",
+        "label": "525.030",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "2,8"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "20"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240066,
+        "sku": "525.035",
+        "label": "525.035",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "0,4"
+          },
+          {
+            "name": "",
+            "value": "3,3"
+          },
+          {
+            "name": "",
+            "value": "8,2"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "21"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240067,
+        "sku": "525.040",
+        "label": "525.040",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "3,8"
+          },
+          {
+            "name": "",
+            "value": "9"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "22"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240068,
+        "sku": "525.050",
+        "label": "525.050",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "4,8"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "23"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240069,
+        "sku": "525.060",
+        "label": "525.060",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "5,8"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "24"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240070,
+        "sku": "525.070",
+        "label": "525.070",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "6,8"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240071,
+        "sku": "525.080",
+        "label": "525.080",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "7,75"
+          },
+          {
+            "name": "",
+            "value": "13"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240072,
+        "sku": "525.090",
+        "label": "525.090",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "9"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "8,75"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "RANHURA",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "30"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240073,
+        "sku": "525.100",
+        "label": "525.100",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "9,75"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "RANHURA",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "32"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240074,
+        "sku": "525.120",
+        "label": "525.120",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "11,7"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "RANHURA",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "35"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240075,
+        "sku": "525.140",
+        "label": "525.140",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "13,7"
+          },
+          {
+            "name": "",
+            "value": "20,5"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "RANHURA",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "40"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240076,
+        "sku": "525.150",
+        "label": "525.150",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "15"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "14,6"
+          },
+          {
+            "name": "",
+            "value": "23"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "RANHURA",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "60"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240077,
+        "sku": "525.160",
+        "label": "525.160",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "0,4"
+          },
+          {
+            "name": "",
+            "value": "45,6"
+          },
+          {
+            "name": "",
+            "value": "24,5"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "RANHURA",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "70"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240078,
+        "sku": "525.170",
+        "label": "525.170",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "17"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "16,6"
+          },
+          {
+            "name": "",
+            "value": "26"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "RANHURA",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "80"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240079,
+        "sku": "525.180",
+        "label": "525.180",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "0,4"
+          },
+          {
+            "name": "",
+            "value": "17,6"
+          },
+          {
+            "name": "",
+            "value": "27"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "RANHURA",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "85"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240080,
+        "sku": "525.190",
+        "label": "525.190",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "19"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "18,6"
+          },
+          {
+            "name": "",
+            "value": "28"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "RANHURA",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "90"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240081,
+        "sku": "525.200",
+        "label": "525.200",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "19,5"
+          },
+          {
+            "name": "",
+            "value": "29"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "RANHURA",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "95"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240082,
+        "sku": "525.220",
+        "label": "525.220",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "22"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "21,5"
+          },
+          {
+            "name": "",
+            "value": "31"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "RANHURA",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240083,
+        "sku": "525.230",
+        "label": "525.230",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "23"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "22,5"
+          },
+          {
+            "name": "",
+            "value": "31,5"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "RANHURA",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "105"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240084,
+        "sku": "525.250",
+        "label": "525.250",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "24,5"
+          },
+          {
+            "name": "",
+            "value": "34"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "RANHURA",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "110"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240085,
+        "sku": "525.280",
+        "label": "525.280",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "28"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "27,5"
+          },
+          {
+            "name": "",
+            "value": "37"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "RANHURA",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "120"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240086,
+        "sku": "525.300",
+        "label": "525.300",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "30"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "29,5"
+          },
+          {
+            "name": "",
+            "value": "40"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "RANHURA",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "130"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Catálogo Técnico Carolfix (Página 18)",
+        "url": "/downloads/catalogo-carol-componentes.pdf#page=18",
+        "kind": "pdf",
+        "note": "Referência técnica oficial extraída do catálogo histórico de 60 páginas."
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela Técnica Dimensional — Página 18",
+        "columns": [
+          "Código",
+          "Dimensões (mm)",
+          "",
+          "",
+          "",
+          "",
+          "RANHURA",
+          "",
+          ""
+        ],
+        "rows": [
+          [
+            "RS-1,2",
+            "1,2",
+            "1,4",
+            "2",
+            "0,3",
+            "2,9",
+            "1,2",
+            "0 -0,06",
+            "0,34"
+          ],
+          [
+            "RS-1,5",
+            "1,5",
+            "2",
+            "2,5",
+            "0,4",
+            "3,9",
+            "1,5",
+            "0 -0,06",
+            "0,44"
+          ],
+          [
+            "RS-1,9",
+            "1,9",
+            "2,5",
+            "3",
+            "0,5",
+            "4,4",
+            "1,9",
+            "0 -0,06",
+            "0,54"
+          ],
+          [
+            "RS-2,3",
+            "2,3",
+            "3",
+            "4",
+            "0,6",
+            "5,9",
+            "2,3",
+            "0 -0,06",
+            "0,64"
+          ],
+          [
+            "RS-3,2",
+            "3,2",
+            "4",
+            "5",
+            "0,6",
+            "6,9",
+            "3,2",
+            "0 -0,75",
+            "0,64"
+          ],
+          [
+            "RS-4,0",
+            "4",
+            "5",
+            "7",
+            "0,7",
+            "8,85",
+            "4",
+            "0 -0,75",
+            "0,74"
+          ],
+          [
+            "RS-5,0",
+            "5",
+            "6",
+            "8",
+            "0,7",
+            "10,85",
+            "5",
+            "0 -0,75",
+            "0,74"
+          ],
+          [
+            "RS-6,0",
+            "6",
+            "7",
+            "9",
+            "0,7",
+            "11,8",
+            "6",
+            "0 -0,75",
+            "0,74"
+          ],
+          [
+            "RS-7,0",
+            "7",
+            "8",
+            "11",
+            "0,9",
+            "13,8",
+            "7",
+            "0 -0,09",
+            "0,94"
+          ],
+          [
+            "RS-8,0",
+            "8",
+            "9",
+            "12",
+            "1",
+            "15,75",
+            "8",
+            "0 -0,09",
+            "1,05"
+          ],
+          [
+            "RS-9,0",
+            "9",
+            "10",
+            "14",
+            "1,1",
+            "18,2",
+            "9",
+            "0 -0,11",
+            "1,15"
+          ],
+          [
+            "RS-10,0",
+            "10",
+            "11",
+            "15",
+            "1,2",
+            "19,7",
+            "10",
+            "0 -0,11",
+            "1,25"
+          ],
+          [
+            "RS-12,0",
+            "12",
+            "13",
+            "18",
+            "1,3",
+            "22,7",
+            "12",
+            "0 -0,11",
+            "1,35"
+          ],
+          [
+            "RS-15,0",
+            "15",
+            "16",
+            "24",
+            "1,5",
+            "28,7",
+            "15",
+            "0 -0,13",
+            "1,55"
+          ],
+          [
+            "RS-19,0",
+            "19",
+            "20",
+            "31",
+            "1,75",
+            "36,7",
+            "19",
+            "0 -0,13",
+            "1,8"
+          ],
+          [
+            "SP-030",
+            "30",
+            "1,12",
+            "-0,1",
+            "3,25",
+            "-0,15",
+            "27,4",
+            "0,4",
+            "3",
+            "0,4",
+            "28,17",
+            "-0,25",
+            "1,35",
+            "0,3"
+          ],
+          [
+            "SP-032",
+            "32",
+            "1,12",
+            "-0,1",
+            "3,25",
+            "-0,15",
+            "29,4",
+            "0,4",
+            "3",
+            "0,4",
+            "30,15",
+            "-0,25",
+            "1,35",
+            "0,3"
+          ],
+          [
+            "SP-035",
+            "35",
+            "1,12",
+            "-0,1",
+            "3,25",
+            "-0,15",
+            "32,4",
+            "0,4",
+            "3",
+            "0,4",
+            "33,17",
+            "-0,25",
+            "1,35",
+            "0,3"
+          ],
+          [
+            "SP-037",
+            "37",
+            "1,12",
+            "-0,1",
+            "3,25",
+            "-0,15",
+            "34",
+            "0,4",
+            "3",
+            "0,4",
+            "34,77",
+            "-0,25",
+            "1,35",
+            "0,3"
+          ],
+          [
+            "SP-040",
+            "40",
+            "1,12",
+            "-0,1",
+            "3,25",
+            "-0,15",
+            "37,3",
+            "0,4",
+            "3",
+            "0,4",
+            "38,1",
+            "-0,25",
+            "1,35",
+            "0,3"
+          ],
+          [
+            "SP-042",
+            "42",
+            "1,12",
+            "-0,1",
+            "3,25",
+            "-0,15",
+            "38,9",
+            "0,5",
+            "3",
+            "0,4",
+            "39,75",
+            "-0,25",
+            "1,35",
+            "0,3"
+          ],
+          [
+            "SP-044",
+            "44",
+            "1,12",
+            "-0,1",
+            "3,25",
+            "-0,15",
+            "40,9",
+            "0,5",
+            "3",
+            "0,4",
+            "41,75",
+            "-0,25",
+            "1,35",
+            "0,3"
+          ],
+          [
+            "SP-047",
+            "47",
+            "1,12",
+            "-0,1",
+            "4,04",
+            "-0,15",
+            "43,7",
+            "0,5",
+            "4",
+            "0,4",
+            "44,6",
+            "-0,25",
+            "1,35",
+            "0,3"
+          ],
+          [
+            "SP-050",
+            "50",
+            "1,12",
+            "-0,1",
+            "4,04",
+            "-0,15",
+            "46,7",
+            "0,5",
+            "4",
+            "0,4",
+            "47,6",
+            "-0,25",
+            "1,35",
+            "0,3"
+          ],
+          [
+            "SP-052",
+            "52",
+            "1,12",
+            "-0,1",
+            "4,04",
+            "-0,15",
+            "48,8",
+            "0,5",
+            "4",
+            "0,4",
+            "49,73",
+            "-0,25",
+            "1,35",
+            "0,3"
+          ],
+          [
+            "SP-055",
+            "55",
+            "1,12",
+            "-0,1",
+            "4,04",
+            "-0,15",
+            "51,7",
+            "0,5",
+            "4",
+            "0,4",
+            "52,6",
+            "-0,25",
+            "1,35",
+            "0,3"
+          ],
+          [
+            "SP-056",
+            "56",
+            "1,12",
+            "-0,1",
+            "4,04",
+            "-0,15",
+            "52,4",
+            "0,8",
+            "4",
+            "0,4",
+            "53,6",
+            "-0,25",
+            "1,35",
+            "0,3"
+          ],
+          [
+            "SP-058",
+            "58",
+            "1,12",
+            "-0,1",
+            "4,04",
+            "-0,15",
+            "54,4",
+            "0,8",
+            "4",
+            "0,4",
+            "55,6",
+            "-0,25",
+            "1,35",
+            "0,3"
+          ],
+          [
+            "SP-062",
+            "62",
+            "1,7",
+            "-0,1",
+            "4,04",
+            "-0,15",
+            "58,2",
+            "0,8",
+            "4",
+            "0,4",
+            "59,61",
+            "-0,5",
+            "1,9",
+            "0,3"
+          ],
+          [
+            "SP-065",
+            "65",
+            "1,7",
+            "-0,1",
+            "4,04",
+            "-0,15",
+            "61,2",
+            "0,8",
+            "4",
+            "0,4",
+            "62,6",
+            "-0,5",
+            "1,9",
+            "0,3"
+          ],
+          [
+            "SP-068",
+            "68",
+            "1,7",
+            "-0,1",
+            "4,85",
+            "-0,15",
+            "63,4",
+            "0,8",
+            "5",
+            "0,6",
+            "64,82",
+            "-0,5",
+            "1,9",
+            "0,3"
+          ],
+          [
+            "SP-072",
+            "72",
+            "1,7",
+            "-0,1",
+            "4,85",
+            "-0,15",
+            "67,4",
+            "0,8",
+            "5",
+            "0,6",
+            "68,81",
+            "-0,5",
+            "1,9",
+            "0,3"
+          ],
+          [
+            "SP-075",
+            "75",
+            "1,7",
+            "-0,1",
+            "4,85",
+            "-0,15",
+            "70,4",
+            "0,8",
+            "5",
+            "0,6",
+            "71,83",
+            "-0,5",
+            "1,9",
+            "0,3"
+          ],
+          [
+            "SP-080",
+            "80",
+            "1,7",
+            "-0,1",
+            "4,85",
+            "-0,15",
+            "75,4",
+            "0,8",
+            "5",
+            "0,6",
+            "76,81",
+            "-0,5",
+            "1,9",
+            "0,3"
+          ],
+          [
+            "SP-085",
+            "85",
+            "1,7",
+            "-0,1",
+            "4,85",
+            "-0,15",
+            "80,4",
+            "0,8",
+            "5",
+            "0,6",
+            "81,81",
+            "-0,5",
+            "1,9",
+            "0,3"
+          ],
+          [
+            "SP-090",
+            "90",
+            "2,46",
+            "-0,1",
+            "4,85",
+            "-0,15",
+            "85,4",
+            "0,8",
+            "5",
+            "0,6",
+            "86,79",
+            "-0,5",
+            "2,7",
+            "0,3"
+          ],
+          [
+            "SP-095",
+            "95",
+            "2,46",
+            "-0,1",
+            "4,85",
+            "-0,15",
+            "90,4",
+            "0,8",
+            "5",
+            "0,7",
+            "91,82",
+            "-0,5",
+            "2,7",
+            "0,3"
+          ],
+          [
+            "SP-100",
+            "100",
+            "2,46",
+            "-0,1",
+            "4,85",
+            "-0,15",
+            "95,2",
+            "1",
+            "5",
+            "0,7",
+            "96,8",
+            "-0,5",
+            "2,7",
+            "0,3"
+          ],
+          [
+            "SP-110",
+            "110",
+            "2,46",
+            "-0,1",
+            "4,85",
+            "-0,15",
+            "105,2",
+            "1",
+            "5",
+            "0,7",
+            "106,81",
+            "-0,5",
+            "2,7",
+            "0,3"
+          ],
+          [
+            "SP-115",
+            "115",
+            "2,46",
+            "-0,1",
+            "4,85",
+            "-0,15",
+            "110,2",
+            "1",
+            "5",
+            "0,7",
+            "111,81",
+            "-0,5",
+            "2,7",
+            "0,3"
+          ],
+          [
+            "SP-120",
+            "120",
+            "2,82",
+            "-0,1",
+            "7,21",
+            "-0,15",
+            "113,6",
+            "1",
+            "7",
+            "0,7",
+            "115,21",
+            "-0,5",
+            "3,1",
+            "0,3"
+          ],
+          [
+            "SP-125",
+            "125",
+            "2,82",
+            "-0,1",
+            "7,21",
+            "-0,15",
+            "118,6",
+            "1",
+            "7",
+            "0,7",
+            "120,22",
+            "-0,5",
+            "3,1",
+            "0,3"
+          ],
+          [
+            "SP-130",
+            "130",
+            "2,82",
+            "-0,1",
+            "7,21",
+            "-0,15",
+            "123,6",
+            "1",
+            "7",
+            "0,7",
+            "125,22",
+            "-0,5",
+            "3,1",
+            "0,3"
+          ],
+          [
+            "SP-140",
+            "140",
+            "2,82",
+            "-0,1",
+            "7,21",
+            "-0,15",
+            "133",
+            "1,6",
+            "7",
+            "0,7",
+            "135,23",
+            "-0,5",
+            "3,1",
+            "0,3"
+          ],
+          [
+            "SP-145",
+            "145",
+            "2,82",
+            "-0,1",
+            "7,21",
+            "-0,15",
+            "138",
+            "1,6",
+            "7",
+            "0,7",
+            "140,23",
+            "-0,5",
+            "3,1",
+            "0,3"
+          ],
+          [
+            "SP-150",
+            "150",
+            "2,82",
+            "-0,1",
+            "7,21",
+            "-0,15",
+            "142,9",
+            "1,6",
+            "7",
+            "0,7",
+            "145,24",
+            "-0,5",
+            "3,1",
+            "0,3"
+          ],
+          [
+            "SP-160",
+            "160",
+            "2,82",
+            "-0,1",
+            "7,21",
+            "-0,15",
+            "152,9",
+            "1,6",
+            "7",
+            "0,7",
+            "155,22",
+            "-0,5",
+            "3,1",
+            "0,3"
+          ],
+          [
+            "SP-170",
+            "170",
+            "3,1",
+            "-0,1",
+            "9,6",
+            "-0,15",
+            "161,3",
+            "1,6",
+            "10",
+            "0,7",
+            "163,65",
+            "-0,5",
+            "3,5",
+            "0,3"
+          ],
+          [
+            "SP-180",
+            "180",
+            "3,1",
+            "-0,1",
+            "9,6",
+            "-0,15",
+            "171,2",
+            "1,6",
+            "10",
+            "0,7",
+            "173,66",
+            "-0,5",
+            "3,5",
+            "0,3"
+          ],
+          [
+            "SP-190",
+            "190",
+            "3,1",
+            "-0,1",
+            "9,6",
+            "-0,15",
+            "181",
+            "1,8",
+            "10",
+            "0,7",
+            "183,64",
+            "-0,5",
+            "3,5",
+            "0,3"
+          ]
+        ],
+        "note": "Dados extraídos diretamente da página 18 do catálogo técnico Carolfix."
+      }
+    ],
+    "homepage": false
+  },
+  "checks": {
+    "variants": 86,
+    "pdfPage": 18
+  }
+}

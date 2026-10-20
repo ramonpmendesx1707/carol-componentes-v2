@@ -1,0 +1,185 @@
+{
+  "id": 201022,
+  "slug": "merkbak-dp-dobradica-plana-180",
+  "name": "DP – Dobradiça Plana 180º",
+  "sku": "DP",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/dobradica-plana-180o/",
+  "type": "product",
+  "summary": "Em porta embutida ou sobreposta para gabinetes individuais ou acoplados. Fixação na estrutura e na porta através de parafusos e porcas",
+  "description": "<p>Em porta embutida ou sobreposta para gabinetes individuais ou acoplados. Fixação na estrutura e na porta através de parafusos e porcas</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro + pino aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Abertura de 180°</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Plásticos",
+      "slug": "plasticos"
+    }
+  ],
+  "image": "/images/products/merkbak/dp-dobradica-plana-180/1.png",
+  "images": [
+    "/images/products/merkbak/dp-dobradica-plana-180/1.png",
+    "/images/products/merkbak/dp-dobradica-plana-180/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Nylon reforçado com fibra de vidro + pino aço carbono zincado"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial texturizado na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Em porta embutida ou sobreposta para gabinetes individuais ou acoplados. Fixação na estrutura e na porta através de parafusos e porcas"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Abertura de 180°"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220088,
+      "sku": "DP 4958 DIRETA",
+      "label": "DP 4958 DIRETA",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "DP 4958 DIRETA"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220089,
+      "sku": "DP 4958 ESQUERDA",
+      "label": "DP 4958 ESQUERDA",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "DP 4958 ESQUERDA"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220090,
+      "sku": "DP 4978 DIRETA",
+      "label": "DP 4978 DIRETA",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "DP 4978 DIRETA"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220091,
+      "sku": "DP 4978 ESQUERDA",
+      "label": "DP 4978 ESQUERDA",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "DP 4978 ESQUERDA"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220092,
+      "sku": "DP 4998 DIRETA",
+      "label": "DP 4998 DIRETA",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "DP 4998 DIRETA"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220093,
+      "sku": "DP 4998 ESQUERDA",
+      "label": "DP 4998 ESQUERDA",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "DP 4998 ESQUERDA"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Nylon reforçado com fibra de vidro + pino aço carbono zincado"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial texturizado na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Em porta embutida ou sobreposta para gabinetes individuais ou acoplados. Fixação na estrutura e na porta através de parafusos e porcas"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Abertura de 180°"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "DP 4958 DIRETA"
+        },
+        {
+          "name": "Medida",
+          "value": "DP 4958 ESQUERDA"
+        },
+        {
+          "name": "Medida",
+          "value": "DP 4978 DIRETA"
+        },
+        {
+          "name": "Medida",
+          "value": "DP 4978 ESQUERDA"
+        },
+        {
+          "name": "Medida",
+          "value": "DP 4998 DIRETA"
+        },
+        {
+          "name": "Medida",
+          "value": "DP 4998 ESQUERDA"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

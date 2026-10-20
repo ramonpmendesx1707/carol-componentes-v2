@@ -151,5 +151,51 @@
   "videos": [],
   "headings": [
     "Vibra-Stop Mola Quádrupla"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20QUADRUPLA/MQ%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20QUADRUPLA/MQ%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade de Carga\tDeflexão\tParafuso\tDiâmetro Externo Batente\tDiâmetro Externo Mola\tDiâmetro do Arame da Mola\tAltura Chapa a Chapa\tDiâm. do Furo/Dist. entre Furos\nMedidas\tKgf\tmm/Kgf\t(d)\t(D) mm\t(De) mm\t(a) mm\t(H) mm\t(f x t) mm\nMQ400\t400\t4,95/400\t5/8”, 3/4\", 1”\t70\t58\t7,5\t89\t10 x 190\nMQ800\t800\t8,10/800\t5/8”, 3/4\", 1”\t70\t62\t9,5\t89\t10 x 190\nMQ1200\t1200\t6,12/1.200\t5/8”, 3/4\", 1”\t70\t63\t10\t89\t10 x 190\nMQ1600\t1600\t6,62/1.600\t5/8”, 3/4\", 1”\t70\t65\t11\t89\t10 x 190\nMQ2000\t2000\t6,60/2.000\t5/8”, 3/4\", 1”\t70\t68,4\t12,7\t109\t10 x 190\nMQ2800\t2800\t5,72/2.800\t5/8”, 3/4\", 1”\t70\t72\t14,5\t109\t10 x 190\nMQ4000\t4000\t8,71/4.000\t5/8”, 3/4\", 1”\t70\t75\t16\t109\t10 x 190\nMQ6000\t6000\t9,82/6.000\t5/8”, 3/4\", 1”\t70\t79\t17,8\t113\t10 x 210\nMQ8000\t8000\t9,58/8.000\t5/8”, 3/4\", 1”\t70\t78\t17,8\t113\t10 x 210\nMQ10000\t10000\t10,02/10.000\t5/8”, 3/4\", 1”\t70\t82\t19,5\t113\t10 x 210",
+      "images": [],
+      "videos": [],
+      "tables": [
+        12
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20QUADRUPLA/Manual%20de%20Instalacao%20-%20MQ.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:59:23.764Z"
 }

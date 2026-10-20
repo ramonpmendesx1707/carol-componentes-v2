@@ -1,0 +1,368 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-vip?model=vip-com-2-chapas&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:46:40.306Z",
+  "product": {
+    "id": 200061,
+    "slug": "vibra-stop-vip-com-2-chapas",
+    "name": "Vibra-Stop Mola Vip Com 2 Chapas",
+    "sku": "Vip Com 2 Chapas",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-vip?model=vip-com-2-chapas&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para aplicações em bombas de piscina, motores e equipamentos de pequena dimensão e peso.",
+    "description": "<p>Ideais para aplicações em bombas de piscina, motores e equipamentos de pequena dimensão e peso.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/vip-com-2-chapas/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/vip-com-2-chapas/foto-1.png",
+      "/images/products/vibra-stop/vip-com-2-chapas/foto-2.png",
+      "/images/products/vibra-stop/vip-com-2-chapas/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Aço Inox e Borracha Natural."
+      },
+      {
+        "name": "Materiais informados",
+        "value": "Ferro Nodular"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 210387,
+        "sku": "MVC2C3",
+        "label": "MVC2C3",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "3"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,61/ 3"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "48"
+          },
+          {
+            "name": "Distância entre furos ((t) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "22"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "2"
+          },
+          {
+            "name": "Chumbador (CBA pol.)",
+            "value": "5/16”"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210388,
+        "sku": "MVC2C10",
+        "label": "MVC2C10",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "10"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,10 / 10"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "48"
+          },
+          {
+            "name": "Distância entre furos ((t) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "24"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "3"
+          },
+          {
+            "name": "Chumbador (CBA pol.)",
+            "value": "5/16”"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210389,
+        "sku": "MVC2C20",
+        "label": "MVC2C20",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "20"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,71 / 20"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "48"
+          },
+          {
+            "name": "Distância entre furos ((t) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "24"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "3"
+          },
+          {
+            "name": "Chumbador (CBA pol.)",
+            "value": "5/16”"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210390,
+        "sku": "MVC2C30",
+        "label": "MVC2C30",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "30"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,15 / 30"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "48"
+          },
+          {
+            "name": "Distância entre furos ((t) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "25"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "3,5"
+          },
+          {
+            "name": "Chumbador (CBA pol.)",
+            "value": "5/16”"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/vip-com-2-chapas/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Vip%20Com%202%20Chapas.pdf",
+        "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Altura ((H) mm)",
+          "Distância entre furos ((t) mm)",
+          "Diâmetro Externo Batente ((D) mm)",
+          "Diâmetro Externo Mola ((De) mm)",
+          "Diâmetro do Arame da Mola ((a) mm)",
+          "Chumbador (CBA pol.)"
+        ],
+        "rows": [
+          [
+            "MVC2C3",
+            "3",
+            "6,61/ 3",
+            "48",
+            "65",
+            "30",
+            "22",
+            "2",
+            "5/16”"
+          ],
+          [
+            "MVC2C10",
+            "10",
+            "6,10 / 10",
+            "48",
+            "65",
+            "30",
+            "24",
+            "3",
+            "5/16”"
+          ],
+          [
+            "MVC2C20",
+            "20",
+            "6,71 / 20",
+            "48",
+            "65",
+            "30",
+            "24",
+            "3",
+            "5/16”"
+          ],
+          [
+            "MVC2C30",
+            "30",
+            "6,15 / 30",
+            "48",
+            "65",
+            "30",
+            "25",
+            "3,5",
+            "5/16”"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/vip-com-2-chapas/aplicacao-4.png",
+          "/images/products/vibra-stop/vip-com-2-chapas/aplicacao-5.png",
+          "/images/products/vibra-stop/vip-com-2-chapas/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/vip-com-2-chapas/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20VIP/COM%202%20CHAPAS/MVC2C%201.1.png",
+      "bytes": 145594,
+      "sha256": "3cda17c249e8353f5a972c3eaae0d78779c6685dc3749e0e6965f81ebdb28c6e",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/vip-com-2-chapas/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20VIP/COM%202%20CHAPAS/MVC2C%201.2.png",
+      "bytes": 142346,
+      "sha256": "5e6288f1fba9dc997b6216f64552a8975fe270db751df88603b220629894e477",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/vip-com-2-chapas/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20VIP/COM%202%20CHAPAS/MVC2C%201.0.png",
+      "bytes": 198338,
+      "sha256": "95c7dcc8984a53ac0a4481b66fd0e27e0d75d5d0aad9ed18dc646106f5f1e99e",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/vip-com-2-chapas/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20VIP/MV%201.0.png",
+      "bytes": 134375,
+      "sha256": "333bc71ccc7624509b541efa172377b588b7dc201722efe9121d82582fead834",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/vip-com-2-chapas/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20VIP/MV%201.1.png",
+      "bytes": 237266,
+      "sha256": "f83677f3cc74e239b015bcb52a82eed104412c940085d6e4d0e64739fdc47a4d",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/vip-com-2-chapas/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20VIP/COM%202%20CHAPAS/Manual%20de%20Instalacao%20-%20MVC2C.png",
+      "bytes": 187268,
+      "sha256": "6b9a5940e853bd03a1cbaa1ef2a5dcd8a5905f723f0ac993697466b77e04565d",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/vip-com-2-chapas/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Vip%20Com%202%20Chapas.pdf",
+      "bytes": 682933,
+      "sha256": "ec331b594b2ad723271a9beff3a63dc954bf9ec3fc09ef1b1619638471852c6a",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "vip-com-2-chapas",
+    "tableRows": 4,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T11:00:22.521Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 6,
+    "pdfReconciled2026": true
+  }
+}

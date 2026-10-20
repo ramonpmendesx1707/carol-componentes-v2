@@ -2,7 +2,7 @@
   "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-bat?model=bat&language=pt-BR",
   "fetchedAt": "2026-10-20T06:20:45.201Z",
   "product": {
-    "id": 200012,
+    "id": 200005,
     "slug": "vibra-stop-bat",
     "name": "Vibra-Stop Bat",
     "sku": "Bat",
@@ -35,7 +35,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240058,
+        "id": 210020,
         "sku": "I",
         "label": "I",
         "attributes": [
@@ -81,7 +81,7 @@
         "image": null
       },
       {
-        "id": 240059,
+        "id": 210021,
         "sku": "II",
         "label": "II",
         "attributes": [
@@ -127,7 +127,7 @@
         "image": null
       },
       {
-        "id": 240060,
+        "id": 210022,
         "sku": "III",
         "label": "III",
         "attributes": [
@@ -173,7 +173,7 @@
         "image": null
       },
       {
-        "id": 240061,
+        "id": 210023,
         "sku": "IV",
         "label": "IV",
         "attributes": [
@@ -225,6 +225,12 @@
         "url": "/downloads/products/vibra-stop/bat/ficha-tecnica.pdf",
         "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Bat.pdf",
         "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [
@@ -371,6 +377,18 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 1,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:56:36.643Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Vídeo",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 6,
+    "pdfReconciled2026": true
   }
 }

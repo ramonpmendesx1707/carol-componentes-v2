@@ -1,0 +1,2755 @@
+{
+  "id": 203004,
+  "slug": "carolfix-arruelas-onduladas-din-137",
+  "name": "Arruelas Elásticas Abauldadas e Onduladas DIN 137",
+  "sku": "DIN 137 A/B",
+  "brand": "Padrão DIN",
+  "supplier": "Padrão DIN",
+  "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=20",
+  "type": "product",
+  "summary": "Arruelas mola tipo abaulada (137A) e ondulada (137B) para pré-carga e absorção de vibrações em montagens parafusadas.",
+  "description": "<p>Arruelas elásticas perfiladas conforme DIN 137 para compensação de dilatação térmica e amortecimento axial.</p>",
+  "categories": [
+    {
+      "id": 211,
+      "name": "Fixação e retenção",
+      "slug": "fixacao-e-retencao"
+    }
+  ],
+  "image": "/images/products/carolfix/arruelas-onduladas-din-137/pagina-20.png",
+  "images": [
+    "/images/products/carolfix/arruelas-onduladas-din-137/pagina-20.png"
+  ],
+  "attributes": [
+    {
+      "name": "Norma / Padrão",
+      "value": "DIN 137 A/B"
+    },
+    {
+      "name": "Fonte documental",
+      "value": "Catálogo Técnico Carolfix, Página 20"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240374,
+      "sku": "614.030",
+      "label": "614.030",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "3"
+        },
+        {
+          "name": "",
+          "value": "3,2"
+        },
+        {
+          "name": "",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "0,65"
+        },
+        {
+          "name": "",
+          "value": "1,3"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "±0,05"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240375,
+      "sku": "614.035",
+      "label": "614.035",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "3,5"
+        },
+        {
+          "name": "",
+          "value": "3,7"
+        },
+        {
+          "name": "",
+          "value": "7"
+        },
+        {
+          "name": "",
+          "value": "0,7"
+        },
+        {
+          "name": "",
+          "value": "1,4"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "±0,05"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240376,
+      "sku": "614.040",
+      "label": "614.040",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "4"
+        },
+        {
+          "name": "",
+          "value": "4,3"
+        },
+        {
+          "name": "",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "0,8"
+        },
+        {
+          "name": "",
+          "value": "1,6"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "±0,05"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240377,
+      "sku": "614.050",
+      "label": "614.050",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "5,3"
+        },
+        {
+          "name": "",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "0,9"
+        },
+        {
+          "name": "",
+          "value": "1,8"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "±0,05"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240378,
+      "sku": "614.060",
+      "label": "614.060",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "6,4"
+        },
+        {
+          "name": "",
+          "value": "11"
+        },
+        {
+          "name": "",
+          "value": "1,1"
+        },
+        {
+          "name": "",
+          "value": "2,2"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "±0,05"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240379,
+      "sku": "614.070",
+      "label": "614.070",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "7"
+        },
+        {
+          "name": "",
+          "value": "7,4"
+        },
+        {
+          "name": "",
+          "value": "12"
+        },
+        {
+          "name": "",
+          "value": "1,2"
+        },
+        {
+          "name": "",
+          "value": "2,4"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "±0,05"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240380,
+      "sku": "614.080",
+      "label": "614.080",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "8,4"
+        },
+        {
+          "name": "",
+          "value": "15"
+        },
+        {
+          "name": "",
+          "value": "1,7"
+        },
+        {
+          "name": "",
+          "value": "3,4"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "±0,05"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240381,
+      "sku": "614.100",
+      "label": "614.100",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "10,5"
+        },
+        {
+          "name": "",
+          "value": "18"
+        },
+        {
+          "name": "",
+          "value": "2"
+        },
+        {
+          "name": "",
+          "value": "4"
+        },
+        {
+          "name": "",
+          "value": "0,8"
+        },
+        {
+          "name": "",
+          "value": "±0,06"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240382,
+      "sku": "616.030",
+      "label": "616.030",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "3"
+        },
+        {
+          "name": "",
+          "value": "3,2"
+        },
+        {
+          "name": "",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "0,8"
+        },
+        {
+          "name": "",
+          "value": "1,6"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "±0,05"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240383,
+      "sku": "616.035",
+      "label": "616.035",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "3,5"
+        },
+        {
+          "name": "",
+          "value": "3,7"
+        },
+        {
+          "name": "",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "0,9"
+        },
+        {
+          "name": "",
+          "value": "1,8"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "±0,05"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240384,
+      "sku": "616.040",
+      "label": "616.040",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "4"
+        },
+        {
+          "name": "",
+          "value": "4,3"
+        },
+        {
+          "name": "",
+          "value": "9"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "2"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "±0,05"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240385,
+      "sku": "616.050",
+      "label": "616.050",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "5,3"
+        },
+        {
+          "name": "",
+          "value": "11"
+        },
+        {
+          "name": "",
+          "value": "1,2"
+        },
+        {
+          "name": "",
+          "value": "2,4"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "±0,05"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240386,
+      "sku": "616.060",
+      "label": "616.060",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "6,4"
+        },
+        {
+          "name": "",
+          "value": "12"
+        },
+        {
+          "name": "",
+          "value": "1,3"
+        },
+        {
+          "name": "",
+          "value": "2,6"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "±0,05"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240387,
+      "sku": "616.070",
+      "label": "616.070",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "7"
+        },
+        {
+          "name": "",
+          "value": "7,4"
+        },
+        {
+          "name": "",
+          "value": "15"
+        },
+        {
+          "name": "",
+          "value": "1,5"
+        },
+        {
+          "name": "",
+          "value": "3"
+        },
+        {
+          "name": "",
+          "value": "0,8"
+        },
+        {
+          "name": "",
+          "value": "±0,06"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240388,
+      "sku": "616.080",
+      "label": "616.080",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "8,4"
+        },
+        {
+          "name": "",
+          "value": "17"
+        },
+        {
+          "name": "",
+          "value": "1,7"
+        },
+        {
+          "name": "",
+          "value": "3,4"
+        },
+        {
+          "name": "",
+          "value": "0,8"
+        },
+        {
+          "name": "",
+          "value": "±0,06"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240389,
+      "sku": "616.081",
+      "label": "616.081",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "8,4"
+        },
+        {
+          "name": "",
+          "value": "15"
+        },
+        {
+          "name": "",
+          "value": "1,7"
+        },
+        {
+          "name": "",
+          "value": "3,4"
+        },
+        {
+          "name": "",
+          "value": "0,8"
+        },
+        {
+          "name": "",
+          "value": "±0,06"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240390,
+      "sku": "616.100",
+      "label": "616.100",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "10,5"
+        },
+        {
+          "name": "",
+          "value": "21"
+        },
+        {
+          "name": "",
+          "value": "2,1"
+        },
+        {
+          "name": "",
+          "value": "4,2"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "±0,07"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240391,
+      "sku": "616.101",
+      "label": "616.101",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "10,5"
+        },
+        {
+          "name": "",
+          "value": "18"
+        },
+        {
+          "name": "",
+          "value": "2,1"
+        },
+        {
+          "name": "",
+          "value": "4,2"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "±0,07"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240392,
+      "sku": "616.120",
+      "label": "616.120",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "12"
+        },
+        {
+          "name": "",
+          "value": "13"
+        },
+        {
+          "name": "",
+          "value": "24"
+        },
+        {
+          "name": "",
+          "value": "2,5"
+        },
+        {
+          "name": "",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "1,2"
+        },
+        {
+          "name": "",
+          "value": "±0,07"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240393,
+      "sku": "616.140",
+      "label": "616.140",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "14"
+        },
+        {
+          "name": "",
+          "value": "15"
+        },
+        {
+          "name": "",
+          "value": "28"
+        },
+        {
+          "name": "",
+          "value": "2,9"
+        },
+        {
+          "name": "",
+          "value": "5,8"
+        },
+        {
+          "name": "",
+          "value": "1,5"
+        },
+        {
+          "name": "",
+          "value": "±0,08"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240394,
+      "sku": "616.160",
+      "label": "616.160",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "16"
+        },
+        {
+          "name": "",
+          "value": "17"
+        },
+        {
+          "name": "",
+          "value": "30"
+        },
+        {
+          "name": "",
+          "value": "3,1"
+        },
+        {
+          "name": "",
+          "value": "6,2"
+        },
+        {
+          "name": "",
+          "value": "1,5"
+        },
+        {
+          "name": "",
+          "value": "±0,08"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240395,
+      "sku": "616.180",
+      "label": "616.180",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "18"
+        },
+        {
+          "name": "",
+          "value": "19"
+        },
+        {
+          "name": "",
+          "value": "34"
+        },
+        {
+          "name": "",
+          "value": "3,2"
+        },
+        {
+          "name": "",
+          "value": "6,4"
+        },
+        {
+          "name": "",
+          "value": "1,5"
+        },
+        {
+          "name": "",
+          "value": "±0,08"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240396,
+      "sku": "616.200",
+      "label": "616.200",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "20"
+        },
+        {
+          "name": "",
+          "value": "21"
+        },
+        {
+          "name": "",
+          "value": "36"
+        },
+        {
+          "name": "",
+          "value": "3,7"
+        },
+        {
+          "name": "",
+          "value": "7,4"
+        },
+        {
+          "name": "",
+          "value": "1,6"
+        },
+        {
+          "name": "",
+          "value": "±0,08"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240397,
+      "sku": "616.220",
+      "label": "616.220",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "22"
+        },
+        {
+          "name": "",
+          "value": "23"
+        },
+        {
+          "name": "",
+          "value": "40"
+        },
+        {
+          "name": "",
+          "value": "3,9"
+        },
+        {
+          "name": "",
+          "value": "7,8"
+        },
+        {
+          "name": "",
+          "value": "1,8"
+        },
+        {
+          "name": "",
+          "value": "±0,1"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240398,
+      "sku": "616.240",
+      "label": "616.240",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "24"
+        },
+        {
+          "name": "",
+          "value": "25"
+        },
+        {
+          "name": "",
+          "value": "44"
+        },
+        {
+          "name": "",
+          "value": "4,1"
+        },
+        {
+          "name": "",
+          "value": "8,2"
+        },
+        {
+          "name": "",
+          "value": "1,8"
+        },
+        {
+          "name": "",
+          "value": "±0,1"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240399,
+      "sku": "616.260",
+      "label": "616.260",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "26"
+        },
+        {
+          "name": "",
+          "value": "27"
+        },
+        {
+          "name": "",
+          "value": "50"
+        },
+        {
+          "name": "",
+          "value": "4,5"
+        },
+        {
+          "name": "",
+          "value": "9"
+        },
+        {
+          "name": "",
+          "value": "2"
+        },
+        {
+          "name": "",
+          "value": "±0,1"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240400,
+      "sku": "616.270",
+      "label": "616.270",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "27"
+        },
+        {
+          "name": "",
+          "value": "28"
+        },
+        {
+          "name": "",
+          "value": "50"
+        },
+        {
+          "name": "",
+          "value": "4,7"
+        },
+        {
+          "name": "",
+          "value": "9,4"
+        },
+        {
+          "name": "",
+          "value": "2"
+        },
+        {
+          "name": "",
+          "value": "±0,1"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240401,
+      "sku": "616.280",
+      "label": "616.280",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "28"
+        },
+        {
+          "name": "",
+          "value": "29"
+        },
+        {
+          "name": "",
+          "value": "50"
+        },
+        {
+          "name": "",
+          "value": "4,8"
+        },
+        {
+          "name": "",
+          "value": "9,6"
+        },
+        {
+          "name": "",
+          "value": "2"
+        },
+        {
+          "name": "",
+          "value": "±0,1"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240402,
+      "sku": "616.300",
+      "label": "616.300",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "30"
+        },
+        {
+          "name": "",
+          "value": "31"
+        },
+        {
+          "name": "",
+          "value": "56"
+        },
+        {
+          "name": "",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "2,2"
+        },
+        {
+          "name": "",
+          "value": "±0,1"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240403,
+      "sku": "19-J",
+      "label": "19-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "18,6"
+        },
+        {
+          "name": "",
+          "value": "13,5"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "3,5"
+        },
+        {
+          "name": "",
+          "value": "19"
+        },
+        {
+          "name": "",
+          "value": "635"
+        },
+        {
+          "name": "",
+          "value": "626"
+        },
+        {
+          "name": "Col 8",
+          "value": "607"
+        },
+        {
+          "name": "Col 9",
+          "value": "61800"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240404,
+      "sku": "26-J",
+      "label": "26-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "25,5"
+        },
+        {
+          "name": "",
+          "value": "19,5"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "2,2"
+        },
+        {
+          "name": "",
+          "value": "26"
+        },
+        {
+          "name": "",
+          "value": "6000"
+        },
+        {
+          "name": "",
+          "value": "629"
+        },
+        {
+          "name": "Col 8",
+          "value": "61803"
+        },
+        {
+          "name": "Col 9",
+          "value": "637"
+        },
+        {
+          "name": "Col 10",
+          "value": "7000"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240405,
+      "sku": "30-J",
+      "label": "30-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "29"
+        },
+        {
+          "name": "",
+          "value": "23"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "3,3"
+        },
+        {
+          "name": "",
+          "value": "30"
+        },
+        {
+          "name": "",
+          "value": "6200"
+        },
+        {
+          "name": "",
+          "value": "61903"
+        },
+        {
+          "name": "Col 8",
+          "value": "7200"
+        },
+        {
+          "name": "Col 9",
+          "value": "16101"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240406,
+      "sku": "32-J",
+      "label": "32-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "31,4"
+        },
+        {
+          "name": "",
+          "value": "23,8"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "3,3"
+        },
+        {
+          "name": "",
+          "value": "32"
+        },
+        {
+          "name": "",
+          "value": "6201"
+        },
+        {
+          "name": "",
+          "value": "6002"
+        },
+        {
+          "name": "Col 8",
+          "value": "16002"
+        },
+        {
+          "name": "Col 9",
+          "value": "7201"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240407,
+      "sku": "35-J",
+      "label": "35-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "34,2"
+        },
+        {
+          "name": "",
+          "value": "27,8"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "3,1"
+        },
+        {
+          "name": "",
+          "value": "35"
+        },
+        {
+          "name": "",
+          "value": "6003"
+        },
+        {
+          "name": "",
+          "value": "6202"
+        },
+        {
+          "name": "Col 8",
+          "value": "6300"
+        },
+        {
+          "name": "Col 9",
+          "value": "16003"
+        },
+        {
+          "name": "Col 10",
+          "value": "7202"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240408,
+      "sku": "40-J",
+      "label": "40-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "39"
+        },
+        {
+          "name": "",
+          "value": "32"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "3"
+        },
+        {
+          "name": "",
+          "value": "40"
+        },
+        {
+          "name": "",
+          "value": "6203"
+        },
+        {
+          "name": "",
+          "value": "7203"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240409,
+      "sku": "42-J",
+      "label": "42-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "41"
+        },
+        {
+          "name": "",
+          "value": "34,5"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "3,1"
+        },
+        {
+          "name": "",
+          "value": "42"
+        },
+        {
+          "name": "",
+          "value": "6004"
+        },
+        {
+          "name": "",
+          "value": "6302"
+        },
+        {
+          "name": "Col 8",
+          "value": "16004"
+        },
+        {
+          "name": "Col 9",
+          "value": "61806"
+        },
+        {
+          "name": "Col 10",
+          "value": "7302"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240410,
+      "sku": "47-J",
+      "label": "47-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "46,4"
+        },
+        {
+          "name": "",
+          "value": "40"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "3,3"
+        },
+        {
+          "name": "",
+          "value": "47"
+        },
+        {
+          "name": "",
+          "value": "6204"
+        },
+        {
+          "name": "",
+          "value": "16005"
+        },
+        {
+          "name": "Col 8",
+          "value": "6005"
+        },
+        {
+          "name": "Col 9",
+          "value": "61807"
+        },
+        {
+          "name": "Col 10",
+          "value": "6303"
+        },
+        {
+          "name": "Col 11",
+          "value": "7204"
+        },
+        {
+          "name": "Col 12",
+          "value": "7303"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240411,
+      "sku": "52-J",
+      "label": "52-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "50,5"
+        },
+        {
+          "name": "",
+          "value": "43,3"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "3,5"
+        },
+        {
+          "name": "",
+          "value": "52"
+        },
+        {
+          "name": "",
+          "value": "6205"
+        },
+        {
+          "name": "",
+          "value": "61808"
+        },
+        {
+          "name": "Col 8",
+          "value": "6304"
+        },
+        {
+          "name": "Col 9",
+          "value": "7205"
+        },
+        {
+          "name": "Col 10",
+          "value": "7304"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240412,
+      "sku": "55-J",
+      "label": "55-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "54"
+        },
+        {
+          "name": "",
+          "value": "46"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "3,5"
+        },
+        {
+          "name": "",
+          "value": "55"
+        },
+        {
+          "name": "",
+          "value": "6006"
+        },
+        {
+          "name": "",
+          "value": "16006"
+        },
+        {
+          "name": "Col 8",
+          "value": "7006"
+        },
+        {
+          "name": "Col 9",
+          "value": "61907"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240413,
+      "sku": "62-J",
+      "label": "62-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "61"
+        },
+        {
+          "name": "",
+          "value": "51"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "3,8"
+        },
+        {
+          "name": "",
+          "value": "62"
+        },
+        {
+          "name": "",
+          "value": "6206"
+        },
+        {
+          "name": "",
+          "value": "6305"
+        },
+        {
+          "name": "Col 8",
+          "value": "16007"
+        },
+        {
+          "name": "Col 9",
+          "value": "6007"
+        },
+        {
+          "name": "Col 10",
+          "value": "6403"
+        },
+        {
+          "name": "Col 11",
+          "value": "7206"
+        },
+        {
+          "name": "Col 12",
+          "value": "7305"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240414,
+      "sku": "72-J",
+      "label": "72-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "70,5"
+        },
+        {
+          "name": "",
+          "value": "60,5"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "4"
+        },
+        {
+          "name": "",
+          "value": "72"
+        },
+        {
+          "name": "",
+          "value": "6207"
+        },
+        {
+          "name": "",
+          "value": "6306"
+        },
+        {
+          "name": "Col 8",
+          "value": "61811"
+        },
+        {
+          "name": "Col 9",
+          "value": "6404"
+        },
+        {
+          "name": "Col 10",
+          "value": "7306"
+        },
+        {
+          "name": "Col 11",
+          "value": "7207"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240415,
+      "sku": "80-J",
+      "label": "80-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "79"
+        },
+        {
+          "name": "",
+          "value": "71"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "4"
+        },
+        {
+          "name": "",
+          "value": "80"
+        },
+        {
+          "name": "",
+          "value": "6208"
+        },
+        {
+          "name": "",
+          "value": "6307"
+        },
+        {
+          "name": "Col 8",
+          "value": "6405"
+        },
+        {
+          "name": "Col 9",
+          "value": "6010"
+        },
+        {
+          "name": "Col 10",
+          "value": "16010"
+        },
+        {
+          "name": "Col 11",
+          "value": "7307"
+        },
+        {
+          "name": "Col 12",
+          "value": "7208"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240416,
+      "sku": "85-J",
+      "label": "85-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "84,1"
+        },
+        {
+          "name": "",
+          "value": "73,3"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "4"
+        },
+        {
+          "name": "",
+          "value": "85"
+        },
+        {
+          "name": "",
+          "value": "6209"
+        },
+        {
+          "name": "",
+          "value": "61813"
+        },
+        {
+          "name": "Col 8",
+          "value": "7209"
+        },
+        {
+          "name": "Col 9",
+          "value": "61912"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240417,
+      "sku": "90-J",
+      "label": "90-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "88,5"
+        },
+        {
+          "name": "",
+          "value": "78,5"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "4,2"
+        },
+        {
+          "name": "",
+          "value": "90"
+        },
+        {
+          "name": "",
+          "value": "6308"
+        },
+        {
+          "name": "",
+          "value": "6406"
+        },
+        {
+          "name": "Col 8",
+          "value": "6011"
+        },
+        {
+          "name": "Col 9",
+          "value": "61814"
+        },
+        {
+          "name": "Col 10",
+          "value": "7308"
+        },
+        {
+          "name": "Col 11",
+          "value": "7210"
+        },
+        {
+          "name": "Col 12",
+          "value": "16011"
+        },
+        {
+          "name": "Col 13",
+          "value": "7210"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240418,
+      "sku": "100-J",
+      "label": "100-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "99"
+        },
+        {
+          "name": "",
+          "value": "89"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "4,2"
+        },
+        {
+          "name": "",
+          "value": "100"
+        },
+        {
+          "name": "",
+          "value": "6309"
+        },
+        {
+          "name": "",
+          "value": "6407"
+        },
+        {
+          "name": "Col 8",
+          "value": "6211"
+        },
+        {
+          "name": "Col 9",
+          "value": "6013"
+        },
+        {
+          "name": "Col 10",
+          "value": "16013"
+        },
+        {
+          "name": "Col 11",
+          "value": "7211"
+        },
+        {
+          "name": "Col 12",
+          "value": "61816"
+        },
+        {
+          "name": "Col 13",
+          "value": "7309"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240419,
+      "sku": "110-J",
+      "label": "110-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "108,7"
+        },
+        {
+          "name": "",
+          "value": "98,7"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "110"
+        },
+        {
+          "name": "",
+          "value": "7310"
+        },
+        {
+          "name": "",
+          "value": "6408"
+        },
+        {
+          "name": "Col 8",
+          "value": "16014"
+        },
+        {
+          "name": "Col 9",
+          "value": "6014"
+        },
+        {
+          "name": "Col 10",
+          "value": "7310"
+        },
+        {
+          "name": "Col 11",
+          "value": "6212"
+        },
+        {
+          "name": "Col 12",
+          "value": "61817"
+        },
+        {
+          "name": "Col 13",
+          "value": "7212"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240420,
+      "sku": "120-J",
+      "label": "120-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "119"
+        },
+        {
+          "name": "",
+          "value": "109"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "120"
+        },
+        {
+          "name": "",
+          "value": "6311"
+        },
+        {
+          "name": "",
+          "value": "6409"
+        },
+        {
+          "name": "Col 8",
+          "value": "6213"
+        },
+        {
+          "name": "Col 9",
+          "value": "7311"
+        },
+        {
+          "name": "Col 10",
+          "value": "7213"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240421,
+      "sku": "130-J",
+      "label": "130-J",
+      "attributes": [
+        {
+          "name": "ARRUELA ABAULADA DIMENSÕES (mm)",
+          "value": "129"
+        },
+        {
+          "name": "",
+          "value": "119"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "130"
+        },
+        {
+          "name": "",
+          "value": "6312"
+        },
+        {
+          "name": "",
+          "value": "6410"
+        },
+        {
+          "name": "Col 8",
+          "value": "6215"
+        },
+        {
+          "name": "Col 9",
+          "value": "16017"
+        },
+        {
+          "name": "Col 10",
+          "value": "6017"
+        },
+        {
+          "name": "Col 11",
+          "value": "61821"
+        },
+        {
+          "name": "Col 12",
+          "value": "7215"
+        },
+        {
+          "name": "Col 13",
+          "value": "7312"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Catálogo Técnico Carolfix (Página 20)",
+      "url": "/downloads/catalogo-carol-componentes.pdf#page=20",
+      "kind": "pdf",
+      "note": "Referência técnica oficial extraída do catálogo histórico de 60 páginas."
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela Técnica Dimensional — Página 20",
+      "columns": [
+        "Código",
+        "ARRUELA ABAULADA DIMENSÕES (mm)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "614.030",
+          "3",
+          "3,2",
+          "6",
+          "0,65",
+          "1,3",
+          "0,4",
+          "±0,05"
+        ],
+        [
+          "614.035",
+          "3,5",
+          "3,7",
+          "7",
+          "0,7",
+          "1,4",
+          "0,4",
+          "±0,05"
+        ],
+        [
+          "614.040",
+          "4",
+          "4,3",
+          "8",
+          "0,8",
+          "1,6",
+          "0,5",
+          "±0,05"
+        ],
+        [
+          "614.050",
+          "5",
+          "5,3",
+          "10",
+          "0,9",
+          "1,8",
+          "0,5",
+          "±0,05"
+        ],
+        [
+          "614.060",
+          "6",
+          "6,4",
+          "11",
+          "1,1",
+          "2,2",
+          "0,5",
+          "±0,05"
+        ],
+        [
+          "614.070",
+          "7",
+          "7,4",
+          "12",
+          "1,2",
+          "2,4",
+          "0,5",
+          "±0,05"
+        ],
+        [
+          "614.080",
+          "8",
+          "8,4",
+          "15",
+          "1,7",
+          "3,4",
+          "0,5",
+          "±0,05"
+        ],
+        [
+          "614.100",
+          "10",
+          "10,5",
+          "18",
+          "2",
+          "4",
+          "0,8",
+          "±0,06"
+        ],
+        [
+          "616.030",
+          "3",
+          "3,2",
+          "8",
+          "0,8",
+          "1,6",
+          "0,5",
+          "±0,05"
+        ],
+        [
+          "616.035",
+          "3,5",
+          "3,7",
+          "8",
+          "0,9",
+          "1,8",
+          "0,5",
+          "±0,05"
+        ],
+        [
+          "616.040",
+          "4",
+          "4,3",
+          "9",
+          "1",
+          "2",
+          "0,5",
+          "±0,05"
+        ],
+        [
+          "616.050",
+          "5",
+          "5,3",
+          "11",
+          "1,2",
+          "2,4",
+          "0,5",
+          "±0,05"
+        ],
+        [
+          "616.060",
+          "6",
+          "6,4",
+          "12",
+          "1,3",
+          "2,6",
+          "0,5",
+          "±0,05"
+        ],
+        [
+          "616.070",
+          "7",
+          "7,4",
+          "15",
+          "1,5",
+          "3",
+          "0,8",
+          "±0,06"
+        ],
+        [
+          "616.080",
+          "8",
+          "8,4",
+          "17",
+          "1,7",
+          "3,4",
+          "0,8",
+          "±0,06"
+        ],
+        [
+          "616.081",
+          "8",
+          "8,4",
+          "15",
+          "1,7",
+          "3,4",
+          "0,8",
+          "±0,06"
+        ],
+        [
+          "616.100",
+          "10",
+          "10,5",
+          "21",
+          "2,1",
+          "4,2",
+          "1",
+          "±0,07"
+        ],
+        [
+          "616.101",
+          "10",
+          "10,5",
+          "18",
+          "2,1",
+          "4,2",
+          "1",
+          "±0,07"
+        ],
+        [
+          "616.120",
+          "12",
+          "13",
+          "24",
+          "2,5",
+          "5",
+          "1,2",
+          "±0,07"
+        ],
+        [
+          "616.140",
+          "14",
+          "15",
+          "28",
+          "2,9",
+          "5,8",
+          "1,5",
+          "±0,08"
+        ],
+        [
+          "616.160",
+          "16",
+          "17",
+          "30",
+          "3,1",
+          "6,2",
+          "1,5",
+          "±0,08"
+        ],
+        [
+          "616.180",
+          "18",
+          "19",
+          "34",
+          "3,2",
+          "6,4",
+          "1,5",
+          "±0,08"
+        ],
+        [
+          "616.200",
+          "20",
+          "21",
+          "36",
+          "3,7",
+          "7,4",
+          "1,6",
+          "±0,08"
+        ],
+        [
+          "616.220",
+          "22",
+          "23",
+          "40",
+          "3,9",
+          "7,8",
+          "1,8",
+          "±0,1"
+        ],
+        [
+          "616.240",
+          "24",
+          "25",
+          "44",
+          "4,1",
+          "8,2",
+          "1,8",
+          "±0,1"
+        ],
+        [
+          "616.260",
+          "26",
+          "27",
+          "50",
+          "4,5",
+          "9",
+          "2",
+          "±0,1"
+        ],
+        [
+          "616.270",
+          "27",
+          "28",
+          "50",
+          "4,7",
+          "9,4",
+          "2",
+          "±0,1"
+        ],
+        [
+          "616.280",
+          "28",
+          "29",
+          "50",
+          "4,8",
+          "9,6",
+          "2",
+          "±0,1"
+        ],
+        [
+          "616.300",
+          "30",
+          "31",
+          "56",
+          "5",
+          "10",
+          "2,2",
+          "±0,1"
+        ],
+        [
+          "19-J",
+          "18,6",
+          "13,5",
+          "0,3",
+          "3,5",
+          "19",
+          "635",
+          "626",
+          "607",
+          "61800",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "26-J",
+          "25,5",
+          "19,5",
+          "0,4",
+          "2,2",
+          "26",
+          "6000",
+          "629",
+          "61803",
+          "637",
+          "7000",
+          "",
+          "",
+          ""
+        ],
+        [
+          "30-J",
+          "29",
+          "23",
+          "0,4",
+          "3,3",
+          "30",
+          "6200",
+          "61903",
+          "7200",
+          "16101",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "32-J",
+          "31,4",
+          "23,8",
+          "0,4",
+          "3,3",
+          "32",
+          "6201",
+          "6002",
+          "16002",
+          "7201",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "35-J",
+          "34,2",
+          "27,8",
+          "0,4",
+          "3,1",
+          "35",
+          "6003",
+          "6202",
+          "6300",
+          "16003",
+          "7202",
+          "",
+          "",
+          ""
+        ],
+        [
+          "40-J",
+          "39",
+          "32",
+          "0,4",
+          "3",
+          "40",
+          "6203",
+          "7203",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "42-J",
+          "41",
+          "34,5",
+          "0,4",
+          "3,1",
+          "42",
+          "6004",
+          "6302",
+          "16004",
+          "61806",
+          "7302",
+          "",
+          "",
+          ""
+        ],
+        [
+          "47-J",
+          "46,4",
+          "40",
+          "0,5",
+          "3,3",
+          "47",
+          "6204",
+          "16005",
+          "6005",
+          "61807",
+          "6303",
+          "7204",
+          "7303",
+          ""
+        ],
+        [
+          "52-J",
+          "50,5",
+          "43,3",
+          "0,5",
+          "3,5",
+          "52",
+          "6205",
+          "61808",
+          "6304",
+          "7205",
+          "7304",
+          "",
+          "",
+          ""
+        ],
+        [
+          "55-J",
+          "54",
+          "46",
+          "0,5",
+          "3,5",
+          "55",
+          "6006",
+          "16006",
+          "7006",
+          "61907",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "62-J",
+          "61",
+          "51",
+          "0,5",
+          "3,8",
+          "62",
+          "6206",
+          "6305",
+          "16007",
+          "6007",
+          "6403",
+          "7206",
+          "7305",
+          ""
+        ],
+        [
+          "72-J",
+          "70,5",
+          "60,5",
+          "0,5",
+          "4",
+          "72",
+          "6207",
+          "6306",
+          "61811",
+          "6404",
+          "7306",
+          "7207",
+          "",
+          ""
+        ],
+        [
+          "80-J",
+          "79",
+          "71",
+          "0,6",
+          "4",
+          "80",
+          "6208",
+          "6307",
+          "6405",
+          "6010",
+          "16010",
+          "7307",
+          "7208",
+          ""
+        ],
+        [
+          "85-J",
+          "84,1",
+          "73,3",
+          "0,6",
+          "4",
+          "85",
+          "6209",
+          "61813",
+          "7209",
+          "61912",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "90-J",
+          "88,5",
+          "78,5",
+          "0,6",
+          "4,2",
+          "90",
+          "6308",
+          "6406",
+          "6011",
+          "61814",
+          "7308",
+          "7210",
+          "16011",
+          "7210"
+        ],
+        [
+          "100-J",
+          "99",
+          "89",
+          "0,6",
+          "4,2",
+          "100",
+          "6309",
+          "6407",
+          "6211",
+          "6013",
+          "16013",
+          "7211",
+          "61816",
+          "7309"
+        ],
+        [
+          "110-J",
+          "108,7",
+          "98,7",
+          "0,6",
+          "5",
+          "110",
+          "7310",
+          "6408",
+          "16014",
+          "6014",
+          "7310",
+          "6212",
+          "61817",
+          "7212"
+        ],
+        [
+          "120-J",
+          "119",
+          "109",
+          "0,6",
+          "5",
+          "120",
+          "6311",
+          "6409",
+          "6213",
+          "7311",
+          "7213",
+          "",
+          "",
+          ""
+        ],
+        [
+          "130-J",
+          "129",
+          "119",
+          "0,6",
+          "5",
+          "130",
+          "6312",
+          "6410",
+          "6215",
+          "16017",
+          "6017",
+          "61821",
+          "7215",
+          "7312"
+        ]
+      ],
+      "note": "Dados extraídos diretamente da página 20 do catálogo técnico Carolfix."
+    }
+  ],
+  "homepage": false
+}

@@ -1,0 +1,635 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-flex-plus?model=flex-plus-sem-chapa&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:48:23.825Z",
+  "product": {
+    "id": 200028,
+    "slug": "vibra-stop-flex-plus-sem-chapa",
+    "name": "Vibra-Stop Mola Flex Plus Sem Chapa",
+    "sku": "Flex Plus Sem Chapa",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-flex-plus?model=flex-plus-sem-chapa&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.",
+    "description": "<p>Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/flex-plus-sem-chapa/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/flex-plus-sem-chapa/foto-1.png",
+      "/images/products/vibra-stop/flex-plus-sem-chapa/foto-2.png",
+      "/images/products/vibra-stop/flex-plus-sem-chapa/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Aço Carbono Zincado e Borracha Natural."
+      },
+      {
+        "name": "Materiais informados",
+        "value": "Aço Inox Ferro Nodular"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 210156,
+        "sku": "MFPSC30",
+        "label": "MFPSC30",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "30"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "19,25/30"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "145"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "53"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "5,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210157,
+        "sku": "MFPSC50",
+        "label": "MFPSC50",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "50"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "37,72/50"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "145"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "55"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210158,
+        "sku": "MFPSC100",
+        "label": "MFPSC100",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "100"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "37,89/100"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "145"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "57"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "7"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210159,
+        "sku": "MFPSC200",
+        "label": "MFPSC200",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "32,25/200"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "145"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "61"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "8,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210160,
+        "sku": "MFPSC300",
+        "label": "MFPSC300",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "300"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "38,50/300"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "145"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "62"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "9,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210161,
+        "sku": "MFPSC400",
+        "label": "MFPSC400",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "400"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "37,81/400"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "145"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "63"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210162,
+        "sku": "MFPSC500",
+        "label": "MFPSC500",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "26,12/500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "145"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "10,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210163,
+        "sku": "MFPSC700",
+        "label": "MFPSC700",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "700"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "37,60/700"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "145"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "67"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210164,
+        "sku": "MFPSC1000",
+        "label": "MFPSC1000",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "1000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "26,25/1.000"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "145"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "13,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210165,
+        "sku": "MFPSC1500",
+        "label": "MFPSC1500",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "1500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "35,75/1.500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "145"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "71,4"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "14,2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/flex-plus-sem-chapa/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Flex%20Plus%20Sem%20Chapa.pdf",
+        "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Altura Total ((H) mm)",
+          "Diâmetro Externo Batente ((D) mm)",
+          "Diâmetro Externo Mola ((De) mm)",
+          "Diâmetro do Arame da Mola ((a) mm)"
+        ],
+        "rows": [
+          [
+            "MFPSC30",
+            "30",
+            "19,25/30",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "145",
+            "60",
+            "53",
+            "5,5"
+          ],
+          [
+            "MFPSC50",
+            "50",
+            "37,72/50",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "145",
+            "60",
+            "55",
+            "6"
+          ],
+          [
+            "MFPSC100",
+            "100",
+            "37,89/100",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "145",
+            "60",
+            "57",
+            "7"
+          ],
+          [
+            "MFPSC200",
+            "200",
+            "32,25/200",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "145",
+            "60",
+            "61",
+            "8,5"
+          ],
+          [
+            "MFPSC300",
+            "300",
+            "38,50/300",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "145",
+            "60",
+            "62",
+            "9,5"
+          ],
+          [
+            "MFPSC400",
+            "400",
+            "37,81/400",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "145",
+            "60",
+            "63",
+            "10"
+          ],
+          [
+            "MFPSC500",
+            "500",
+            "26,12/500",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "145",
+            "60",
+            "65",
+            "10,5"
+          ],
+          [
+            "MFPSC700",
+            "700",
+            "37,60/700",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "145",
+            "60",
+            "67",
+            "12"
+          ],
+          [
+            "MFPSC1000",
+            "1000",
+            "26,25/1.000",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "145",
+            "60",
+            "70",
+            "13,5"
+          ],
+          [
+            "MFPSC1500",
+            "1500",
+            "35,75/1.500",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "145",
+            "60",
+            "71,4",
+            "14,2"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/flex-plus-sem-chapa/aplicacao-4.png",
+          "/images/products/vibra-stop/flex-plus-sem-chapa/aplicacao-5.png",
+          "/images/products/vibra-stop/flex-plus-sem-chapa/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/flex-plus-sem-chapa/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20FLEX%20PLUS/SEM%20CHAPA/MFPSC%201.1png.png",
+      "bytes": 155987,
+      "sha256": "7edb183204704171005e34ed817d7b71d57d563919aed001d2b1cec8ef49816b",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/flex-plus-sem-chapa/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20FLEX%20PLUS/SEM%20CHAPA/MFPSC%201.2png.png",
+      "bytes": 143067,
+      "sha256": "6d300404d141c4c78090913628bd731d58edd2b2d3d5268a41874130f06f5c61",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/flex-plus-sem-chapa/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20FLEX%20PLUS/SEM%20CHAPA/MFPSC%201.0.png",
+      "bytes": 153847,
+      "sha256": "825ed828a22b2e9c0b74f8a3249e5fdad3fb631857b86f6330d2c4cc9033c173",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/flex-plus-sem-chapa/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20FLEX%20PLUS/MFP%201.0.png",
+      "bytes": 378022,
+      "sha256": "47bc54685c0a51604ec8804bb606e42b499ed2f3c80a669623d3bfef19accf80",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/flex-plus-sem-chapa/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20FLEX%20PLUS/MFP%201.1.png",
+      "bytes": 134243,
+      "sha256": "54ec6788ac6b02e131de89d225b5c03fd5643f2083b255dbdcd4be089b4fc8c1",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/flex-plus-sem-chapa/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20PLUS/SEM%20CHAPA/Manual%20de%20Instalacao%20-%20Mola%20Plus%20Sem%20Chapa.png",
+      "bytes": 155630,
+      "sha256": "8533569b002d0286ffb6246d382e0962e0f2da2686712d1de56a563df947fb4f",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/flex-plus-sem-chapa/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Flex%20Plus%20Sem%20Chapa.pdf",
+      "bytes": 770491,
+      "sha256": "6e967c3b5601bfa090fbcae2f30ad8441e90301bc5b98cc44ce65ea52da72819",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "flex-plus-sem-chapa",
+    "tableRows": 10,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T11:00:58.334Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 12,
+    "pdfReconciled2026": true
+  }
+}

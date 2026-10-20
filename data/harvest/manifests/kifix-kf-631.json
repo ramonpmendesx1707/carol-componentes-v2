@@ -1,0 +1,1448 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-631/",
+  "fetchedAt": "2026-10-20T12:57:38.158Z",
+  "product": {
+    "id": 202058,
+    "slug": "kifix-kf-631",
+    "name": "KF-631",
+    "sku": "KF-631",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-631/",
+    "type": "product",
+    "summary": "Linha Grampo vertical Kifix modelo KF-631, com 16 referências dimensionais.",
+    "description": "<p>Linha Grampo vertical Kifix modelo KF-631, com 16 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo vertical",
+        "slug": "grampo-vertical"
+      }
+    ],
+    "image": "/images/products/kifix/kf-631/foto-1.png",
+    "images": [
+      "/images/products/kifix/kf-631/foto-1.png",
+      "/images/products/kifix/kf-631/foto-2.png",
+      "/images/products/kifix/kf-631/foto-3.png",
+      "/images/products/kifix/kf-631/foto-4.png",
+      "/images/products/kifix/kf-631/foto-5.png",
+      "/images/products/kifix/kf-631/foto-6.png",
+      "/images/products/kifix/kf-631/foto-7.png",
+      "/images/products/kifix/kf-631/foto-8.png",
+      "/images/products/kifix/kf-631/foto-9.png",
+      "/images/products/kifix/kf-631/foto-10.png",
+      "/images/products/kifix/kf-631/foto-11.png",
+      "/images/products/kifix/kf-631/foto-12.png",
+      "/images/products/kifix/kf-631/foto-13.png",
+      "/images/products/kifix/kf-631/foto-14.png",
+      "/images/products/kifix/kf-631/foto-15.png",
+      "/images/products/kifix/kf-631/foto-16.png",
+      "/images/products/kifix/kf-631/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo vertical"
+      }
+    ],
+    "weight": "0,860 (1,896)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230438,
+        "sku": "KF-631 D",
+        "label": "KF-631 D",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "189 (7,44)"
+          },
+          {
+            "name": "B (in)",
+            "value": "129 (5,08)"
+          },
+          {
+            "name": "C (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,860 (1,896)"
+          }
+        ],
+        "weight": "0,860 (1,896)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230439,
+        "sku": "KF-631 D TR",
+        "label": "KF-631 D TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "204 (8,03)"
+          },
+          {
+            "name": "B (in)",
+            "value": "129 (5,08)"
+          },
+          {
+            "name": "C (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,930 (2,050)"
+          }
+        ],
+        "weight": "0,930 (2,050)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230440,
+        "sku": "KF-631 DI",
+        "label": "KF-631 DI",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "189 (7,44)"
+          },
+          {
+            "name": "B (in)",
+            "value": "129 (5,08)"
+          },
+          {
+            "name": "C (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,860 (1,896)"
+          }
+        ],
+        "weight": "0,860 (1,896)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230441,
+        "sku": "KF-631 DI TR",
+        "label": "KF-631 DI TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "204 (8,03)"
+          },
+          {
+            "name": "B (in)",
+            "value": "129 (5,08)"
+          },
+          {
+            "name": "C (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,930 (2,050)"
+          }
+        ],
+        "weight": "0,930 (2,050)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230442,
+        "sku": "KF-631 R",
+        "label": "KF-631 R",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "201 (7,91)"
+          },
+          {
+            "name": "B (in)",
+            "value": "129 (5,08)"
+          },
+          {
+            "name": "C (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,256)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,860 (1,896)"
+          }
+        ],
+        "weight": "0,860 (1,896)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230443,
+        "sku": "KF-631 R TR",
+        "label": "KF-631 R TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "216 (8,50)"
+          },
+          {
+            "name": "B (in)",
+            "value": "129 (5,08)"
+          },
+          {
+            "name": "C (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,256)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,930 (2,050)"
+          }
+        ],
+        "weight": "0,930 (2,050)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230444,
+        "sku": "KF-631 RI",
+        "label": "KF-631 RI",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "201 (7,91)"
+          },
+          {
+            "name": "B (in)",
+            "value": "129 (5,08)"
+          },
+          {
+            "name": "C (in)",
+            "value": "68 (2,68)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,256)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,860 (1,896)"
+          }
+        ],
+        "weight": "0,860 (1,896)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230445,
+        "sku": "KF-631 RI TR",
+        "label": "KF-631 RI TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "216 (8,50)"
+          },
+          {
+            "name": "B (in)",
+            "value": "129 (5,08)"
+          },
+          {
+            "name": "C (in)",
+            "value": "68 (2,68)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,256)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,930 (2,050)"
+          }
+        ],
+        "weight": "0,930 (2,050)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230446,
+        "sku": "KF-631 DL",
+        "label": "KF-631 DL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "189 (7,44)"
+          },
+          {
+            "name": "B (in)",
+            "value": "172 (6,77)"
+          },
+          {
+            "name": "C (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,920 (2,028)"
+          }
+        ],
+        "weight": "0,920 (2,028)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230447,
+        "sku": "KF-631 DL TR",
+        "label": "KF-631 DL TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "204 (8,03)"
+          },
+          {
+            "name": "B (in)",
+            "value": "172 (6,77)"
+          },
+          {
+            "name": "C (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,990 (2,182)"
+          }
+        ],
+        "weight": "0,990 (2,182)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230448,
+        "sku": "KF-631 DIL",
+        "label": "KF-631 DIL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "189 (7,44)"
+          },
+          {
+            "name": "B (in)",
+            "value": "172 (6,77)"
+          },
+          {
+            "name": "C (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,920 (2,028)"
+          }
+        ],
+        "weight": "0,920 (2,028)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230449,
+        "sku": "KF-631 DIL TR",
+        "label": "KF-631 DIL TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "204 (8,03)"
+          },
+          {
+            "name": "B (in)",
+            "value": "172 (6,77)"
+          },
+          {
+            "name": "C (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,990 (2,182)"
+          }
+        ],
+        "weight": "0,990 (2,182)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230450,
+        "sku": "KF-631 RL",
+        "label": "KF-631 RL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "201 (7,91)"
+          },
+          {
+            "name": "B (in)",
+            "value": "172 (6,77)"
+          },
+          {
+            "name": "C (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,256)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,920 (2,028)"
+          }
+        ],
+        "weight": "0,920 (2,028)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230451,
+        "sku": "KF-631 RL TR",
+        "label": "KF-631 RL TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "216 (8,50)"
+          },
+          {
+            "name": "B (in)",
+            "value": "172 (6,77)"
+          },
+          {
+            "name": "C (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,256)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,990 (2,182)"
+          }
+        ],
+        "weight": "0,990 (2,182)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230452,
+        "sku": "KF-631 RIL",
+        "label": "KF-631 RIL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "201 (7,91)"
+          },
+          {
+            "name": "B (in)",
+            "value": "172 (6,77)"
+          },
+          {
+            "name": "C (in)",
+            "value": "68 (2,68)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,256)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,920 (2,028)"
+          }
+        ],
+        "weight": "0,920 (2,028)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230453,
+        "sku": "KF-631 RIL TR",
+        "label": "KF-631 RIL TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "216 (8,50)"
+          },
+          {
+            "name": "B (in)",
+            "value": "172 (6,77)"
+          },
+          {
+            "name": "C (in)",
+            "value": "68 (2,68)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,256)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "78"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,990 (2,182)"
+          }
+        ],
+        "weight": "0,990 (2,182)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "PONTEIRA",
+          "ÂNGULO DE ABERTURA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-631 D",
+            "400 (880)",
+            "189 (7,44)",
+            "129 (5,08)",
+            "28 (1,10)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,860 (1,896)"
+          ],
+          [
+            "KF-631 D TR",
+            "400 (880)",
+            "204 (8,03)",
+            "129 (5,08)",
+            "28 (1,10)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,930 (2,050)"
+          ],
+          [
+            "KF-631 DI",
+            "400 (880)",
+            "189 (7,44)",
+            "129 (5,08)",
+            "56 (2,20)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,860 (1,896)"
+          ],
+          [
+            "KF-631 DI TR",
+            "400 (880)",
+            "204 (8,03)",
+            "129 (5,08)",
+            "56 (2,20)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,930 (2,050)"
+          ],
+          [
+            "KF-631 R",
+            "400 (880)",
+            "201 (7,91)",
+            "129 (5,08)",
+            "40 (1,57)",
+            "32 (1,26)",
+            "6,5 (0,256)",
+            "50 (1,97)",
+            "-",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,860 (1,896)"
+          ],
+          [
+            "KF-631 R TR",
+            "400 (880)",
+            "216 (8,50)",
+            "129 (5,08)",
+            "40 (1,57)",
+            "32 (1,26)",
+            "6,5 (0,256)",
+            "50 (1,97)",
+            "-",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,930 (2,050)"
+          ],
+          [
+            "KF-631 RI",
+            "400 (880)",
+            "201 (7,91)",
+            "129 (5,08)",
+            "68 (2,68)",
+            "32 (1,26)",
+            "6,5 (0,256)",
+            "50 (1,97)",
+            "-",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,860 (1,896)"
+          ],
+          [
+            "KF-631 RI TR",
+            "400 (880)",
+            "216 (8,50)",
+            "129 (5,08)",
+            "68 (2,68)",
+            "32 (1,26)",
+            "6,5 (0,256)",
+            "50 (1,97)",
+            "-",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,930 (2,050)"
+          ],
+          [
+            "KF-631 DL",
+            "300 (660)",
+            "189 (7,44)",
+            "172 (6,77)",
+            "28 (1,10)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,920 (2,028)"
+          ],
+          [
+            "KF-631 DL TR",
+            "300 (660)",
+            "204 (8,03)",
+            "172 (6,77)",
+            "28 (1,10)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,990 (2,182)"
+          ],
+          [
+            "KF-631 DIL",
+            "300 (660)",
+            "189 (7,44)",
+            "172 (6,77)",
+            "56 (2,20)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,920 (2,028)"
+          ],
+          [
+            "KF-631 DIL TR",
+            "300 (660)",
+            "204 (8,03)",
+            "172 (6,77)",
+            "56 (2,20)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,990 (2,182)"
+          ],
+          [
+            "KF-631 RL",
+            "300 (660)",
+            "201 (7,91)",
+            "172 (6,77)",
+            "40 (1,57)",
+            "32 (1,26)",
+            "6,5 (0,256)",
+            "50 (1,97)",
+            "-",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,920 (2,028)"
+          ],
+          [
+            "KF-631 RL TR",
+            "300 (660)",
+            "216 (8,50)",
+            "172 (6,77)",
+            "40 (1,57)",
+            "32 (1,26)",
+            "6,5 (0,256)",
+            "50 (1,97)",
+            "-",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,990 (2,182)"
+          ],
+          [
+            "KF-631 RIL",
+            "300 (660)",
+            "201 (7,91)",
+            "172 (6,77)",
+            "68 (2,68)",
+            "32 (1,26)",
+            "6,5 (0,256)",
+            "50 (1,97)",
+            "-",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,920 (2,028)"
+          ],
+          [
+            "KF-631 RIL TR",
+            "300 (660)",
+            "216 (8,50)",
+            "172 (6,77)",
+            "68 (2,68)",
+            "32 (1,26)",
+            "6,5 (0,256)",
+            "50 (1,97)",
+            "-",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "78",
+            "0,990 (2,182)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kf-631/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kf-631/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/583_KF_631_D.png",
+      "bytes": 304260,
+      "sha256": "c19d37b8e989b25e9f1610f98669c6c3266ea499c1c20e0c4a717c8562a4b632"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1026_KF631DTR.png",
+      "bytes": 1811022,
+      "sha256": "33e3e253cfeca9cb75e8cb9ccbdd9415aa219f121690561a66d942157ac337fc"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/870_KF631_DI83.png",
+      "bytes": 248590,
+      "sha256": "c67f5278e9823dab0d02f3af3662c8fb99ec97126cb221ab07f8ff2d563f5fc5"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/foto-4.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/598_KF631_DI_TR.png",
+      "bytes": 283154,
+      "sha256": "57805ee355721cfcf5267375193c5d0a1d68e0827fbbc8b8117ac9944d6f8f49"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/foto-5.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1027_KF631R.png",
+      "bytes": 1743261,
+      "sha256": "9e732e8cbc6f4a2a0967f0106559d1f442505aa0ed2cb1957029249207c33c00"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/foto-6.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1028_KF631RTR.png",
+      "bytes": 1778619,
+      "sha256": "a216f2cc59cdce3c74924cbe5d27c7ea4c4aa1eabd9bd706ce17b98d0b4ddfa6"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/foto-7.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/927_KF631_RI.png",
+      "bytes": 1492140,
+      "sha256": "370a18aafe3356d09a3087db4cb531c89e7d897045a2c0cd75a68b238740f493"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/foto-8.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1029_KF631RITR.png",
+      "bytes": 1761747,
+      "sha256": "9051d6d5ee5c6b143e0f8de9aff2338f99e9bae44177521389d0db4b44c817d1"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/foto-9.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1032_KF631DL.png",
+      "bytes": 1756436,
+      "sha256": "b27312b4e0a6d066ad257738bc3509954c6d8eebb2fd2dc724053582153ce23b"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/foto-10.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1031_KF631DLTR.png",
+      "bytes": 1789785,
+      "sha256": "149dc25304fa4912795d5bed7bb272469baa1be3d43599f432bd23982a484407"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/foto-11.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/926_KF631_DIL.png",
+      "bytes": 1932257,
+      "sha256": "833ca9784e06cd44158e8ef24615c42f8a58591f592dcacb7eacde845aa45067"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/foto-12.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1035_KF631DILTR.png",
+      "bytes": 2080352,
+      "sha256": "e21ccd41d20dc76986bc81871c50a7b5ed9891371584ab302205c85de688961c"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/foto-13.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/599_KF631_RL50.png",
+      "bytes": 273072,
+      "sha256": "2d793b76aec3c2b34ce61f809cf0a01c45bf78fc1f3a92ae6e7e8f1a4e427962"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/foto-14.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1033_KF631RLTR.png",
+      "bytes": 1827577,
+      "sha256": "a6065665c0382cde9f841c6a160fe57bb5052ab0f89f244d11081749acb87fc2"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/foto-15.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1034_KF631RIL.png",
+      "bytes": 1770672,
+      "sha256": "0c434de702a4196f8d36a0872144f53f01bf2daf347dbe88cf07505fe1f1523f"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/foto-16.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1036_KF631RILTR.png",
+      "bytes": 1768089,
+      "sha256": "dbbdbbf862312956b46346b249c743876f5cf9683b99fd81a7227d2e0c75c1af"
+    },
+    {
+      "path": "/images/products/kifix/kf-631/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/226_KF631.JPG",
+      "bytes": 121801,
+      "sha256": "513ace614e72de96f65f75488b957b9abc302f2d6115a4b562bf92faa7856799"
+    }
+  ],
+  "checks": {
+    "variants": 16,
+    "photos": 16,
+    "drawings": 1,
+    "tableRows": 16
+  }
+}

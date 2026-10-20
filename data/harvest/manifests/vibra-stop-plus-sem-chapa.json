@@ -39,7 +39,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240202,
+        "id": 210257,
         "sku": "MPSC30",
         "label": "MPSC30",
         "attributes": [
@@ -77,7 +77,7 @@
         "image": null
       },
       {
-        "id": 240203,
+        "id": 210258,
         "sku": "MPSC50",
         "label": "MPSC50",
         "attributes": [
@@ -115,7 +115,7 @@
         "image": null
       },
       {
-        "id": 240204,
+        "id": 210259,
         "sku": "MPSC100",
         "label": "MPSC100",
         "attributes": [
@@ -153,7 +153,7 @@
         "image": null
       },
       {
-        "id": 240205,
+        "id": 210260,
         "sku": "MPSC200",
         "label": "MPSC200",
         "attributes": [
@@ -191,7 +191,7 @@
         "image": null
       },
       {
-        "id": 240206,
+        "id": 210261,
         "sku": "MPSC300",
         "label": "MPSC300",
         "attributes": [
@@ -229,7 +229,7 @@
         "image": null
       },
       {
-        "id": 240207,
+        "id": 210262,
         "sku": "MPSC400",
         "label": "MPSC400",
         "attributes": [
@@ -267,7 +267,7 @@
         "image": null
       },
       {
-        "id": 240208,
+        "id": 210263,
         "sku": "MPSC500",
         "label": "MPSC500",
         "attributes": [
@@ -305,7 +305,7 @@
         "image": null
       },
       {
-        "id": 240209,
+        "id": 210264,
         "sku": "MPSC700",
         "label": "MPSC700",
         "attributes": [
@@ -343,7 +343,7 @@
         "image": null
       },
       {
-        "id": 240210,
+        "id": 210265,
         "sku": "MPSC1000",
         "label": "MPSC1000",
         "attributes": [
@@ -381,7 +381,7 @@
         "image": null
       },
       {
-        "id": 240211,
+        "id": 210266,
         "sku": "MPSC1500",
         "label": "MPSC1500",
         "attributes": [
@@ -425,6 +425,12 @@
         "url": "/downloads/products/vibra-stop/plus-sem-chapa/ficha-tecnica.pdf",
         "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Plus%20Sem%20Chapa.pdf",
         "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [],
@@ -613,6 +619,17 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 0,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:59:19.129Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 12,
+    "pdfReconciled2026": true
   }
 }

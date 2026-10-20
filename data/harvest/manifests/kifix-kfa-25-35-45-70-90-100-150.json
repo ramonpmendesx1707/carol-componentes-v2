@@ -1,0 +1,960 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/alicates/kfa-25-35-45-70-90-100-150/",
+  "fetchedAt": "2026-10-20T13:03:26.575Z",
+  "product": {
+    "id": 202066,
+    "slug": "kifix-kfa-25-35-45-70-90-100-150",
+    "name": "KFA-25/35/45/70/90/100/150",
+    "sku": "KFA-25/35/45/70/90/100/150",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/alicates/kfa-25-35-45-70-90-100-150/",
+    "type": "product",
+    "summary": "Linha Alicates Kifix modelo KFA-25/35/45/70/90/100/150, com 13 referências dimensionais.",
+    "description": "<p>Linha Alicates Kifix modelo KFA-25/35/45/70/90/100/150, com 13 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Alicates",
+        "slug": "alicates"
+      }
+    ],
+    "image": "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-1.png",
+    "images": [
+      "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-1.png",
+      "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-2.png",
+      "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-3.png",
+      "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-4.png",
+      "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-5.png",
+      "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-6.png",
+      "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-7.png",
+      "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-8.png",
+      "/images/products/kifix/kfa-25-35-45-70-90-100-150/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Alicates"
+      }
+    ],
+    "weight": "0,240 (0,528)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230469,
+        "sku": "KFA-25",
+        "label": "KFA-25",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "250 (550)"
+          },
+          {
+            "name": "A (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "B (in)",
+            "value": "140 (5,51)"
+          },
+          {
+            "name": "C (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "D (in)",
+            "value": "46,5 (1,83)"
+          },
+          {
+            "name": "E (in)",
+            "value": "21,4 (0,84)"
+          },
+          {
+            "name": "R (in)",
+            "value": "M6X1,00"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M6"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "50"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,240 (0,528)"
+          }
+        ],
+        "weight": "0,240 (0,528)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230470,
+        "sku": "KFA-35",
+        "label": "KFA-35",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "250 (550)"
+          },
+          {
+            "name": "A (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "B (in)",
+            "value": "140 (5,51)"
+          },
+          {
+            "name": "C (in)",
+            "value": "45 (1,77)"
+          },
+          {
+            "name": "D (in)",
+            "value": "46,5 (1,83)"
+          },
+          {
+            "name": "E (in)",
+            "value": "21,4 (0,84)"
+          },
+          {
+            "name": "R (in)",
+            "value": "M6X1,00"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M6"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "50"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,250 (0,550)"
+          }
+        ],
+        "weight": "0,250 (0,550)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230471,
+        "sku": "KFA-45",
+        "label": "KFA-45",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "900 (1980)"
+          },
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "205 (8,07)"
+          },
+          {
+            "name": "C (in)",
+            "value": "53 (2,09)"
+          },
+          {
+            "name": "D (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "E (in)",
+            "value": "35,2 (1,39)"
+          },
+          {
+            "name": "R (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "50"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,890 (1,958)"
+          }
+        ],
+        "weight": "0,890 (1,958)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230472,
+        "sku": "KFA-45 CA",
+        "label": "KFA-45 CA",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "900 (1980)"
+          },
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "205 (8,07)"
+          },
+          {
+            "name": "C (in)",
+            "value": "53 (2,09)"
+          },
+          {
+            "name": "D (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "E (in)",
+            "value": "80,2 (3,16)"
+          },
+          {
+            "name": "R (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "50"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,010 (2,222)"
+          }
+        ],
+        "weight": "1,010 (2,222)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230473,
+        "sku": "KFA-70",
+        "label": "KFA-70",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "900 (1980)"
+          },
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "205 (8,07)"
+          },
+          {
+            "name": "C (in)",
+            "value": "85 (3,35)"
+          },
+          {
+            "name": "D (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "E (in)",
+            "value": "35,2 (1,39)"
+          },
+          {
+            "name": "R (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "50"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,980 (2,156)"
+          }
+        ],
+        "weight": "0,980 (2,156)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230474,
+        "sku": "KFA-70 CA",
+        "label": "KFA-70 CA",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "900 (1980)"
+          },
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "205 (8,07)"
+          },
+          {
+            "name": "C (in)",
+            "value": "85 (3,35)"
+          },
+          {
+            "name": "D (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "E (in)",
+            "value": "80,2 (3,16)"
+          },
+          {
+            "name": "R (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "50"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,100 (2,420)"
+          }
+        ],
+        "weight": "1,100 (2,420)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230475,
+        "sku": "KFA-90",
+        "label": "KFA-90",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "900 (1980)"
+          },
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "205 (8,07)"
+          },
+          {
+            "name": "C (in)",
+            "value": "93 (3,66)"
+          },
+          {
+            "name": "D (in)",
+            "value": "71,5 (2,81)"
+          },
+          {
+            "name": "E (in)",
+            "value": "35,2 (1,39)"
+          },
+          {
+            "name": "R (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "50"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,120 (2,464)"
+          }
+        ],
+        "weight": "1,120 (2,464)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230476,
+        "sku": "KFA-90 CA",
+        "label": "KFA-90 CA",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "900 (1980)"
+          },
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "205 (8,07)"
+          },
+          {
+            "name": "C (in)",
+            "value": "93 (3,66)"
+          },
+          {
+            "name": "D (in)",
+            "value": "71,5 (2,81)"
+          },
+          {
+            "name": "E (in)",
+            "value": "80,2 (3,16)"
+          },
+          {
+            "name": "R (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "50"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,240 (2,728)"
+          }
+        ],
+        "weight": "1,240 (2,728)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230477,
+        "sku": "KFA-90 L",
+        "label": "KFA-90 L",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "250 (550)"
+          },
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "305 (12,01)"
+          },
+          {
+            "name": "C (in)",
+            "value": "93 (3,66)"
+          },
+          {
+            "name": "D (in)",
+            "value": "171,5 (6,75)"
+          },
+          {
+            "name": "E (in)",
+            "value": "35,2 (1,39)"
+          },
+          {
+            "name": "R (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "50"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,490 (3,278)"
+          }
+        ],
+        "weight": "1,490 (3,278)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230478,
+        "sku": "KFA-100",
+        "label": "KFA-100",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "900 (1980)"
+          },
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "205 (8,07)"
+          },
+          {
+            "name": "C (in)",
+            "value": "103 (4,06)"
+          },
+          {
+            "name": "D (in)",
+            "value": "71,5 (2,81)"
+          },
+          {
+            "name": "E (in)",
+            "value": "35,2 (1,39)"
+          },
+          {
+            "name": "R (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "50"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,150 (2,530)"
+          }
+        ],
+        "weight": "1,150 (2,530)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230479,
+        "sku": "KFA-100 CA",
+        "label": "KFA-100 CA",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "900 (1980)"
+          },
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "205 (8,07)"
+          },
+          {
+            "name": "C (in)",
+            "value": "103 (4,06)"
+          },
+          {
+            "name": "D (in)",
+            "value": "71,5 (2,81)"
+          },
+          {
+            "name": "E (in)",
+            "value": "80,2 (3,16)"
+          },
+          {
+            "name": "R (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "50"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,270 (2,794)"
+          }
+        ],
+        "weight": "1,270 (2,794)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230480,
+        "sku": "KFA-150",
+        "label": "KFA-150",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "900 (1980)"
+          },
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "205 (8,07)"
+          },
+          {
+            "name": "C (in)",
+            "value": "153 (6,02)"
+          },
+          {
+            "name": "D (in)",
+            "value": "71,5 (2,81)"
+          },
+          {
+            "name": "E (in)",
+            "value": "35,2 (1,39)"
+          },
+          {
+            "name": "R (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "50"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,290 (2,838)"
+          }
+        ],
+        "weight": "1,290 (2,838)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230481,
+        "sku": "KFA-150 CA",
+        "label": "KFA-150 CA",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "900 (1980)"
+          },
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "205 (8,07)"
+          },
+          {
+            "name": "C (in)",
+            "value": "153 (6,02)"
+          },
+          {
+            "name": "D (in)",
+            "value": "71,5 (2,81)"
+          },
+          {
+            "name": "E (in)",
+            "value": "85,2 (3,35)"
+          },
+          {
+            "name": "R (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "50"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,410 (3,102)"
+          }
+        ],
+        "weight": "1,410 (3,102)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "R (in)",
+          "PONTEIRA",
+          "ÂNGULO DE ABERTURA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KFA-25",
+            "250 (550)",
+            "10 (0,39)",
+            "140 (5,51)",
+            "28 (1,10)",
+            "46,5 (1,83)",
+            "21,4 (0,84)",
+            "M6X1,00",
+            "M6",
+            "50",
+            "0,240 (0,528)"
+          ],
+          [
+            "KFA-35",
+            "250 (550)",
+            "10 (0,39)",
+            "140 (5,51)",
+            "45 (1,77)",
+            "46,5 (1,83)",
+            "21,4 (0,84)",
+            "M6X1,00",
+            "M6",
+            "50",
+            "0,250 (0,550)"
+          ],
+          [
+            "KFA-45",
+            "900 (1980)",
+            "16 (0,63)",
+            "205 (8,07)",
+            "53 (2,09)",
+            "70 (2,76)",
+            "35,2 (1,39)",
+            "M10X1,50",
+            "M10",
+            "50",
+            "0,890 (1,958)"
+          ],
+          [
+            "KFA-45 CA",
+            "900 (1980)",
+            "16 (0,63)",
+            "205 (8,07)",
+            "53 (2,09)",
+            "70 (2,76)",
+            "80,2 (3,16)",
+            "M10X1,50",
+            "M10",
+            "50",
+            "1,010 (2,222)"
+          ],
+          [
+            "KFA-70",
+            "900 (1980)",
+            "16 (0,63)",
+            "205 (8,07)",
+            "85 (3,35)",
+            "70 (2,76)",
+            "35,2 (1,39)",
+            "M10X1,50",
+            "M10",
+            "50",
+            "0,980 (2,156)"
+          ],
+          [
+            "KFA-70 CA",
+            "900 (1980)",
+            "16 (0,63)",
+            "205 (8,07)",
+            "85 (3,35)",
+            "70 (2,76)",
+            "80,2 (3,16)",
+            "M10X1,50",
+            "M10",
+            "50",
+            "1,100 (2,420)"
+          ],
+          [
+            "KFA-90",
+            "900 (1980)",
+            "16 (0,63)",
+            "205 (8,07)",
+            "93 (3,66)",
+            "71,5 (2,81)",
+            "35,2 (1,39)",
+            "M10X1,50",
+            "M10",
+            "50",
+            "1,120 (2,464)"
+          ],
+          [
+            "KFA-90 CA",
+            "900 (1980)",
+            "16 (0,63)",
+            "205 (8,07)",
+            "93 (3,66)",
+            "71,5 (2,81)",
+            "80,2 (3,16)",
+            "M10X1,50",
+            "M10",
+            "50",
+            "1,240 (2,728)"
+          ],
+          [
+            "KFA-90 L",
+            "250 (550)",
+            "16 (0,63)",
+            "305 (12,01)",
+            "93 (3,66)",
+            "171,5 (6,75)",
+            "35,2 (1,39)",
+            "M10X1,50",
+            "M10",
+            "50",
+            "1,490 (3,278)"
+          ],
+          [
+            "KFA-100",
+            "900 (1980)",
+            "16 (0,63)",
+            "205 (8,07)",
+            "103 (4,06)",
+            "71,5 (2,81)",
+            "35,2 (1,39)",
+            "M10X1,50",
+            "M10",
+            "50",
+            "1,150 (2,530)"
+          ],
+          [
+            "KFA-100 CA",
+            "900 (1980)",
+            "16 (0,63)",
+            "205 (8,07)",
+            "103 (4,06)",
+            "71,5 (2,81)",
+            "80,2 (3,16)",
+            "M10X1,50",
+            "M10",
+            "50",
+            "1,270 (2,794)"
+          ],
+          [
+            "KFA-150",
+            "900 (1980)",
+            "16 (0,63)",
+            "205 (8,07)",
+            "153 (6,02)",
+            "71,5 (2,81)",
+            "35,2 (1,39)",
+            "M10X1,50",
+            "M10",
+            "50",
+            "1,290 (2,838)"
+          ],
+          [
+            "KFA-150 CA",
+            "900 (1980)",
+            "16 (0,63)",
+            "205 (8,07)",
+            "153 (6,02)",
+            "71,5 (2,81)",
+            "85,2 (3,35)",
+            "M10X1,50",
+            "M10",
+            "50",
+            "1,410 (3,102)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kfa-25-35-45-70-90-100-150/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/735_KFA_25123.png",
+      "bytes": 237185,
+      "sha256": "813d6acd56029f8f7cf16e473edd9d42c66aa5403dc428a7455987536a62a2e9"
+    },
+    {
+      "path": "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/736_KFA_35.png",
+      "bytes": 242489,
+      "sha256": "f15c24dfb016f4366fcf9a02450061ec01b3b4b9a230bb2c154c745929fb8a68"
+    },
+    {
+      "path": "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/737_KFA45123.png",
+      "bytes": 245796,
+      "sha256": "f07e9dd8aabb7f1d743c37a9848f8b1e9fc4756887c419fcb0ce36191e890da4"
+    },
+    {
+      "path": "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-4.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/801_KFA_70.png",
+      "bytes": 237131,
+      "sha256": "cf91a837bc661d580ab73385c0885f9435bfd5e60740b97d82021076a2ab1d71"
+    },
+    {
+      "path": "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-5.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/738_KFA_70_CA123.png",
+      "bytes": 284642,
+      "sha256": "58826d2d7c4f1f13926035fb6772c2bf5d358fd100fd76561548ae2df6755660"
+    },
+    {
+      "path": "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-6.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/802_KFA_90L.png",
+      "bytes": 260193,
+      "sha256": "ce2d3654b1ec1ed9e20e4a967413aee9a71a853c211d58d80052e001d1e987cb"
+    },
+    {
+      "path": "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-7.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/568_KF_100.png",
+      "bytes": 209171,
+      "sha256": "4cdf2423bc54d7f3ecd34c01aaaff41dc211458ff7a6de926b30d60a43902f6c"
+    },
+    {
+      "path": "/images/products/kifix/kfa-25-35-45-70-90-100-150/foto-8.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/739_KFA_150154.png",
+      "bytes": 188536,
+      "sha256": "cd84527ee26ef48da5c6a0f7653a0b9d79ed5c4711cbe158712de575ef206a1d"
+    },
+    {
+      "path": "/images/products/kifix/kfa-25-35-45-70-90-100-150/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/297_KFA25_150.JPG",
+      "bytes": 103106,
+      "sha256": "ac24804c3ba813dc14533e80a49c83e015b47025a827974e5048bbbd2679357e"
+    }
+  ],
+  "checks": {
+    "variants": 13,
+    "photos": 8,
+    "drawings": 1,
+    "tableRows": 13
+  }
+}

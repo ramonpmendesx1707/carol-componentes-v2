@@ -1,0 +1,247 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo-com-giro/kf-007-g/",
+  "fetchedAt": "2026-10-20T13:02:13.219Z",
+  "product": {
+    "id": 202016,
+    "slug": "kifix-kf-007-g",
+    "name": "KF-007 G",
+    "sku": "KF-007 G",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo-com-giro/kf-007-g/",
+    "type": "product",
+    "summary": "Linha Grampo torpedo com giro Kifix modelo KF-007 G, com 2 referências dimensionais.",
+    "description": "<p>Linha Grampo torpedo com giro Kifix modelo KF-007 G, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo torpedo com giro",
+        "slug": "grampo-torpedo-com-giro"
+      }
+    ],
+    "image": "/images/products/kifix/kf-007-g/foto-1.png",
+    "images": [
+      "/images/products/kifix/kf-007-g/foto-1.png",
+      "/images/products/kifix/kf-007-g/foto-2.png",
+      "/images/products/kifix/kf-007-g/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo torpedo com giro"
+      }
+    ],
+    "weight": "0,925 (2,039)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230109,
+        "sku": "KF-007 GE",
+        "label": "KF-007 GE",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "A (in)",
+            "value": "125 (4,92)"
+          },
+          {
+            "name": "B (in)",
+            "value": "213 (8,38)"
+          },
+          {
+            "name": "C (in)",
+            "value": "27 (1,06)"
+          },
+          {
+            "name": "D (in)",
+            "value": "45 (1,77)"
+          },
+          {
+            "name": "E (in)",
+            "value": "38 (1,49)"
+          },
+          {
+            "name": "F (in)",
+            "value": "70 (2,75)"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,93)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,21)"
+          },
+          {
+            "name": "N (in)",
+            "value": "12,7 (0,5)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,925 (2,039)"
+          }
+        ],
+        "weight": "0,925 (2,039)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230110,
+        "sku": "KF-007 GD",
+        "label": "KF-007 GD",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "A (in)",
+            "value": "125 (4,92)"
+          },
+          {
+            "name": "B (in)",
+            "value": "213 (8,38)"
+          },
+          {
+            "name": "C (in)",
+            "value": "27 (1,06)"
+          },
+          {
+            "name": "D (in)",
+            "value": "45 (1,77)"
+          },
+          {
+            "name": "E (in)",
+            "value": "38 (1,49)"
+          },
+          {
+            "name": "F (in)",
+            "value": "70 (2,75)"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,93)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,21)"
+          },
+          {
+            "name": "N (in)",
+            "value": "12,7 (0,5)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,925 (2,039)"
+          }
+        ],
+        "weight": "0,925 (2,039)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "CURSO (in)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "H (in)",
+          "J (in)",
+          "N (in)",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-007 GE",
+            "200 (440)",
+            "42 (1,65)",
+            "125 (4,92)",
+            "213 (8,38)",
+            "27 (1,06)",
+            "45 (1,77)",
+            "38 (1,49)",
+            "70 (2,75)",
+            "100 (3,93)",
+            "5,5 (0,21)",
+            "12,7 (0,5)",
+            "0,925 (2,039)"
+          ],
+          [
+            "KF-007 GD",
+            "200 (440)",
+            "42 (1,65)",
+            "125 (4,92)",
+            "213 (8,38)",
+            "27 (1,06)",
+            "45 (1,77)",
+            "38 (1,49)",
+            "70 (2,75)",
+            "100 (3,93)",
+            "5,5 (0,21)",
+            "12,7 (0,5)",
+            "0,925 (2,039)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kf-007-g/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kf-007-g/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/937_KF007_GD.png",
+      "bytes": 1498906,
+      "sha256": "281fec326fd56146916167d2dbae9b39c9eb203e82189c253cf89df2726fbc52"
+    },
+    {
+      "path": "/images/products/kifix/kf-007-g/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/512_KF_007_G.png",
+      "bytes": 216279,
+      "sha256": "79caa39c83355fbe6e52ef5545a4b5c74ff498073b899c3febcbdc0728743af1"
+    },
+    {
+      "path": "/images/products/kifix/kf-007-g/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/439_KF007_G0103.jpg",
+      "bytes": 509808,
+      "sha256": "846c99cda29cc75f9931b23d86139e5b10aa91cb1e85b1f70ddfbef87a721419"
+    }
+  ],
+  "checks": {
+    "variants": 2,
+    "photos": 2,
+    "drawings": 1,
+    "tableRows": 2
+  }
+}

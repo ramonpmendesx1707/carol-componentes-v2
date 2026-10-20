@@ -1,0 +1,312 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/posicionador-indexador/",
+  "fetchedAt": "2026-10-20T12:55:15.007Z",
+  "product": {
+    "id": 202096,
+    "slug": "kifix-posicionador-indexador",
+    "name": "Posicionador/Indexador",
+    "sku": "Posicionador/Indexador",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/posicionador-indexador/",
+    "type": "product",
+    "summary": "Linha LANÇAMENTOS Kifix modelo Posicionador/Indexador, com 3 referências dimensionais.",
+    "description": "<p>Linha LANÇAMENTOS Kifix modelo Posicionador/Indexador, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "LANÇAMENTOS",
+        "slug": "lancamentos"
+      }
+    ],
+    "image": "/images/products/kifix/posicionador-indexador/foto-1.png",
+    "images": [
+      "/images/products/kifix/posicionador-indexador/foto-1.png",
+      "/images/products/kifix/posicionador-indexador/foto-2.png",
+      "/images/products/kifix/posicionador-indexador/desenho-1.jpg",
+      "/images/products/kifix/posicionador-indexador/desenho-2.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "LANÇAMENTOS"
+      }
+    ],
+    "weight": "0,067 (0,15)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230615,
+        "sku": "KF-PSI M12X1,75",
+        "label": "KF-PSI M12X1,75",
+        "attributes": [
+          {
+            "name": "A1 (in)",
+            "value": "74 (2,91)"
+          },
+          {
+            "name": "A2 (in)",
+            "value": "54 (2,12)"
+          },
+          {
+            "name": "B (in)",
+            "value": "22,5 (0,88)"
+          },
+          {
+            "name": "C (in)",
+            "value": "20 (0,78)"
+          },
+          {
+            "name": "D (in)",
+            "value": "33,4 (1,31)"
+          },
+          {
+            "name": "E (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "F (in)",
+            "value": "5,5 (0,21)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "15,19 (0,59)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M12X1,75"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,067 (0,15)"
+          }
+        ],
+        "weight": "0,067 (0,15)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230616,
+        "sku": "KF-PS M16X1,5",
+        "label": "KF-PS M16X1,5",
+        "attributes": [
+          {
+            "name": "A1 (in)",
+            "value": "68,7 (2,70)"
+          },
+          {
+            "name": "A2 (in)",
+            "value": "72,7 (2,86)"
+          },
+          {
+            "name": "B (in)",
+            "value": "49,6 (1,95)"
+          },
+          {
+            "name": "C (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "D (in)",
+            "value": "35 (1,37)"
+          },
+          {
+            "name": "E (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "F (in)",
+            "value": "18 (0,70)"
+          },
+          {
+            "name": "G (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "H (in)",
+            "value": "15,1 (0,59)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M16X1,5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,043"
+          }
+        ],
+        "weight": "0,043",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230617,
+        "sku": "KF-PS M20X1,5",
+        "label": "KF-PS M20X1,5",
+        "attributes": [
+          {
+            "name": "A1 (in)",
+            "value": "68,7 (2,70)"
+          },
+          {
+            "name": "A2 (in)",
+            "value": "70,7 (2,70)"
+          },
+          {
+            "name": "B (in)",
+            "value": "50 (1,96)"
+          },
+          {
+            "name": "C (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "D (in)",
+            "value": "35 (1,37)"
+          },
+          {
+            "name": "E (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "F (in)",
+            "value": "18 (0,70)"
+          },
+          {
+            "name": "G (in)",
+            "value": "9,5 (0,37)"
+          },
+          {
+            "name": "H (in)",
+            "value": "15,1 (0,59)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M20X1,5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,179"
+          }
+        ],
+        "weight": "0,179",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "A1 (in)",
+          "A2 (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-PSI M12X1,75",
+            "74 (2,91)",
+            "54 (2,12)",
+            "22,5 (0,88)",
+            "20 (0,78)",
+            "33,4 (1,31)",
+            "8 (0,31)",
+            "5,5 (0,21)",
+            "-",
+            "15,19 (0,59)",
+            "M12X1,75",
+            "0,067 (0,15)"
+          ],
+          [
+            "KF-PS M16X1,5",
+            "68,7 (2,70)",
+            "72,7 (2,86)",
+            "49,6 (1,95)",
+            "10 (0,39)",
+            "35 (1,37)",
+            "10 (0,39)",
+            "18 (0,70)",
+            "8 (0,31)",
+            "15,1 (0,59)",
+            "M16X1,5",
+            "0,043"
+          ],
+          [
+            "KF-PS M20X1,5",
+            "68,7 (2,70)",
+            "70,7 (2,70)",
+            "50 (1,96)",
+            "12 (0,47)",
+            "35 (1,37)",
+            "10 (0,39)",
+            "18 (0,70)",
+            "9,5 (0,37)",
+            "15,1 (0,59)",
+            "M20X1,5",
+            "0,179"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/posicionador-indexador/desenho-1.jpg",
+          "/images/products/kifix/posicionador-indexador/desenho-2.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/posicionador-indexador/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/940_KFPS_M16.png",
+      "bytes": 2506914,
+      "sha256": "74e2ce713b2debf8ab82e683885a5a0f42040dae9440246417697617fcf9c10f"
+    },
+    {
+      "path": "/images/products/kifix/posicionador-indexador/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/941_KFPSI_M12.png",
+      "bytes": 1539334,
+      "sha256": "4b9eac5ec19c61f00f21ce4b11116c1d1d890f96bb6a75d80445659a74a49726"
+    },
+    {
+      "path": "/images/products/kifix/posicionador-indexador/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/454_KFPS_M16.jpg",
+      "bytes": 118241,
+      "sha256": "98bf9885d466a7a99daef3ca08b127b5ccaec1e1226057c1a159950264360445"
+    },
+    {
+      "path": "/images/products/kifix/posicionador-indexador/desenho-2.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/455_KFPS1201.jpg",
+      "bytes": 89002,
+      "sha256": "765abe40f30b3009cb7e99bf3f12e13cd9b3fa8ce750e1fcf61befbbe002e556"
+    }
+  ],
+  "checks": {
+    "variants": 3,
+    "photos": 2,
+    "drawings": 2,
+    "tableRows": 3
+  }
+}

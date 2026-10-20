@@ -1,0 +1,288 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/puxador/puxador/",
+  "fetchedAt": "2026-10-20T13:04:16.359Z",
+  "product": {
+    "id": 202097,
+    "slug": "kifix-puxador",
+    "name": "Puxador",
+    "sku": "Puxador",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/puxador/puxador/",
+    "type": "product",
+    "summary": "Linha Puxador Kifix modelo Puxador, com 3 referências dimensionais.",
+    "description": "<p>Linha Puxador Kifix modelo Puxador, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Puxador",
+        "slug": "puxador"
+      }
+    ],
+    "image": "/images/products/kifix/puxador/foto-1.png",
+    "images": [
+      "/images/products/kifix/puxador/foto-1.png",
+      "/images/products/kifix/puxador/foto-2.png",
+      "/images/products/kifix/puxador/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Puxador"
+      }
+    ],
+    "weight": "0,46 (1,01)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230618,
+        "sku": "KF-PX",
+        "label": "KF-PX",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "35 (1,37)"
+          },
+          {
+            "name": "B (in)",
+            "value": "197,3 (7,76)"
+          },
+          {
+            "name": "C (in)",
+            "value": "23 (0,90)"
+          },
+          {
+            "name": "D (in)",
+            "value": "20 (0,78)"
+          },
+          {
+            "name": "E (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "F (in)",
+            "value": "3,0 (0,12)"
+          },
+          {
+            "name": "G (in)",
+            "value": "140 (5,51)"
+          },
+          {
+            "name": "H (in)",
+            "value": "88,7 (3,49)"
+          },
+          {
+            "name": "J (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,46 (1,01)"
+          }
+        ],
+        "weight": "0,46 (1,01)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230619,
+        "sku": "KF-PX 120X60",
+        "label": "KF-PX 120X60",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "64,8 (2,55)"
+          },
+          {
+            "name": "B (in)",
+            "value": "282,1 (11,11)"
+          },
+          {
+            "name": "C (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "D (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "E (in)",
+            "value": "151,3 (5,96)"
+          },
+          {
+            "name": "F (in)",
+            "value": "4,8 (0,19)"
+          },
+          {
+            "name": "G (in)",
+            "value": "171,3 (6,74)"
+          },
+          {
+            "name": "H (in)",
+            "value": "115,8 (4,56)"
+          },
+          {
+            "name": "J (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,5 (1,10)"
+          }
+        ],
+        "weight": "0,5 (1,10)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230620,
+        "sku": "KF-PX 120X35",
+        "label": "KF-PX 120X35",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "B (in)",
+            "value": "228,6 (9,0)"
+          },
+          {
+            "name": "C (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "D (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "E (in)",
+            "value": "151,3 (5,96)"
+          },
+          {
+            "name": "F (in)",
+            "value": "2,7(0,11)"
+          },
+          {
+            "name": "G (in)",
+            "value": "171,3 (6,74)"
+          },
+          {
+            "name": "H (in)",
+            "value": "115,8 (4,56)"
+          },
+          {
+            "name": "J (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,485 (1,07)"
+          }
+        ],
+        "weight": "0,485 (1,07)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-PX",
+            "35 (1,37)",
+            "197,3 (7,76)",
+            "23 (0,90)",
+            "20 (0,78)",
+            "120 (4,72)",
+            "3,0 (0,12)",
+            "140 (5,51)",
+            "88,7 (3,49)",
+            "9 (0,35)",
+            "0,46 (1,01)"
+          ],
+          [
+            "KF-PX 120X60",
+            "64,8 (2,55)",
+            "282,1 (11,11)",
+            "23 (0,91)",
+            "20 (0,79)",
+            "151,3 (5,96)",
+            "4,8 (0,19)",
+            "171,3 (6,74)",
+            "115,8 (4,56)",
+            "9 (0,35)",
+            "0,5 (1,10)"
+          ],
+          [
+            "KF-PX 120X35",
+            "35 (1,38)",
+            "228,6 (9,0)",
+            "23 (0,91)",
+            "20 (0,79)",
+            "151,3 (5,96)",
+            "2,7(0,11)",
+            "171,3 (6,74)",
+            "115,8 (4,56)",
+            "9 (0,35)",
+            "0,485 (1,07)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/puxador/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/puxador/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/863_puxador_c_revestimento.png",
+      "bytes": 116978,
+      "sha256": "0bf4f53de5df7974bba59d248c3ff5e68d7ee3331a7412540ae52d8ab2934eaa"
+    },
+    {
+      "path": "/images/products/kifix/puxador/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/864_puxador.png",
+      "bytes": 93122,
+      "sha256": "4493d72fedb8fe941d2c41f65cea3c9a9e235444007d9fcc55494821dfc59659"
+    },
+    {
+      "path": "/images/products/kifix/puxador/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/433_Des_tec_pux97.jpg",
+      "bytes": 726593,
+      "sha256": "c1b9bd7fb6753bc3a39d1963e850aa830587d06dcfb6e09d2b50f1803e769e25"
+    }
+  ],
+  "checks": {
+    "variants": 3,
+    "photos": 2,
+    "drawings": 1,
+    "tableRows": 3
+  }
+}

@@ -1,0 +1,879 @@
+{
+  "id": 202019,
+  "slug": "kifix-kf-010-kf-011-012-017-111-p-consultar-marcas-de-cilindro-disponiveis",
+  "name": "KF-010/KF-011/012/017/111_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS",
+  "sku": "KF-010/KF-011/012/017/111_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-pneumatico/kf-010-kf-011-012-017-111-p-co/",
+  "type": "product",
+  "summary": "Linha Grampo pneumático Kifix modelo KF-010/KF-011/012/017/111_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS, com 11 referências dimensionais.",
+  "description": "<p>Linha Grampo pneumático Kifix modelo KF-010/KF-011/012/017/111_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS, com 11 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo pneumático",
+      "slug": "grampo-pneumatico"
+    }
+  ],
+  "image": "/images/products/kifix/kf-010-kf-011-012-017-111-p-consultar-marcas-de-cilindro-disponiveis/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-010-kf-011-012-017-111-p-consultar-marcas-de-cilindro-disponiveis/foto-1.png",
+    "/images/products/kifix/kf-010-kf-011-012-017-111-p-consultar-marcas-de-cilindro-disponiveis/foto-2.png",
+    "/images/products/kifix/kf-010-kf-011-012-017-111-p-consultar-marcas-de-cilindro-disponiveis/foto-3.png",
+    "/images/products/kifix/kf-010-kf-011-012-017-111-p-consultar-marcas-de-cilindro-disponiveis/foto-4.png",
+    "/images/products/kifix/kf-010-kf-011-012-017-111-p-consultar-marcas-de-cilindro-disponiveis/foto-5.png",
+    "/images/products/kifix/kf-010-kf-011-012-017-111-p-consultar-marcas-de-cilindro-disponiveis/foto-6.png",
+    "/images/products/kifix/kf-010-kf-011-012-017-111-p-consultar-marcas-de-cilindro-disponiveis/foto-7.png",
+    "/images/products/kifix/kf-010-kf-011-012-017-111-p-consultar-marcas-de-cilindro-disponiveis/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo pneumático"
+    }
+  ],
+  "weight": "0,630 (1,386)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230160,
+      "sku": "KF-012 DB P",
+      "label": "KF-012 DB P",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "90 (198)"
+        },
+        {
+          "name": "A (in)",
+          "value": "53 (2,09)"
+        },
+        {
+          "name": "B (in)",
+          "value": "235 (9,25)"
+        },
+        {
+          "name": "C (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "D (in)",
+          "value": "12,7 (0,50)"
+        },
+        {
+          "name": "E (in)",
+          "value": "27 (1,06)"
+        },
+        {
+          "name": "G (in)",
+          "value": "50 (1,97)"
+        },
+        {
+          "name": "H (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "J (in)",
+          "value": "5,6 (0,22)"
+        },
+        {
+          "name": "ROSCA CIL",
+          "value": "1/8 in NPT"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "70"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,630 (1,386)"
+        }
+      ],
+      "weight": "0,630 (1,386)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230161,
+      "sku": "KF-017 DB P",
+      "label": "KF-017 DB P",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "170 (374)"
+        },
+        {
+          "name": "A (in)",
+          "value": "72 (2,83)"
+        },
+        {
+          "name": "B (in)",
+          "value": "238 (9,37)"
+        },
+        {
+          "name": "C (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "G (in)",
+          "value": "64 (2,52)"
+        },
+        {
+          "name": "H (in)",
+          "value": "53 (2,09)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "ROSCA CIL",
+          "value": "M5"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "100"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,510 (3,322)"
+        }
+      ],
+      "weight": "1,510 (3,322)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230162,
+      "sku": "KF-017 DBL P",
+      "label": "KF-017 DBL P",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "150 (330)"
+        },
+        {
+          "name": "A (in)",
+          "value": "72 (2,83)"
+        },
+        {
+          "name": "B (in)",
+          "value": "268 (10,55)"
+        },
+        {
+          "name": "C (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "G (in)",
+          "value": "64 (2,52)"
+        },
+        {
+          "name": "H (in)",
+          "value": "83 (3,27)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "ROSCA CIL",
+          "value": "M5"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "100"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,530 (3,366)"
+        }
+      ],
+      "weight": "1,530 (3,366)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230163,
+      "sku": "KF-017 DS P",
+      "label": "KF-017 DS P",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "200 (440)"
+        },
+        {
+          "name": "A (in)",
+          "value": "72 (2,83)"
+        },
+        {
+          "name": "B (in)",
+          "value": "268 (10,55)"
+        },
+        {
+          "name": "C (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "G (in)",
+          "value": "64 (2,52)"
+        },
+        {
+          "name": "H (in)",
+          "value": "83 (3,27)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "ROSCA CIL",
+          "value": "M5"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "100"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,530 (3,366)"
+        }
+      ],
+      "weight": "1,530 (3,366)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230164,
+      "sku": "KF-011 DB P",
+      "label": "KF-011 DB P",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "280 (616)"
+        },
+        {
+          "name": "A (in)",
+          "value": "97 (3,82)"
+        },
+        {
+          "name": "B (in)",
+          "value": "328 (12,91)"
+        },
+        {
+          "name": "C (in)",
+          "value": "47 (1,85)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "E (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "G (in)",
+          "value": "79 (3,11)"
+        },
+        {
+          "name": "H (in)",
+          "value": "86 (3,39)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "ROSCA CIL",
+          "value": "1/8 in NPT"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "100"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "2,830 (6,226)"
+        }
+      ],
+      "weight": "2,830 (6,226)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230165,
+      "sku": "KF-011 DBL P",
+      "label": "KF-011 DBL P",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "250 (550)"
+        },
+        {
+          "name": "A (in)",
+          "value": "97 (3,82)"
+        },
+        {
+          "name": "B (in)",
+          "value": "354 (13,94)"
+        },
+        {
+          "name": "C (in)",
+          "value": "47 (1,85)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "E (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "G (in)",
+          "value": "79 (3,11)"
+        },
+        {
+          "name": "H (in)",
+          "value": "112 (4,41)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "ROSCA CIL",
+          "value": "1/8 in NPT"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "100"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "2,860 (6,292)"
+        }
+      ],
+      "weight": "2,860 (6,292)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230166,
+      "sku": "KF-011 DS P",
+      "label": "KF-011 DS P",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "300 (660)"
+        },
+        {
+          "name": "A (in)",
+          "value": "97 (3,82)"
+        },
+        {
+          "name": "B (in)",
+          "value": "354 (13,94)"
+        },
+        {
+          "name": "C (in)",
+          "value": "47 (1,85)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "E (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "G (in)",
+          "value": "79 (3,11)"
+        },
+        {
+          "name": "H (in)",
+          "value": "112 (4,41)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "ROSCA CIL",
+          "value": "1/8 in NPT"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "100"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "2,850 (6,270)"
+        }
+      ],
+      "weight": "2,850 (6,270)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230167,
+      "sku": "KF-111 DB P",
+      "label": "KF-111 DB P",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "680 (1496)"
+        },
+        {
+          "name": "A (in)",
+          "value": "119 (4,69)"
+        },
+        {
+          "name": "B (in)",
+          "value": "393 (15,47)"
+        },
+        {
+          "name": "C (in)",
+          "value": "55 (2,17)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "E (in)",
+          "value": "45 (1,77)"
+        },
+        {
+          "name": "G (in)",
+          "value": "89,5 (3,52)"
+        },
+        {
+          "name": "H (in)",
+          "value": "100 (3,94)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "ROSCA CIL",
+          "value": "1/8 in NPT"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "100"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "4,700 (10,340)"
+        }
+      ],
+      "weight": "4,700 (10,340)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230168,
+      "sku": "KF-111 DS P",
+      "label": "KF-111 DS P",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "700 (1540)"
+        },
+        {
+          "name": "A (in)",
+          "value": "119 (4,69)"
+        },
+        {
+          "name": "B (in)",
+          "value": "428 (16,85)"
+        },
+        {
+          "name": "C (in)",
+          "value": "55 (2,17)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "E (in)",
+          "value": "45 (1,77)"
+        },
+        {
+          "name": "G (in)",
+          "value": "89,5 (3,52)"
+        },
+        {
+          "name": "H (in)",
+          "value": "145 (5,71)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "ROSCA CIL",
+          "value": "1/8 in NPT"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "100"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "4,700 (10,340)"
+        }
+      ],
+      "weight": "4,700 (10,340)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230169,
+      "sku": "KF-111 DBL P",
+      "label": "KF-111 DBL P",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "650 (1433)"
+        },
+        {
+          "name": "A (in)",
+          "value": "119 (4,69)"
+        },
+        {
+          "name": "B (in)",
+          "value": "393 (15,47)"
+        },
+        {
+          "name": "C (in)",
+          "value": "55 (2,17)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "E (in)",
+          "value": "45 (1,77)"
+        },
+        {
+          "name": "G (in)",
+          "value": "89,5 (3,52)"
+        },
+        {
+          "name": "H (in)",
+          "value": "145 (5,71)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "ROSCA CIL",
+          "value": "1/8 in NPT"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "100"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "3,550 (7,826)"
+        }
+      ],
+      "weight": "3,550 (7,826)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230170,
+      "sku": "KF-010 DB P",
+      "label": "KF-010 DB P",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "60(132)"
+        },
+        {
+          "name": "A (in)",
+          "value": "40 (1,57)"
+        },
+        {
+          "name": "B (in)",
+          "value": "161 (6,33))"
+        },
+        {
+          "name": "C (in)",
+          "value": "18 (0,70)"
+        },
+        {
+          "name": "D (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "E (in)",
+          "value": "23,9 (0,94)"
+        },
+        {
+          "name": "G (in)",
+          "value": "39 (1,53)"
+        },
+        {
+          "name": "H (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "J (in)",
+          "value": "4,3 (0,16)"
+        },
+        {
+          "name": "ROSCA CIL",
+          "value": "M5"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "80"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,269 (0,593)"
+        }
+      ],
+      "weight": "0,269 (0,593)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "ROSCA CIL",
+        "ÂNGULO DE ABERTURA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-012 DB P",
+          "90 (198)",
+          "53 (2,09)",
+          "235 (9,25)",
+          "26 (1,02)",
+          "12,7 (0,50)",
+          "27 (1,06)",
+          "50 (1,97)",
+          "42 (1,65)",
+          "5,6 (0,22)",
+          "1/8 in NPT",
+          "70",
+          "0,630 (1,386)"
+        ],
+        [
+          "KF-017 DB P",
+          "170 (374)",
+          "72 (2,83)",
+          "238 (9,37)",
+          "35 (1,38)",
+          "19 (0,75)",
+          "32 (1,26)",
+          "64 (2,52)",
+          "53 (2,09)",
+          "7,0 (0,28)",
+          "M5",
+          "100",
+          "1,510 (3,322)"
+        ],
+        [
+          "KF-017 DBL P",
+          "150 (330)",
+          "72 (2,83)",
+          "268 (10,55)",
+          "35 (1,38)",
+          "19 (0,75)",
+          "32 (1,26)",
+          "64 (2,52)",
+          "83 (3,27)",
+          "7,0 (0,28)",
+          "M5",
+          "100",
+          "1,530 (3,366)"
+        ],
+        [
+          "KF-017 DS P",
+          "200 (440)",
+          "72 (2,83)",
+          "268 (10,55)",
+          "35 (1,38)",
+          "19 (0,75)",
+          "32 (1,26)",
+          "64 (2,52)",
+          "83 (3,27)",
+          "7,0 (0,28)",
+          "M5",
+          "100",
+          "1,530 (3,366)"
+        ],
+        [
+          "KF-011 DB P",
+          "280 (616)",
+          "97 (3,82)",
+          "328 (12,91)",
+          "47 (1,85)",
+          "32 (1,26)",
+          "44 (1,73)",
+          "79 (3,11)",
+          "86 (3,39)",
+          "8,5 (0,33)",
+          "1/8 in NPT",
+          "100",
+          "2,830 (6,226)"
+        ],
+        [
+          "KF-011 DBL P",
+          "250 (550)",
+          "97 (3,82)",
+          "354 (13,94)",
+          "47 (1,85)",
+          "32 (1,26)",
+          "44 (1,73)",
+          "79 (3,11)",
+          "112 (4,41)",
+          "8,5 (0,33)",
+          "1/8 in NPT",
+          "100",
+          "2,860 (6,292)"
+        ],
+        [
+          "KF-011 DS P",
+          "300 (660)",
+          "97 (3,82)",
+          "354 (13,94)",
+          "47 (1,85)",
+          "32 (1,26)",
+          "44 (1,73)",
+          "79 (3,11)",
+          "112 (4,41)",
+          "8,5 (0,33)",
+          "1/8 in NPT",
+          "100",
+          "2,850 (6,270)"
+        ],
+        [
+          "KF-111 DB P",
+          "680 (1496)",
+          "119 (4,69)",
+          "393 (15,47)",
+          "55 (2,17)",
+          "32 (1,26)",
+          "45 (1,77)",
+          "89,5 (3,52)",
+          "100 (3,94)",
+          "8,5 (0,33)",
+          "1/8 in NPT",
+          "100",
+          "4,700 (10,340)"
+        ],
+        [
+          "KF-111 DS P",
+          "700 (1540)",
+          "119 (4,69)",
+          "428 (16,85)",
+          "55 (2,17)",
+          "32 (1,26)",
+          "45 (1,77)",
+          "89,5 (3,52)",
+          "145 (5,71)",
+          "8,5 (0,33)",
+          "1/8 in NPT",
+          "100",
+          "4,700 (10,340)"
+        ],
+        [
+          "KF-111 DBL P",
+          "650 (1433)",
+          "119 (4,69)",
+          "393 (15,47)",
+          "55 (2,17)",
+          "32 (1,26)",
+          "45 (1,77)",
+          "89,5 (3,52)",
+          "145 (5,71)",
+          "8,5 (0,33)",
+          "1/8 in NPT",
+          "100",
+          "3,550 (7,826)"
+        ],
+        [
+          "KF-010 DB P",
+          "60(132)",
+          "40 (1,57)",
+          "161 (6,33))",
+          "18 (0,70)",
+          "16 (0,63)",
+          "23,9 (0,94)",
+          "39 (1,53)",
+          "26 (1,02)",
+          "4,3 (0,16)",
+          "M5",
+          "80",
+          "0,269 (0,593)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-010-kf-011-012-017-111-p-consultar-marcas-de-cilindro-disponiveis/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

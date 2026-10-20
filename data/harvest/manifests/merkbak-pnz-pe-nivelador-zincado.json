@@ -1,0 +1,136 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/pe-nivelador-2/",
+  "fetchedAt": "2026-10-20T12:50:07.844Z",
+  "product": {
+    "id": 201041,
+    "slug": "merkbak-pnz-pe-nivelador-zincado",
+    "name": "PNZ – Pé Nivelador Zincado",
+    "sku": "PNZ",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/pe-nivelador-2/",
+    "type": "product",
+    "summary": "Pés niveladores são colocados nas bases de máquinas, equipamentos ou móveis e servem para nivelar ou simplesmente evitar que fiquem em contato com o piso.",
+    "description": "<p>Pés niveladores são colocados nas bases de máquinas, equipamentos ou móveis e servem para nivelar ou simplesmente evitar que fiquem em contato com o piso.</p><p><strong>Material:</strong> Pvc + rosca e porca aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Ótima aderência</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Pés Niveladores",
+        "slug": "pes-niveladores"
+      }
+    ],
+    "image": "/images/products/merkbak/pnz-pe-nivelador-zincado/1.png",
+    "images": [
+      "/images/products/merkbak/pnz-pe-nivelador-zincado/1.png",
+      "/images/products/merkbak/pnz-pe-nivelador-zincado/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Pvc + rosca e porca aço carbono zincado"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Pés niveladores são colocados nas bases de máquinas, equipamentos ou móveis e servem para nivelar ou simplesmente evitar que fiquem em contato com o piso."
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Alta resistência / Ótima aderência"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220266,
+        "sku": "PNZ 2412 1/4X22",
+        "label": "PNZ 2412 1/4X22",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PNZ 2412 1/4X22"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220267,
+        "sku": "PNZ 3821 3/8X20",
+        "label": "PNZ 3821 3/8X20",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PNZ 3821 3/8X20"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Pvc + rosca e porca aço carbono zincado"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Pés niveladores são colocados nas bases de máquinas, equipamentos ou móveis e servem para nivelar ou simplesmente evitar que fiquem em contato com o piso."
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Alta resistência / Ótima aderência"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "PNZ 2412 1/4X22"
+          },
+          {
+            "name": "Medida",
+            "value": "PNZ 3821 3/8X20"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/pnz-pe-nivelador-zincado/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/045-pnz-copiar-e1779470786243.png",
+      "bytes": 55225,
+      "sha256": "3b477be8a4b0032cc3d79c2dccb2f88d092028cd72f0a5215db735d929afd042"
+    },
+    {
+      "path": "/images/products/merkbak/pnz-pe-nivelador-zincado/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/12/PNZ_tab.png",
+      "bytes": 128990,
+      "sha256": "a75e1fef0dd215a543a683e17a41b9c05f3e1aa03487d7bbc85dd763678f181b"
+    }
+  ],
+  "checks": {
+    "variants": 2,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

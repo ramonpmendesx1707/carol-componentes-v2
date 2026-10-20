@@ -1,0 +1,136 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-estriado/",
+  "fetchedAt": "2026-10-20T12:46:25.402Z",
+  "product": {
+    "id": 201011,
+    "slug": "merkbak-ce-cabo-estriado",
+    "name": "CE – Cabo Estriado",
+    "sku": "CE",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/cabo-estriado/",
+    "type": "product",
+    "summary": "Ideal para uso em ambientes com temperatura elevada, equipamentos gastronômicos, médico/hospitalares, etc",
+    "description": "<p>Ideal para uso em ambientes com temperatura elevada, equipamentos gastronômicos, médico/hospitalares, etc</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Ótima empunhadura / Isolante térmico / Furo liso 1/2</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Baquelite",
+        "slug": "baquelite"
+      }
+    ],
+    "image": "/images/products/merkbak/ce-cabo-estriado/1.png",
+    "images": [
+      "/images/products/merkbak/ce-cabo-estriado/1.png",
+      "/images/products/merkbak/ce-cabo-estriado/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Baquelite"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial polido na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Ideal para uso em ambientes com temperatura elevada, equipamentos gastronômicos, médico/hospitalares, etc"
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Alta resistência / Ótima empunhadura / Isolante térmico / Furo liso 1/2"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220046,
+        "sku": "CE 90 1/2",
+        "label": "CE 90 1/2",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "CE 90 1/2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220047,
+        "sku": "CE 100 1/2",
+        "label": "CE 100 1/2",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "CE 100 1/2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Baquelite"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial polido na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Ideal para uso em ambientes com temperatura elevada, equipamentos gastronômicos, médico/hospitalares, etc"
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Alta resistência / Ótima empunhadura / Isolante térmico / Furo liso 1/2"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "CE 90 1/2"
+          },
+          {
+            "name": "Medida",
+            "value": "CE 100 1/2"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/ce-cabo-estriado/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/023-ce-copiar-e1779742518406.png",
+      "bytes": 224651,
+      "sha256": "0e78180a34a05e0915042b8657a54a33d6a0b7d966dd0cc73788515fab5889eb"
+    },
+    {
+      "path": "/images/products/merkbak/ce-cabo-estriado/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/CE_tab.png",
+      "bytes": 144207,
+      "sha256": "afacdc8aa8b5bc4afc93273181bcae217444f3bb13fab6e2a45b24e686335be4"
+    }
+  ],
+  "checks": {
+    "variants": 2,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

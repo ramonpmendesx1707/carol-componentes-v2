@@ -1,5 +1,5 @@
 {
-  "id": 200009,
+  "id": 200001,
   "slug": "vibra-stop-arruela-de-borracha",
   "name": "Vibra-Stop Arruela",
   "sku": "Arruela",
@@ -32,7 +32,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240043,
+      "id": 210001,
       "sku": "Arruela",
       "label": "Arruela",
       "attributes": [
@@ -76,6 +76,12 @@
       "url": "/downloads/products/vibra-stop/arruela-de-borracha/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Arruela.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [

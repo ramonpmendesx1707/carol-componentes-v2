@@ -1,0 +1,282 @@
+{
+  "id": 202053,
+  "slug": "kifix-kf-473",
+  "name": "KF-473",
+  "sku": "KF-473",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-473/",
+  "type": "product",
+  "summary": "Linha Grampo tensor Kifix modelo KF-473, com 2 referências dimensionais.",
+  "description": "<p>Linha Grampo tensor Kifix modelo KF-473, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo tensor",
+      "slug": "grampo-tensor"
+    }
+  ],
+  "image": "/images/products/kifix/kf-473/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-473/foto-1.png",
+    "/images/products/kifix/kf-473/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo tensor"
+    }
+  ],
+  "weight": "1,500 (3,307)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230394,
+      "sku": "KF-473 D",
+      "label": "KF-473 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1800 (3969)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "A (in)",
+          "value": "172 (6,77)"
+        },
+        {
+          "name": "B (in)",
+          "value": "202 (7,95)"
+        },
+        {
+          "name": "C (in)",
+          "value": "101 (3,98)"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "31,8 (1,25)"
+        },
+        {
+          "name": "D2 (in)",
+          "value": "14,2 (0,56)"
+        },
+        {
+          "name": "E1 (in)",
+          "value": "38,1 (1,50)"
+        },
+        {
+          "name": "E2 (in)",
+          "value": "14,2 (0,56)"
+        },
+        {
+          "name": "F (in)",
+          "value": "63,5 (2,50)"
+        },
+        {
+          "name": "G (in)",
+          "value": "63,5 (2,50)"
+        },
+        {
+          "name": "H (in)",
+          "value": "44,5 (1,75)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "10,3 (0,41)"
+        },
+        {
+          "name": "J2 (in)",
+          "value": "6,4 (0,25)"
+        },
+        {
+          "name": "N (in)",
+          "value": "10 (0,39"
+        },
+        {
+          "name": "Q (in)",
+          "value": "160 (6,29)"
+        },
+        {
+          "name": "ROSCA",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,500 (3,307)"
+        }
+      ],
+      "weight": "1,500 (3,307)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230395,
+      "sku": "KF-473 D TR",
+      "label": "KF-473 D TR",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1800 (3969)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "A (in)",
+          "value": "172 (6,77)"
+        },
+        {
+          "name": "B (in)",
+          "value": "202 (7,95)"
+        },
+        {
+          "name": "C (in)",
+          "value": "101 (3,98)"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "31,8 (1,25)"
+        },
+        {
+          "name": "D2 (in)",
+          "value": "14,2 (0,56)"
+        },
+        {
+          "name": "E1 (in)",
+          "value": "38,1 (1,50)"
+        },
+        {
+          "name": "E2 (in)",
+          "value": "14,2 (0,56)"
+        },
+        {
+          "name": "F (in)",
+          "value": "63,5 (2,50)"
+        },
+        {
+          "name": "G (in)",
+          "value": "63,5 (2,50)"
+        },
+        {
+          "name": "H (in)",
+          "value": "44,5 (1,75)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "10,3 (0,41)"
+        },
+        {
+          "name": "J2 (in)",
+          "value": "6,4 (0,25)"
+        },
+        {
+          "name": "N (in)",
+          "value": "10 (0,39)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "160 (6,29)"
+        },
+        {
+          "name": "ROSCA",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,500 (3,307)"
+        }
+      ],
+      "weight": "1,500 (3,307)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "CURSO (in)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D1 (in)",
+        "D2 (in)",
+        "E1 (in)",
+        "E2 (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "J1 (in)",
+        "J2 (in)",
+        "N (in)",
+        "Q (in)",
+        "ROSCA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-473 D",
+          "1800 (3969)",
+          "44 (1,73)",
+          "172 (6,77)",
+          "202 (7,95)",
+          "101 (3,98)",
+          "31,8 (1,25)",
+          "14,2 (0,56)",
+          "38,1 (1,50)",
+          "14,2 (0,56)",
+          "63,5 (2,50)",
+          "63,5 (2,50)",
+          "44,5 (1,75)",
+          "10,3 (0,41)",
+          "6,4 (0,25)",
+          "10 (0,39",
+          "160 (6,29)",
+          "M10",
+          "1,500 (3,307)"
+        ],
+        [
+          "KF-473 D TR",
+          "1800 (3969)",
+          "44 (1,73)",
+          "172 (6,77)",
+          "202 (7,95)",
+          "101 (3,98)",
+          "31,8 (1,25)",
+          "14,2 (0,56)",
+          "38,1 (1,50)",
+          "14,2 (0,56)",
+          "63,5 (2,50)",
+          "63,5 (2,50)",
+          "44,5 (1,75)",
+          "10,3 (0,41)",
+          "6,4 (0,25)",
+          "10 (0,39)",
+          "160 (6,29)",
+          "M10",
+          "1,500 (3,307)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-473/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

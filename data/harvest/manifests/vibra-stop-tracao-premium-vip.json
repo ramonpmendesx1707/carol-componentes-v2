@@ -1,0 +1,385 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao-premium?model=tracao-premium-vip&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:46:26.782Z",
+  "product": {
+    "id": 200054,
+    "slug": "vibra-stop-tracao-premium-vip",
+    "name": "Vibra-Stop Mola Tração Premium Vip",
+    "sku": "Tração Premium Vip",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao-premium?model=tracao-premium-vip&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.",
+    "description": "<p>Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/tracao-premium-vip/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/tracao-premium-vip/foto-1.png",
+      "/images/products/vibra-stop/tracao-premium-vip/foto-2.png",
+      "/images/products/vibra-stop/tracao-premium-vip/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Aço Carbono Zincado e Borracha Natural."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 210345,
+        "sku": "MTPRV3",
+        "label": "MTPRV3",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "3"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,61/ 3"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/16” – 60, 3/8” – 60"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "50"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "22"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "2"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 90"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "60 x 45"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210346,
+        "sku": "MTPRV10",
+        "label": "MTPRV10",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "10"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,10 / 10"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/16” – 60, 3/8” – 60"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "50"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "24"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "3"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 90"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "60 x 45"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210347,
+        "sku": "MTPRV20",
+        "label": "MTPRV20",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "20"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,71 / 20"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/16” – 60, 3/8” – 60"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "50"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "24"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "3"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 90"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "60 x 45"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210348,
+        "sku": "MTPRV30",
+        "label": "MTPRV30",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "30"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,15 / 30"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/16” – 60, 3/8” – 60"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "50"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "25"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "3,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 90"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "60 x 45"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/tracao-premium-vip/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Tracao%20Premium%20Vip.pdf",
+        "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Altura ((H) mm)",
+          "Diâmetro Externo Batente ((D) mm)",
+          "Diâmetro Externo Mola ((De) mm)",
+          "Diâmetro do Arame da Mola ((a) mm)",
+          "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "Dimensões da Caixa ((L x L1 x e1) mm)"
+        ],
+        "rows": [
+          [
+            "MTPRV3",
+            "3",
+            "6,61/ 3",
+            "5/16” – 60, 3/8” – 60",
+            "50",
+            "30",
+            "22",
+            "2",
+            "10 x 90",
+            "60 x 45"
+          ],
+          [
+            "MTPRV10",
+            "10",
+            "6,10 / 10",
+            "5/16” – 60, 3/8” – 60",
+            "50",
+            "30",
+            "24",
+            "3",
+            "10 x 90",
+            "60 x 45"
+          ],
+          [
+            "MTPRV20",
+            "20",
+            "6,71 / 20",
+            "5/16” – 60, 3/8” – 60",
+            "50",
+            "30",
+            "24",
+            "3",
+            "10 x 90",
+            "60 x 45"
+          ],
+          [
+            "MTPRV30",
+            "30",
+            "6,15 / 30",
+            "5/16” – 60, 3/8” – 60",
+            "50",
+            "30",
+            "25",
+            "3,5",
+            "10 x 90",
+            "60 x 45"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/tracao-premium-vip/aplicacao-4.png",
+          "/images/products/vibra-stop/tracao-premium-vip/aplicacao-5.png",
+          "/images/products/vibra-stop/tracao-premium-vip/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/tracao-premium-vip/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20TRACAO%20PREMIUM/PREMIUM%20VIP/MTPRV%201.1.png",
+      "bytes": 57478,
+      "sha256": "5922db2c636866cfd01464d0b4408b77b2f89d4b7deb3c1f7b8e6eb8cf73cbf0",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao-premium-vip/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20TRACAO%20PREMIUM/PREMIUM%20VIP/MTPRV%201.2.png",
+      "bytes": 59490,
+      "sha256": "069710794c0ad8cda3b12a6de5ff6ef6506ff4b1fda795c66aa639868463f88e",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao-premium-vip/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20TRACAO%20PREMIUM/PREMIUM%20VIP/MTPRV%201.0.png",
+      "bytes": 72740,
+      "sha256": "817683b1d9e982a6f819c961ae3acbd4d72330507fb6adda645fbd4806ba9f6a",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao-premium-vip/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20TRACAO%20PREMIUM/MTPR%201.0.png",
+      "bytes": 387149,
+      "sha256": "8cb67454c49c39fd3ceb136558b66be2e6c0f9e1255b1902601f2bdb0274e8c1",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao-premium-vip/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20TRACAO%20PREMIUM/MTPR%201.1.png",
+      "bytes": 524654,
+      "sha256": "e22a69b804bafe621f0a7a90a11a348b1c2869ef1f2d9b72f1e4dfbd08d52dff",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao-premium-vip/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20TRACAO%20PREMIUM/PREMIUM%20VIP/Manual%20de%20Instalacao%20-%20MTPRV.png",
+      "bytes": 174329,
+      "sha256": "c668f7ac59204e901c72b42c2d473c3f2d7cf64ce8e4614bbd5593f002bd4806",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/tracao-premium-vip/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Tracao%20Premium%20Vip.pdf",
+      "bytes": 794803,
+      "sha256": "2d0766538f8c59a7de5eed9b8d1d6538af2e7a5f183fbca293cb0c4d15b2e3b7",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "tracao-premium-vip",
+    "tableRows": 4,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T11:00:16.248Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 6,
+    "pdfReconciled2026": true
+  }
+}

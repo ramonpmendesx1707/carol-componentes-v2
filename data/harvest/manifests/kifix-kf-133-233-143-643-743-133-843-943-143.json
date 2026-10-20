@@ -1,0 +1,3813 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-133-233-143-643-743-133-843/",
+  "fetchedAt": "2026-10-20T13:00:20.707Z",
+  "product": {
+    "id": 202040,
+    "slug": "kifix-kf-133-233-143-643-743-133-843-943-143",
+    "name": "KF-133/233/143/643/743/133/843/943/143",
+    "sku": "KF-133/233/143/643/743/133/843/943/143",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-133-233-143-643-743-133-843/",
+    "type": "product",
+    "summary": "Linha Grampo tensor Kifix modelo KF-133/233/143/643/743/133/843/943/143, com 33 referências dimensionais.",
+    "description": "<p>Linha Grampo tensor Kifix modelo KF-133/233/143/643/743/133/843/943/143, com 33 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo tensor",
+        "slug": "grampo-tensor"
+      }
+    ],
+    "image": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-1.png",
+    "images": [
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-1.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-2.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-3.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-4.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-5.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-6.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-7.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-8.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-9.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-10.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-11.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-12.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-13.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-14.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-15.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-16.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-17.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-18.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-19.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-20.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-21.png",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/desenho-1.jpg",
+      "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/desenho-2.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo tensor"
+      }
+    ],
+    "weight": "0,120 (0,264)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230311,
+        "sku": "KF-233 D",
+        "label": "KF-233 D",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "160 (352)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "A (in)",
+            "value": "31 (1,22)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "112 (4,41)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "126 (4,96)"
+          },
+          {
+            "name": "C (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "D (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "E (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "F (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "G (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "H (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "J (in)",
+            "value": "4,3 (0,17)"
+          },
+          {
+            "name": "L (in)",
+            "value": "13 (0,51)"
+          },
+          {
+            "name": "M (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "N (in)",
+            "value": "4 (0,16)"
+          },
+          {
+            "name": "O (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M4"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,120 (0,264)"
+          }
+        ],
+        "weight": "0,120 (0,264)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230312,
+        "sku": "KF-233 R",
+        "label": "KF-233 R",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "160 (352)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "A (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "112 (4,41)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "126 (4,96)"
+          },
+          {
+            "name": "C (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "D (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "E (in)",
+            "value": "4 (0,16)"
+          },
+          {
+            "name": "F (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "J (in)",
+            "value": "4,3 (0,17)"
+          },
+          {
+            "name": "L (in)",
+            "value": "13 (0,51)"
+          },
+          {
+            "name": "M (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "N (in)",
+            "value": "4 (0,16)"
+          },
+          {
+            "name": "O (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M4"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,120 (0,264)"
+          }
+        ],
+        "weight": "0,120 (0,264)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230313,
+        "sku": "KF-233 D TR",
+        "label": "KF-233 D TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "160 (352)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "A (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "122 (4,80)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "136 (5,35)"
+          },
+          {
+            "name": "C (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "D (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "E (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "F (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "G (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "H (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "J (in)",
+            "value": "4,3 (0,17)"
+          },
+          {
+            "name": "L (in)",
+            "value": "13 (0,51)"
+          },
+          {
+            "name": "M (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "N (in)",
+            "value": "4 (0,16)"
+          },
+          {
+            "name": "O (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M4"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,120 (0,265)"
+          }
+        ],
+        "weight": "0,120 (0,265)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230314,
+        "sku": "KF-643 D",
+        "label": "KF-643 D",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "16 (0,630)"
+          },
+          {
+            "name": "A (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "139 (5,47)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "155 (6,10)"
+          },
+          {
+            "name": "C (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "D (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "E (in)",
+            "value": "22 (0,87)"
+          },
+          {
+            "name": "F (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "G (in)",
+            "value": "33 (1,30)"
+          },
+          {
+            "name": "H (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "M (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "O (in)",
+            "value": "11 (0,43)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "70 (2,75)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,230 (0,507)"
+          }
+        ],
+        "weight": "0,230 (0,507)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230315,
+        "sku": "KF-643 DV",
+        "label": "KF-643 DV",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "16 (0,630)"
+          },
+          {
+            "name": "A (in)",
+            "value": "121 (4,76)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "73 (2,87)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "89 (3,50)"
+          },
+          {
+            "name": "C (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "D (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "E (in)",
+            "value": "22 (0,87)"
+          },
+          {
+            "name": "F (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "G (in)",
+            "value": "33 (1,30)"
+          },
+          {
+            "name": "H (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "M (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "O (in)",
+            "value": "11 (0,43)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "70 (2,75"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,215 (0,473)"
+          }
+        ],
+        "weight": "0,215 (0,473)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230316,
+        "sku": "KF-643 DL",
+        "label": "KF-643 DL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "71 (2,80)"
+          },
+          {
+            "name": "A (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "139 (5,47)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "210 (8,27)"
+          },
+          {
+            "name": "C (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "D (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "E (in)",
+            "value": "22 (0,87)"
+          },
+          {
+            "name": "F (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "G (in)",
+            "value": "33 (1,30)"
+          },
+          {
+            "name": "H (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "M (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "O (in)",
+            "value": "11 (0,43)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "125 (4,92)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,240 (0,529)"
+          }
+        ],
+        "weight": "0,240 (0,529)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230317,
+        "sku": "KF-643 R",
+        "label": "KF-643 R",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "16 (0,630)"
+          },
+          {
+            "name": "A (in)",
+            "value": "62 (2,44)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "139 (5,47)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "155 (6,10)"
+          },
+          {
+            "name": "C (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "D (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6 (0,24)"
+          },
+          {
+            "name": "F (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "M (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "O (in)",
+            "value": "11 (0,43)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "70 (2,75)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,230 (0,507)"
+          }
+        ],
+        "weight": "0,230 (0,507)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230318,
+        "sku": "KF-643 RL",
+        "label": "KF-643 RL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "71 (2,80)"
+          },
+          {
+            "name": "A (in)",
+            "value": "62 (2,44)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "139 (5,47)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "210 (8,27)"
+          },
+          {
+            "name": "C (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "D (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6 (0,24)"
+          },
+          {
+            "name": "F (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "M (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "O (in)",
+            "value": "11 (0,43)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "125 (4,92)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,240 (0,529)"
+          }
+        ],
+        "weight": "0,240 (0,529)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230319,
+        "sku": "KF-643 D TR",
+        "label": "KF-643 D TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "16 (0,630)"
+          },
+          {
+            "name": "A (in)",
+            "value": "59 (2,32)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "139 (5,47)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "155 (6,10)"
+          },
+          {
+            "name": "C (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "D (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "E (in)",
+            "value": "22 (0,87)"
+          },
+          {
+            "name": "F (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "G (in)",
+            "value": "33 (1,30)"
+          },
+          {
+            "name": "H (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "M (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "O (in)",
+            "value": "11 (0,43)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "70 (2,75)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,290 (0,639)"
+          }
+        ],
+        "weight": "0,290 (0,639)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230320,
+        "sku": "KF-743 D",
+        "label": "KF-743 D",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "16 (0,630)"
+          },
+          {
+            "name": "A (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "137 (5,39)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "153 (6,02)"
+          },
+          {
+            "name": "C (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "D (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "E (in)",
+            "value": "22 (0,87)"
+          },
+          {
+            "name": "F (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "G (in)",
+            "value": "33 (1,30)"
+          },
+          {
+            "name": "H (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "M (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "O (in)",
+            "value": "11 (0,43)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "70 (2,75)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,210 (0,462)"
+          }
+        ],
+        "weight": "0,210 (0,462)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230321,
+        "sku": "KF-743 DL",
+        "label": "KF-743 DL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "A (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "137 (5,39)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "208 (8,19)"
+          },
+          {
+            "name": "C (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "D (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "E (in)",
+            "value": "22 (0,87)"
+          },
+          {
+            "name": "F (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "G (in)",
+            "value": "33 (1,30)"
+          },
+          {
+            "name": "H (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "M (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "O (in)",
+            "value": "11 (0,43)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "125 (4,92)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,220 (0,485)"
+          }
+        ],
+        "weight": "0,220 (0,485)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230322,
+        "sku": "KF-743 DC",
+        "label": "KF-743 DC",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "16 (0,630)"
+          },
+          {
+            "name": "A (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "137 (5,39)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "153 (6,02)"
+          },
+          {
+            "name": "C (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "D (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "E (in)",
+            "value": "22 (0,87)"
+          },
+          {
+            "name": "F (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "G (in)",
+            "value": "33 (1,30)"
+          },
+          {
+            "name": "H (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "M (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "O (in)",
+            "value": "11 (0,43)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "70 (2,75)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,200 (0,440)"
+          }
+        ],
+        "weight": "0,200 (0,440)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230323,
+        "sku": "KF-743 R",
+        "label": "KF-743 R",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "16 (0,630)"
+          },
+          {
+            "name": "A (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "137 (5,39)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "153 (6,02)"
+          },
+          {
+            "name": "C (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "D (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6 (0,24)"
+          },
+          {
+            "name": "F (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "M (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "O (in)",
+            "value": "11 (0,43)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "70 (2,75)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,210 (0,462)"
+          }
+        ],
+        "weight": "0,210 (0,462)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230324,
+        "sku": "KF-743 RL",
+        "label": "KF-743 RL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "A (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "137 (5,39)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "208 (8,19)"
+          },
+          {
+            "name": "C (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "D (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6 (0,24)"
+          },
+          {
+            "name": "F (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "M (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "O (in)",
+            "value": "11 (0,43)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "125 (4,92)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,220 (0,485)"
+          }
+        ],
+        "weight": "0,220 (0,485)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230325,
+        "sku": "KF-133 D",
+        "label": "KF-133 D",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "22 (0,866)"
+          },
+          {
+            "name": "A (in)",
+            "value": "54 (2,13)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "196 (7,72)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "223 (8,78)"
+          },
+          {
+            "name": "C (in)",
+            "value": "13 (0,51)"
+          },
+          {
+            "name": "D (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "E (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "G (in)",
+            "value": "44 (1,73)"
+          },
+          {
+            "name": "H (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "L (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "M (in)",
+            "value": "31 (1,22)"
+          },
+          {
+            "name": "N (in)",
+            "value": "6 (0,24)"
+          },
+          {
+            "name": "O (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M6"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,440 (0,970)"
+          }
+        ],
+        "weight": "0,440 (0,970)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230326,
+        "sku": "KF-133 D TR",
+        "label": "KF-133 D TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "18 (0,709)"
+          },
+          {
+            "name": "A (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "196 (7,72)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "223 (8,78)"
+          },
+          {
+            "name": "C (in)",
+            "value": "13 (0,51)"
+          },
+          {
+            "name": "D (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "E (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "G (in)",
+            "value": "44 (1,73)"
+          },
+          {
+            "name": "H (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "L (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "M (in)",
+            "value": "31 (1,22)"
+          },
+          {
+            "name": "N (in)",
+            "value": "6 (0,24)"
+          },
+          {
+            "name": "O (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M6"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,530 (1,1668)"
+          }
+        ],
+        "weight": "0,530 (1,1668)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230327,
+        "sku": "KF-843 D",
+        "label": "KF-843 D",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "340 (749)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "25 (0,984)"
+          },
+          {
+            "name": "A (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "177 (6,97)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "202 (7,95)"
+          },
+          {
+            "name": "C (in)",
+            "value": "17 (0,67)"
+          },
+          {
+            "name": "D (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "E (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "F (in)",
+            "value": "46 (1,81)"
+          },
+          {
+            "name": "G (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "H (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "M (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "N (in)",
+            "value": "6 (0,24)"
+          },
+          {
+            "name": "O (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M6"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,360 (0,793)"
+          }
+        ],
+        "weight": "0,360 (0,793)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230328,
+        "sku": "KF-843 DL",
+        "label": "KF-843 DL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "340 (749)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "75 (2,95)"
+          },
+          {
+            "name": "A (in)",
+            "value": "37 (1,45)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "177 (6,97)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "290 (11,42)"
+          },
+          {
+            "name": "C (in)",
+            "value": "17 (0,67)"
+          },
+          {
+            "name": "D (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "E (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "F (in)",
+            "value": "46 (1,81)"
+          },
+          {
+            "name": "G (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "H (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "18 (0,70)"
+          },
+          {
+            "name": "M (in)",
+            "value": "31 (1,22)"
+          },
+          {
+            "name": "N (in)",
+            "value": "6 (0,24)"
+          },
+          {
+            "name": "O (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "180 (7,08)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M6"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,400 (0,881)"
+          }
+        ],
+        "weight": "0,400 (0,881)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230329,
+        "sku": "KF-843 DC",
+        "label": "KF-843 DC",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "340 (749)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "25 (0,984)"
+          },
+          {
+            "name": "A (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "177 (6,97)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "202 (7,95)"
+          },
+          {
+            "name": "C (in)",
+            "value": "17 (0,67)"
+          },
+          {
+            "name": "D (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "E (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "F (in)",
+            "value": "46 (1,81)"
+          },
+          {
+            "name": "G (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "H (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "M (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "N (in)",
+            "value": "6 (0,24)"
+          },
+          {
+            "name": "O (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M6"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,400 (0,881)"
+          }
+        ],
+        "weight": "0,400 (0,881)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230330,
+        "sku": "KF-843 R",
+        "label": "KF-843 R",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "340 (749)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "25 (0,894)"
+          },
+          {
+            "name": "A (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "177 (6,97)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "202 (7,95)"
+          },
+          {
+            "name": "C (in)",
+            "value": "17 (0,67)"
+          },
+          {
+            "name": "D (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6 (0,24)"
+          },
+          {
+            "name": "F (in)",
+            "value": "46 (1,81)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "M (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "N (in)",
+            "value": "6 (0,24)"
+          },
+          {
+            "name": "O (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M6"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,360 (0,793)"
+          }
+        ],
+        "weight": "0,360 (0,793)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230331,
+        "sku": "KF-843 DTR",
+        "label": "KF-843 DTR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "340 (749)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "25 (0,894)"
+          },
+          {
+            "name": "A (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "169 (6,65)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "194 (7,64)"
+          },
+          {
+            "name": "C (in)",
+            "value": "17 (0,67)"
+          },
+          {
+            "name": "D (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "E (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "F (in)",
+            "value": "46 (1,81)"
+          },
+          {
+            "name": "G (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "H (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "L (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "M (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "N (in)",
+            "value": "6 (0,24)"
+          },
+          {
+            "name": "O (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M6"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,420 (0,925)"
+          }
+        ],
+        "weight": "0,420 (0,925)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230332,
+        "sku": "KF-943 D",
+        "label": "KF-943 D",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "680 (1499)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "45 (1,77)"
+          },
+          {
+            "name": "A (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "241 (9,49)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "286 (11,26)"
+          },
+          {
+            "name": "C (in)",
+            "value": "21 (0,83)"
+          },
+          {
+            "name": "D (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "E (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "F (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "G (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "H (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "L (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "M (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "N (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "O (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "134 (5,27)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,790 (1,74))"
+          }
+        ],
+        "weight": "0,790 (1,74))",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230333,
+        "sku": "KF-943 DC",
+        "label": "KF-943 DC",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "680 (1499)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "45 (1,77)"
+          },
+          {
+            "name": "A (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "241 (9,49)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "286 (11,26)"
+          },
+          {
+            "name": "C (in)",
+            "value": "21 (0,83)"
+          },
+          {
+            "name": "D (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "E (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "F (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "G (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "H (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "L (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "M (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "N (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "O (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "134 (5,27)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,810 (1,785)"
+          }
+        ],
+        "weight": "0,810 (1,785)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230334,
+        "sku": "KF-943 DL",
+        "label": "KF-943 DL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "680 (1499)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "126 (4,96)"
+          },
+          {
+            "name": "A (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "241 (9,49)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "361 (14,21)"
+          },
+          {
+            "name": "C (in)",
+            "value": "21 (0,83)"
+          },
+          {
+            "name": "D (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "E (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "F (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "G (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "H (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "L (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "M (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "N (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "O (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "215 (8,46)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,850 (1,874)"
+          }
+        ],
+        "weight": "0,850 (1,874)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230335,
+        "sku": "KF-943 R",
+        "label": "KF-943 R",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "680 (1499)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "45 (1,77)"
+          },
+          {
+            "name": "A (in)",
+            "value": "72 (2,83)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "241 (9,49)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "286 (11,26)"
+          },
+          {
+            "name": "C (in)",
+            "value": "21 (0,83)"
+          },
+          {
+            "name": "D (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "E (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "F (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "L (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "M (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "N (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "O (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "134 (5,27)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,790 (1,74))"
+          }
+        ],
+        "weight": "0,790 (1,74))",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230336,
+        "sku": "KF-943 RL",
+        "label": "KF-943 RL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "680 (1499)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "126 (4,96)"
+          },
+          {
+            "name": "A (in)",
+            "value": "72 (2,83)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "241 (9,49)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "361 (14,21)"
+          },
+          {
+            "name": "C (in)",
+            "value": "21 (0,83)"
+          },
+          {
+            "name": "D (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "E (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "F (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "L (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "M (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "N (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "O (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "215 (8,46)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,850 (1,874)"
+          }
+        ],
+        "weight": "0,850 (1,874)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230337,
+        "sku": "KF-943 SU H150",
+        "label": "KF-943 SU H150",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1400 (3086)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "58 (2,28)"
+          },
+          {
+            "name": "A (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "254 (10)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "299 (11,77)"
+          },
+          {
+            "name": "C (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "D (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "E (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "F (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "G (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "H (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "L (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "M (in)",
+            "value": "44 (1,73)"
+          },
+          {
+            "name": "N (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "O (in)",
+            "value": "36 (1,41)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "150 (5,90)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,370 (3,020)"
+          }
+        ],
+        "weight": "1,370 (3,020)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230338,
+        "sku": "KF-943 SU H220",
+        "label": "KF-943 SU H220",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1400 (3086)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "130 (5,12)"
+          },
+          {
+            "name": "A (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "304 (11,96)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "369 (14,52)"
+          },
+          {
+            "name": "C (in)",
+            "value": "15 (0,59)"
+          },
+          {
+            "name": "D (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "E (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "F (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "G (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "H (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "L (in)",
+            "value": "9,5 (0,37)"
+          },
+          {
+            "name": "M (in)",
+            "value": "44 (1,73)"
+          },
+          {
+            "name": "N (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "O (in)",
+            "value": "-"
+          },
+          {
+            "name": "Q (in)",
+            "value": "150 (5,90)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,280 (2,821)"
+          }
+        ],
+        "weight": "1,280 (2,821)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230339,
+        "sku": "KF-943 DV",
+        "label": "KF-943 DV",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1200 (2645)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "45 (1,77)"
+          },
+          {
+            "name": "A (in)",
+            "value": "183 (7,20)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "98 (3,85)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "148 (5,82)"
+          },
+          {
+            "name": "C (in)",
+            "value": "21 (0,83)"
+          },
+          {
+            "name": "D (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "E (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "F (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "G (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "H (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "L (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "M (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "N (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "O (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "134 (5,27)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,780 (1,71)"
+          }
+        ],
+        "weight": "0,780 (1,71)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230340,
+        "sku": "KF-943 D TR",
+        "label": "KF-943 D TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "680 (1499)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "45 (1,77)"
+          },
+          {
+            "name": "A (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "241 (9,49)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "286 (11,26)"
+          },
+          {
+            "name": "C (in)",
+            "value": "21 (0,83)"
+          },
+          {
+            "name": "D (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "E (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "F (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "G (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "H (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "L (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "M (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "N (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "O (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "134 (5,27)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,830 (1,829)"
+          }
+        ],
+        "weight": "0,830 (1,829)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230341,
+        "sku": "KF-143 D",
+        "label": "KF-143 D",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "890 (1962)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "A (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "207 (8,15)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "225 (8,86)"
+          },
+          {
+            "name": "C (in)",
+            "value": "21 (0,83)"
+          },
+          {
+            "name": "D (in)",
+            "value": "41 (1,61)"
+          },
+          {
+            "name": "E (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "F (in)",
+            "value": "61 (2,38)"
+          },
+          {
+            "name": "G (in)",
+            "value": "54 (2,12)"
+          },
+          {
+            "name": "H (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "L (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "M (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "N (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "O (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "134 (5,27)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,720 (1,587)"
+          }
+        ],
+        "weight": "0,720 (1,587)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230342,
+        "sku": "KF-143 D TR",
+        "label": "KF-143 D TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "890 (1962)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "A (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "207 (8,15)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "225 (8,86)"
+          },
+          {
+            "name": "C (in)",
+            "value": "21 (0,83)"
+          },
+          {
+            "name": "D (in)",
+            "value": "41 (1,61)"
+          },
+          {
+            "name": "E (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "F (in)",
+            "value": "61 (2,38)"
+          },
+          {
+            "name": "G (in)",
+            "value": "54 (2,12)"
+          },
+          {
+            "name": "H (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "L (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "M (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "N (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "O (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "134 (5,27)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,770 (1,697)"
+          }
+        ],
+        "weight": "0,770 (1,697)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230343,
+        "sku": "KF-233 D GR",
+        "label": "KF-233 D GR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "160 (6,29)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "A (in)",
+            "value": "31 (1,22)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "112 (4,40)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "126 (4,97)"
+          },
+          {
+            "name": "C (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "D (in)",
+            "value": "16 (0,62)"
+          },
+          {
+            "name": "E (in)",
+            "value": "19 (0,74)"
+          },
+          {
+            "name": "F (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "G (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "H (in)",
+            "value": "20 (0,78)"
+          },
+          {
+            "name": "J (in)",
+            "value": "4,3 (0,16)"
+          },
+          {
+            "name": "L (in)",
+            "value": "13 (0,51)"
+          },
+          {
+            "name": "M (in)",
+            "value": "19 (0,74)"
+          },
+          {
+            "name": "N (in)",
+            "value": "4 (0,15)"
+          },
+          {
+            "name": "O (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "65 (2,55)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M4"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,120 (0,27)"
+          }
+        ],
+        "weight": "0,120 (0,27)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "CURSO (in)",
+          "A (in)",
+          "B mín (in)",
+          "B máx (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "L (in)",
+          "M (in)",
+          "N (in)",
+          "O (in)",
+          "Q (in)",
+          "ROSCA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-233 D",
+            "160 (352)",
+            "14 (0,55)",
+            "31 (1,22)",
+            "112 (4,41)",
+            "126 (4,96)",
+            "10 (0,39)",
+            "16 (0,63)",
+            "19 (0,75)",
+            "26 (1,02)",
+            "28 (1,10)",
+            "20 (0,79)",
+            "4,3 (0,17)",
+            "13 (0,51)",
+            "19 (0,75)",
+            "4 (0,16)",
+            "10 (0,39)",
+            "55 (2,17)",
+            "M4",
+            "0,120 (0,264)"
+          ],
+          [
+            "KF-233 R",
+            "160 (352)",
+            "14 (0,55)",
+            "40 (1,57)",
+            "112 (4,41)",
+            "126 (4,96)",
+            "10 (0,39)",
+            "16 (0,63)",
+            "4 (0,16)",
+            "26 (1,02)",
+            "-",
+            "20 (0,79)",
+            "4,3 (0,17)",
+            "13 (0,51)",
+            "19 (0,75)",
+            "4 (0,16)",
+            "10 (0,39)",
+            "55 (2,17)",
+            "M4",
+            "0,120 (0,264)"
+          ],
+          [
+            "KF-233 D TR",
+            "160 (352)",
+            "14 (0,55)",
+            "37 (1,46)",
+            "122 (4,80)",
+            "136 (5,35)",
+            "10 (0,39)",
+            "16 (0,63)",
+            "19 (0,75)",
+            "26 (1,02)",
+            "28 (1,10)",
+            "20 (0,79)",
+            "4,3 (0,17)",
+            "13 (0,51)",
+            "19 (0,75)",
+            "4 (0,16)",
+            "10 (0,39)",
+            "55 (2,17)",
+            "M4",
+            "0,120 (0,265)"
+          ],
+          [
+            "KF-643 D",
+            "200 (440)",
+            "16 (0,630)",
+            "56 (2,20)",
+            "139 (5,47)",
+            "155 (6,10)",
+            "14 (0,55)",
+            "24 (0,94)",
+            "22 (0,87)",
+            "36 (1,42)",
+            "33 (1,30)",
+            "23 (0,91)",
+            "5,5 (0,22)",
+            "16 (0,63)",
+            "25 (0,98)",
+            "5 (0,20)",
+            "11 (0,43)",
+            "70 (2,75)",
+            "M5",
+            "0,230 (0,507)"
+          ],
+          [
+            "KF-643 DV",
+            "200 (440)",
+            "16 (0,630)",
+            "121 (4,76)",
+            "73 (2,87)",
+            "89 (3,50)",
+            "14 (0,55)",
+            "24 (0,94)",
+            "22 (0,87)",
+            "36 (1,42)",
+            "33 (1,30)",
+            "23 (0,91)",
+            "5,5 (0,22)",
+            "16 (0,63)",
+            "25 (0,98)",
+            "5 (0,20)",
+            "11 (0,43)",
+            "70 (2,75",
+            "M5",
+            "0,215 (0,473)"
+          ],
+          [
+            "KF-643 DL",
+            "200 (440)",
+            "71 (2,80)",
+            "56 (2,20)",
+            "139 (5,47)",
+            "210 (8,27)",
+            "14 (0,55)",
+            "24 (0,94)",
+            "22 (0,87)",
+            "36 (1,42)",
+            "33 (1,30)",
+            "23 (0,91)",
+            "5,5 (0,22)",
+            "16 (0,63)",
+            "25 (0,98)",
+            "5 (0,20)",
+            "11 (0,43)",
+            "125 (4,92)",
+            "M5",
+            "0,240 (0,529)"
+          ],
+          [
+            "KF-643 R",
+            "200 (440)",
+            "16 (0,630)",
+            "62 (2,44)",
+            "139 (5,47)",
+            "155 (6,10)",
+            "14 (0,55)",
+            "24 (0,94)",
+            "6 (0,24)",
+            "36 (1,42)",
+            "-",
+            "23 (0,91)",
+            "5,5 (0,22)",
+            "16 (0,63)",
+            "25 (0,98)",
+            "5 (0,20)",
+            "11 (0,43)",
+            "70 (2,75)",
+            "M5",
+            "0,230 (0,507)"
+          ],
+          [
+            "KF-643 RL",
+            "200 (440)",
+            "71 (2,80)",
+            "62 (2,44)",
+            "139 (5,47)",
+            "210 (8,27)",
+            "14 (0,55)",
+            "24 (0,94)",
+            "6 (0,24)",
+            "36 (1,42)",
+            "-",
+            "23 (0,91)",
+            "5,5 (0,22)",
+            "16 (0,63)",
+            "25 (0,98)",
+            "5 (0,20)",
+            "11 (0,43)",
+            "125 (4,92)",
+            "M5",
+            "0,240 (0,529)"
+          ],
+          [
+            "KF-643 D TR",
+            "200 (440)",
+            "16 (0,630)",
+            "59 (2,32)",
+            "139 (5,47)",
+            "155 (6,10)",
+            "14 (0,55)",
+            "24 (0,94)",
+            "22 (0,87)",
+            "36 (1,42)",
+            "33 (1,30)",
+            "23 (0,91)",
+            "5,5 (0,22)",
+            "16 (0,63)",
+            "25 (0,98)",
+            "5 (0,20)",
+            "11 (0,43)",
+            "70 (2,75)",
+            "M5",
+            "0,290 (0,639)"
+          ],
+          [
+            "KF-743 D",
+            "200 (440)",
+            "16 (0,630)",
+            "37 (1,46)",
+            "137 (5,39)",
+            "153 (6,02)",
+            "14 (0,55)",
+            "24 (0,94)",
+            "22 (0,87)",
+            "36 (1,42)",
+            "33 (1,30)",
+            "23 (0,91)",
+            "5,5 (0,22)",
+            "16 (0,63)",
+            "25 (0,98)",
+            "5 (0,20)",
+            "11 (0,43)",
+            "70 (2,75)",
+            "M5",
+            "0,210 (0,462)"
+          ],
+          [
+            "KF-743 DL",
+            "200 (440)",
+            "70 (2,76)",
+            "37 (1,46)",
+            "137 (5,39)",
+            "208 (8,19)",
+            "14 (0,55)",
+            "24 (0,94)",
+            "22 (0,87)",
+            "36 (1,42)",
+            "33 (1,30)",
+            "23 (0,91)",
+            "5,5 (0,22)",
+            "16 (0,63)",
+            "25 (0,98)",
+            "5 (0,20)",
+            "11 (0,43)",
+            "125 (4,92)",
+            "M5",
+            "0,220 (0,485)"
+          ],
+          [
+            "KF-743 DC",
+            "200 (440)",
+            "16 (0,630)",
+            "37 (1,46)",
+            "137 (5,39)",
+            "153 (6,02)",
+            "14 (0,55)",
+            "24 (0,94)",
+            "22 (0,87)",
+            "36 (1,42)",
+            "33 (1,30)",
+            "23 (0,91)",
+            "5,5 (0,22)",
+            "16 (0,63)",
+            "25 (0,98)",
+            "5 (0,20)",
+            "11 (0,43)",
+            "70 (2,75)",
+            "M5",
+            "0,200 (0,440)"
+          ],
+          [
+            "KF-743 R",
+            "200 (440)",
+            "16 (0,630)",
+            "42 (1,65)",
+            "137 (5,39)",
+            "153 (6,02)",
+            "14 (0,55)",
+            "24 (0,94)",
+            "6 (0,24)",
+            "36 (1,42)",
+            "-",
+            "23 (0,91)",
+            "5,5 (0,22)",
+            "16 (0,63)",
+            "25 (0,98)",
+            "5 (0,20)",
+            "11 (0,43)",
+            "70 (2,75)",
+            "M5",
+            "0,210 (0,462)"
+          ],
+          [
+            "KF-743 RL",
+            "200 (440)",
+            "70 (2,76)",
+            "42 (1,65)",
+            "137 (5,39)",
+            "208 (8,19)",
+            "14 (0,55)",
+            "24 (0,94)",
+            "6 (0,24)",
+            "36 (1,42)",
+            "-",
+            "23 (0,91)",
+            "5,5 (0,22)",
+            "16 (0,63)",
+            "25 (0,98)",
+            "5 (0,20)",
+            "11 (0,43)",
+            "125 (4,92)",
+            "M5",
+            "0,220 (0,485)"
+          ],
+          [
+            "KF-133 D",
+            "300 (660)",
+            "22 (0,866)",
+            "54 (2,13)",
+            "196 (7,72)",
+            "223 (8,78)",
+            "13 (0,51)",
+            "19 (0,75)",
+            "32 (1,26)",
+            "40 (1,57)",
+            "44 (1,73)",
+            "28 (1,10)",
+            "7,0 (0,28)",
+            "23 (0,91)",
+            "31 (1,22)",
+            "6 (0,24)",
+            "14 (0,55)",
+            "91 (3,58)",
+            "M6",
+            "0,440 (0,970)"
+          ],
+          [
+            "KF-133 D TR",
+            "300 (660)",
+            "18 (0,709)",
+            "57 (2,24)",
+            "196 (7,72)",
+            "223 (8,78)",
+            "13 (0,51)",
+            "19 (0,75)",
+            "32 (1,26)",
+            "40 (1,57)",
+            "44 (1,73)",
+            "28 (1,10)",
+            "7,0 (0,28)",
+            "23 (0,91)",
+            "31 (1,22)",
+            "6 (0,24)",
+            "14 (0,55)",
+            "91 (3,58)",
+            "M6",
+            "0,530 (1,1668)"
+          ],
+          [
+            "KF-843 D",
+            "340 (749)",
+            "25 (0,984)",
+            "38 (1,50)",
+            "177 (6,97)",
+            "202 (7,95)",
+            "17 (0,67)",
+            "30 (1,18)",
+            "26 (1,02)",
+            "46 (1,81)",
+            "42 (1,65)",
+            "28 (1,10)",
+            "5,5 (0,22)",
+            "19 (0,75)",
+            "32 (1,26)",
+            "6 (0,24)",
+            "14 (0,55)",
+            "91 (3,58)",
+            "M6",
+            "0,360 (0,793)"
+          ],
+          [
+            "KF-843 DL",
+            "340 (749)",
+            "75 (2,95)",
+            "37 (1,45)",
+            "177 (6,97)",
+            "290 (11,42)",
+            "17 (0,67)",
+            "30 (1,18)",
+            "26 (1,02)",
+            "46 (1,81)",
+            "42 (1,65)",
+            "28 (1,10)",
+            "5,5 (0,22)",
+            "18 (0,70)",
+            "31 (1,22)",
+            "6 (0,24)",
+            "30 (1,18)",
+            "180 (7,08)",
+            "M6",
+            "0,400 (0,881)"
+          ],
+          [
+            "KF-843 DC",
+            "340 (749)",
+            "25 (0,984)",
+            "38 (1,50)",
+            "177 (6,97)",
+            "202 (7,95)",
+            "17 (0,67)",
+            "30 (1,18)",
+            "26 (1,02)",
+            "46 (1,81)",
+            "42 (1,65)",
+            "28 (1,10)",
+            "5,5 (0,22)",
+            "19 (0,75)",
+            "32 (1,26)",
+            "6 (0,24)",
+            "14 (0,55)",
+            "91 (3,58)",
+            "M6",
+            "0,400 (0,881)"
+          ],
+          [
+            "KF-843 R",
+            "340 (749)",
+            "25 (0,894)",
+            "55 (2,17)",
+            "177 (6,97)",
+            "202 (7,95)",
+            "17 (0,67)",
+            "30 (1,18)",
+            "6 (0,24)",
+            "46 (1,81)",
+            "-",
+            "28 (1,10)",
+            "5,5 (0,22)",
+            "19 (0,75)",
+            "32 (1,26)",
+            "6 (0,24)",
+            "14 (0,55)",
+            "91 (3,58)",
+            "M6",
+            "0,360 (0,793)"
+          ],
+          [
+            "KF-843 DTR",
+            "340 (749)",
+            "25 (0,894)",
+            "40 (1,57)",
+            "169 (6,65)",
+            "194 (7,64)",
+            "17 (0,67)",
+            "30 (1,18)",
+            "26 (1,02)",
+            "46 (1,81)",
+            "42 (1,65)",
+            "28 (1,10)",
+            "5,5 (0,22)",
+            "19 (0,75)",
+            "32 (1,26)",
+            "6 (0,24)",
+            "14 (0,55)",
+            "91 (3,58)",
+            "M6",
+            "0,420 (0,925)"
+          ],
+          [
+            "KF-943 D",
+            "680 (1499)",
+            "45 (1,77)",
+            "60 (2,36)",
+            "241 (9,49)",
+            "286 (11,26)",
+            "21 (0,83)",
+            "40 (1,57)",
+            "36 (1,42)",
+            "60 (2,36)",
+            "56 (2,20)",
+            "38 (1,50)",
+            "7,0 (0,28)",
+            "26 (1,02)",
+            "40 (1,57)",
+            "8 (0,31)",
+            "19 (0,75)",
+            "134 (5,27)",
+            "M8",
+            "0,790 (1,74))"
+          ],
+          [
+            "KF-943 DC",
+            "680 (1499)",
+            "45 (1,77)",
+            "60 (2,36)",
+            "241 (9,49)",
+            "286 (11,26)",
+            "21 (0,83)",
+            "40 (1,57)",
+            "36 (1,42)",
+            "60 (2,36)",
+            "56 (2,20)",
+            "38 (1,50)",
+            "7,0 (0,28)",
+            "26 (1,02)",
+            "40 (1,57)",
+            "8 (0,31)",
+            "19 (0,75)",
+            "134 (5,27)",
+            "M8",
+            "0,810 (1,785)"
+          ],
+          [
+            "KF-943 DL",
+            "680 (1499)",
+            "126 (4,96)",
+            "60 (2,36)",
+            "241 (9,49)",
+            "361 (14,21)",
+            "21 (0,83)",
+            "40 (1,57)",
+            "36 (1,42)",
+            "60 (2,36)",
+            "56 (2,20)",
+            "38 (1,50)",
+            "7,0 (0,28)",
+            "26 (1,02)",
+            "40 (1,57)",
+            "8 (0,31)",
+            "19 (0,75)",
+            "215 (8,46)",
+            "M8",
+            "0,850 (1,874)"
+          ],
+          [
+            "KF-943 R",
+            "680 (1499)",
+            "45 (1,77)",
+            "72 (2,83)",
+            "241 (9,49)",
+            "286 (11,26)",
+            "21 (0,83)",
+            "40 (1,57)",
+            "8 (0,31)",
+            "60 (2,36)",
+            "-",
+            "38 (1,50)",
+            "7,0 (0,28)",
+            "26 (1,02)",
+            "40 (1,57)",
+            "8 (0,31)",
+            "19 (0,75)",
+            "134 (5,27)",
+            "M8",
+            "0,790 (1,74))"
+          ],
+          [
+            "KF-943 RL",
+            "680 (1499)",
+            "126 (4,96)",
+            "72 (2,83)",
+            "241 (9,49)",
+            "361 (14,21)",
+            "21 (0,83)",
+            "40 (1,57)",
+            "8 (0,31)",
+            "60 (2,36)",
+            "-",
+            "38 (1,50)",
+            "7,0 (0,28)",
+            "26 (1,02)",
+            "40 (1,57)",
+            "8 (0,31)",
+            "19 (0,75)",
+            "215 (8,46)",
+            "M8",
+            "0,850 (1,874)"
+          ],
+          [
+            "KF-943 SU H150",
+            "1400 (3086)",
+            "58 (2,28)",
+            "60 (2,36)",
+            "254 (10)",
+            "299 (11,77)",
+            "16 (0,63)",
+            "40 (1,57)",
+            "36 (1,42)",
+            "60 (2,36)",
+            "56 (2,20)",
+            "60 (2,36)",
+            "7,0 (0,28)",
+            "56 (2,20)",
+            "44 (1,73)",
+            "10 (0,39)",
+            "36 (1,41)",
+            "150 (5,90)",
+            "M10",
+            "1,370 (3,020)"
+          ],
+          [
+            "KF-943 SU H220",
+            "1400 (3086)",
+            "130 (5,12)",
+            "60 (2,36)",
+            "304 (11,96)",
+            "369 (14,52)",
+            "15 (0,59)",
+            "40 (1,57)",
+            "36 (1,42)",
+            "60 (2,36)",
+            "56 (2,20)",
+            "38 (1,50)",
+            "7,0 (0,28)",
+            "9,5 (0,37)",
+            "44 (1,73)",
+            "10 (0,39)",
+            "-",
+            "150 (5,90)",
+            "M10",
+            "1,280 (2,821)"
+          ],
+          [
+            "KF-943 DV",
+            "1200 (2645)",
+            "45 (1,77)",
+            "183 (7,20)",
+            "98 (3,85)",
+            "148 (5,82)",
+            "21 (0,83)",
+            "40 (1,57)",
+            "36 (1,42)",
+            "60 (2,36)",
+            "56 (2,20)",
+            "38 (1,50)",
+            "7,0 (0,28)",
+            "26 (1,02)",
+            "40 (1,57)",
+            "8 (0,31)",
+            "19 (0,75)",
+            "134 (5,27)",
+            "M8",
+            "0,780 (1,71)"
+          ],
+          [
+            "KF-943 D TR",
+            "680 (1499)",
+            "45 (1,77)",
+            "60 (2,36)",
+            "241 (9,49)",
+            "286 (11,26)",
+            "21 (0,83)",
+            "40 (1,57)",
+            "36 (1,42)",
+            "60 (2,36)",
+            "56 (2,20)",
+            "38 (1,50)",
+            "7,0 (0,28)",
+            "26 (1,02)",
+            "40 (1,57)",
+            "8 (0,31)",
+            "19 (0,75)",
+            "134 (5,27)",
+            "M8",
+            "0,830 (1,829)"
+          ],
+          [
+            "KF-143 D",
+            "890 (1962)",
+            "42 (1,65)",
+            "60 (2,36)",
+            "207 (8,15)",
+            "225 (8,86)",
+            "21 (0,83)",
+            "41 (1,61)",
+            "38 (1,50)",
+            "61 (2,38)",
+            "54 (2,12)",
+            "38 (1,50)",
+            "8,5 (0,33)",
+            "26 (1,02)",
+            "40 (1,57)",
+            "8 (0,31)",
+            "19 (0,75)",
+            "134 (5,27)",
+            "M8",
+            "0,720 (1,587)"
+          ],
+          [
+            "KF-143 D TR",
+            "890 (1962)",
+            "42 (1,65)",
+            "60 (2,36)",
+            "207 (8,15)",
+            "225 (8,86)",
+            "21 (0,83)",
+            "41 (1,61)",
+            "38 (1,50)",
+            "61 (2,38)",
+            "54 (2,12)",
+            "38 (1,50)",
+            "8,5 (0,33)",
+            "26 (1,02)",
+            "40 (1,57)",
+            "8 (0,31)",
+            "19 (0,75)",
+            "134 (5,27)",
+            "M8",
+            "0,770 (1,697)"
+          ],
+          [
+            "KF-233 D GR",
+            "160 (6,29)",
+            "14 (0,55)",
+            "31 (1,22)",
+            "112 (4,40)",
+            "126 (4,97)",
+            "10 (0,39)",
+            "16 (0,62)",
+            "19 (0,74)",
+            "26 (1,02)",
+            "28 (1,10)",
+            "20 (0,78)",
+            "4,3 (0,16)",
+            "13 (0,51)",
+            "19 (0,74)",
+            "4 (0,15)",
+            "40 (1,57)",
+            "65 (2,55)",
+            "M4",
+            "0,120 (0,27)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/desenho-1.jpg",
+          "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/desenho-2.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/803_KF233_D_.png",
+      "bytes": 336474,
+      "sha256": "c0123d23d0a336bd1f42997b1f4c5ed935f243ad0ab9998affdd3d366c3df060"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/804_KF233_D_TR187.png",
+      "bytes": 386148,
+      "sha256": "678ee749a87789b5d4318373aff01e4c2270797d99c240314488c99567dcc7ca"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/897_KF233_D_GR.png",
+      "bytes": 758989,
+      "sha256": "dece63a06d47be96d9438228fc0f657c486b47a54c06e8cce392f9c576154a13"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-4.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/778_KF_643_D36.png",
+      "bytes": 265415,
+      "sha256": "b37d26a2bba5895cbfb258b5769a8e91842c56276b6f1b5ae30fc0b41f9d9e41"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-5.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/516_KF_643_DV137.png",
+      "bytes": 252845,
+      "sha256": "a3fc1eb63a82ad80e69afb23a3be91bf15cbc88c17a70dcff0de21a1b149f1cc"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-6.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/811_KF_743_D207.png",
+      "bytes": 318905,
+      "sha256": "e0bd1d94d7ff489a9f77b81af7e8e1e1abf4f90408d2d0c0a213288a325e7b60"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-7.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/775_KF_743_DL.png",
+      "bytes": 288332,
+      "sha256": "e784ef6389f5a689486904d28c58feee61c70581bcc223a961b41f05bf3c5c63"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-8.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/690_KF_743_DC2.png",
+      "bytes": 520849,
+      "sha256": "1b7613376ff341f9b9c3e9cb59d3dbbb68fc48183f27bdc21f1dceb71de77a55"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-9.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/643_KF743_R.png",
+      "bytes": 337535,
+      "sha256": "a4400dff32a2167d8a9c9a37042303ff0973146a15455a1f10e839625903984e"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-10.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/677_KF133_D123.png",
+      "bytes": 259022,
+      "sha256": "c3a159efdf7d7f40934f7c17d79f4be60337ec20d5758c8a6bc01d90307f7d86"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-11.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1083_KF133DTRTESTE.png",
+      "bytes": 2087561,
+      "sha256": "0d5431ceee4f63f7605bf04340281bd16963ac1c3c08d93b020dce2a180c972b"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-12.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/539_KF_843_D.png",
+      "bytes": 302992,
+      "sha256": "9c98177f8a71e16f27629425213d19bf4e4065750656e76ae68c7938df7cc24f"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-13.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/788_KF_843_D_L.png",
+      "bytes": 273739,
+      "sha256": "856184c816e26385a48d4b782c4df5b03223a09163810a015c35299e74ac67af"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-14.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/681_KF_843_D_TR123.png",
+      "bytes": 376324,
+      "sha256": "3aa7aeef5cac1357826a25110d314c6737694620c0830b4a93b30cbcf5d2787f"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-15.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/570_KF_943_D.png",
+      "bytes": 350797,
+      "sha256": "8a8899442d1fe6365a3d8e8883c4ee6e836b5ff0ee498b99f3101c78c90c08b4"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-16.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/644_KF943.png",
+      "bytes": 278158,
+      "sha256": "8a75903f860bf6a4e95c1b4a55363f217fbae362fc9a265a052298ec0f3e44b6"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-17.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/812_KF_943_R.png",
+      "bytes": 345116,
+      "sha256": "818c3c1594d06f4ad49560b9a68dc2e2080a43745f8d96799224480abfc2d0cc"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-18.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/519_KF_943_SUV137.png",
+      "bytes": 284220,
+      "sha256": "759542d8ab3983462bdc71126e1fd93d09c514c096ef41fb5473588f39bae751"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-19.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/520_KF_943_SU_H150.png",
+      "bytes": 310887,
+      "sha256": "0bf4763779d797e9b5757c579c73afadb14516ee8cf2b8865a53a3fcffedfd2d"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-20.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/517_KF_943_SU.png",
+      "bytes": 284196,
+      "sha256": "9a049f583016fdf2800147a48ba8a139f50ed004ec884adfa97797ee7d850f65"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/foto-21.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/763_KF_143_DTR403.png",
+      "bytes": 350098,
+      "sha256": "848c6947aa28afefe52d233f69efc4e5e8f3e5af6c42413a03cb5ed37b8cc7ef"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/434_Catalogo_202599.jpg",
+      "bytes": 1171537,
+      "sha256": "25f1a6ab04ec6eb3f82f518ec3517be7879830bca7b9feb6c5777cc5206e80e4"
+    },
+    {
+      "path": "/images/products/kifix/kf-133-233-143-643-743-133-843-943-143/desenho-2.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/435_Catalogo_202598.jpg",
+      "bytes": 1066957,
+      "sha256": "825f0644cb48a198575cf6aebc1d4ba4f06929dcb714a566a9e8c3a2eda42cd5"
+    }
+  ],
+  "checks": {
+    "variants": 33,
+    "photos": 21,
+    "drawings": 2,
+    "tableRows": 33
+  }
+}

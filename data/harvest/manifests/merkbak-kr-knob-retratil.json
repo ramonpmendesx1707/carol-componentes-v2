@@ -1,0 +1,172 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/knob-retratil/",
+  "fetchedAt": "2026-10-20T12:45:07.248Z",
+  "product": {
+    "id": 201027,
+    "slug": "merkbak-kr-knob-retratil",
+    "name": "KR – Knob Retrátil",
+    "sku": "KR",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/knob-retratil/",
+    "type": "product",
+    "summary": "Knob posicionador indexador com mola interna para avanço e recuo automático do pino interno. Utilizado para localizar, fechar, travar ou centralizar partes de máquinas e equipamentos em geral./td>",
+    "description": "<p>Knob posicionador indexador com mola interna para avanço e recuo automático do pino interno. Utilizado para localizar, fechar, travar ou centralizar partes de máquinas e equipamentos em geral./td&gt;</p><p><strong>Material:</strong> Polipropileno + rosca aço carbono zincado na cor preta</p><p><strong>Informações adicionais:</strong> Média resistência</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Plásticos",
+        "slug": "plasticos"
+      }
+    ],
+    "image": "/images/products/merkbak/kr-knob-retratil/1.png",
+    "images": [
+      "/images/products/merkbak/kr-knob-retratil/1.png",
+      "/images/products/merkbak/kr-knob-retratil/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Polipropileno + rosca aço carbono zincado na cor preta"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Knob posicionador indexador com mola interna para avanço e recuo automático do pino interno. Utilizado para localizar, fechar, travar ou centralizar partes de máquinas e equipamentos em geral./td>"
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Média resistência"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220133,
+        "sku": "KR 2426 M10",
+        "label": "KR 2426 M10",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KR 2426 M10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220134,
+        "sku": "KR 2426 M12",
+        "label": "KR 2426 M12",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KR 2426 M12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220135,
+        "sku": "KR 3126 M16",
+        "label": "KR 3126 M16",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KR 3126 M16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220136,
+        "sku": "KR 3126 M20 PASSO 1,50",
+        "label": "KR 3126 M20 PASSO 1,50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KR 3126 M20 PASSO 1,50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Polipropileno + rosca aço carbono zincado na cor preta"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Knob posicionador indexador com mola interna para avanço e recuo automático do pino interno. Utilizado para localizar, fechar, travar ou centralizar partes de máquinas e equipamentos em geral./td>"
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Média resistência"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "KR 2426 M10"
+          },
+          {
+            "name": "Medida",
+            "value": "KR 2426 M12"
+          },
+          {
+            "name": "Medida",
+            "value": "KR 3126 M16"
+          },
+          {
+            "name": "Medida",
+            "value": "KR 3126 M20 PASSO 1,50"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/kr-knob-retratil/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/KR_-e1779987023682.png",
+      "bytes": 109426,
+      "sha256": "e0cef2327eede21bf192cd88b2c33203cf3ae0c1bd7bd5105ca9e9c844695c13"
+    },
+    {
+      "path": "/images/products/merkbak/kr-knob-retratil/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/KR_tab.png",
+      "bytes": 133169,
+      "sha256": "fdf745f0c0db6539b2e81bcb363868ca8bc9c9c6ea7fdfbd7834afec6c192bb0"
+    }
+  ],
+  "checks": {
+    "variants": 4,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

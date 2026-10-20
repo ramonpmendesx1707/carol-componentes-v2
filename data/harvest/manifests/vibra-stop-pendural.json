@@ -1,0 +1,163 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-pendural?model=pendural&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:52:44.308Z",
+  "product": {
+    "id": 200038,
+    "slug": "vibra-stop-pendural",
+    "name": "Vibra-Stop Pendural",
+    "sku": "Pendural",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-pendural?model=pendural&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para instalação de forros, fixação de tubulação suspensa, entre outros. Instalação com furo para inserção de bucha de fixação.",
+    "description": "<p>Ideais para instalação de forros, fixação de tubulação suspensa, entre outros. Instalação com furo para inserção de bucha de fixação.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/pendural/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/pendural/foto-1.png",
+      "/images/products/vibra-stop/pendural/foto-2.png",
+      "/images/products/vibra-stop/pendural/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural e Aço Carbono Zincado."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 210228,
+        "sku": "PD",
+        "label": "PD",
+        "attributes": [
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,61/3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/pendural/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Pendural.pdf",
+        "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Linha Mola (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-molas-site-ago-2026.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Deflexão (mm/Kgf)"
+        ],
+        "rows": [
+          [
+            "PD",
+            "6,61/3"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/pendural/aplicacao-4.png",
+          "/images/products/vibra-stop/pendural/aplicacao-5.png",
+          "/images/products/vibra-stop/pendural/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/pendural/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/PENDURAL/PD%201/Pendural%201%201.1.png",
+      "bytes": 62695,
+      "sha256": "849fa95c9183de91e677b800be8abf8750f00b4fa3efd6fce3b62993638d3b14",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/pendural/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/PENDURAL/PD%201/Pendural%201%201.2.png",
+      "bytes": 67151,
+      "sha256": "f4dbf85fd7141c350c9a2da84669310d40274740703074e2a254be5a3dd353de",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/pendural/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/PENDURAL/PD%201/Pendural%201%201.0.png",
+      "bytes": 65655,
+      "sha256": "0befce2e3c55e5d82b1714d59fb73a4f2267383dfd941cd0959c7065135c2470",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/pendural/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/PENDURAL/PD%201/Penderual%201.0.png",
+      "bytes": 279698,
+      "sha256": "5b18a4f2c88fbf51aff13bbf5cf0d42ab612332d1a9f4156b94e1f5ee28e583c",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/pendural/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/PENDURAL/PD%201/Pendural%201.1.png",
+      "bytes": 120122,
+      "sha256": "a77a1efaf7819e927263d177de68cb994af1a4417b36e222e51498407fd9fb2a",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/pendural/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/PENDURAL/Manual%20de%20Instalacao%20-%20PD.png",
+      "bytes": 93728,
+      "sha256": "b263c3eaa7dce62abac2c7f8a2d8a951526ad88dc29c0bf48a379562f79f17b5",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/pendural/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Pendural.pdf",
+      "bytes": 608106,
+      "sha256": "0cafe9babc2d3a2d0289ee01e9b9dffb5b9f2629a6d31a679e226827dac99227",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "pendural",
+    "tableRows": 1,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:58:39.036Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 3,
+    "pdfReconciled2026": true
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao?model=tracao&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:49:26.431Z",
+  "product": {
+    "id": 200057,
+    "slug": "vibra-stop-tracao",
+    "name": "Vibra-Stop Mola Tração",
+    "sku": "Tração",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao?model=tracao&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.",
+    "description": "<p>Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/tracao/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/tracao/foto-1.png",
+      "/images/products/vibra-stop/tracao/foto-2.png",
+      "/images/products/vibra-stop/tracao/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Aço Carbono Zinacado e Borracha Natural."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 210363,
+        "sku": "MT30",
+        "label": "MT30",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "30"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "8,75/30"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "320"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "54"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "5,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210364,
+        "sku": "MT50",
+        "label": "MT50",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "50"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,58/50"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "320"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "55"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210365,
+        "sku": "MT100",
+        "label": "MT100",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "100"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "4,95/100"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "320"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "58"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "7,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210366,
+        "sku": "MT200",
+        "label": "MT200",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "8,10/200"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "320"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "62"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "9,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210367,
+        "sku": "MT300",
+        "label": "MT300",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "300"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,12/300"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "320"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "63"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210368,
+        "sku": "MT400",
+        "label": "MT400",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "400"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,62/400"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "320"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "11"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/tracao/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Tracao.pdf",
+        "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Altura Total ((H) mm)",
+          "Diâmetro Externo Batente ((D) mm)",
+          "Diâmetro Externo Mola ((De) mm)",
+          "Diâmetro do Arame da Mola ((a) mm)"
+        ],
+        "rows": [
+          [
+            "MT30",
+            "30",
+            "8,75/30",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "320",
+            "70",
+            "54",
+            "5,5"
+          ],
+          [
+            "MT50",
+            "50",
+            "6,58/50",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "320",
+            "70",
+            "55",
+            "6"
+          ],
+          [
+            "MT100",
+            "100",
+            "4,95/100",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "320",
+            "70",
+            "58",
+            "7,5"
+          ],
+          [
+            "MT200",
+            "200",
+            "8,10/200",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "320",
+            "70",
+            "62",
+            "9,5"
+          ],
+          [
+            "MT300",
+            "300",
+            "6,12/300",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "320",
+            "70",
+            "63",
+            "10"
+          ],
+          [
+            "MT400",
+            "400",
+            "6,62/400",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "320",
+            "70",
+            "65",
+            "11"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/tracao/aplicacao-4.png",
+          "/images/products/vibra-stop/tracao/aplicacao-5.png",
+          "/images/products/vibra-stop/tracao/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/tracao/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20TRACAO/MT%201.1.png",
+      "bytes": 89027,
+      "sha256": "69a206fbce52ee95ab45a9702bedf80b989415c0b440dd719036acb6b43d991e",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20TRACAO/MT%201.2.png",
+      "bytes": 73577,
+      "sha256": "bd14005fb40e07175d28e817accb20e7c66f7f6c6f8ca33ab243a6a4192e88ac",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20TRACAO/MT%201.0.png",
+      "bytes": 68922,
+      "sha256": "0d5939f2f63ce2b80610bf8ce8bf79cf493ed3ae409ce7557006763bdd7363bc",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20TRACAO/MT%201.0png.png",
+      "bytes": 189669,
+      "sha256": "b656ab6b5af80c196f2503d8eaf17a5eebd58b9886ee4d418645223d53e9cc81",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20TRACAO/MT%201.1.png",
+      "bytes": 139667,
+      "sha256": "ac9417bd6345e0c0a85db927cfea0de03ea1947524cfb354132d2c21aba4827e",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20TRACAO/Manual%20de%20Instalacao%20-%20Mola%20Tracao.png",
+      "bytes": 152945,
+      "sha256": "85e9f7592e59c94fccad09d8bcfc0243da88e7b3762aa69a119eef85b5a3bfde",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/tracao/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Tracao.pdf",
+      "bytes": 841595,
+      "sha256": "add12617e64d60540c8f4efd73d657de63e86896ea2667517c905a4f16782769",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "tracao",
+    "tableRows": 6,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T11:01:19.776Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 8,
+    "pdfReconciled2026": true
+  }
+}

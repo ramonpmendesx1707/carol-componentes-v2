@@ -1,0 +1,2493 @@
+{
+  "source": "PDF pág. 19",
+  "product": {
+    "id": 203008,
+    "slug": "carolfix-molas-prato-din-2093",
+    "name": "Molas Prato DIN 2093 Série A",
+    "sku": "DIN 2093",
+    "brand": "Seeger-Orbis",
+    "supplier": "Seeger-Orbis",
+    "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=19",
+    "type": "product",
+    "summary": "Arruelas cônicas elásticas de alta carga para matrizes, fixações mecânicas e amortecimento axial.",
+    "description": "<p>Molas prato DIN 2093 em aço especial para geração de altas cargas elásticas em espaços axiais reduzidos.</p>",
+    "categories": [
+      {
+        "id": 212,
+        "name": "Ferramentaria",
+        "slug": "ferramentaria"
+      }
+    ],
+    "image": "/images/products/carolfix/molas-prato-din-2093/pagina-19.png",
+    "images": [
+      "/images/products/carolfix/molas-prato-din-2093/pagina-19.png"
+    ],
+    "attributes": [
+      {
+        "name": "Norma / Padrão",
+        "value": "DIN 2093"
+      },
+      {
+        "name": "Fonte documental",
+        "value": "Catálogo Técnico Carolfix, Página 19"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240519,
+        "sku": "680.004",
+        "label": "680.004",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "4,2"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "0,4"
+          },
+          {
+            "name": "",
+            "value": "0,6"
+          },
+          {
+            "name": "",
+            "value": "0,15"
+          },
+          {
+            "name": "",
+            "value": "21"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240520,
+        "sku": "680.005",
+        "label": "680.005",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "5,2"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "0,75"
+          },
+          {
+            "name": "",
+            "value": "0,19"
+          },
+          {
+            "name": "",
+            "value": "34"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240521,
+        "sku": "680.006",
+        "label": "680.006",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "6,2"
+          },
+          {
+            "name": "",
+            "value": "12,5"
+          },
+          {
+            "name": "",
+            "value": "0,7"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "0,22"
+          },
+          {
+            "name": "",
+            "value": "67"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240522,
+        "sku": "680.007",
+        "label": "680.007",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "7,2"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "0,22"
+          },
+          {
+            "name": "",
+            "value": "81"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240523,
+        "sku": "680.008",
+        "label": "680.008",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "8,2"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "0,9"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          },
+          {
+            "name": "",
+            "value": "0,26"
+          },
+          {
+            "name": "",
+            "value": "103"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240524,
+        "sku": "680.009",
+        "label": "680.009",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "9,2"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "1,4"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "128"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240525,
+        "sku": "680.010",
+        "label": "680.010",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "10,2"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "1,55"
+          },
+          {
+            "name": "",
+            "value": "0,34"
+          },
+          {
+            "name": "",
+            "value": "155"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240526,
+        "sku": "680.011",
+        "label": "680.011",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "11,2"
+          },
+          {
+            "name": "",
+            "value": "22,5"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "0,37"
+          },
+          {
+            "name": "",
+            "value": "195"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240527,
+        "sku": "680.012",
+        "label": "680.012",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "12,2"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "2,05"
+          },
+          {
+            "name": "",
+            "value": "0,41"
+          },
+          {
+            "name": "",
+            "value": "298"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240528,
+        "sku": "680.014",
+        "label": "680.014",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "14,2"
+          },
+          {
+            "name": "",
+            "value": "28"
+          },
+          {
+            "name": "",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "2,15"
+          },
+          {
+            "name": "",
+            "value": "0,49"
+          },
+          {
+            "name": "",
+            "value": "290"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240529,
+        "sku": "680.016",
+        "label": "680.016",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "16,3"
+          },
+          {
+            "name": "",
+            "value": "31,5"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "2,45"
+          },
+          {
+            "name": "",
+            "value": "0,52"
+          },
+          {
+            "name": "",
+            "value": "398"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240530,
+        "sku": "680.018",
+        "label": "680.018",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "18,3"
+          },
+          {
+            "name": "",
+            "value": "35,5"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "2,8"
+          },
+          {
+            "name": "",
+            "value": "0,6"
+          },
+          {
+            "name": "",
+            "value": "528"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240531,
+        "sku": "680.020",
+        "label": "680.020",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "20,4"
+          },
+          {
+            "name": "",
+            "value": "40"
+          },
+          {
+            "name": "",
+            "value": "2,25"
+          },
+          {
+            "name": "",
+            "value": "3,15"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "660"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240532,
+        "sku": "680.022",
+        "label": "680.022",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "22,4"
+          },
+          {
+            "name": "",
+            "value": "45"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "0,75"
+          },
+          {
+            "name": "",
+            "value": "790"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240533,
+        "sku": "680.025",
+        "label": "680.025",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "25,4"
+          },
+          {
+            "name": "",
+            "value": "50"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "4,1"
+          },
+          {
+            "name": "",
+            "value": "0,82"
+          },
+          {
+            "name": "",
+            "value": "1220"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240534,
+        "sku": "680.028",
+        "label": "680.028",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "28,5"
+          },
+          {
+            "name": "",
+            "value": "56"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "4,3"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "1150"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240535,
+        "sku": "680.031",
+        "label": "680.031",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "31"
+          },
+          {
+            "name": "",
+            "value": "63"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "4,9"
+          },
+          {
+            "name": "",
+            "value": "1,05"
+          },
+          {
+            "name": "",
+            "value": "1530"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240536,
+        "sku": "680.036",
+        "label": "680.036",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "36"
+          },
+          {
+            "name": "",
+            "value": "71"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "5,6"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "2100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240537,
+        "sku": "680.041",
+        "label": "680.041",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "41"
+          },
+          {
+            "name": "",
+            "value": "80"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "6,7"
+          },
+          {
+            "name": "",
+            "value": "1,28"
+          },
+          {
+            "name": "",
+            "value": "3500"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240538,
+        "sku": "680.046",
+        "label": "680.046",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "46"
+          },
+          {
+            "name": "",
+            "value": "90"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "3200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240539,
+        "sku": "680.051",
+        "label": "680.051",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "51"
+          },
+          {
+            "name": "",
+            "value": "100"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "8,2"
+          },
+          {
+            "name": "",
+            "value": "1,65"
+          },
+          {
+            "name": "",
+            "value": "4900"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240540,
+        "sku": "680.057",
+        "label": "680.057",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "57"
+          },
+          {
+            "name": "",
+            "value": "112"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "8,5"
+          },
+          {
+            "name": "",
+            "value": "1,88"
+          },
+          {
+            "name": "",
+            "value": "4500"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240541,
+        "sku": "680.064",
+        "label": "680.064",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "64"
+          },
+          {
+            "name": "",
+            "value": "125"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "10,6"
+          },
+          {
+            "name": "",
+            "value": "1,95"
+          },
+          {
+            "name": "",
+            "value": "8800"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240542,
+        "sku": "680.072",
+        "label": "680.072",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "72"
+          },
+          {
+            "name": "",
+            "value": "140"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "11,2"
+          },
+          {
+            "name": "",
+            "value": "2,4"
+          },
+          {
+            "name": "",
+            "value": "8700"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240543,
+        "sku": "680.082",
+        "label": "680.082",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "82"
+          },
+          {
+            "name": "",
+            "value": "160"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "13,5"
+          },
+          {
+            "name": "",
+            "value": "2,6"
+          },
+          {
+            "name": "",
+            "value": "14000"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240544,
+        "sku": "680.092",
+        "label": "680.092",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "92"
+          },
+          {
+            "name": "",
+            "value": "180"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "12800"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240545,
+        "sku": "680.102",
+        "label": "680.102",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "102"
+          },
+          {
+            "name": "",
+            "value": "200"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "16,2"
+          },
+          {
+            "name": "",
+            "value": "3,15"
+          },
+          {
+            "name": "",
+            "value": "18700"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240546,
+        "sku": "680.112",
+        "label": "680.112",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "112"
+          },
+          {
+            "name": "",
+            "value": "225"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "17"
+          },
+          {
+            "name": "",
+            "value": "3,75"
+          },
+          {
+            "name": "",
+            "value": "17500"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240547,
+        "sku": "680.127",
+        "label": "680.127",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "127"
+          },
+          {
+            "name": "",
+            "value": "250"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "19"
+          },
+          {
+            "name": "",
+            "value": "4,2"
+          },
+          {
+            "name": "",
+            "value": "2500"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240548,
+        "sku": "681.004",
+        "label": "681.004",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "4,2"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "0,55"
+          },
+          {
+            "name": "",
+            "value": "0,19"
+          },
+          {
+            "name": "",
+            "value": "12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240549,
+        "sku": "681.005",
+        "label": "681.005",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "5,2"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "0,4"
+          },
+          {
+            "name": "",
+            "value": "0,7"
+          },
+          {
+            "name": "",
+            "value": "0,22"
+          },
+          {
+            "name": "",
+            "value": "21"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240550,
+        "sku": "681.006",
+        "label": "681.006",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "6,2"
+          },
+          {
+            "name": "",
+            "value": "12,5"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "0,85"
+          },
+          {
+            "name": "",
+            "value": "0,26"
+          },
+          {
+            "name": "",
+            "value": "30"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240551,
+        "sku": "681.007",
+        "label": "681.007",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "7,2"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          },
+          {
+            "name": "",
+            "value": "0,9"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "28"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240552,
+        "sku": "681.008",
+        "label": "681.008",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "8,2"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "0,6"
+          },
+          {
+            "name": "",
+            "value": "1,05"
+          },
+          {
+            "name": "",
+            "value": "0,34"
+          },
+          {
+            "name": "",
+            "value": "42"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240553,
+        "sku": "681.009",
+        "label": "681.009",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "9,2"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "0,7"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "0,37"
+          },
+          {
+            "name": "",
+            "value": "58"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240554,
+        "sku": "681.010",
+        "label": "681.010",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "10,2"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "1,35"
+          },
+          {
+            "name": "",
+            "value": "0,41"
+          },
+          {
+            "name": "",
+            "value": "76"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240555,
+        "sku": "681.011",
+        "label": "681.011",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "11,2"
+          },
+          {
+            "name": "",
+            "value": "22,5"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "1,45"
+          },
+          {
+            "name": "",
+            "value": "0,49"
+          },
+          {
+            "name": "",
+            "value": "72"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240556,
+        "sku": "681.012",
+        "label": "681.012",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "12,2"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "0,9"
+          },
+          {
+            "name": "",
+            "value": "1,6"
+          },
+          {
+            "name": "",
+            "value": "0,52"
+          },
+          {
+            "name": "",
+            "value": "88"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240557,
+        "sku": "681.014",
+        "label": "681.014",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "14,2"
+          },
+          {
+            "name": "",
+            "value": "28"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "1,8"
+          },
+          {
+            "name": "",
+            "value": "0,6"
+          },
+          {
+            "name": "",
+            "value": "113"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240558,
+        "sku": "681.016",
+        "label": "681.016",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "16,3"
+          },
+          {
+            "name": "",
+            "value": "31,5"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          },
+          {
+            "name": "",
+            "value": "2,15"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "194"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240559,
+        "sku": "681.018",
+        "label": "681.018",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "18,3"
+          },
+          {
+            "name": "",
+            "value": "35,5"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          },
+          {
+            "name": "",
+            "value": "2,25"
+          },
+          {
+            "name": "",
+            "value": "0,75"
+          },
+          {
+            "name": "",
+            "value": "173"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240560,
+        "sku": "681.020",
+        "label": "681.020",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "20,4"
+          },
+          {
+            "name": "",
+            "value": "40"
+          },
+          {
+            "name": "",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "0,86"
+          },
+          {
+            "name": "",
+            "value": "267"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240561,
+        "sku": "681.022",
+        "label": "681.022",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "22,4"
+          },
+          {
+            "name": "",
+            "value": "45"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "3,05"
+          },
+          {
+            "name": "",
+            "value": "0,97"
+          },
+          {
+            "name": "",
+            "value": "372"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240562,
+        "sku": "681.025",
+        "label": "681.025",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "25,4"
+          },
+          {
+            "name": "",
+            "value": "50"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "3,4"
+          },
+          {
+            "name": "",
+            "value": "1,05"
+          },
+          {
+            "name": "",
+            "value": "485"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240563,
+        "sku": "681.028",
+        "label": "681.028",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "28,5"
+          },
+          {
+            "name": "",
+            "value": "56"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "3,6"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "452"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240564,
+        "sku": "681.031",
+        "label": "681.031",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "31"
+          },
+          {
+            "name": "",
+            "value": "63"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "4,25"
+          },
+          {
+            "name": "",
+            "value": "1,31"
+          },
+          {
+            "name": "",
+            "value": "730"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240565,
+        "sku": "681.036",
+        "label": "681.036",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "36"
+          },
+          {
+            "name": "",
+            "value": "71"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "4,5"
+          },
+          {
+            "name": "",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "690"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240566,
+        "sku": "681.041",
+        "label": "681.041",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "41"
+          },
+          {
+            "name": "",
+            "value": "80"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "5,3"
+          },
+          {
+            "name": "",
+            "value": "1,72"
+          },
+          {
+            "name": "",
+            "value": "1070"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240567,
+        "sku": "681.046",
+        "label": "681.046",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "46"
+          },
+          {
+            "name": "",
+            "value": "90"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "1,88"
+          },
+          {
+            "name": "",
+            "value": "1450"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240568,
+        "sku": "681.051",
+        "label": "681.051",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "51"
+          },
+          {
+            "name": "",
+            "value": "100"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "6,3"
+          },
+          {
+            "name": "",
+            "value": "2,1"
+          },
+          {
+            "name": "",
+            "value": "1330"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240569,
+        "sku": "681.057",
+        "label": "681.057",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "57"
+          },
+          {
+            "name": "",
+            "value": "112"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "7,2"
+          },
+          {
+            "name": "",
+            "value": "2,4"
+          },
+          {
+            "name": "",
+            "value": "1830"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240570,
+        "sku": "681.064",
+        "label": "681.064",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "64"
+          },
+          {
+            "name": "",
+            "value": "125"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "8,5"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "3100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240571,
+        "sku": "681.072",
+        "label": "681.072",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "72"
+          },
+          {
+            "name": "",
+            "value": "140"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "9"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "2850"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240572,
+        "sku": "681.082",
+        "label": "681.082",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "82"
+          },
+          {
+            "name": "",
+            "value": "160"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "10,5"
+          },
+          {
+            "name": "",
+            "value": "3,4"
+          },
+          {
+            "name": "",
+            "value": "4200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240573,
+        "sku": "681.092",
+        "label": "681.092",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "92"
+          },
+          {
+            "name": "",
+            "value": "180"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "11,1"
+          },
+          {
+            "name": "",
+            "value": "3,8"
+          },
+          {
+            "name": "",
+            "value": "3800"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240574,
+        "sku": "681.102",
+        "label": "681.102",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "102"
+          },
+          {
+            "name": "",
+            "value": "200"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "13,6"
+          },
+          {
+            "name": "",
+            "value": "4,2"
+          },
+          {
+            "name": "",
+            "value": "7800"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240575,
+        "sku": "681.112",
+        "label": "681.112",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "112"
+          },
+          {
+            "name": "",
+            "value": "225"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "14,5"
+          },
+          {
+            "name": "",
+            "value": "4,85"
+          },
+          {
+            "name": "",
+            "value": "7200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240576,
+        "sku": "681.127",
+        "label": "681.127",
+        "attributes": [
+          {
+            "name": "MOLAS GROSSAS",
+            "value": "127"
+          },
+          {
+            "name": "",
+            "value": "250"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "17"
+          },
+          {
+            "name": "",
+            "value": "5,25"
+          },
+          {
+            "name": "",
+            "value": "12200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Catálogo Técnico Carolfix (Página 19)",
+        "url": "/downloads/catalogo-carol-componentes.pdf#page=19",
+        "kind": "pdf",
+        "note": "Referência técnica oficial extraída do catálogo histórico de 60 páginas."
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela Técnica Dimensional — Página 19",
+        "columns": [
+          "Código",
+          "MOLAS GROSSAS",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "rows": [
+          [
+            "680.004",
+            "4,2",
+            "8",
+            "0,4",
+            "0,6",
+            "0,15",
+            "21"
+          ],
+          [
+            "680.005",
+            "5,2",
+            "10",
+            "0,5",
+            "0,75",
+            "0,19",
+            "34"
+          ],
+          [
+            "680.006",
+            "6,2",
+            "12,5",
+            "0,7",
+            "1",
+            "0,22",
+            "67"
+          ],
+          [
+            "680.007",
+            "7,2",
+            "14",
+            "0,8",
+            "1,1",
+            "0,22",
+            "81"
+          ],
+          [
+            "680.008",
+            "8,2",
+            "16",
+            "0,9",
+            "1,25",
+            "0,26",
+            "103"
+          ],
+          [
+            "680.009",
+            "9,2",
+            "18",
+            "1",
+            "1,4",
+            "0,3",
+            "128"
+          ],
+          [
+            "680.010",
+            "10,2",
+            "20",
+            "1,1",
+            "1,55",
+            "0,34",
+            "155"
+          ],
+          [
+            "680.011",
+            "11,2",
+            "22,5",
+            "1,25",
+            "1,75",
+            "0,37",
+            "195"
+          ],
+          [
+            "680.012",
+            "12,2",
+            "25",
+            "1,5",
+            "2,05",
+            "0,41",
+            "298"
+          ],
+          [
+            "680.014",
+            "14,2",
+            "28",
+            "1,5",
+            "2,15",
+            "0,49",
+            "290"
+          ],
+          [
+            "680.016",
+            "16,3",
+            "31,5",
+            "1,75",
+            "2,45",
+            "0,52",
+            "398"
+          ],
+          [
+            "680.018",
+            "18,3",
+            "35,5",
+            "2",
+            "2,8",
+            "0,6",
+            "528"
+          ],
+          [
+            "680.020",
+            "20,4",
+            "40",
+            "2,25",
+            "3,15",
+            "0,67",
+            "660"
+          ],
+          [
+            "680.022",
+            "22,4",
+            "45",
+            "2,5",
+            "3,5",
+            "0,75",
+            "790"
+          ],
+          [
+            "680.025",
+            "25,4",
+            "50",
+            "3",
+            "4,1",
+            "0,82",
+            "1220"
+          ],
+          [
+            "680.028",
+            "28,5",
+            "56",
+            "3",
+            "4,3",
+            "0,87",
+            "1150"
+          ],
+          [
+            "680.031",
+            "31",
+            "63",
+            "3,5",
+            "4,9",
+            "1,05",
+            "1530"
+          ],
+          [
+            "680.036",
+            "36",
+            "71",
+            "4",
+            "5,6",
+            "1,2",
+            "2100"
+          ],
+          [
+            "680.041",
+            "41",
+            "80",
+            "5",
+            "6,7",
+            "1,28",
+            "3500"
+          ],
+          [
+            "680.046",
+            "46",
+            "90",
+            "5",
+            "7",
+            "1,5",
+            "3200"
+          ],
+          [
+            "680.051",
+            "51",
+            "100",
+            "6",
+            "8,2",
+            "1,65",
+            "4900"
+          ],
+          [
+            "680.057",
+            "57",
+            "112",
+            "6",
+            "8,5",
+            "1,88",
+            "4500"
+          ],
+          [
+            "680.064",
+            "64",
+            "125",
+            "8",
+            "10,6",
+            "1,95",
+            "8800"
+          ],
+          [
+            "680.072",
+            "72",
+            "140",
+            "8",
+            "11,2",
+            "2,4",
+            "8700"
+          ],
+          [
+            "680.082",
+            "82",
+            "160",
+            "10",
+            "13,5",
+            "2,6",
+            "14000"
+          ],
+          [
+            "680.092",
+            "92",
+            "180",
+            "10",
+            "14",
+            "3",
+            "12800"
+          ],
+          [
+            "680.102",
+            "102",
+            "200",
+            "12",
+            "16,2",
+            "3,15",
+            "18700"
+          ],
+          [
+            "680.112",
+            "112",
+            "225",
+            "12",
+            "17",
+            "3,75",
+            "17500"
+          ],
+          [
+            "680.127",
+            "127",
+            "250",
+            "14",
+            "19",
+            "4,2",
+            "2500"
+          ],
+          [
+            "681.004",
+            "4,2",
+            "8",
+            "0,3",
+            "0,55",
+            "0,19",
+            "12"
+          ],
+          [
+            "681.005",
+            "5,2",
+            "10",
+            "0,4",
+            "0,7",
+            "0,22",
+            "21"
+          ],
+          [
+            "681.006",
+            "6,2",
+            "12,5",
+            "0,5",
+            "0,85",
+            "0,26",
+            "30"
+          ],
+          [
+            "681.007",
+            "7,2",
+            "14",
+            "0,5",
+            "0,9",
+            "0,3",
+            "28"
+          ],
+          [
+            "681.008",
+            "8,2",
+            "16",
+            "0,6",
+            "1,05",
+            "0,34",
+            "42"
+          ],
+          [
+            "681.009",
+            "9,2",
+            "18",
+            "0,7",
+            "1,2",
+            "0,37",
+            "58"
+          ],
+          [
+            "681.010",
+            "10,2",
+            "20",
+            "0,8",
+            "1,35",
+            "0,41",
+            "76"
+          ],
+          [
+            "681.011",
+            "11,2",
+            "22,5",
+            "0,8",
+            "1,45",
+            "0,49",
+            "72"
+          ],
+          [
+            "681.012",
+            "12,2",
+            "25",
+            "0,9",
+            "1,6",
+            "0,52",
+            "88"
+          ],
+          [
+            "681.014",
+            "14,2",
+            "28",
+            "1",
+            "1,8",
+            "0,6",
+            "113"
+          ],
+          [
+            "681.016",
+            "16,3",
+            "31,5",
+            "1,25",
+            "2,15",
+            "0,67",
+            "194"
+          ],
+          [
+            "681.018",
+            "18,3",
+            "35,5",
+            "1,25",
+            "2,25",
+            "0,75",
+            "173"
+          ],
+          [
+            "681.020",
+            "20,4",
+            "40",
+            "1,5",
+            "2,65",
+            "0,86",
+            "267"
+          ],
+          [
+            "681.022",
+            "22,4",
+            "45",
+            "1,75",
+            "3,05",
+            "0,97",
+            "372"
+          ],
+          [
+            "681.025",
+            "25,4",
+            "50",
+            "2",
+            "3,4",
+            "1,05",
+            "485"
+          ],
+          [
+            "681.028",
+            "28,5",
+            "56",
+            "2",
+            "3,6",
+            "1,2",
+            "452"
+          ],
+          [
+            "681.031",
+            "31",
+            "63",
+            "2,5",
+            "4,25",
+            "1,31",
+            "730"
+          ],
+          [
+            "681.036",
+            "36",
+            "71",
+            "2,5",
+            "4,5",
+            "1,5",
+            "690"
+          ],
+          [
+            "681.041",
+            "41",
+            "80",
+            "3",
+            "5,3",
+            "1,72",
+            "1070"
+          ],
+          [
+            "681.046",
+            "46",
+            "90",
+            "3,5",
+            "6",
+            "1,88",
+            "1450"
+          ],
+          [
+            "681.051",
+            "51",
+            "100",
+            "3,5",
+            "6,3",
+            "2,1",
+            "1330"
+          ]
+        ],
+        "note": "Dados extraídos diretamente da página 19 do catálogo técnico Carolfix."
+      }
+    ],
+    "homepage": false
+  },
+  "checks": {
+    "variants": 58,
+    "pdfPage": 19
+  }
+}

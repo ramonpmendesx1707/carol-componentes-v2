@@ -1,0 +1,185 @@
+{
+  "id": 201015,
+  "slug": "merkbak-cgc-cabo-giratorio-completo",
+  "name": "CGC – Cabo Giratório Completo",
+  "sku": "CGC",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-giratorio-completo/",
+  "type": "product",
+  "summary": "Indicado para pontas de haste, volantes",
+  "description": "<p>Indicado para pontas de haste, volantes</p><p><strong>Material:</strong> Polipropileno + inserto parafuso allen polido preto</p><p><strong>Informações adicionais:</strong> Média resistência / Giratório</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Plásticos",
+      "slug": "plasticos"
+    }
+  ],
+  "image": "/images/products/merkbak/cgc-cabo-giratorio-completo/1.png",
+  "images": [
+    "/images/products/merkbak/cgc-cabo-giratorio-completo/1.png",
+    "/images/products/merkbak/cgc-cabo-giratorio-completo/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Polipropileno + inserto parafuso allen polido preto"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Indicado para pontas de haste, volantes"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Média resistência / Giratório"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220059,
+      "sku": "CGC 1848 M6",
+      "label": "CGC 1848 M6",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CGC 1848 M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220060,
+      "sku": "CGC 2067 M8",
+      "label": "CGC 2067 M8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CGC 2067 M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220061,
+      "sku": "CGC 2274 M8",
+      "label": "CGC 2274 M8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CGC 2274 M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220062,
+      "sku": "CGC 2789 M10 LISO",
+      "label": "CGC 2789 M10 LISO",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CGC 2789 M10 LISO"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220063,
+      "sku": "CGC 2789 M10 TEXTURIZADO",
+      "label": "CGC 2789 M10 TEXTURIZADO",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CGC 2789 M10 TEXTURIZADO"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220064,
+      "sku": "CGC 30105 M12",
+      "label": "CGC 30105 M12",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CGC 30105 M12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Polipropileno + inserto parafuso allen polido preto"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Indicado para pontas de haste, volantes"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Média resistência / Giratório"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "CGC 1848 M6"
+        },
+        {
+          "name": "Medida",
+          "value": "CGC 2067 M8"
+        },
+        {
+          "name": "Medida",
+          "value": "CGC 2274 M8"
+        },
+        {
+          "name": "Medida",
+          "value": "CGC 2789 M10 LISO"
+        },
+        {
+          "name": "Medida",
+          "value": "CGC 2789 M10 TEXTURIZADO"
+        },
+        {
+          "name": "Medida",
+          "value": "CGC 30105 M12"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

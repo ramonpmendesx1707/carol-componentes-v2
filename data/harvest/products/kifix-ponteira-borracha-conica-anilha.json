@@ -1,0 +1,262 @@
+{
+  "id": 202088,
+  "slug": "kifix-ponteira-borracha-conica-anilha",
+  "name": "PONTEIRA BORRACHA CÔNICA - ANILHA",
+  "sku": "PONTEIRA BORRACHA CÔNICA - ANILHA",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-borracha-cnica-anilha/",
+  "type": "product",
+  "summary": "Linha Ponteiras Kifix modelo PONTEIRA BORRACHA CÔNICA - ANILHA, com 6 referências dimensionais.",
+  "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA BORRACHA CÔNICA - ANILHA, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Ponteiras",
+      "slug": "ponteiras"
+    }
+  ],
+  "image": "/images/products/kifix/ponteira-borracha-conica-anilha/foto-1.png",
+  "images": [
+    "/images/products/kifix/ponteira-borracha-conica-anilha/foto-1.png",
+    "/images/products/kifix/ponteira-borracha-conica-anilha/desenho-1.jpg",
+    "/images/products/kifix/ponteira-borracha-conica-anilha/desenho-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Ponteiras"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230564,
+      "sku": "BRPC-M5X25",
+      "label": "BRPC-M5X25",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "12,7 (0,50)"
+        },
+        {
+          "name": "B (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "C (in)",
+          "value": "25 (0,98)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230565,
+      "sku": "BRPC-M5X30",
+      "label": "BRPC-M5X30",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "12,7 (0,50)"
+        },
+        {
+          "name": "B (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "C (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230566,
+      "sku": "BRPC-M5X35",
+      "label": "BRPC-M5X35",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "12,7 (0,50)"
+        },
+        {
+          "name": "B (in)",
+          "value": "40 (1,57)"
+        },
+        {
+          "name": "C (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230567,
+      "sku": "BRPC-M6X30",
+      "label": "BRPC-M6X30",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "15,8 (0,62)"
+        },
+        {
+          "name": "B (in)",
+          "value": "36 (1,42)"
+        },
+        {
+          "name": "C (in)",
+          "value": "29 (1,14)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230568,
+      "sku": "BRPC-M6X40",
+      "label": "BRPC-M6X40",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "15,8 (0,62)"
+        },
+        {
+          "name": "B (in)",
+          "value": "46 (1,81)"
+        },
+        {
+          "name": "C (in)",
+          "value": "39 (1,54)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230569,
+      "sku": "BRPC-M6X45",
+      "label": "BRPC-M6X45",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "15,8 (0,62)"
+        },
+        {
+          "name": "B (in)",
+          "value": "51 (2,01)"
+        },
+        {
+          "name": "C (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "M (in)"
+      ],
+      "rows": [
+        [
+          "BRPC-M5X25",
+          "12,7 (0,50)",
+          "30 (1,18)",
+          "25 (0,98)",
+          "M5"
+        ],
+        [
+          "BRPC-M5X30",
+          "12,7 (0,50)",
+          "35 (1,38)",
+          "30 (1,18)",
+          "M5"
+        ],
+        [
+          "BRPC-M5X35",
+          "12,7 (0,50)",
+          "40 (1,57)",
+          "35 (1,38)",
+          "M5"
+        ],
+        [
+          "BRPC-M6X30",
+          "15,8 (0,62)",
+          "36 (1,42)",
+          "29 (1,14)",
+          "M6"
+        ],
+        [
+          "BRPC-M6X40",
+          "15,8 (0,62)",
+          "46 (1,81)",
+          "39 (1,54)",
+          "M6"
+        ],
+        [
+          "BRPC-M6X45",
+          "15,8 (0,62)",
+          "51 (2,01)",
+          "44 (1,73)",
+          "M6"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/ponteira-borracha-conica-anilha/desenho-1.jpg",
+        "/images/products/kifix/ponteira-borracha-conica-anilha/desenho-2.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

@@ -1,0 +1,519 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-375-385/",
+  "fetchedAt": "2026-10-20T13:00:42.750Z",
+  "product": {
+    "id": 202050,
+    "slug": "kifix-kf-375-385",
+    "name": "KF-375/385",
+    "sku": "KF-375/385",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-375-385/",
+    "type": "product",
+    "summary": "Linha Grampo tensor Kifix modelo KF-375/385, com 4 referências dimensionais.",
+    "description": "<p>Linha Grampo tensor Kifix modelo KF-375/385, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo tensor",
+        "slug": "grampo-tensor"
+      }
+    ],
+    "image": "/images/products/kifix/kf-375-385/foto-1.png",
+    "images": [
+      "/images/products/kifix/kf-375-385/foto-1.png",
+      "/images/products/kifix/kf-375-385/foto-2.png",
+      "/images/products/kifix/kf-375-385/foto-3.png",
+      "/images/products/kifix/kf-375-385/foto-4.png",
+      "/images/products/kifix/kf-375-385/foto-5.png",
+      "/images/products/kifix/kf-375-385/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo tensor"
+      }
+    ],
+    "weight": "1,800 (3,969)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230385,
+        "sku": "KF-375",
+        "label": "KF-375",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1500 (3307)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "A (in)",
+            "value": "109 (4,29)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "310 (12,20)"
+          },
+          {
+            "name": "C (in)",
+            "value": "29 (1,14)"
+          },
+          {
+            "name": "D1 (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "D2 (in)",
+            "value": "57,2 (2,25)"
+          },
+          {
+            "name": "E (in)",
+            "value": "57,2 (2,25)"
+          },
+          {
+            "name": "F1 (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "F2 (in)",
+            "value": "86 (3,39)"
+          },
+          {
+            "name": "G (in)",
+            "value": "80 (3,15)"
+          },
+          {
+            "name": "H (in)",
+            "value": "45 (1,77)"
+          },
+          {
+            "name": "J (in)",
+            "value": "10,5 (0,41)"
+          },
+          {
+            "name": "N (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "150 (5,90)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,800 (3,969)"
+          }
+        ],
+        "weight": "1,800 (3,969)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230386,
+        "sku": "KF-375 TR",
+        "label": "KF-375 TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1500 (3307)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "A (in)",
+            "value": "117 (4,61)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "326 (12,83)"
+          },
+          {
+            "name": "C (in)",
+            "value": "29 (1,14)"
+          },
+          {
+            "name": "D1 (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "D2 (in)",
+            "value": "57,2 (2,25)"
+          },
+          {
+            "name": "E (in)",
+            "value": "57,2 (2,25)"
+          },
+          {
+            "name": "F1 (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "F2 (in)",
+            "value": "86 (3,39)"
+          },
+          {
+            "name": "G (in)",
+            "value": "80 (3,15)"
+          },
+          {
+            "name": "H (in)",
+            "value": "45 (1,77)"
+          },
+          {
+            "name": "J (in)",
+            "value": "10,5 (0,41)"
+          },
+          {
+            "name": "N (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "150 (5,90"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "2,140 (4,718)"
+          }
+        ],
+        "weight": "2,140 (4,718)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230387,
+        "sku": "KF-385",
+        "label": "KF-385",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "3400 (7497)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "A (in)",
+            "value": "106 (4,17)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "310 (12,20)"
+          },
+          {
+            "name": "C (in)",
+            "value": "29 (1,14)"
+          },
+          {
+            "name": "D1 (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "D2 (in)",
+            "value": "57,2 (2,25)"
+          },
+          {
+            "name": "E (in)",
+            "value": "57,2 (2,25)"
+          },
+          {
+            "name": "F1 (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "F2 (in)",
+            "value": "86 (3,39)"
+          },
+          {
+            "name": "G (in)",
+            "value": "80 (3,15)"
+          },
+          {
+            "name": "H (in)",
+            "value": "54 (2,13)"
+          },
+          {
+            "name": "J (in)",
+            "value": "10,5 (0,41)"
+          },
+          {
+            "name": "N (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "169 (6,65)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M12"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "2,200 (4,851)"
+          }
+        ],
+        "weight": "2,200 (4,851)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230388,
+        "sku": "KF - 385 TR",
+        "label": "KF - 385 TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "3400 (7497)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "A (in)",
+            "value": "110 (4,33)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "335 (13,18)"
+          },
+          {
+            "name": "C (in)",
+            "value": "29 (1,14)"
+          },
+          {
+            "name": "D1 (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "D2 (in)",
+            "value": "57,2 (2,25)"
+          },
+          {
+            "name": "E (in)",
+            "value": "57,5 (2,26)"
+          },
+          {
+            "name": "F1 (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "F2 (in)",
+            "value": "86 (3,39)"
+          },
+          {
+            "name": "G (in)",
+            "value": "80 (3,15)"
+          },
+          {
+            "name": "H (in)",
+            "value": "54 (2,13)"
+          },
+          {
+            "name": "J (in)",
+            "value": "10,5 (0,41)"
+          },
+          {
+            "name": "N (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "169 (6,65)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M12"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "2,500 (5,512)"
+          }
+        ],
+        "weight": "2,500 (5,512)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "CURSO (in)",
+          "A (in)",
+          "B máx (in)",
+          "C (in)",
+          "D1 (in)",
+          "D2 (in)",
+          "E (in)",
+          "F1 (in)",
+          "F2 (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "N (in)",
+          "Q (in)",
+          "ROSCA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-375",
+            "1500 (3307)",
+            "20 (0,79)",
+            "109 (4,29)",
+            "310 (12,20)",
+            "29 (1,14)",
+            "35 (1,38)",
+            "57,2 (2,25)",
+            "57,2 (2,25)",
+            "57 (2,24)",
+            "86 (3,39)",
+            "80 (3,15)",
+            "45 (1,77)",
+            "10,5 (0,41)",
+            "10 (0,39)",
+            "150 (5,90)",
+            "M10",
+            "1,800 (3,969)"
+          ],
+          [
+            "KF-375 TR",
+            "1500 (3307)",
+            "20 (0,79)",
+            "117 (4,61)",
+            "326 (12,83)",
+            "29 (1,14)",
+            "35 (1,38)",
+            "57,2 (2,25)",
+            "57,2 (2,25)",
+            "57 (2,24)",
+            "86 (3,39)",
+            "80 (3,15)",
+            "45 (1,77)",
+            "10,5 (0,41)",
+            "10 (0,39)",
+            "150 (5,90",
+            "M10",
+            "2,140 (4,718)"
+          ],
+          [
+            "KF-385",
+            "3400 (7497)",
+            "26 (1,02)",
+            "106 (4,17)",
+            "310 (12,20)",
+            "29 (1,14)",
+            "35 (1,38)",
+            "57,2 (2,25)",
+            "57,2 (2,25)",
+            "57 (2,24)",
+            "86 (3,39)",
+            "80 (3,15)",
+            "54 (2,13)",
+            "10,5 (0,41)",
+            "12 (0,47)",
+            "169 (6,65)",
+            "M12",
+            "2,200 (4,851)"
+          ],
+          [
+            "KF - 385 TR",
+            "3400 (7497)",
+            "26 (1,02)",
+            "110 (4,33)",
+            "335 (13,18)",
+            "29 (1,14)",
+            "35 (1,38)",
+            "57,2 (2,25)",
+            "57,5 (2,26)",
+            "57 (2,24)",
+            "86 (3,39)",
+            "80 (3,15)",
+            "54 (2,13)",
+            "10,5 (0,41)",
+            "12 (0,47)",
+            "169 (6,65)",
+            "M12",
+            "2,500 (5,512)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kf-375-385/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kf-375-385/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/686_KF375.png",
+      "bytes": 376139,
+      "sha256": "dbd017cbd7e3b18858f3536e119e37b92d9b0ddc4361b44952ce48aad6ac3cbf"
+    },
+    {
+      "path": "/images/products/kifix/kf-375-385/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/687_KF375_TR123.png",
+      "bytes": 428077,
+      "sha256": "1a588cf318891c48bb570804d08d78b66872c00fb97bfd48a9ea42620298808f"
+    },
+    {
+      "path": "/images/products/kifix/kf-375-385/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/688_KF385.png",
+      "bytes": 393006,
+      "sha256": "041253c2ab00aedc05321e3d5a469dc7f60ebffc8c0570b12c18aa082dbb8e13"
+    },
+    {
+      "path": "/images/products/kifix/kf-375-385/foto-4.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/689_KF_385_TR123.png",
+      "bytes": 443149,
+      "sha256": "5445a4d82971aad934e151df87a09343caf28294501c00599f80237578e3c09d"
+    },
+    {
+      "path": "/images/products/kifix/kf-375-385/foto-5.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/826_KF_38540_com_mola.png",
+      "bytes": 654939,
+      "sha256": "1da1e1feac7e74ee5610a349aa4372ffdf2cc204e3cb49df268844e6c5f3e648"
+    },
+    {
+      "path": "/images/products/kifix/kf-375-385/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/262_KF375_385.JPG",
+      "bytes": 132939,
+      "sha256": "78207c41a9de9fd4743b5ec5e9be091ff872517fc7757c46f72c44584ab34f1f"
+    }
+  ],
+  "checks": {
+    "variants": 4,
+    "photos": 5,
+    "drawings": 1,
+    "tableRows": 4
+  }
+}

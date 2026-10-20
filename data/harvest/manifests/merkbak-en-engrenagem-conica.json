@@ -1,0 +1,197 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/engrenagem-conica/",
+  "fetchedAt": "2026-10-20T12:44:57.111Z",
+  "product": {
+    "id": 201023,
+    "slug": "merkbak-en-engrenagem-conica",
+    "name": "EN – Engrenagem Cônica",
+    "sku": "EN",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/engrenagem-conica/",
+    "type": "product",
+    "summary": "Indicado para sistemas de movimentação que exijam torque e velocidade",
+    "description": "<p>Indicado para sistemas de movimentação que exijam torque e velocidade</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro</p><p><strong>Informações adicionais:</strong> Alta resistência</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Plásticos",
+        "slug": "plasticos"
+      }
+    ],
+    "image": "/images/products/merkbak/en-engrenagem-conica/1.png",
+    "images": [
+      "/images/products/merkbak/en-engrenagem-conica/1.png",
+      "/images/products/merkbak/en-engrenagem-conica/2.png",
+      "/images/products/merkbak/en-engrenagem-conica/3.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Nylon reforçado com fibra de vidro"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial polido na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Indicado para sistemas de movimentação que exijam torque e velocidade"
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Alta resistência"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220094,
+        "sku": "EN 4124 11 C/CHAVETA",
+        "label": "EN 4124 11 C/CHAVETA",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EN 4124 11 C/CHAVETA"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220095,
+        "sku": "EN 4124 11 S/CHAVETA",
+        "label": "EN 4124 11 S/CHAVETA",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EN 4124 11 S/CHAVETA"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220096,
+        "sku": "EN 4124 1/2 C/CHAVETA",
+        "label": "EN 4124 1/2 C/CHAVETA",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EN 4124 1/2 C/CHAVETA"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220097,
+        "sku": "EN 4124 1/2 S/CHAVETA",
+        "label": "EN 4124 1/2 S/CHAVETA",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EN 4124 1/2 S/CHAVETA"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220098,
+        "sku": "EN 4124 5/8 C/CHAVETA",
+        "label": "EN 4124 5/8 C/CHAVETA",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EN 4124 5/8 C/CHAVETA"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Nylon reforçado com fibra de vidro"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial polido na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Indicado para sistemas de movimentação que exijam torque e velocidade"
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Alta resistência"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "EN 4124 11 C/CHAVETA"
+          },
+          {
+            "name": "Medida",
+            "value": "EN 4124 11 S/CHAVETA"
+          },
+          {
+            "name": "Medida",
+            "value": "EN 4124 1/2 C/CHAVETA"
+          },
+          {
+            "name": "Medida",
+            "value": "EN 4124 1/2 S/CHAVETA"
+          },
+          {
+            "name": "Medida",
+            "value": "EN 4124 5/8 C/CHAVETA"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/en-engrenagem-conica/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/10/MB-EN-4124-11MM-01-scaled.png",
+      "bytes": 2878372,
+      "sha256": "04c7925d824f2b907c34501e5c098cc360a2b88bcdc76ea80eff5b56ae48336b"
+    },
+    {
+      "path": "/images/products/merkbak/en-engrenagem-conica/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/10/MB-EN-4124-11MM-02-scaled.png",
+      "bytes": 3093279,
+      "sha256": "5f861080d18bd2d45749da9c0e0c5b9ffd439559c1e700e0b70edf8515d5dd35"
+    },
+    {
+      "path": "/images/products/merkbak/en-engrenagem-conica/3.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/10/EN_tab.png",
+      "bytes": 212619,
+      "sha256": "339b1c5fac0759b2c66493774d97c895b603c71a08a3607f55f0ab254f32e920"
+    }
+  ],
+  "checks": {
+    "variants": 5,
+    "photos": 3,
+    "attributesCount": 4
+  }
+}

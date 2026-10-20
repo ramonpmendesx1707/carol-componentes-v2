@@ -139,5 +139,51 @@
   "videos": [],
   "headings": [
     "Vibra-Stop Base de Inércia"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/BASE%20DE%20INERCIA/BASE%20DE%20INERCIA%20MONTADA%201.1.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/BASE%20DE%20INERCIA/BASE%20DE%20INERCIA%20MONTADA%201.0.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tParafuso de montagem\tDimensões\tPeso estimado após concretagem\tEspessura concretada\tMaterial metálicos\tPeso estimado da estrutura de aço\tQuantidade de Apoios\nMedidas\tUNC\t(C x L) mm\tKgf\t(e) mm\tSAE\tKgf\t\nBI1\t3/8”\t500 x 500\t73\t100\t1020\t11\t4\nBI2\t3/8”\t1000 x 500\t141\t100\t1020\t16\t4\nBI3\t3/8”\t1500 x 500\t209\t100\t1020\t21\t4\nBI4\t3/8”\t2.000 x 500\t277\t100\t1020\t27\t6\nBI5\t3/8”\t1000 x 1000\t271\t100\t1020\t22\t4\nBI6\t3/8”\t1500 x 1500\t595\t100\t1020\t32\t4\nBI7\t3/8”\t1500 x 1000\t402\t100\t1020\t27\t4\nBI8\t3/8”\t2000 x 1000\t532\t100\t1020\t32\t6\nBI9\t3/8”\t2000 x 1500\t787\t100\t1020\t38\t6\nBI10\t3/8”\t2000 x 2000\t1042\t100\t1020\t43\t6",
+      "images": [],
+      "videos": [],
+      "tables": [
+        12
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/BASE%20DE%20INERCIA/Manual%20de%20Instalacao%20-%20BI.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:56:31.629Z"
 }

@@ -1,5 +1,5 @@
 {
-  "id": 200051,
+  "id": 200055,
   "slug": "vibra-stop-tracao-premium",
   "name": "Vibra-Stop Mola Tração Premium",
   "sku": "Tração Premium",
@@ -32,7 +32,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240288,
+      "id": 210349,
       "sku": "MTPR30",
       "label": "MTPR30",
       "attributes": [
@@ -78,7 +78,7 @@
       "image": null
     },
     {
-      "id": 240289,
+      "id": 210350,
       "sku": "MTPR50",
       "label": "MTPR50",
       "attributes": [
@@ -124,7 +124,7 @@
       "image": null
     },
     {
-      "id": 240290,
+      "id": 210351,
       "sku": "MTPR100",
       "label": "MTPR100",
       "attributes": [
@@ -170,7 +170,7 @@
       "image": null
     },
     {
-      "id": 240291,
+      "id": 210352,
       "sku": "MTPR200",
       "label": "MTPR200",
       "attributes": [
@@ -216,7 +216,7 @@
       "image": null
     },
     {
-      "id": 240292,
+      "id": 210353,
       "sku": "MTPR300",
       "label": "MTPR300",
       "attributes": [
@@ -262,7 +262,7 @@
       "image": null
     },
     {
-      "id": 240293,
+      "id": 210354,
       "sku": "MTPR400",
       "label": "MTPR400",
       "attributes": [
@@ -308,7 +308,7 @@
       "image": null
     },
     {
-      "id": 240294,
+      "id": 210355,
       "sku": "MTPR500",
       "label": "MTPR500",
       "attributes": [
@@ -354,7 +354,7 @@
       "image": null
     },
     {
-      "id": 240295,
+      "id": 210356,
       "sku": "MTPR700",
       "label": "MTPR700",
       "attributes": [
@@ -400,7 +400,7 @@
       "image": null
     },
     {
-      "id": 240296,
+      "id": 210357,
       "sku": "MTPR1000",
       "label": "MTPR1000",
       "attributes": [
@@ -446,7 +446,7 @@
       "image": null
     },
     {
-      "id": 240297,
+      "id": 210358,
       "sku": "MTPR1500",
       "label": "MTPR1500",
       "attributes": [
@@ -498,6 +498,12 @@
       "url": "/downloads/products/vibra-stop/tracao-premium/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Tracao%20Premium.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [],

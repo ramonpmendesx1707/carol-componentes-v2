@@ -1,0 +1,419 @@
+{
+  "id": 202073,
+  "slug": "kifix-kfp-l40-l63",
+  "name": "KFP-L40/L63",
+  "sku": "KFP-L40/L63",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-pneumatico/kfp-l40-l63/",
+  "type": "product",
+  "summary": "Linha Grampo pneumático Kifix modelo KFP-L40/L63, com 3 referências dimensionais.",
+  "description": "<p>Linha Grampo pneumático Kifix modelo KFP-L40/L63, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo pneumático",
+      "slug": "grampo-pneumatico"
+    }
+  ],
+  "image": "/images/products/kifix/kfp-l40-l63/foto-1.png",
+  "images": [
+    "/images/products/kifix/kfp-l40-l63/foto-1.png",
+    "/images/products/kifix/kfp-l40-l63/foto-2.png",
+    "/images/products/kifix/kfp-l40-l63/foto-3.png",
+    "/images/products/kifix/kfp-l40-l63/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo pneumático"
+    }
+  ],
+  "weight": "6,000 (13,200)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230504,
+      "sku": "KFP-L40",
+      "label": "KFP-L40",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "400 (880)"
+        },
+        {
+          "name": "ABERTURA(REGULÁVEL)",
+          "value": "0°-135°"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "146 (5,75)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "325 (12,80)"
+        },
+        {
+          "name": "B1 (in)",
+          "value": "110 (4,33)"
+        },
+        {
+          "name": "B2 (in)",
+          "value": "170 (6,69)"
+        },
+        {
+          "name": "C (in)",
+          "value": "22 (0,87)"
+        },
+        {
+          "name": "D (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "25 (0,98)"
+        },
+        {
+          "name": "E (in)",
+          "value": "25 (0,98)"
+        },
+        {
+          "name": "E1 (in)",
+          "value": "-"
+        },
+        {
+          "name": "E2 (in)",
+          "value": "20 (0,79)"
+        },
+        {
+          "name": "F (in)",
+          "value": "48 (1,89)"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "24 (0,94)"
+        },
+        {
+          "name": "G (in)",
+          "value": "65 (2,56)"
+        },
+        {
+          "name": "J (in)",
+          "value": "6 (0,24)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "M6"
+        },
+        {
+          "name": "J2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "M (in)",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "6,000 (13,200)"
+        }
+      ],
+      "weight": "6,000 (13,200)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230505,
+      "sku": "KFP-L63",
+      "label": "KFP-L63",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1100 (2420)"
+        },
+        {
+          "name": "ABERTURA(REGULÁVEL)",
+          "value": "0°-135°"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "185 (7,28)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "340 (13,39)"
+        },
+        {
+          "name": "B1 (in)",
+          "value": "144 (5,67)"
+        },
+        {
+          "name": "B2 (in)",
+          "value": "236 (9,29)"
+        },
+        {
+          "name": "C (in)",
+          "value": "28 (1,10)"
+        },
+        {
+          "name": "D (in)",
+          "value": "50 (1,97)"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "E (in)",
+          "value": "45 (1,77)"
+        },
+        {
+          "name": "E1 (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "E2 (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "F (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "G (in)",
+          "value": "110 (4,33)"
+        },
+        {
+          "name": "J (in)",
+          "value": "10 (0,39)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "M6"
+        },
+        {
+          "name": "J2 (in)",
+          "value": "6 (0,24)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "6,500 (14,300)"
+        }
+      ],
+      "weight": "6,500 (14,300)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230506,
+      "sku": "KFP-L63 B",
+      "label": "KFP-L63 B",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1100 (2420)"
+        },
+        {
+          "name": "ABERTURA(REGULÁVEL)",
+          "value": "0°-135°"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "185 (7,28)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "340 (13,39)"
+        },
+        {
+          "name": "B1 (in)",
+          "value": "144,3 (5,68)"
+        },
+        {
+          "name": "B2 (in)",
+          "value": "236 (9,29)"
+        },
+        {
+          "name": "C (in)",
+          "value": "28 (1,10)"
+        },
+        {
+          "name": "D (in)",
+          "value": "50 (1,97)"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "E (in)",
+          "value": "45 (1,77)"
+        },
+        {
+          "name": "E1 (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "E2 (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "F (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "G (in)",
+          "value": "110 (4,33)"
+        },
+        {
+          "name": "J (in)",
+          "value": "10 (0,39)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "M6"
+        },
+        {
+          "name": "J2 (in)",
+          "value": "6 (0,24)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "6,500 (14,300)"
+        }
+      ],
+      "weight": "6,500 (14,300)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "ABERTURA(REGULÁVEL)",
+        "A1 (in)",
+        "A2 (in)",
+        "B1 (in)",
+        "B2 (in)",
+        "C (in)",
+        "D (in)",
+        "D1 (in)",
+        "E (in)",
+        "E1 (in)",
+        "E2 (in)",
+        "F (in)",
+        "F1 (in)",
+        "G (in)",
+        "J (in)",
+        "J1 (in)",
+        "J2 (in)",
+        "M (in)",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KFP-L40",
+          "400 (880)",
+          "0°-135°",
+          "146 (5,75)",
+          "325 (12,80)",
+          "110 (4,33)",
+          "170 (6,69)",
+          "22 (0,87)",
+          "35 (1,38)",
+          "25 (0,98)",
+          "25 (0,98)",
+          "-",
+          "20 (0,79)",
+          "48 (1,89)",
+          "24 (0,94)",
+          "65 (2,56)",
+          "6 (0,24)",
+          "M6",
+          "-",
+          "M6",
+          "6,000 (13,200)"
+        ],
+        [
+          "KFP-L63",
+          "1100 (2420)",
+          "0°-135°",
+          "185 (7,28)",
+          "340 (13,39)",
+          "144 (5,67)",
+          "236 (9,29)",
+          "28 (1,10)",
+          "50 (1,97)",
+          "30 (1,18)",
+          "45 (1,77)",
+          "16 (0,63)",
+          "32 (1,26)",
+          "60 (2,36)",
+          "30 (1,18)",
+          "110 (4,33)",
+          "10 (0,39)",
+          "M6",
+          "6 (0,24)",
+          "M10",
+          "6,500 (14,300)"
+        ],
+        [
+          "KFP-L63 B",
+          "1100 (2420)",
+          "0°-135°",
+          "185 (7,28)",
+          "340 (13,39)",
+          "144,3 (5,68)",
+          "236 (9,29)",
+          "28 (1,10)",
+          "50 (1,97)",
+          "30 (1,18)",
+          "45 (1,77)",
+          "16 (0,63)",
+          "32 (1,26)",
+          "60 (2,36)",
+          "30 (1,18)",
+          "110 (4,33)",
+          "10 (0,39)",
+          "M6",
+          "6 (0,24)",
+          "M10",
+          "6,500 (14,300)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kfp-l40-l63/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

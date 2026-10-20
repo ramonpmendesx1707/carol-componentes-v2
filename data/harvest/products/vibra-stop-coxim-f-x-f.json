@@ -1,5 +1,5 @@
 {
-  "id": 200024,
+  "id": 200017,
   "slug": "vibra-stop-coxim-f-x-f",
   "name": "Vibra-Stop Coxim F x F",
   "sku": "Coxim F x F",
@@ -32,7 +32,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240093,
+      "id": 210072,
       "sku": "CX1FF",
       "label": "CX1FF",
       "attributes": [
@@ -78,7 +78,7 @@
       "image": null
     },
     {
-      "id": 240094,
+      "id": 210073,
       "sku": "CX2FF",
       "label": "CX2FF",
       "attributes": [
@@ -124,7 +124,7 @@
       "image": null
     },
     {
-      "id": 240095,
+      "id": 210074,
       "sku": "CX3FF",
       "label": "CX3FF",
       "attributes": [
@@ -176,6 +176,12 @@
       "url": "/downloads/products/vibra-stop/coxim-f-x-f/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Coxim%20F%20x%20F.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [

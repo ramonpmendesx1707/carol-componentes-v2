@@ -1,0 +1,341 @@
+{
+  "id": 202059,
+  "slug": "kifix-kf-686-d-686-h-687-d",
+  "name": "KF-686 D/686 H/687 D",
+  "sku": "KF-686 D/686 H/687 D",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-de-fixacao-dupla/kf-686-d-686-h-687-d/",
+  "type": "product",
+  "summary": "Linha Grampo de fixação dupla Kifix modelo KF-686 D/686 H/687 D, com 3 referências dimensionais.",
+  "description": "<p>Linha Grampo de fixação dupla Kifix modelo KF-686 D/686 H/687 D, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo de fixação dupla",
+      "slug": "grampo-de-fixacao-dupla"
+    }
+  ],
+  "image": "/images/products/kifix/kf-686-d-686-h-687-d/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-686-d-686-h-687-d/foto-1.png",
+    "/images/products/kifix/kf-686-d-686-h-687-d/foto-2.png",
+    "/images/products/kifix/kf-686-d-686-h-687-d/foto-3.png",
+    "/images/products/kifix/kf-686-d-686-h-687-d/desenho-1.jpg",
+    "/images/products/kifix/kf-686-d-686-h-687-d/desenho-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo de fixação dupla"
+    }
+  ],
+  "weight": "2,18 (4,80)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230454,
+      "sku": "KF-686 D",
+      "label": "KF-686 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "533,72 (1176,65)"
+        },
+        {
+          "name": "A (in)",
+          "value": "144 (5,66)"
+        },
+        {
+          "name": "B (in)",
+          "value": "297 (11,69)"
+        },
+        {
+          "name": "C1 (in)",
+          "value": "38 (1,49)"
+        },
+        {
+          "name": "C2 (in)",
+          "value": "61 (2,40)"
+        },
+        {
+          "name": "D (in)",
+          "value": "68 (2,67)"
+        },
+        {
+          "name": "E (in)",
+          "value": "73 (2,87)"
+        },
+        {
+          "name": "F (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "G (in)",
+          "value": "93 (3,66)"
+        },
+        {
+          "name": "H (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "L (in)",
+          "value": "31 (1,22)"
+        },
+        {
+          "name": "M (in)",
+          "value": "162 (6,37)"
+        },
+        {
+          "name": "N (in)",
+          "value": "172 (6,77)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M8"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "2,18 (4,80)"
+        }
+      ],
+      "weight": "2,18 (4,80)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230455,
+      "sku": "KF-686 H",
+      "label": "KF-686 H",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "557,47 (1229,00)"
+        },
+        {
+          "name": "A (in)",
+          "value": "171 (6,73)"
+        },
+        {
+          "name": "B (in)",
+          "value": "292 (11,49)"
+        },
+        {
+          "name": "C1 (in)",
+          "value": "36 (1,41)"
+        },
+        {
+          "name": "C2 (in)",
+          "value": "70 (2,75)"
+        },
+        {
+          "name": "D (in)",
+          "value": "68 (2,67)"
+        },
+        {
+          "name": "E (in)",
+          "value": "152 (5,98)"
+        },
+        {
+          "name": "F (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "G (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "H (in)",
+          "value": "62 (2,44)"
+        },
+        {
+          "name": "L (in)",
+          "value": "28 (1,10)"
+        },
+        {
+          "name": "M (in)",
+          "value": "157 (6,18)"
+        },
+        {
+          "name": "N (in)",
+          "value": "165 (2,55)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M8"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,59 (3,50)"
+        }
+      ],
+      "weight": "1,59 (3,50)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230456,
+      "sku": "KF-687 D",
+      "label": "KF-687 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "685,30 (1510,82)"
+        },
+        {
+          "name": "A (in)",
+          "value": "106 (4,17)"
+        },
+        {
+          "name": "B (in)",
+          "value": "242 (9,52)"
+        },
+        {
+          "name": "C1 (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "C2 (in)",
+          "value": "63 (2,48)"
+        },
+        {
+          "name": "D (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "E (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "F (in)",
+          "value": "101 (3,97)"
+        },
+        {
+          "name": "G (in)",
+          "value": "76 (2,99)"
+        },
+        {
+          "name": "H (in)",
+          "value": "49 (1,92)"
+        },
+        {
+          "name": "L (in)",
+          "value": "28 (1,10)"
+        },
+        {
+          "name": "M (in)",
+          "value": "126 (4,96)"
+        },
+        {
+          "name": "N (in)",
+          "value": "134 (5,27)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M8"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,18 (2,60)"
+        }
+      ],
+      "weight": "1,18 (2,60)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "A (in)",
+        "B (in)",
+        "C1 (in)",
+        "C2 (in)",
+        "D (in)",
+        "E (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "L (in)",
+        "M (in)",
+        "N (in)",
+        "PONTEIRA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-686 D",
+          "533,72 (1176,65)",
+          "144 (5,66)",
+          "297 (11,69)",
+          "38 (1,49)",
+          "61 (2,40)",
+          "68 (2,67)",
+          "73 (2,87)",
+          "120 (4,72)",
+          "93 (3,66)",
+          "58 (2,28)",
+          "31 (1,22)",
+          "162 (6,37)",
+          "172 (6,77)",
+          "M8",
+          "2,18 (4,80)"
+        ],
+        [
+          "KF-686 H",
+          "557,47 (1229,00)",
+          "171 (6,73)",
+          "292 (11,49)",
+          "36 (1,41)",
+          "70 (2,75)",
+          "68 (2,67)",
+          "152 (5,98)",
+          "120 (4,72)",
+          "44 (1,73)",
+          "62 (2,44)",
+          "28 (1,10)",
+          "157 (6,18)",
+          "165 (2,55)",
+          "M8",
+          "1,59 (3,50)"
+        ],
+        [
+          "KF-687 D",
+          "685,30 (1510,82)",
+          "106 (4,17)",
+          "242 (9,52)",
+          "35 (1,37)",
+          "63 (2,48)",
+          "57 (2,24)",
+          "60 (2,36)",
+          "101 (3,97)",
+          "76 (2,99)",
+          "49 (1,92)",
+          "28 (1,10)",
+          "126 (4,96)",
+          "134 (5,27)",
+          "M8",
+          "1,18 (2,60)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-686-d-686-h-687-d/desenho-1.jpg",
+        "/images/products/kifix/kf-686-d-686-h-687-d/desenho-2.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

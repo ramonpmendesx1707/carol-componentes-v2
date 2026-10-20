@@ -2,7 +2,7 @@
   "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-quadrupla-vip?model=vip&language=pt-BR",
   "fetchedAt": "2026-10-20T10:37:52.404Z",
   "product": {
-    "id": 200044,
+    "id": 200064,
     "slug": "vibra-stop-vip",
     "name": "Vibra-Stop Mola Quádrupla Vip",
     "sku": "Mola Quádrupla Vip",
@@ -39,7 +39,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240222,
+        "id": 210399,
         "sku": "MQV12",
         "label": "MQV12",
         "attributes": [
@@ -81,7 +81,7 @@
         "image": null
       },
       {
-        "id": 240223,
+        "id": 210400,
         "sku": "MQV40",
         "label": "MQV40",
         "attributes": [
@@ -123,7 +123,7 @@
         "image": null
       },
       {
-        "id": 240224,
+        "id": 210401,
         "sku": "MQV80",
         "label": "MQV80",
         "attributes": [
@@ -165,7 +165,7 @@
         "image": null
       },
       {
-        "id": 240225,
+        "id": 210402,
         "sku": "MQV120",
         "label": "MQV120",
         "attributes": [
@@ -213,6 +213,12 @@
         "url": "/downloads/products/vibra-stop/vip/ficha-tecnica.pdf",
         "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Quadrupla%20VIP.pdf",
         "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [],
@@ -346,6 +352,17 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 0,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:59:30.782Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 6,
+    "pdfReconciled2026": true
   }
 }

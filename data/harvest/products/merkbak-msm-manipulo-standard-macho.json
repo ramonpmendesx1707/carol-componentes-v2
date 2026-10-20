@@ -1,0 +1,329 @@
+{
+  "id": 201035,
+  "slug": "merkbak-msm-manipulo-standard-macho",
+  "name": "MSM – Manípulo Standard Macho",
+  "sku": "MSM",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/manipulo-standard-macho/",
+  "type": "product",
+  "summary": "Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais.",
+  "description": "<p>Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais.</p><p><strong>Material:</strong> Baquelite + rosca aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Isolamento térmico / Higienização eficiente / Em casos de comprimento de rosca específica, consultar fábrica</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Baquelite",
+      "slug": "baquelite"
+    }
+  ],
+  "image": "/images/products/merkbak/msm-manipulo-standard-macho/1.png",
+  "images": [
+    "/images/products/merkbak/msm-manipulo-standard-macho/1.png",
+    "/images/products/merkbak/msm-manipulo-standard-macho/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Baquelite + rosca aço carbono zincado"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais."
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Isolamento térmico / Higienização eficiente / Em casos de comprimento de rosca específica, consultar fábrica"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220191,
+      "sku": "MSM 3526 M6X25",
+      "label": "MSM 3526 M6X25",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSM 3526 M6X25"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220192,
+      "sku": "MSM 3526 M6X50",
+      "label": "MSM 3526 M6X50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSM 3526 M6X50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220193,
+      "sku": "MSM 3526 M8X25",
+      "label": "MSM 3526 M8X25",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSM 3526 M8X25"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220194,
+      "sku": "MSM 3526 M8X50",
+      "label": "MSM 3526 M8X50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSM 3526 M8X50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220195,
+      "sku": "MSM 4631 M8X25",
+      "label": "MSM 4631 M8X25",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSM 4631 M8X25"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220196,
+      "sku": "MSM 4631 M8X50",
+      "label": "MSM 4631 M8X50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSM 4631 M8X50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220197,
+      "sku": "MSM 4631 3/8X50",
+      "label": "MSM 4631 3/8X50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSM 4631 3/8X50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220198,
+      "sku": "MSM 4631 M10X50",
+      "label": "MSM 4631 M10X50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSM 4631 M10X50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220199,
+      "sku": "MSM 6236 3/8X50",
+      "label": "MSM 6236 3/8X50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSM 6236 3/8X50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220200,
+      "sku": "MSM 6236 M10X50",
+      "label": "MSM 6236 M10X50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSM 6236 M10X50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220201,
+      "sku": "MSM 6236 M12X50",
+      "label": "MSM 6236 M12X50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSM 6236 M12X50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220202,
+      "sku": "MSM 6236 1/2X50",
+      "label": "MSM 6236 1/2X50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSM 6236 1/2X50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220203,
+      "sku": "MSM 7142 M10X50",
+      "label": "MSM 7142 M10X50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSM 7142 M10X50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220204,
+      "sku": "MSM 7142 1/2X50",
+      "label": "MSM 7142 1/2X50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSM 7142 1/2X50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Baquelite + rosca aço carbono zincado"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais."
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Isolamento térmico / Higienização eficiente / Em casos de comprimento de rosca específica, consultar fábrica"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "MSM 3526 M6X25"
+        },
+        {
+          "name": "Medida",
+          "value": "MSM 3526 M6X50"
+        },
+        {
+          "name": "Medida",
+          "value": "MSM 3526 M8X25"
+        },
+        {
+          "name": "Medida",
+          "value": "MSM 3526 M8X50"
+        },
+        {
+          "name": "Medida",
+          "value": "MSM 4631 M8X25"
+        },
+        {
+          "name": "Medida",
+          "value": "MSM 4631 M8X50"
+        },
+        {
+          "name": "Medida",
+          "value": "MSM 4631 3/8X50"
+        },
+        {
+          "name": "Medida",
+          "value": "MSM 4631 M10X50"
+        },
+        {
+          "name": "Medida",
+          "value": "MSM 6236 3/8X50"
+        },
+        {
+          "name": "Medida",
+          "value": "MSM 6236 M10X50"
+        },
+        {
+          "name": "Medida",
+          "value": "MSM 6236 M12X50"
+        },
+        {
+          "name": "Medida",
+          "value": "MSM 6236 1/2X50"
+        },
+        {
+          "name": "Medida",
+          "value": "MSM 7142 M10X50"
+        },
+        {
+          "name": "Medida",
+          "value": "MSM 7142 1/2X50"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

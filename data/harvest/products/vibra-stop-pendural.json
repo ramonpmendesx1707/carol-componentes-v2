@@ -1,0 +1,88 @@
+{
+  "id": 200038,
+  "slug": "vibra-stop-pendural",
+  "name": "Vibra-Stop Pendural",
+  "sku": "Pendural",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-pendural?model=pendural&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para instalação de forros, fixação de tubulação suspensa, entre outros. Instalação com furo para inserção de bucha de fixação.",
+  "description": "<p>Ideais para instalação de forros, fixação de tubulação suspensa, entre outros. Instalação com furo para inserção de bucha de fixação.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/pendural/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/pendural/foto-1.png",
+    "/images/products/vibra-stop/pendural/foto-2.png",
+    "/images/products/vibra-stop/pendural/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Borracha Natural e Aço Carbono Zincado."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 210228,
+      "sku": "PD",
+      "label": "PD",
+      "attributes": [
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,61/3"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/pendural/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Pendural.pdf",
+      "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Linha Mola (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-molas-site-ago-2026.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Deflexão (mm/Kgf)"
+      ],
+      "rows": [
+        [
+          "PD",
+          "6,61/3"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/pendural/aplicacao-4.png",
+        "/images/products/vibra-stop/pendural/aplicacao-5.png",
+        "/images/products/vibra-stop/pendural/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

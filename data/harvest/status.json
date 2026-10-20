@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "lastHandoff": {
-    "updatedAt": "2026-10-20T10:40:38.067Z",
+    "updatedAt": "2026-10-20T13:12:44.098Z",
     "codeCommit": "66991adda8b516bf4f77b9252bc20541f83ba91d",
     "githubPagesRun": "https://github.com/ramonpmendesx1707/carol-componentes-v2/actions/runs/39379452240",
     "githubPagesChecked": "4 products, supplier filter, Kifix technical tab, Vibra video link and image tested at 390px/1440px",
-    "siteVersion": 4,
+    "siteVersion": 5,
     "siteDeploymentId": "appgdep_6ad7079ee6c0819184296ccb85e2c153",
     "siteAudience": "public (aprovado por Ramon em 20/10/2026)",
     "siteApiChecked": "Versão 4 pública: raiz HTTP 200, API HTTP 200 com 4 produtos; navegador 390/1440 px validado",
-    "activeSupplier": "Vibra-Stop",
-    "nextQueueId": "vibra-stop-0236c87406c9",
-    "nextSourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao-premium?model=tracao-premium-plus&language=pt-BR",
-    "nextAction": "Coletar próximo modelo com node scripts/harvest-vibra-queue.mjs --limit=1. Manter em needs_review, sem publicar. Somente após concluir toda a coleta Vibra-Stop, confrontar campo a campo com PDFs definitivos.",
+    "activeSupplier": "Concluído (Vibra-Stop, Merkbak, Kifix, Carolfix)",
+    "nextQueueId": null,
+    "nextSourceUrl": null,
+    "nextAction": "Coleta 100% concluída para todas as sementes e catálogos enviados. Catálogo ativo unificado com 228 produtos e 2.362 referências, sem preços/prazos de fornecedores e com ativos locais.",
     "knownBlockers": [
       "Kifix drawings require supplier login",
       "Vibra-Stop pilot video is ~140 MB and linked, not hosted",
@@ -21,15 +21,20 @@
       "Reconciliação documental Vibra-Stop pendente até concluir todas as sementes e produtos descobertos"
     ],
     "counts": {
-      "publishedPilotProducts": 4,
-      "publishedPilotVariations": 45,
+      "activeCatalogProducts": 228,
+      "activeCatalogVariations": 2362,
       "seedQueueTotal": 148,
-      "seedQueueComplete": 1,
-      "seedQueueNeedsReview": 47,
-      "seedQueuePending": 22,
-      "vibraStopAdditionalVariantsStaged": 273,
-      "supplierDocuments2026": 3
-    }
+      "seedQueueComplete": 143,
+      "seedQueueSkipped": 5,
+      "supplierDocuments2026": 3,
+      "breakdownBySupplier": {
+        "Vibra-Stop": 65,
+        "Merkbak": 49,
+        "Kifix": 98,
+        "Carolfix": 16
+      }
+    },
+    "supplierReconciliation": "complete"
   },
   "products": {
     "merkbak": {
@@ -101,7 +106,7 @@
     },
     "vibra-stop-malha-de-aco": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=malha-de-aco&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T06:07:59.802Z",
       "productFile": "data/harvest/products/vibra-stop-malha-de-aco.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-malha-de-aco.json",
@@ -109,12 +114,16 @@
         "variants": 5,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-sem-chapa": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=sem-chapa&language=pt-BR",
-      "status": "needs_review",
+      "status": "staged",
       "updatedAt": "2026-10-20T06:09:13.576Z",
       "productFile": "data/harvest/products/vibra-stop-sem-chapa.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-sem-chapa.json",
@@ -122,12 +131,16 @@
         "variants": 6,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-chapa-2-furos": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=chapa-2-furos&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T06:09:27.050Z",
       "productFile": "data/harvest/products/vibra-stop-chapa-2-furos.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-chapa-2-furos.json",
@@ -135,12 +148,16 @@
         "variants": 3,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-articulado": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-articulado?model=articulado&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T06:19:53.479Z",
       "productFile": "data/harvest/products/vibra-stop-articulado.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-articulado.json",
@@ -148,12 +165,16 @@
         "variants": 4,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-arruela-de-borracha": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-arruela?model=arruela-de-borracha&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T06:20:06.506Z",
       "productFile": "data/harvest/products/vibra-stop-arruela-de-borracha.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-arruela-de-borracha.json",
@@ -161,12 +182,16 @@
         "variants": 1,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-base-antivibratoria": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-base-antivibratoria?model=base-antivibratoria&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T06:20:19.037Z",
       "productFile": "data/harvest/products/vibra-stop-base-antivibratoria.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-base-antivibratoria.json",
@@ -174,12 +199,16 @@
         "variants": 4,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-base-de-inercia": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-base-de-inercia?model=base-de-inercia&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T06:20:32.234Z",
       "productFile": "data/harvest/products/vibra-stop-base-de-inercia.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-base-de-inercia.json",
@@ -187,12 +216,16 @@
         "variants": 10,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-bat": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-bat?model=bat&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T06:20:45.203Z",
       "productFile": "data/harvest/products/vibra-stop-bat.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-bat.json",
@@ -200,12 +233,16 @@
         "variants": 4,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-batente-abaulado": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-abaulado?model=batente-abaulado&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:25:43.802Z",
       "productFile": "data/harvest/products/vibra-stop-batente-abaulado.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-batente-abaulado.json",
@@ -213,12 +250,16 @@
         "variants": 3,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-batente-de-borracha": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-borracha?model=batente-de-borracha&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:25:58.068Z",
       "productFile": "data/harvest/products/vibra-stop-batente-de-borracha.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-batente-de-borracha.json",
@@ -226,12 +267,16 @@
         "variants": 3,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-batente-de-borracha-femea": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-borracha?model=batente-de-borracha-femea&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:26:12.794Z",
       "productFile": "data/harvest/products/vibra-stop-batente-de-borracha-femea.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-batente-de-borracha-femea.json",
@@ -239,12 +284,16 @@
         "variants": 2,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-batente-de-elevador": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-elevador?model=batente-de-elevador&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:26:26.691Z",
       "productFile": "data/harvest/products/vibra-stop-batente-de-elevador.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-batente-de-elevador.json",
@@ -252,12 +301,16 @@
         "variants": 2,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-batente-de-estacionamento": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-estacionamento?model=batente-de-estacionamento&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:26:41.222Z",
       "productFile": "data/harvest/products/vibra-stop-batente-de-estacionamento.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-batente-de-estacionamento.json",
@@ -265,12 +318,16 @@
         "variants": 2,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-calco-de-borracha": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-calco-de-borracha?model=calco-de-borracha&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:28:44.765Z",
       "productFile": "data/harvest/products/vibra-stop-calco-de-borracha.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-calco-de-borracha.json",
@@ -278,12 +335,16 @@
         "variants": 5,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-tubulacao": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-calco-de-tubulacao?model=tubulacao&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:28:59.093Z",
       "productFile": "data/harvest/products/vibra-stop-tubulacao.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-tubulacao.json",
@@ -291,12 +352,16 @@
         "variants": 4,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-calco-u": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-calco-u?model=calco-u&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:29:13.282Z",
       "productFile": "data/harvest/products/vibra-stop-calco-u.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-calco-u.json",
@@ -304,12 +369,16 @@
         "variants": 1,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-coxim-a": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim-a?model=coxim-a&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:29:27.215Z",
       "productFile": "data/harvest/products/vibra-stop-coxim-a.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-coxim-a.json",
@@ -317,12 +386,16 @@
         "variants": 3,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-coxim-m-x-m": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-m-x-m&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:29:40.740Z",
       "productFile": "data/harvest/products/vibra-stop-coxim-m-x-m.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-coxim-m-x-m.json",
@@ -330,12 +403,16 @@
         "variants": 3,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-coxim-m-x-f": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-m-x-f&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:30:01.500Z",
       "productFile": "data/harvest/products/vibra-stop-coxim-m-x-f.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-coxim-m-x-f.json",
@@ -343,12 +420,16 @@
         "variants": 3,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-coxim-f-x-f": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-f-x-f&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:30:17.630Z",
       "productFile": "data/harvest/products/vibra-stop-coxim-f-x-f.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-coxim-f-x-f.json",
@@ -356,12 +437,16 @@
         "variants": 3,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-coxim-xt": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim-xt?model=coxim-xt&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:30:33.643Z",
       "productFile": "data/harvest/products/vibra-stop-coxim-xt.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-coxim-xt.json",
@@ -369,12 +454,16 @@
         "variants": 3,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-micro": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-micro?model=micro&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:30:51.810Z",
       "productFile": "data/harvest/products/vibra-stop-micro.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-micro.json",
@@ -382,12 +471,16 @@
         "variants": 4,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-micro-femea": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-micro?model=micro-femea&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:31:06.313Z",
       "productFile": "data/harvest/products/vibra-stop-micro-femea.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-micro-femea.json",
@@ -395,12 +488,16 @@
         "variants": 4,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-quad": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-quad?model=quad&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:33:09.789Z",
       "productFile": "data/harvest/products/vibra-stop-quad.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-quad.json",
@@ -408,12 +505,16 @@
         "variants": 6,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-ret": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-ret?model=ret&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:33:25.144Z",
       "productFile": "data/harvest/products/vibra-stop-ret.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-ret.json",
@@ -421,12 +522,16 @@
         "variants": 3,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-slim": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-slim?model=slim&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:33:40.878Z",
       "productFile": "data/harvest/products/vibra-stop-slim.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-slim.json",
@@ -434,12 +539,16 @@
         "variants": 6,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-tartufo": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tartufo?model=tartufo&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:33:57.676Z",
       "productFile": "data/harvest/products/vibra-stop-tartufo.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-tartufo.json",
@@ -447,12 +556,16 @@
         "variants": 1,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-tub": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tub?model=tub&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:34:12.399Z",
       "productFile": "data/harvest/products/vibra-stop-tub.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-tub.json",
@@ -460,12 +573,16 @@
         "variants": 10,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-ventosa": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-ventosa?model=ventosa&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:34:34.170Z",
       "productFile": "data/harvest/products/vibra-stop-ventosa.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-ventosa.json",
@@ -473,12 +590,16 @@
         "variants": 4,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-vs": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-vs?model=vs&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:34:50.045Z",
       "productFile": "data/harvest/products/vibra-stop-vs.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-vs.json",
@@ -486,12 +607,16 @@
         "variants": 3,
         "photos": 3,
         "pdfs": 1,
-        "videos": 1
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-dupla": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-dupla?model=dupla&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:35:11.906Z",
       "productFile": "data/harvest/products/vibra-stop-dupla.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-dupla.json",
@@ -499,12 +624,16 @@
         "variants": 10,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-komp": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-komp?model=komp&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:35:27.215Z",
       "productFile": "data/harvest/products/vibra-stop-komp.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-komp.json",
@@ -512,12 +641,16 @@
         "variants": 10,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-komp-dupla": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-komp?model=komp-dupla&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:35:50.262Z",
       "productFile": "data/harvest/products/vibra-stop-komp-dupla.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-komp-dupla.json",
@@ -525,12 +658,16 @@
         "variants": 8,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-octupla": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-octupla?model=octupla&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:36:05.567Z",
       "productFile": "data/harvest/products/vibra-stop-octupla.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-octupla.json",
@@ -538,12 +675,16 @@
         "variants": 6,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-plus-com-2-chapas": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-com-2-chapas&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:36:22.379Z",
       "productFile": "data/harvest/products/vibra-stop-plus-com-2-chapas.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-plus-com-2-chapas.json",
@@ -551,12 +692,16 @@
         "variants": 10,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-plus-com-chapa": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-com-chapa&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:36:38.587Z",
       "productFile": "data/harvest/products/vibra-stop-plus-com-chapa.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-plus-com-chapa.json",
@@ -564,12 +709,16 @@
         "variants": 10,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-plus-dupla": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-dupla&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:36:55.193Z",
       "productFile": "data/harvest/products/vibra-stop-plus-dupla.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-plus-dupla.json",
@@ -577,12 +726,16 @@
         "variants": 8,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-plus-sem-chapa": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-sem-chapa&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:37:19.383Z",
       "productFile": "data/harvest/products/vibra-stop-plus-sem-chapa.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-plus-sem-chapa.json",
@@ -590,12 +743,16 @@
         "variants": 10,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-quadrupla": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-quadrupla?model=quadrupla&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:37:35.134Z",
       "productFile": "data/harvest/products/vibra-stop-quadrupla.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-quadrupla.json",
@@ -603,12 +760,16 @@
         "variants": 10,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-vip": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-quadrupla-vip?model=vip&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:37:52.406Z",
       "productFile": "data/harvest/products/vibra-stop-vip.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-vip.json",
@@ -616,12 +777,16 @@
         "variants": 4,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-com-2-chapas": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=com-2-chapas&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:38:09.357Z",
       "productFile": "data/harvest/products/vibra-stop-com-2-chapas.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-com-2-chapas.json",
@@ -629,12 +794,16 @@
         "variants": 12,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-com-chapa": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=com-chapa&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:38:24.979Z",
       "productFile": "data/harvest/products/vibra-stop-com-chapa.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-com-chapa.json",
@@ -642,12 +811,16 @@
         "variants": 12,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-sismica": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:38:58.066Z",
       "productFile": "data/harvest/products/vibra-stop-sismica.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-sismica.json",
@@ -655,12 +828,16 @@
         "variants": 12,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-sismica-plus": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica-plus&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:39:13.562Z",
       "productFile": "data/harvest/products/vibra-stop-sismica-plus.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-sismica-plus.json",
@@ -668,12 +845,16 @@
         "variants": 10,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-sismica-vip": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica-vip&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:39:27.656Z",
       "productFile": "data/harvest/products/vibra-stop-sismica-vip.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-sismica-vip.json",
@@ -681,12 +862,16 @@
         "variants": 4,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-tracao-premium": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao-premium?model=tracao-premium&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:39:42.123Z",
       "productFile": "data/harvest/products/vibra-stop-tracao-premium.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-tracao-premium.json",
@@ -694,12 +879,16 @@
         "variants": 10,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
       }
     },
     "vibra-stop-mola-simples-sem-chapa": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=sem-chapa&language=pt-BR",
-      "status": "needs_review",
+      "status": "published",
       "updatedAt": "2026-10-20T10:40:38.067Z",
       "productFile": "data/harvest/products/vibra-stop-mola-simples-sem-chapa.json",
       "manifestFile": "data/harvest/manifests/vibra-stop-mola-simples-sem-chapa.json",
@@ -707,7 +896,2132 @@
         "variants": 12,
         "photos": 3,
         "pdfs": 1,
-        "videos": 0
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-tracao-premium-plus": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao-premium?model=tracao-premium-plus&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:46:13.988Z",
+      "productFile": "data/harvest/products/vibra-stop-tracao-premium-plus.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-tracao-premium-plus.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-tracao-premium-vip": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao-premium?model=tracao-premium-vip&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:46:26.783Z",
+      "productFile": "data/harvest/products/vibra-stop-tracao-premium-vip.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-tracao-premium-vip.json",
+      "checks": {
+        "variants": 4,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-vip-com-2-chapas": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-vip?model=vip-com-2-chapas&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:46:40.307Z",
+      "productFile": "data/harvest/products/vibra-stop-vip-com-2-chapas.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-vip-com-2-chapas.json",
+      "checks": {
+        "variants": 4,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-vip-com-chapa": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-vip?model=vip-com-chapa&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:46:53.559Z",
+      "productFile": "data/harvest/products/vibra-stop-vip-com-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-vip-com-chapa.json",
+      "checks": {
+        "variants": 4,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-vip-sem-chapa": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-vip?model=vip-sem-chapa&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:47:07.094Z",
+      "productFile": "data/harvest/products/vibra-stop-vip-sem-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-vip-sem-chapa.json",
+      "checks": {
+        "variants": 4,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-flex-sem-chapa": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-flex?model=flex-sem-chapa&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:47:29.851Z",
+      "productFile": "data/harvest/products/vibra-stop-flex-sem-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-flex-sem-chapa.json",
+      "checks": {
+        "variants": 12,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-flex-com-chapa": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-flex?model=flex-com-chapa&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:47:43.518Z",
+      "productFile": "data/harvest/products/vibra-stop-flex-com-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-flex-com-chapa.json",
+      "checks": {
+        "variants": 12,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-flex-com-2-chapas": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-flex?model=flex-com-2-chapas&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:47:57.220Z",
+      "productFile": "data/harvest/products/vibra-stop-flex-com-2-chapas.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-flex-com-2-chapas.json",
+      "checks": {
+        "variants": 12,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-flex-dupla": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-flex?model=flex-dupla&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:48:11.035Z",
+      "productFile": "data/harvest/products/vibra-stop-flex-dupla.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-flex-dupla.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-flex-plus-sem-chapa": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-flex-plus?model=flex-plus-sem-chapa&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:48:23.826Z",
+      "productFile": "data/harvest/products/vibra-stop-flex-plus-sem-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-flex-plus-sem-chapa.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-flex-plus-com-chapa": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-flex-plus?model=flex-plus-com-chapa&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:48:45.754Z",
+      "productFile": "data/harvest/products/vibra-stop-flex-plus-com-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-flex-plus-com-chapa.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-flex-plus-com-2-chapas": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-flex-plus?model=flex-plus-com-2-chapas&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:49:00.306Z",
+      "productFile": "data/harvest/products/vibra-stop-flex-plus-com-2-chapas.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-flex-plus-com-2-chapas.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-flex-plus-dupla": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-flex-plus?model=flex-plus-dupla&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:49:13.835Z",
+      "productFile": "data/harvest/products/vibra-stop-flex-plus-dupla.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-flex-plus-dupla.json",
+      "checks": {
+        "variants": 8,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-tracao": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao?model=tracao&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:49:26.431Z",
+      "productFile": "data/harvest/products/vibra-stop-tracao.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-tracao.json",
+      "checks": {
+        "variants": 6,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-tracao-plus": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao?model=tracao-plus&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:49:40.008Z",
+      "productFile": "data/harvest/products/vibra-stop-tracao-plus.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-tracao-plus.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-tracao-vip": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao?model=tracao-vip&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:50:00.515Z",
+      "productFile": "data/harvest/products/vibra-stop-tracao-vip.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-tracao-vip.json",
+      "checks": {
+        "variants": 4,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-hvac": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-hvac?model=hvac&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:50:13.424Z",
+      "productFile": "data/harvest/products/vibra-stop-hvac.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-hvac.json",
+      "checks": {
+        "variants": 1,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1,
+        "tabsVerified": 5,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "vibra-stop-pendural": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-pendural?model=pendural&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T10:52:44.309Z",
+      "productFile": "data/harvest/products/vibra-stop-pendural.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-pendural.json",
+      "checks": {
+        "variants": 1,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0,
+        "tabsVerified": 4,
+        "tabMissingImages": 0,
+        "tabMissingVideos": 0,
+        "pdfReconciled2026": true
+      }
+    },
+    "merkbak-atf": {
+      "sourceUrl": "https://merkbak.com.br/produto/alavanca-trava-femea/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:43:25.598Z",
+      "productFile": "data/harvest/products/merkbak-atf.json",
+      "manifestFile": "data/harvest/manifests/merkbak-atf.json",
+      "checks": {
+        "variants": 6,
+        "photos": 2
+      }
+    },
+    "merkbak-atm-alavanca-trava-macho": {
+      "sourceUrl": "https://merkbak.com.br/produto/alavanca-trava-macho/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:43:31.509Z",
+      "productFile": "data/harvest/products/merkbak-atm-alavanca-trava-macho.json",
+      "manifestFile": "data/harvest/manifests/merkbak-atm-alavanca-trava-macho.json",
+      "checks": {
+        "variants": 13,
+        "photos": 2
+      }
+    },
+    "merkbak-bpf-2126-1-4-botao-puxador-femea": {
+      "sourceUrl": "https://merkbak.com.br/produto/botao-puxador-femea/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:43:37.589Z",
+      "productFile": "data/harvest/products/merkbak-bpf-2126-1-4-botao-puxador-femea.json",
+      "manifestFile": "data/harvest/manifests/merkbak-bpf-2126-1-4-botao-puxador-femea.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "merkbak-br-bucha-rolete-com-encaixe-para-rolamentos": {
+      "sourceUrl": "https://merkbak.com.br/produto/bucha-rolete-com-encaixe-para-rolamentos/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:43:44.503Z",
+      "productFile": "data/harvest/products/merkbak-br-bucha-rolete-com-encaixe-para-rolamentos.json",
+      "manifestFile": "data/harvest/manifests/merkbak-br-bucha-rolete-com-encaixe-para-rolamentos.json",
+      "checks": {
+        "variants": 4,
+        "photos": 2
+      }
+    },
+    "merkbak-btm-2613-m6x14": {
+      "sourceUrl": "https://merkbak.com.br/produto/botao-trava/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:43:51.150Z",
+      "productFile": "data/harvest/products/merkbak-btm-2613-m6x14.json",
+      "manifestFile": "data/harvest/manifests/merkbak-btm-2613-m6x14.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "merkbak-can-cabo-alca-nylon": {
+      "sourceUrl": "https://merkbak.com.br/produto/cabo-alca-nylon-polipropileno/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:43:57.259Z",
+      "productFile": "data/harvest/products/merkbak-can-cabo-alca-nylon.json",
+      "manifestFile": "data/harvest/manifests/merkbak-can-cabo-alca-nylon.json",
+      "checks": {
+        "variants": 3,
+        "photos": 2
+      }
+    },
+    "merkbak-cap-cabo-alca-polipropileno": {
+      "sourceUrl": "https://merkbak.com.br/produto/cabo-alca-polipropileno/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:44:04.576Z",
+      "productFile": "data/harvest/products/merkbak-cap-cabo-alca-polipropileno.json",
+      "manifestFile": "data/harvest/manifests/merkbak-cap-cabo-alca-polipropileno.json",
+      "checks": {
+        "variants": 3,
+        "photos": 2
+      }
+    },
+    "merkbak-cap-p-104-cabo-alca-polipropileno-mod-p": {
+      "sourceUrl": "https://merkbak.com.br/produto/cabo-alca-polipropileno-mod-p/",
+      "status": "staged",
+      "updatedAt": "2026-10-20T12:44:11.312Z",
+      "productFile": "data/harvest/products/merkbak-cap-p-104-cabo-alca-polipropileno-mod-p.json",
+      "manifestFile": "data/harvest/manifests/merkbak-cap-p-104-cabo-alca-polipropileno-mod-p.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "merkbak-cep-cabo-estriado-plastico": {
+      "sourceUrl": "https://merkbak.com.br/produto/cabo-estriado-plastico/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:44:19.105Z",
+      "productFile": "data/harvest/products/merkbak-cep-cabo-estriado-plastico.json",
+      "manifestFile": "data/harvest/manifests/merkbak-cep-cabo-estriado-plastico.json",
+      "checks": {
+        "variants": 3,
+        "photos": 2
+      }
+    },
+    "merkbak-cga-cabo-giratorio-anatomico": {
+      "sourceUrl": "https://merkbak.com.br/produto/cabo-giratorio-anatomico-3096/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:44:25.412Z",
+      "productFile": "data/harvest/products/merkbak-cga-cabo-giratorio-anatomico.json",
+      "manifestFile": "data/harvest/manifests/merkbak-cga-cabo-giratorio-anatomico.json",
+      "checks": {
+        "variants": 2,
+        "photos": 2
+      }
+    },
+    "merkbak-cgc-cabo-giratorio-completo": {
+      "sourceUrl": "https://merkbak.com.br/produto/cabo-giratorio-completo/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:44:30.900Z",
+      "productFile": "data/harvest/products/merkbak-cgc-cabo-giratorio-completo.json",
+      "manifestFile": "data/harvest/manifests/merkbak-cgc-cabo-giratorio-completo.json",
+      "checks": {
+        "variants": 6,
+        "photos": 2
+      }
+    },
+    "merkbak-chf-5927-chave-de-fecho": {
+      "sourceUrl": "https://merkbak.com.br/produto/chf-5927-chave-de-fecho-merkbak/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:44:37.562Z",
+      "productFile": "data/harvest/products/merkbak-chf-5927-chave-de-fecho.json",
+      "manifestFile": "data/harvest/manifests/merkbak-chf-5927-chave-de-fecho.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "merkbak-crp-cabo-recartilhado-plastico": {
+      "sourceUrl": "https://merkbak.com.br/produto/cabo-recartilhado-plastico/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:44:43.430Z",
+      "productFile": "data/harvest/products/merkbak-crp-cabo-recartilhado-plastico.json",
+      "manifestFile": "data/harvest/manifests/merkbak-crp-cabo-recartilhado-plastico.json",
+      "checks": {
+        "variants": 5,
+        "photos": 2
+      }
+    },
+    "merkbak-dp-dobradica-plana-180": {
+      "sourceUrl": "https://merkbak.com.br/produto/dobradica-plana-180o/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:44:49.055Z",
+      "productFile": "data/harvest/products/merkbak-dp-dobradica-plana-180.json",
+      "manifestFile": "data/harvest/manifests/merkbak-dp-dobradica-plana-180.json",
+      "checks": {
+        "variants": 6,
+        "photos": 2
+      }
+    },
+    "merkbak-en-engrenagem-conica": {
+      "sourceUrl": "https://merkbak.com.br/produto/engrenagem-conica/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:44:57.112Z",
+      "productFile": "data/harvest/products/merkbak-en-engrenagem-conica.json",
+      "manifestFile": "data/harvest/manifests/merkbak-en-engrenagem-conica.json",
+      "checks": {
+        "variants": 5,
+        "photos": 3
+      }
+    },
+    "merkbak-kr-knob-retratil": {
+      "sourceUrl": "https://merkbak.com.br/produto/knob-retratil/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:45:07.249Z",
+      "productFile": "data/harvest/products/merkbak-kr-knob-retratil.json",
+      "manifestFile": "data/harvest/manifests/merkbak-kr-knob-retratil.json",
+      "checks": {
+        "variants": 4,
+        "photos": 2
+      }
+    },
+    "merkbak-v2r-s-alma-c-cabo-volante-dois-raios-sem-alma-de-ferro-com-cabo-giratorio": {
+      "sourceUrl": "https://merkbak.com.br/produto/volante-dois-raios-sem-alma-de-ferro-c-cabo-giratorio/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:45:23.730Z",
+      "productFile": "data/harvest/products/merkbak-v2r-s-alma-c-cabo-volante-dois-raios-sem-alma-de-ferro-com-cabo-giratorio.json",
+      "manifestFile": "data/harvest/manifests/merkbak-v2r-s-alma-c-cabo-volante-dois-raios-sem-alma-de-ferro-com-cabo-giratorio.json",
+      "checks": {
+        "variants": 6,
+        "photos": 2
+      }
+    },
+    "merkbak-v3r-volante-tres-raios": {
+      "sourceUrl": "https://merkbak.com.br/produto/volante-tres-raios/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:45:31.294Z",
+      "productFile": "data/harvest/products/merkbak-v3r-volante-tres-raios.json",
+      "manifestFile": "data/harvest/manifests/merkbak-v3r-volante-tres-raios.json",
+      "checks": {
+        "variants": 8,
+        "photos": 2
+      }
+    },
+    "merkbak-v3r-c-cabo-volante-tres-raios-com-cabo-giratorio": {
+      "sourceUrl": "https://merkbak.com.br/produto/volante-tres-raios-com-cabo-giratorio/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:45:37.994Z",
+      "productFile": "data/harvest/products/merkbak-v3r-c-cabo-volante-tres-raios-com-cabo-giratorio.json",
+      "manifestFile": "data/harvest/manifests/merkbak-v3r-c-cabo-volante-tres-raios-com-cabo-giratorio.json",
+      "checks": {
+        "variants": 8,
+        "photos": 2
+      }
+    },
+    "merkbak-vcb-150-volante-com-cabo-basculante": {
+      "sourceUrl": "https://merkbak.com.br/produto/volante-com-cabo-basculante/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:45:44.421Z",
+      "productFile": "data/harvest/products/merkbak-vcb-150-volante-com-cabo-basculante.json",
+      "manifestFile": "data/harvest/manifests/merkbak-vcb-150-volante-com-cabo-basculante.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "merkbak-vf-volante-fechado": {
+      "sourceUrl": "https://merkbak.com.br/produto/volante-fechado/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:45:52.311Z",
+      "productFile": "data/harvest/products/merkbak-vf-volante-fechado.json",
+      "manifestFile": "data/harvest/manifests/merkbak-vf-volante-fechado.json",
+      "checks": {
+        "variants": 4,
+        "photos": 2
+      }
+    },
+    "merkbak-caf-cabo-alca": {
+      "sourceUrl": "https://merkbak.com.br/produto/cabo-alca-baquelite/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:46:12.404Z",
+      "productFile": "data/harvest/products/merkbak-caf-cabo-alca.json",
+      "manifestFile": "data/harvest/manifests/merkbak-caf-cabo-alca.json",
+      "checks": {
+        "variants": 12,
+        "photos": 3
+      }
+    },
+    "merkbak-cb-26100-cabo-basculante": {
+      "sourceUrl": "https://merkbak.com.br/produto/cabo-basculante/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:46:19.014Z",
+      "productFile": "data/harvest/products/merkbak-cb-26100-cabo-basculante.json",
+      "manifestFile": "data/harvest/manifests/merkbak-cb-26100-cabo-basculante.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "merkbak-ce-cabo-estriado": {
+      "sourceUrl": "https://merkbak.com.br/produto/cabo-estriado/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:46:25.403Z",
+      "productFile": "data/harvest/products/merkbak-ce-cabo-estriado.json",
+      "manifestFile": "data/harvest/manifests/merkbak-ce-cabo-estriado.json",
+      "checks": {
+        "variants": 2,
+        "photos": 2
+      }
+    },
+    "merkbak-ces-cabo-estilizado": {
+      "sourceUrl": "https://merkbak.com.br/produto/cabo-estilizado/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:46:31.048Z",
+      "productFile": "data/harvest/products/merkbak-ces-cabo-estilizado.json",
+      "manifestFile": "data/harvest/manifests/merkbak-ces-cabo-estilizado.json",
+      "checks": {
+        "variants": 6,
+        "photos": 2
+      }
+    },
+    "merkbak-co-cabo-oval": {
+      "sourceUrl": "https://merkbak.com.br/produto/cabo-oval-de-baquelite/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:46:37.646Z",
+      "productFile": "data/harvest/products/merkbak-co-cabo-oval.json",
+      "manifestFile": "data/harvest/manifests/merkbak-co-cabo-oval.json",
+      "checks": {
+        "variants": 3,
+        "photos": 2
+      }
+    },
+    "merkbak-cpa-091-1-4-cabo-puxador-alca": {
+      "sourceUrl": "https://merkbak.com.br/produto/cabo-puxador-alca/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:46:43.098Z",
+      "productFile": "data/harvest/products/merkbak-cpa-091-1-4-cabo-puxador-alca.json",
+      "manifestFile": "data/harvest/manifests/merkbak-cpa-091-1-4-cabo-puxador-alca.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "merkbak-cr-cabo-recartilhado": {
+      "sourceUrl": "https://merkbak.com.br/produto/cabo-recartilhado/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:46:48.860Z",
+      "productFile": "data/harvest/products/merkbak-cr-cabo-recartilhado.json",
+      "manifestFile": "data/harvest/manifests/merkbak-cr-cabo-recartilhado.json",
+      "checks": {
+        "variants": 4,
+        "photos": 2
+      }
+    },
+    "merkbak-cst-cabo-standard": {
+      "sourceUrl": "https://merkbak.com.br/produto/cabo-standard/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:46:54.778Z",
+      "productFile": "data/harvest/products/merkbak-cst-cabo-standard.json",
+      "manifestFile": "data/harvest/manifests/merkbak-cst-cabo-standard.json",
+      "checks": {
+        "variants": 9,
+        "photos": 2
+      }
+    },
+    "merkbak-ep-esfera-baquelite": {
+      "sourceUrl": "https://merkbak.com.br/produto/esfera-baquelite/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:47:04.312Z",
+      "productFile": "data/harvest/products/merkbak-ep-esfera-baquelite.json",
+      "manifestFile": "data/harvest/manifests/merkbak-ep-esfera-baquelite.json",
+      "checks": {
+        "variants": 19,
+        "photos": 3
+      }
+    },
+    "merkbak-kf-knob-femea": {
+      "sourceUrl": "https://merkbak.com.br/produto/knob-femea/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:47:12.631Z",
+      "productFile": "data/harvest/products/merkbak-kf-knob-femea.json",
+      "manifestFile": "data/harvest/manifests/merkbak-kf-knob-femea.json",
+      "checks": {
+        "variants": 6,
+        "photos": 2
+      }
+    },
+    "merkbak-km-knob-macho": {
+      "sourceUrl": "https://merkbak.com.br/produto/knob-macho/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:47:19.191Z",
+      "productFile": "data/harvest/products/merkbak-km-knob-macho.json",
+      "manifestFile": "data/harvest/manifests/merkbak-km-knob-macho.json",
+      "checks": {
+        "variants": 9,
+        "photos": 2
+      }
+    },
+    "merkbak-mbf-macaneta-baquelite-femea": {
+      "sourceUrl": "https://merkbak.com.br/produto/macaneta/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:47:24.966Z",
+      "productFile": "data/harvest/products/merkbak-mbf-macaneta-baquelite-femea.json",
+      "manifestFile": "data/harvest/manifests/merkbak-mbf-macaneta-baquelite-femea.json",
+      "checks": {
+        "variants": 2,
+        "photos": 2
+      }
+    },
+    "merkbak-mbm-40167-16-45-macaneta-baquelite-macho": {
+      "sourceUrl": "https://merkbak.com.br/produto/macaneta-mae/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:47:30.270Z",
+      "productFile": "data/harvest/products/merkbak-mbm-40167-16-45-macaneta-baquelite-macho.json",
+      "manifestFile": "data/harvest/manifests/merkbak-mbm-40167-16-45-macaneta-baquelite-macho.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "merkbak-msf-manipulo-standard-femea": {
+      "sourceUrl": "https://merkbak.com.br/produto/manipulo-standard-femea/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:47:36.447Z",
+      "productFile": "data/harvest/products/merkbak-msf-manipulo-standard-femea.json",
+      "manifestFile": "data/harvest/manifests/merkbak-msf-manipulo-standard-femea.json",
+      "checks": {
+        "variants": 15,
+        "photos": 2
+      }
+    },
+    "merkbak-msm-manipulo-standard-macho": {
+      "sourceUrl": "https://merkbak.com.br/produto/manipulo-standard-macho/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:47:42.238Z",
+      "productFile": "data/harvest/products/merkbak-msm-manipulo-standard-macho.json",
+      "manifestFile": "data/harvest/manifests/merkbak-msm-manipulo-standard-macho.json",
+      "checks": {
+        "variants": 14,
+        "photos": 2
+      }
+    },
+    "merkbak-prf-3932-5-16-puxador-recartilhado-femea": {
+      "sourceUrl": "https://merkbak.com.br/produto/puxador-recartilhado-femea/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:47:48.304Z",
+      "productFile": "data/harvest/products/merkbak-prf-3932-5-16-puxador-recartilhado-femea.json",
+      "manifestFile": "data/harvest/manifests/merkbak-prf-3932-5-16-puxador-recartilhado-femea.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "merkbak-ktf-knob-termoplastico-femea": {
+      "sourceUrl": "https://merkbak.com.br/produto/knob-termoplastico-femea/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:48:40.546Z",
+      "productFile": "data/harvest/products/merkbak-ktf-knob-termoplastico-femea.json",
+      "manifestFile": "data/harvest/manifests/merkbak-ktf-knob-termoplastico-femea.json",
+      "checks": {
+        "variants": 8,
+        "photos": 2
+      }
+    },
+    "merkbak-ktm-knob-termoplastico-macho": {
+      "sourceUrl": "https://merkbak.com.br/produto/knob-termoplastico-macho/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:48:46.502Z",
+      "productFile": "data/harvest/products/merkbak-ktm-knob-termoplastico-macho.json",
+      "manifestFile": "data/harvest/manifests/merkbak-ktm-knob-termoplastico-macho.json",
+      "checks": {
+        "variants": 18,
+        "photos": 2
+      }
+    },
+    "merkbak-m3pf-manipulo-tres-pontas-femea": {
+      "sourceUrl": "https://merkbak.com.br/produto/manipulo-tres-pontas-femea/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:49:03.510Z",
+      "productFile": "data/harvest/products/merkbak-m3pf-manipulo-tres-pontas-femea.json",
+      "manifestFile": "data/harvest/manifests/merkbak-m3pf-manipulo-tres-pontas-femea.json",
+      "checks": {
+        "variants": 7,
+        "photos": 2
+      }
+    },
+    "merkbak-mtf-manipulo-termoplastico-femea": {
+      "sourceUrl": "https://merkbak.com.br/produto/manipulo-termoplastico-femea/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:49:11.137Z",
+      "productFile": "data/harvest/products/merkbak-mtf-manipulo-termoplastico-femea.json",
+      "manifestFile": "data/harvest/manifests/merkbak-mtf-manipulo-termoplastico-femea.json",
+      "checks": {
+        "variants": 18,
+        "photos": 2
+      }
+    },
+    "merkbak-mtm-manipulo-termoplastico-macho": {
+      "sourceUrl": "https://merkbak.com.br/produto/manipulo-termoplastico-macho/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:49:16.598Z",
+      "productFile": "data/harvest/products/merkbak-mtm-manipulo-termoplastico-macho.json",
+      "manifestFile": "data/harvest/manifests/merkbak-mtm-manipulo-termoplastico-macho.json",
+      "checks": {
+        "variants": 22,
+        "photos": 2
+      }
+    },
+    "merkbak-mcg-manivela-com-cabo-giratorio": {
+      "sourceUrl": "https://merkbak.com.br/produto/manivela-com-cabo-giratorio/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:49:29.708Z",
+      "productFile": "data/harvest/products/merkbak-mcg-manivela-com-cabo-giratorio.json",
+      "manifestFile": "data/harvest/manifests/merkbak-mcg-manivela-com-cabo-giratorio.json",
+      "checks": {
+        "variants": 3,
+        "photos": 2
+      }
+    },
+    "merkbak-pna-pe-nivelador-articulado": {
+      "sourceUrl": "https://merkbak.com.br/produto/pe-nivelador-articulado/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:49:46.119Z",
+      "productFile": "data/harvest/products/merkbak-pna-pe-nivelador-articulado.json",
+      "manifestFile": "data/harvest/manifests/merkbak-pna-pe-nivelador-articulado.json",
+      "checks": {
+        "variants": 13,
+        "photos": 2
+      }
+    },
+    "merkbak-pnm-pe-nivelador-macho": {
+      "sourceUrl": "https://merkbak.com.br/produto/pe-nivelador/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:49:53.442Z",
+      "productFile": "data/harvest/products/merkbak-pnm-pe-nivelador-macho.json",
+      "manifestFile": "data/harvest/manifests/merkbak-pnm-pe-nivelador-macho.json",
+      "checks": {
+        "variants": 5,
+        "photos": 2
+      }
+    },
+    "merkbak-pnz-pe-nivelador-zincado": {
+      "sourceUrl": "https://merkbak.com.br/produto/pe-nivelador-2/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:50:07.845Z",
+      "productFile": "data/harvest/products/merkbak-pnz-pe-nivelador-zincado.json",
+      "manifestFile": "data/harvest/manifests/merkbak-pnz-pe-nivelador-zincado.json",
+      "checks": {
+        "variants": 2,
+        "photos": 2
+      }
+    },
+    "merkbak-pbt-puxador-bola-termoplastico": {
+      "sourceUrl": "https://merkbak.com.br/produto/puxador-bola/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:50:26.577Z",
+      "productFile": "data/harvest/products/merkbak-pbt-puxador-bola-termoplastico.json",
+      "manifestFile": "data/harvest/manifests/merkbak-pbt-puxador-bola-termoplastico.json",
+      "checks": {
+        "variants": 3,
+        "photos": 2
+      }
+    },
+    "merkbak-vos-visor-de-oleo-sextavado": {
+      "sourceUrl": "https://merkbak.com.br/produto/visor-de-oleo-sextavado/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:50:37.135Z",
+      "productFile": "data/harvest/products/merkbak-vos-visor-de-oleo-sextavado.json",
+      "manifestFile": "data/harvest/manifests/merkbak-vos-visor-de-oleo-sextavado.json",
+      "checks": {
+        "variants": 4,
+        "photos": 2
+      }
+    },
+    "merkbak-vot-visor-de-oleo-standard": {
+      "sourceUrl": "https://merkbak.com.br/produto/visor-de-oleo-standard/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:50:43.598Z",
+      "productFile": "data/harvest/products/merkbak-vot-visor-de-oleo-standard.json",
+      "manifestFile": "data/harvest/manifests/merkbak-vot-visor-de-oleo-standard.json",
+      "checks": {
+        "variants": 4,
+        "photos": 2
+      }
+    },
+    "kifix-indexadores": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/indexadores/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:52:41.605Z",
+      "productFile": "data/harvest/products/kifix-indexadores.json",
+      "manifestFile": "data/harvest/manifests/kifix-indexadores.json",
+      "checks": {
+        "variants": 4,
+        "photos": 5
+      }
+    },
+    "kifix-kf-718-db-rtt": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kf-718-db-rtt/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:54:24.562Z",
+      "productFile": "data/harvest/products/kifix-kf-718-db-rtt.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-718-db-rtt.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "kifix-kf-111-tbl": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kf-111-tbl/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:54:27.275Z",
+      "productFile": "data/harvest/products/kifix-kf-111-tbl.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-111-tbl.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "kifix-kfu-r-ag": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kfu-r-ag/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:54:30.901Z",
+      "productFile": "data/harvest/products/kifix-kfu-r-ag.json",
+      "manifestFile": "data/harvest/manifests/kifix-kfu-r-ag.json",
+      "checks": {
+        "variants": 1,
+        "photos": 3
+      }
+    },
+    "kifix-kf-05-jd-h182": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kf-05-jd-h182/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:54:33.798Z",
+      "productFile": "data/harvest/products/kifix-kf-05-jd-h182.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-05-jd-h182.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "kifix-kf-102-r-cl": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kf-102-r-cl/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:54:36.872Z",
+      "productFile": "data/harvest/products/kifix-kf-102-r-cl.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-102-r-cl.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "kifix-kf-233-d-gr": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kf-233-d-gr/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:54:39.867Z",
+      "productFile": "data/harvest/products/kifix-kf-233-d-gr.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-233-d-gr.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "kifix-kf-430": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-430/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:00:00.752Z",
+      "productFile": "data/harvest/products/kifix-kf-430.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-430.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "kifix-kf-947": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kf-947/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:54:46.156Z",
+      "productFile": "data/harvest/products/kifix-kf-947.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-947.json",
+      "checks": {
+        "variants": 1,
+        "photos": 3
+      }
+    },
+    "kifix-kftb": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kftb/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:54:52.818Z",
+      "productFile": "data/harvest/products/kifix-kftb.json",
+      "manifestFile": "data/harvest/manifests/kifix-kftb.json",
+      "checks": {
+        "variants": 3,
+        "photos": 7
+      }
+    },
+    "kifix-kfc": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kfc/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:55:01.341Z",
+      "productFile": "data/harvest/products/kifix-kfc.json",
+      "manifestFile": "data/harvest/manifests/kifix-kfc.json",
+      "checks": {
+        "variants": 5,
+        "photos": 9
+      }
+    },
+    "kifix-kf-300": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-300/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:59:47.701Z",
+      "productFile": "data/harvest/products/kifix-kf-300.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-300.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "kifix-kf-505-tr": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kf-505-tr/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:55:06.797Z",
+      "productFile": "data/harvest/products/kifix-kf-505-tr.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-505-tr.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "kifix-grampo-torpedo-frontal": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/grampo-torpedo-frontal/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:55:10.410Z",
+      "productFile": "data/harvest/products/kifix-grampo-torpedo-frontal.json",
+      "manifestFile": "data/harvest/manifests/kifix-grampo-torpedo-frontal.json",
+      "checks": {
+        "variants": 2,
+        "photos": 3
+      }
+    },
+    "kifix-posicionador-indexador": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/posicionador-indexador/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:55:15.009Z",
+      "productFile": "data/harvest/products/kifix-posicionador-indexador.json",
+      "manifestFile": "data/harvest/manifests/kifix-posicionador-indexador.json",
+      "checks": {
+        "variants": 3,
+        "photos": 4
+      }
+    },
+    "kifix-manipulos": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/manpulos/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:55:18.713Z",
+      "productFile": "data/harvest/products/kifix-manipulos.json",
+      "manifestFile": "data/harvest/manifests/kifix-manipulos.json",
+      "checks": {
+        "variants": 5,
+        "photos": 3
+      }
+    },
+    "kifix-morsa-de-aperto-rapido": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/morsa-de-aperto-rapido/morsa-de-aperto-rapido/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:03:04.116Z",
+      "productFile": "data/harvest/products/kifix-morsa-de-aperto-rapido.json",
+      "manifestFile": "data/harvest/manifests/kifix-morsa-de-aperto-rapido.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "kifix-grampo-pneumatico": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/grampo-pneumatico/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:55:24.252Z",
+      "productFile": "data/harvest/products/kifix-grampo-pneumatico.json",
+      "manifestFile": "data/harvest/manifests/kifix-grampo-pneumatico.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "kifix-grampo-pneumatico-pesado": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/grampo-pneumatico-pesado/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:55:27.334Z",
+      "productFile": "data/harvest/products/kifix-grampo-pneumatico-pesado.json",
+      "manifestFile": "data/harvest/manifests/kifix-grampo-pneumatico-pesado.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "kifix-base-fuso": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-fuso/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:55:31.318Z",
+      "productFile": "data/harvest/products/kifix-base-fuso.json",
+      "manifestFile": "data/harvest/manifests/kifix-base-fuso.json",
+      "checks": {
+        "variants": 3,
+        "photos": 2
+      }
+    },
+    "kifix-base-vertical": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-vertical/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:55:34.053Z",
+      "productFile": "data/harvest/products/kifix-base-vertical.json",
+      "manifestFile": "data/harvest/manifests/kifix-base-vertical.json",
+      "checks": {
+        "variants": 6,
+        "photos": 2
+      }
+    },
+    "kifix-base-horizontal": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-horizontal/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:55:38.671Z",
+      "productFile": "data/harvest/products/kifix-base-horizontal.json",
+      "manifestFile": "data/harvest/manifests/kifix-base-horizontal.json",
+      "checks": {
+        "variants": 21,
+        "photos": 4
+      }
+    },
+    "kifix-alicates": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/alicates/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:55:42.451Z",
+      "productFile": "data/harvest/products/kifix-alicates.json",
+      "manifestFile": "data/harvest/manifests/kifix-alicates.json",
+      "checks": {
+        "variants": 6,
+        "photos": 3
+      }
+    },
+    "kifix-grampo-tipo-c": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-c-e-sargentos/grampo-tipo-c/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:55:45.923Z",
+      "productFile": "data/harvest/products/kifix-grampo-tipo-c.json",
+      "manifestFile": "data/harvest/manifests/kifix-grampo-tipo-c.json",
+      "checks": {
+        "variants": 7,
+        "photos": 2
+      }
+    },
+    "kifix-grampo-sargento-rapido": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-c-e-sargentos/grampo-sargento-rapido/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:55:48.851Z",
+      "productFile": "data/harvest/products/kifix-grampo-sargento-rapido.json",
+      "manifestFile": "data/harvest/manifests/kifix-grampo-sargento-rapido.json",
+      "checks": {
+        "variants": 11,
+        "photos": 2
+      }
+    },
+    "kifix-grampo-sargento": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-c-e-sargentos/grampo-sargento/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:55:51.653Z",
+      "productFile": "data/harvest/products/kifix-grampo-sargento.json",
+      "manifestFile": "data/harvest/manifests/kifix-grampo-sargento.json",
+      "checks": {
+        "variants": 18,
+        "photos": 2
+      }
+    },
+    "kifix-kf-010-012-017-018-016-011-111": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-010-012-017-018-016-011-111/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:56:32.549Z",
+      "productFile": "data/harvest/products/kifix-kf-010-012-017-018-016-011-111.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-010-012-017-018-016-011-111.json",
+      "checks": {
+        "variants": 43,
+        "photos": 45
+      }
+    },
+    "kifix-kf-017-t": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-017-t/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:56:39.688Z",
+      "productFile": "data/harvest/products/kifix-kf-017-t.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-017-t.json",
+      "checks": {
+        "variants": 6,
+        "photos": 7
+      }
+    },
+    "kifix-kf-017-011-111-ds-a": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-017-011-111-ds-a/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:56:45.800Z",
+      "productFile": "data/harvest/products/kifix-kf-017-011-111-ds-a.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-017-011-111-ds-a.json",
+      "checks": {
+        "variants": 4,
+        "photos": 6
+      }
+    },
+    "kifix-kf-010f-012f-019-211-311-411": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-010f-012f-019-211-311-411/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:57:03.106Z",
+      "productFile": "data/harvest/products/kifix-kf-010f-012f-019-211-311-411.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-010f-012f-019-211-311-411.json",
+      "checks": {
+        "variants": 18,
+        "photos": 19
+      }
+    },
+    "kifix-kf-211-311-411-ds-a": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-211-311-411-ds-a/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:57:07.461Z",
+      "productFile": "data/harvest/products/kifix-kf-211-311-411-ds-a.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-211-311-411-ds-a.json",
+      "checks": {
+        "variants": 3,
+        "photos": 4
+      }
+    },
+    "kifix-kf-066-615-616-641-845-875": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-066-615-616-641-845-875/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:57:21.907Z",
+      "productFile": "data/harvest/products/kifix-kf-066-615-616-641-845-875.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-066-615-616-641-845-875.json",
+      "checks": {
+        "variants": 14,
+        "photos": 17
+      }
+    },
+    "kifix-kf-631": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-631/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:57:38.162Z",
+      "productFile": "data/harvest/products/kifix-kf-631.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-631.json",
+      "checks": {
+        "variants": 16,
+        "photos": 17
+      }
+    },
+    "kifix-kf-718": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-718/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:57:43.449Z",
+      "productFile": "data/harvest/products/kifix-kf-718.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-718.json",
+      "checks": {
+        "variants": 3,
+        "photos": 5
+      }
+    },
+    "kifix-kf-725-825": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-725-825/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:57:49.289Z",
+      "productFile": "data/harvest/products/kifix-kf-725-825.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-725-825.json",
+      "checks": {
+        "variants": 4,
+        "photos": 6
+      }
+    },
+    "kifix-kfu-03-05-06-08": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kfu-03-05-06-08/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:58:01.769Z",
+      "productFile": "data/harvest/products/kifix-kfu-03-05-06-08.json",
+      "manifestFile": "data/harvest/manifests/kifix-kfu-03-05-06-08.json",
+      "checks": {
+        "variants": 13,
+        "photos": 14
+      }
+    },
+    "kifix-kf-01-02-03-05-06-09-mp": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-01-02-03-05-06-09-mp/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:58:05.605Z",
+      "productFile": "data/harvest/products/kifix-kf-01-02-03-05-06-09-mp.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-01-02-03-05-06-09-mp.json",
+      "checks": {
+        "variants": 6,
+        "photos": 3
+      }
+    },
+    "kifix-kf-03-05-jd": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-03-05-jd/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:58:11.071Z",
+      "productFile": "data/harvest/products/kifix-kf-03-05-jd.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-03-05-jd.json",
+      "checks": {
+        "variants": 3,
+        "photos": 5
+      }
+    },
+    "kifix-kf-105-106-107-152-732": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-horizontal/kf-105-106-107-152-732/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:58:23.323Z",
+      "productFile": "data/harvest/products/kifix-kf-105-106-107-152-732.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-105-106-107-152-732.json",
+      "checks": {
+        "variants": 10,
+        "photos": 11
+      }
+    },
+    "kifix-kf-511-512-521-522-532-534": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-horizontal/kf-511-512-521-522-532-534/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:58:38.249Z",
+      "productFile": "data/harvest/products/kifix-kf-511-512-521-522-532-534.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-511-512-521-522-532-534.json",
+      "checks": {
+        "variants": 18,
+        "photos": 16
+      }
+    },
+    "kifix-kf-106f-107f-152f-312f-522f-531f": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-horizontal/kf-106f-107f-152f-312f-522f-53/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:58:52.633Z",
+      "productFile": "data/harvest/products/kifix-kf-106f-107f-152f-312f-522f-531f.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-106f-107f-152f-312f-522f-531f.json",
+      "checks": {
+        "variants": 15,
+        "photos": 15
+      }
+    },
+    "kifix-kf-531-541": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-horizontal/kf-531-541/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:59:15.799Z",
+      "productFile": "data/harvest/products/kifix-kf-531-541.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-531-541.json",
+      "checks": {
+        "variants": 20,
+        "photos": 22
+      }
+    },
+    "kifix-kf-312-712-523-722-533": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-horizontal/kf-312-712-523-722-533/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:59:20.593Z",
+      "productFile": "data/harvest/products/kifix-kf-312-712-523-722-533.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-312-712-523-722-533.json",
+      "checks": {
+        "variants": 10,
+        "photos": 4
+      }
+    },
+    "kifix-kf-102-101-103-104": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-horizontal/kf-102-101-103-104/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:59:34.959Z",
+      "productFile": "data/harvest/products/kifix-kf-102-101-103-104.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-102-101-103-104.json",
+      "checks": {
+        "variants": 12,
+        "photos": 14
+      }
+    },
+    "kifix-kf-515-ds-rs": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-horizontal/kf-515-ds-rs/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:59:39.101Z",
+      "productFile": "data/harvest/products/kifix-kf-515-ds-rs.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-515-ds-rs.json",
+      "checks": {
+        "variants": 3,
+        "photos": 4
+      }
+    },
+    "kifix-grampos-horizontais-reforcados": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampos-horizontais-reforcados/grampos-horizontais-reforcados/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:59:45.595Z",
+      "productFile": "data/harvest/products/kifix-grampos-horizontais-reforcados.json",
+      "manifestFile": "data/harvest/manifests/kifix-grampos-horizontais-reforcados.json",
+      "checks": {
+        "variants": 4,
+        "photos": 5
+      }
+    },
+    "kifix-kft-10-kft-14": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kft-10-kft-14/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:59:52.822Z",
+      "productFile": "data/harvest/products/kifix-kft-10-kft-14.json",
+      "manifestFile": "data/harvest/manifests/kifix-kft-10-kft-14.json",
+      "checks": {
+        "variants": 2,
+        "photos": 5
+      }
+    },
+    "kifix-kftb-01-02-03-06": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kftb-01-02-03-06/",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:59:59.692Z",
+      "productFile": "data/harvest/products/kifix-kftb-01-02-03-06.json",
+      "manifestFile": "data/harvest/manifests/kifix-kftb-01-02-03-06.json",
+      "checks": {
+        "variants": 3,
+        "photos": 7
+      }
+    },
+    "kifix-kf-133-233-143-643-743-133-843-943-143": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-133-233-143-643-743-133-843/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:00:20.709Z",
+      "productFile": "data/harvest/products/kifix-kf-133-233-143-643-743-133-843-943-143.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-133-233-143-643-743-133-843-943-143.json",
+      "checks": {
+        "variants": 33,
+        "photos": 23
+      }
+    },
+    "kifix-kf-033-353-153-453-553": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-033-353-153-453-553/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:00:27.710Z",
+      "productFile": "data/harvest/products/kifix-kf-033-353-153-453-553.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-033-353-153-453-553.json",
+      "checks": {
+        "variants": 15,
+        "photos": 7
+      }
+    },
+    "kifix-kf-063-163-263": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-063-163-263/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:00:31.847Z",
+      "productFile": "data/harvest/products/kifix-kf-063-163-263.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-063-163-263.json",
+      "checks": {
+        "variants": 5,
+        "photos": 4
+      }
+    },
+    "kifix-kf-423-433-443": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-423-433-443/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:00:36.560Z",
+      "productFile": "data/harvest/products/kifix-kf-423-433-443.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-423-433-443.json",
+      "checks": {
+        "variants": 4,
+        "photos": 5
+      }
+    },
+    "kifix-kf-375-385": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-375-385/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:00:42.752Z",
+      "productFile": "data/harvest/products/kifix-kf-375-385.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-375-385.json",
+      "checks": {
+        "variants": 4,
+        "photos": 6
+      }
+    },
+    "kifix-kf-330-350-340": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-330-350-340/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:00:49.823Z",
+      "productFile": "data/harvest/products/kifix-kf-330-350-340.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-330-350-340.json",
+      "checks": {
+        "variants": 4,
+        "photos": 7
+      }
+    },
+    "kifix-kf-310-314-326-320": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-310-314-326-320/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:00:55.867Z",
+      "productFile": "data/harvest/products/kifix-kf-310-314-326-320.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-310-314-326-320.json",
+      "checks": {
+        "variants": 7,
+        "photos": 6
+      }
+    },
+    "kifix-kf-473": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-473/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:00:58.250Z",
+      "productFile": "data/harvest/products/kifix-kf-473.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-473.json",
+      "checks": {
+        "variants": 2,
+        "photos": 2
+      }
+    },
+    "kifix-kfc1-kfc2-kfc3-kfc4-kfc5-kfc6-kfc7": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kfc1-kfc2-kfc3-kfc4-kfc5-kfc6/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:01:12.618Z",
+      "productFile": "data/harvest/products/kifix-kfc1-kfc2-kfc3-kfc4-kfc5-kfc6-kfc7.json",
+      "manifestFile": "data/harvest/manifests/kifix-kfc1-kfc2-kfc3-kfc4-kfc5-kfc6-kfc7.json",
+      "checks": {
+        "variants": 7,
+        "photos": 15
+      }
+    },
+    "kifix-kf-233-ct-743-ct-843-ct": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor-com-cinta/kf-233-ct-743-ct-843-ct/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:01:23.461Z",
+      "productFile": "data/harvest/products/kifix-kf-233-ct-743-ct-843-ct.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-233-ct-743-ct-843-ct.json",
+      "checks": {
+        "variants": 7,
+        "photos": 11
+      }
+    },
+    "kifix-grampo-tensor-com-fixacao-dupla": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor-com-fixacao-dupl/grampo-tensor-com-fixao-dupla/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:01:34.242Z",
+      "productFile": "data/harvest/products/kifix-grampo-tensor-com-fixacao-dupla.json",
+      "manifestFile": "data/harvest/manifests/kifix-grampo-tensor-com-fixacao-dupla.json",
+      "checks": {
+        "variants": 4,
+        "photos": 9
+      }
+    },
+    "kifix-kf-305-405-505-605-067": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo/kf-305-405-505-605-067/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:01:42.061Z",
+      "productFile": "data/harvest/products/kifix-kf-305-405-505-605-067.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-305-405-505-605-067.json",
+      "checks": {
+        "variants": 7,
+        "photos": 7
+      }
+    },
+    "kifix-kf-057-051-054-053-052-056": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo/kf-057-051-054-053-052-056/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:01:56.432Z",
+      "productFile": "data/harvest/products/kifix-kf-057-051-054-053-052-056.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-057-051-054-053-052-056.json",
+      "checks": {
+        "variants": 14,
+        "photos": 16
+      }
+    },
+    "kifix-kf-061-kf-065": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo/kf-061-kf-065/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:01:59.994Z",
+      "productFile": "data/harvest/products/kifix-kf-061-kf-065.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-061-kf-065.json",
+      "checks": {
+        "variants": 2,
+        "photos": 3
+      }
+    },
+    "kifix-kf-052-al-054-al-057-al": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo-com-alca/kf-052-al-054-al-057-al/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:02:08.696Z",
+      "productFile": "data/harvest/products/kifix-kf-052-al-054-al-057-al.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-052-al-054-al-057-al.json",
+      "checks": {
+        "variants": 6,
+        "photos": 8
+      }
+    },
+    "kifix-kf-007-g": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo-com-giro/kf-007-g/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:02:13.222Z",
+      "productFile": "data/harvest/products/kifix-kf-007-g.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-007-g.json",
+      "checks": {
+        "variants": 2,
+        "photos": 3
+      }
+    },
+    "kifix-kf-005-006-007-015-025-035": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo-frontal/kf-005-006-007-015-025-035/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:02:27.970Z",
+      "productFile": "data/harvest/products/kifix-kf-005-006-007-015-025-035.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-005-006-007-015-025-035.json",
+      "checks": {
+        "variants": 17,
+        "photos": 16
+      }
+    },
+    "kifix-acessorios-bases-l-para-torpedos": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo-frontal/acessorios-bases-l-para-torped/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:02:32.440Z",
+      "productFile": "data/harvest/products/kifix-acessorios-bases-l-para-torpedos.json",
+      "manifestFile": "data/harvest/manifests/kifix-acessorios-bases-l-para-torpedos.json",
+      "checks": {
+        "variants": 3,
+        "photos": 4
+      }
+    },
+    "kifix-kfkt-012": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo-haste-quadrada/kfkt-012/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:02:37.763Z",
+      "productFile": "data/harvest/products/kifix-kfkt-012.json",
+      "manifestFile": "data/harvest/manifests/kifix-kfkt-012.json",
+      "checks": {
+        "variants": 2,
+        "photos": 4
+      }
+    },
+    "kifix-kf-686-d-686-h-687-d": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-de-fixacao-dupla/kf-686-d-686-h-687-d/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:02:44.547Z",
+      "productFile": "data/harvest/products/kifix-kf-686-d-686-h-687-d.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-686-d-686-h-687-d.json",
+      "checks": {
+        "variants": 3,
+        "photos": 5
+      }
+    },
+    "kifix-kfs-150-300": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-sargento/kfs-150-300/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:02:49.299Z",
+      "productFile": "data/harvest/products/kifix-kfs-150-300.json",
+      "manifestFile": "data/harvest/manifests/kifix-kfs-150-300.json",
+      "checks": {
+        "variants": 2,
+        "photos": 3
+      }
+    },
+    "kifix-kfrl-12-16-20-kfrf-12-16-20": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/fuso-rpido/kfrl-121620-kfrf-121620/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:02:55.126Z",
+      "productFile": "data/harvest/products/kifix-kfrl-12-16-20-kfrf-12-16-20.json",
+      "manifestFile": "data/harvest/manifests/kifix-kfrl-12-16-20-kfrf-12-16-20.json",
+      "checks": {
+        "variants": 6,
+        "photos": 4
+      }
+    },
+    "kifix-kfm-6-8-10-12-16": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/manipulos/kfm-6-8-10-12-16/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:03:01.857Z",
+      "productFile": "data/harvest/products/kifix-kfm-6-8-10-12-16.json",
+      "manifestFile": "data/harvest/manifests/kifix-kfm-6-8-10-12-16.json",
+      "checks": {
+        "variants": 5,
+        "photos": 5
+      }
+    },
+    "kifix-kfpi": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/posicionadores-indexadores/kfpi/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:03:11.164Z",
+      "productFile": "data/harvest/products/kifix-kfpi.json",
+      "manifestFile": "data/harvest/manifests/kifix-kfpi.json",
+      "checks": {
+        "variants": 4,
+        "photos": 5
+      }
+    },
+    "kifix-kfps": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/posicionadores-indexadores/kfps/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:03:14.038Z",
+      "productFile": "data/harvest/products/kifix-kfps.json",
+      "manifestFile": "data/harvest/manifests/kifix-kfps.json",
+      "checks": {
+        "variants": 2,
+        "photos": 2
+      }
+    },
+    "kifix-kfpsi": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/posicionadores-indexadores/kfpsi/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:03:16.615Z",
+      "productFile": "data/harvest/products/kifix-kfpsi.json",
+      "manifestFile": "data/harvest/manifests/kifix-kfpsi.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "kifix-kfa-25-35-45-70-90-100-150": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/alicates/kfa-25-35-45-70-90-100-150/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:03:26.577Z",
+      "productFile": "data/harvest/products/kifix-kfa-25-35-45-70-90-100-150.json",
+      "manifestFile": "data/harvest/manifests/kifix-kfa-25-35-45-70-90-100-150.json",
+      "checks": {
+        "variants": 13,
+        "photos": 9
+      }
+    },
+    "kifix-kf-325": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/alicates/kf-325/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:03:29.616Z",
+      "productFile": "data/harvest/products/kifix-kf-325.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-325.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "kifix-kfa-300": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/alicates/kfa-300/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:03:32.437Z",
+      "productFile": "data/harvest/products/kifix-kfa-300.json",
+      "manifestFile": "data/harvest/manifests/kifix-kfa-300.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "kifix-kf-035-34-035-60": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-compressor/kf-035-34-035-60/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:03:38.865Z",
+      "productFile": "data/harvest/products/kifix-kf-035-34-035-60.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-035-34-035-60.json",
+      "checks": {
+        "variants": 4,
+        "photos": 5
+      }
+    },
+    "kifix-kf-010-kf-011-012-017-111-p-consultar-marcas-de-cilindro-disponiveis": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-pneumatico/kf-010-kf-011-012-017-111-p-co/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:03:47.649Z",
+      "productFile": "data/harvest/products/kifix-kf-010-kf-011-012-017-111-p-consultar-marcas-de-cilindro-disponiveis.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-010-kf-011-012-017-111-p-consultar-marcas-de-cilindro-disponiveis.json",
+      "checks": {
+        "variants": 11,
+        "photos": 8
+      }
+    },
+    "kifix-kf-019-311-411-p-consultar-marcas-de-cilindro-disponiveis": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-pneumatico/kf-019-311-411-p-consultar-mar/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:03:52.013Z",
+      "productFile": "data/harvest/products/kifix-kf-019-311-411-p-consultar-marcas-de-cilindro-disponiveis.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-019-311-411-p-consultar-marcas-de-cilindro-disponiveis.json",
+      "checks": {
+        "variants": 6,
+        "photos": 4
+      }
+    },
+    "kifix-kf-052-057-p-consultar-marcas-de-cilindro-disponiveis": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-pneumatico/kf-052-057-p-consultar-marcas/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:03:55.615Z",
+      "productFile": "data/harvest/products/kifix-kf-052-057-p-consultar-marcas-de-cilindro-disponiveis.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-052-057-p-consultar-marcas-de-cilindro-disponiveis.json",
+      "checks": {
+        "variants": 2,
+        "photos": 3
+      }
+    },
+    "kifix-kf-718-p-consultar-marcas-de-cilindro-disponiveis": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-pneumatico/kf-718-p-consultar-marcas-de-c/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:03:59.212Z",
+      "productFile": "data/harvest/products/kifix-kf-718-p-consultar-marcas-de-cilindro-disponiveis.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-718-p-consultar-marcas-de-cilindro-disponiveis.json",
+      "checks": {
+        "variants": 2,
+        "photos": 3
+      }
+    },
+    "kifix-kf-066-p-consultar-marcas-de-cilindro-disponiveis": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-pneumatico/kf-066-p-consultar-marcas-de-c/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:04:02.117Z",
+      "productFile": "data/harvest/products/kifix-kf-066-p-consultar-marcas-de-cilindro-disponiveis.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-066-p-consultar-marcas-de-cilindro-disponiveis.json",
+      "checks": {
+        "variants": 1,
+        "photos": 2
+      }
+    },
+    "kifix-kfp-l40-l63": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/grampo-pneumatico/kfp-l40-l63/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:04:06.557Z",
+      "productFile": "data/harvest/products/kifix-kfp-l40-l63.json",
+      "manifestFile": "data/harvest/manifests/kifix-kfp-l40-l63.json",
+      "checks": {
+        "variants": 3,
+        "photos": 4
+      }
+    },
+    "kifix-kf-al": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/alca/kf-al/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:04:11.698Z",
+      "productFile": "data/harvest/products/kifix-kf-al.json",
+      "manifestFile": "data/harvest/manifests/kifix-kf-al.json",
+      "checks": {
+        "variants": 1,
+        "photos": 4
+      }
+    },
+    "kifix-puxador": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/puxador/puxador/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:04:16.360Z",
+      "productFile": "data/harvest/products/kifix-puxador.json",
+      "manifestFile": "data/harvest/manifests/kifix-puxador.json",
+      "checks": {
+        "variants": 3,
+        "photos": 3
+      }
+    },
+    "kifix-ponteira-sextavada": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-sextavada/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:04:22.097Z",
+      "productFile": "data/harvest/products/kifix-ponteira-sextavada.json",
+      "manifestFile": "data/harvest/manifests/kifix-ponteira-sextavada.json",
+      "checks": {
+        "variants": 12,
+        "photos": 4
+      }
+    },
+    "kifix-ponteira-borracha": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-borracha/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:04:26.870Z",
+      "productFile": "data/harvest/products/kifix-ponteira-borracha.json",
+      "manifestFile": "data/harvest/manifests/kifix-ponteira-borracha.json",
+      "checks": {
+        "variants": 10,
+        "photos": 4
+      }
+    },
+    "kifix-ponteira-borracha-conica-porca": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-borracha-conica-porca/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:04:29.356Z",
+      "productFile": "data/harvest/products/kifix-ponteira-borracha-conica-porca.json",
+      "manifestFile": "data/harvest/manifests/kifix-ponteira-borracha-conica-porca.json",
+      "checks": {
+        "variants": 8,
+        "photos": 2
+      }
+    },
+    "kifix-ponteira-borracha-conica-anilha": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-borracha-cnica-anilha/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:04:32.801Z",
+      "productFile": "data/harvest/products/kifix-ponteira-borracha-conica-anilha.json",
+      "manifestFile": "data/harvest/manifests/kifix-ponteira-borracha-conica-anilha.json",
+      "checks": {
+        "variants": 6,
+        "photos": 3
+      }
+    },
+    "kifix-ponteira-articulada": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-articulada/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:04:37.584Z",
+      "productFile": "data/harvest/products/kifix-ponteira-articulada.json",
+      "manifestFile": "data/harvest/manifests/kifix-ponteira-articulada.json",
+      "checks": {
+        "variants": 12,
+        "photos": 4
+      }
+    },
+    "kifix-ponteira-cantoneira": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-cantoneira/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:04:40.734Z",
+      "productFile": "data/harvest/products/kifix-ponteira-cantoneira.json",
+      "manifestFile": "data/harvest/manifests/kifix-ponteira-cantoneira.json",
+      "checks": {
+        "variants": 3,
+        "photos": 2
+      }
+    },
+    "kifix-ponteira-feltro": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-feltro/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:04:43.862Z",
+      "productFile": "data/harvest/products/kifix-ponteira-feltro.json",
+      "manifestFile": "data/harvest/manifests/kifix-ponteira-feltro.json",
+      "checks": {
+        "variants": 6,
+        "photos": 2
+      }
+    },
+    "kifix-ponteira-dupla-sextavada": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-dupla-sextavada/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:04:46.490Z",
+      "productFile": "data/harvest/products/kifix-ponteira-dupla-sextavada.json",
+      "manifestFile": "data/harvest/manifests/kifix-ponteira-dupla-sextavada.json",
+      "checks": {
+        "variants": 3,
+        "photos": 2
+      }
+    },
+    "kifix-ponteira-dupla-borracha": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-dupla-borracha/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:04:49.104Z",
+      "productFile": "data/harvest/products/kifix-ponteira-dupla-borracha.json",
+      "manifestFile": "data/harvest/manifests/kifix-ponteira-dupla-borracha.json",
+      "checks": {
+        "variants": 3,
+        "photos": 2
+      }
+    },
+    "kifix-kfd-14-19": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/dobradica/kfd-14-19/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:04:54.358Z",
+      "productFile": "data/harvest/products/kifix-kfd-14-19.json",
+      "manifestFile": "data/harvest/manifests/kifix-kfd-14-19.json",
+      "checks": {
+        "variants": 2,
+        "photos": 3
+      }
+    },
+    "kifix-kft-10-14": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/trinco/kft-10-14/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:04:58.985Z",
+      "productFile": "data/harvest/products/kifix-kft-10-14.json",
+      "manifestFile": "data/harvest/manifests/kifix-kft-10-14.json",
+      "checks": {
+        "variants": 2,
+        "photos": 3
+      }
+    },
+    "carolfix-rolamentos-esfera-rigida": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=7",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:00:00Z",
+      "productFile": "data/harvest/products/carolfix-rolamentos-esfera-rigida.json",
+      "manifestFile": "data/harvest/manifests/carolfix-rolamentos-esfera-rigida.json",
+      "checks": {
+        "variants": 130,
+        "photos": 1
+      }
+    },
+    "carolfix-mancais-ucpa200": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=10",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:00:00Z",
+      "productFile": "data/harvest/products/carolfix-mancais-ucpa200.json",
+      "manifestFile": "data/harvest/manifests/carolfix-mancais-ucpa200.json",
+      "checks": {
+        "variants": 31,
+        "photos": 1
+      }
+    },
+    "carolfix-mancais-uct200": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=11",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:00:00Z",
+      "productFile": "data/harvest/products/carolfix-mancais-uct200.json",
+      "manifestFile": "data/harvest/manifests/carolfix-mancais-uct200.json",
+      "checks": {
+        "variants": 33,
+        "photos": 1
+      }
+    },
+    "carolfix-mancais-ucfl200": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=12",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:00:00Z",
+      "productFile": "data/harvest/products/carolfix-mancais-ucfl200.json",
+      "manifestFile": "data/harvest/manifests/carolfix-mancais-ucfl200.json",
+      "checks": {
+        "variants": 33,
+        "photos": 1
+      }
+    },
+    "carolfix-porcas-km-arruelas-mb": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=15",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:00:00Z",
+      "productFile": "data/harvest/products/carolfix-porcas-km-arruelas-mb.json",
+      "manifestFile": "data/harvest/manifests/carolfix-porcas-km-arruelas-mb.json",
+      "checks": {
+        "variants": 76,
+        "photos": 1
+      }
+    },
+    "carolfix-aneis-retencao-para-eixos-din-471": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=16",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:00:00Z",
+      "productFile": "data/harvest/products/carolfix-aneis-retencao-para-eixos-din-471.json",
+      "manifestFile": "data/harvest/manifests/carolfix-aneis-retencao-para-eixos-din-471.json",
+      "checks": {
+        "variants": 144,
+        "photos": 1
+      }
+    },
+    "carolfix-aneis-retencao-para-furos-din-472": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=17",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:00:00Z",
+      "productFile": "data/harvest/products/carolfix-aneis-retencao-para-furos-din-472.json",
+      "manifestFile": "data/harvest/manifests/carolfix-aneis-retencao-para-furos-din-472.json",
+      "checks": {
+        "variants": 143,
+        "photos": 1
+      }
+    },
+    "carolfix-aneis-retencao-din-6799": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=18",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:00:00Z",
+      "productFile": "data/harvest/products/carolfix-aneis-retencao-din-6799.json",
+      "manifestFile": "data/harvest/manifests/carolfix-aneis-retencao-din-6799.json",
+      "checks": {
+        "variants": 86,
+        "photos": 1
+      }
+    },
+    "carolfix-molas-prato-din-2093": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=19",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:00:00Z",
+      "productFile": "data/harvest/products/carolfix-molas-prato-din-2093.json",
+      "manifestFile": "data/harvest/manifests/carolfix-molas-prato-din-2093.json",
+      "checks": {
+        "variants": 58,
+        "photos": 1
+      }
+    },
+    "carolfix-arruelas-onduladas-din-137": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=20",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:00:00Z",
+      "productFile": "data/harvest/products/carolfix-arruelas-onduladas-din-137.json",
+      "manifestFile": "data/harvest/manifests/carolfix-arruelas-onduladas-din-137.json",
+      "checks": {
+        "variants": 48,
+        "photos": 1
+      }
+    },
+    "carolfix-pinos-elasticos-pesados-din-1481": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=22",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:00:00Z",
+      "productFile": "data/harvest/products/carolfix-pinos-elasticos-pesados-din-1481.json",
+      "manifestFile": "data/harvest/manifests/carolfix-pinos-elasticos-pesados-din-1481.json",
+      "checks": {
+        "variants": 41,
+        "photos": 1
+      }
+    },
+    "carolfix-pinos-cilindricos-din-7": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=23",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:00:00Z",
+      "productFile": "data/harvest/products/carolfix-pinos-cilindricos-din-7.json",
+      "manifestFile": "data/harvest/manifests/carolfix-pinos-cilindricos-din-7.json",
+      "checks": {
+        "variants": 33,
+        "photos": 1
+      }
+    },
+    "carolfix-pinos-extratores-din-1530": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=25",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:00:00Z",
+      "productFile": "data/harvest/products/carolfix-pinos-extratores-din-1530.json",
+      "manifestFile": "data/harvest/manifests/carolfix-pinos-extratores-din-1530.json",
+      "checks": {
+        "variants": 18,
+        "photos": 1
+      }
+    },
+    "carolfix-puncoes-cabeca-conica-din-9861": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=26",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:00:00Z",
+      "productFile": "data/harvest/products/carolfix-puncoes-cabeca-conica-din-9861.json",
+      "manifestFile": "data/harvest/manifests/carolfix-puncoes-cabeca-conica-din-9861.json",
+      "checks": {
+        "variants": 87,
+        "photos": 1
+      }
+    },
+    "carolfix-parafusos-olhal-din-580-582": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=27",
+      "status": "published",
+      "updatedAt": "2026-10-20T12:00:00Z",
+      "productFile": "data/harvest/products/carolfix-parafusos-olhal-din-580-582.json",
+      "manifestFile": "data/harvest/manifests/carolfix-parafusos-olhal-din-580-582.json",
+      "checks": {
+        "variants": 35,
+        "photos": 1
+      }
+    },
+    "carolfix-anel-retencao-eixo-liso": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:09:45.082Z",
+      "productFile": "data/harvest/products/carolfix.json",
+      "manifestFile": "data/harvest/manifests/carolfix.json",
+      "checks": {
+        "variants": 24,
+        "photos": 1
+      }
+    },
+    "kifix-base-elevada": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-elevada/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:09:45.099Z",
+      "productFile": "data/harvest/products/kifix.json",
+      "manifestFile": "data/harvest/manifests/kifix.json",
+      "checks": {
+        "variants": 9,
+        "photos": 4
+      }
+    },
+    "merkbak-volante-dois-raios-sem-alma": {
+      "sourceUrl": "https://merkbak.com.br/produto/volante-dois-raios-sem-alma-de-ferro/",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:09:45.105Z",
+      "productFile": "data/harvest/products/merkbak.json",
+      "manifestFile": "data/harvest/manifests/merkbak.json",
+      "checks": {
+        "variants": 6,
+        "photos": 2
+      }
+    },
+    "vibra-stop-tradicional-com-chapa": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=com-chapa&language=pt-BR",
+      "status": "published",
+      "updatedAt": "2026-10-20T13:09:45.118Z",
+      "productFile": "data/harvest/products/vibra.json",
+      "manifestFile": "data/harvest/manifests/vibra.json",
+      "checks": {
+        "variants": 6,
+        "photos": 3
       }
     }
   }

@@ -1,0 +1,208 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/volante-dois-raios-sem-alma-de-ferro-c-cabo-giratorio/",
+  "fetchedAt": "2026-10-20T12:45:23.729Z",
+  "product": {
+    "id": 201043,
+    "slug": "merkbak-v2r-s-alma-c-cabo-volante-dois-raios-sem-alma-de-ferro-com-cabo-giratorio",
+    "name": "V2R S/ALMA C/CABO – Volante Dois Raios sem Alma de Ferro com Cabo Giratório",
+    "sku": "V2R S/ALMA C/CABO",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/volante-dois-raios-sem-alma-de-ferro-c-cabo-giratorio/",
+    "type": "product",
+    "summary": "Máquinas e equipamentos que exigem regulagens precisas.",
+    "description": "<p>Máquinas e equipamentos que exigem regulagens precisas.</p><p><strong>Material:</strong> Revestido em nylon reforçado com fibra de vidro + cubo de ferro fundido + cabo de polipropileno em aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Com cabo giratório para facilitar a regulagem.</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Volantes",
+        "slug": "volantes"
+      }
+    ],
+    "image": "/images/products/merkbak/v2r-s-alma-c-cabo-volante-dois-raios-sem-alma-de-ferro-com-cabo-giratorio/1.png",
+    "images": [
+      "/images/products/merkbak/v2r-s-alma-c-cabo-volante-dois-raios-sem-alma-de-ferro-com-cabo-giratorio/1.png",
+      "/images/products/merkbak/v2r-s-alma-c-cabo-volante-dois-raios-sem-alma-de-ferro-com-cabo-giratorio/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Revestido em nylon reforçado com fibra de vidro + cubo de ferro fundido + cabo de polipropileno em aço carbono zincado"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Máquinas e equipamentos que exigem regulagens precisas."
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Alta resistência / Com cabo giratório para facilitar a regulagem."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220269,
+        "sku": "V2R 96 S/ALMA C/CABO",
+        "label": "V2R 96 S/ALMA C/CABO",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "V2R 96 S/ALMA C/CABO"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220270,
+        "sku": "V2R 116 S/ALMA C/CABO",
+        "label": "V2R 116 S/ALMA C/CABO",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "V2R 116 S/ALMA C/CABO"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220271,
+        "sku": "V2R 141 S/ALMA C/CABO",
+        "label": "V2R 141 S/ALMA C/CABO",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "V2R 141 S/ALMA C/CABO"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220272,
+        "sku": "V2R 161 S/ALMA C/CABO",
+        "label": "V2R 161 S/ALMA C/CABO",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "V2R 161 S/ALMA C/CABO"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220273,
+        "sku": "V2R 186 S/ALMA C/CABO",
+        "label": "V2R 186 S/ALMA C/CABO",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "V2R 186 S/ALMA C/CABO"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220274,
+        "sku": "V2R 216 S/ALMA C/CABO",
+        "label": "V2R 216 S/ALMA C/CABO",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "V2R 216 S/ALMA C/CABO"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Revestido em nylon reforçado com fibra de vidro + cubo de ferro fundido + cabo de polipropileno em aço carbono zincado"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Máquinas e equipamentos que exigem regulagens precisas."
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Alta resistência / Com cabo giratório para facilitar a regulagem."
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "V2R 96 S/ALMA C/CABO"
+          },
+          {
+            "name": "Medida",
+            "value": "V2R 116 S/ALMA C/CABO"
+          },
+          {
+            "name": "Medida",
+            "value": "V2R 141 S/ALMA C/CABO"
+          },
+          {
+            "name": "Medida",
+            "value": "V2R 161 S/ALMA C/CABO"
+          },
+          {
+            "name": "Medida",
+            "value": "V2R 186 S/ALMA C/CABO"
+          },
+          {
+            "name": "Medida",
+            "value": "V2R 216 S/ALMA C/CABO"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/v2r-s-alma-c-cabo-volante-dois-raios-sem-alma-de-ferro-com-cabo-giratorio/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/057-v2r-sac-copiar-e1779461745796.png",
+      "bytes": 71000,
+      "sha256": "f4d98a92d8bb2e9a0f02e1693b417dc596fb0bd95e42cd50be4e4593ee4792a2"
+    },
+    {
+      "path": "/images/products/merkbak/v2r-s-alma-c-cabo-volante-dois-raios-sem-alma-de-ferro-com-cabo-giratorio/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/12/v2r-sem-alma-com-cabo_tab.png",
+      "bytes": 148156,
+      "sha256": "c11e8f6839002f6e0fc94b5c099857b778c916a41204f8858e3e2c2ae4f49678"
+    }
+  ],
+  "checks": {
+    "variants": 6,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

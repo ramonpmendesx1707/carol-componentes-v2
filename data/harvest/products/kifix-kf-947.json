@@ -1,0 +1,192 @@
+{
+  "id": 202064,
+  "slug": "kifix-kf-947",
+  "name": "KF-947",
+  "sku": "KF-947",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kf-947/",
+  "type": "product",
+  "summary": "Linha LANÇAMENTOS Kifix modelo KF-947, com 1 referências dimensionais.",
+  "description": "<p>Linha LANÇAMENTOS Kifix modelo KF-947, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "LANÇAMENTOS",
+      "slug": "lancamentos"
+    }
+  ],
+  "image": "/images/products/kifix/kf-947/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-947/foto-1.png",
+    "/images/products/kifix/kf-947/foto-2.png",
+    "/images/products/kifix/kf-947/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "LANÇAMENTOS"
+    }
+  ],
+  "weight": "0,462 (1,01)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230467,
+      "sku": "KF-947",
+      "label": "KF-947",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "680 (1499)"
+        },
+        {
+          "name": "CURSO H (in)",
+          "value": "89 (3,50)"
+        },
+        {
+          "name": "CURSO V (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "A (in)",
+          "value": "71 (2,79)"
+        },
+        {
+          "name": "B (in)",
+          "value": "252 (9,92)"
+        },
+        {
+          "name": "B1 (in)",
+          "value": "148 (5,83)"
+        },
+        {
+          "name": "C (in)",
+          "value": "78 (3,07)"
+        },
+        {
+          "name": "D (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "37,5 (1,48)"
+        },
+        {
+          "name": "F (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "G (in)",
+          "value": "56 (2,20)"
+        },
+        {
+          "name": "H (in)",
+          "value": "38 (1,49)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7 (0,27)"
+        },
+        {
+          "name": "N (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "O (in)",
+          "value": "20 (0,78)"
+        },
+        {
+          "name": "O1 (in)",
+          "value": "7,3 (0,29)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "134 (5,28)"
+        },
+        {
+          "name": "ROSCA",
+          "value": "M8"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,462 (1,01)"
+        }
+      ],
+      "weight": "0,462 (1,01)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "CURSO H (in)",
+        "CURSO V (in)",
+        "A (in)",
+        "B (in)",
+        "B1 (in)",
+        "C (in)",
+        "D (in)",
+        "D1 (in)",
+        "E (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "N (in)",
+        "O (in)",
+        "O1 (in)",
+        "Q (in)",
+        "ROSCA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-947",
+          "680 (1499)",
+          "89 (3,50)",
+          "35 (1,37)",
+          "71 (2,79)",
+          "252 (9,92)",
+          "148 (5,83)",
+          "78 (3,07)",
+          "42 (1,65)",
+          "19 (0,75)",
+          "37,5 (1,48)",
+          "60 (2,36)",
+          "56 (2,20)",
+          "38 (1,49)",
+          "7 (0,27)",
+          "8 (0,31)",
+          "20 (0,78)",
+          "7,3 (0,29)",
+          "134 (5,28)",
+          "M8",
+          "0,462 (1,01)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-947/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

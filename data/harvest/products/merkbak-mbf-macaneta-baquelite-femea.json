@@ -1,0 +1,113 @@
+{
+  "id": 201031,
+  "slug": "merkbak-mbf-macaneta-baquelite-femea",
+  "name": "MBF – Maçaneta Baquelite Fêmea",
+  "sku": "MBF",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/macaneta/",
+  "type": "product",
+  "summary": "Fornos industriais, portas de cofres ou máquinas e equipamentos que necessitem abertura manual",
+  "description": "<p>Fornos industriais, portas de cofres ou máquinas e equipamentos que necessitem abertura manual</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Isolamento térmico / Higienização eficiente / Furo liso / Em casos de pedido com inserto de rosca, consultar fábrica</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Baquelite",
+      "slug": "baquelite"
+    }
+  ],
+  "image": "/images/products/merkbak/mbf-macaneta-baquelite-femea/1.png",
+  "images": [
+    "/images/products/merkbak/mbf-macaneta-baquelite-femea/1.png",
+    "/images/products/merkbak/mbf-macaneta-baquelite-femea/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Baquelite"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Fornos industriais, portas de cofres ou máquinas e equipamentos que necessitem abertura manual"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Isolamento térmico / Higienização eficiente / Furo liso / Em casos de pedido com inserto de rosca, consultar fábrica"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220170,
+      "sku": "MBF 40167 FURO 3/8",
+      "label": "MBF 40167 FURO 3/8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MBF 40167 FURO 3/8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220171,
+      "sku": "MBF 40167 FURO 16mm",
+      "label": "MBF 40167 FURO 16mm",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MBF 40167 FURO 16mm"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Baquelite"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Fornos industriais, portas de cofres ou máquinas e equipamentos que necessitem abertura manual"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Isolamento térmico / Higienização eficiente / Furo liso / Em casos de pedido com inserto de rosca, consultar fábrica"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "MBF 40167 FURO 3/8"
+        },
+        {
+          "name": "Medida",
+          "value": "MBF 40167 FURO 16mm"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

@@ -1,0 +1,104 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-alca-polipropileno-mod-p/",
+  "fetchedAt": "2026-10-20T12:44:11.311Z",
+  "product": {
+    "id": 201009,
+    "slug": "merkbak-cap-p-104-cabo-alca-polipropileno-mod-p",
+    "name": "CAP-P 104 – Cabo Alça Polipropileno Mod. P",
+    "sku": "CAP",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/cabo-alca-polipropileno-mod-p/",
+    "type": "product",
+    "summary": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação",
+    "description": "<p>Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação</p><p><strong>Material:</strong> Polipropileno</p><p><strong>Informações adicionais:</strong> Média resistência / Higienização eficiente</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Plásticos",
+        "slug": "plasticos"
+      }
+    ],
+    "image": "/images/products/merkbak/cap-p-104-cabo-alca-polipropileno-mod-p/1.png",
+    "images": [
+      "/images/products/merkbak/cap-p-104-cabo-alca-polipropileno-mod-p/1.png",
+      "/images/products/merkbak/cap-p-104-cabo-alca-polipropileno-mod-p/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Polipropileno"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial polido na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação"
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Média resistência / Higienização eficiente"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220044,
+        "sku": "CAP-P 104 – Cabo Alça Polipropileno Mod. P",
+        "label": "Padrão",
+        "attributes": [],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Polipropileno"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial polido na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação"
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Média resistência / Higienização eficiente"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/cap-p-104-cabo-alca-polipropileno-mod-p/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/008-cap-p-copiar.png",
+      "bytes": 358510,
+      "sha256": "b2426fa3adefb3f105928f231a11d1d560a16d6470ac5568a3fd36a6562847f4"
+    },
+    {
+      "path": "/images/products/merkbak/cap-p-104-cabo-alca-polipropileno-mod-p/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/cap104_tab.png",
+      "bytes": 115013,
+      "sha256": "b85dc16b4bbe6fb652db5c1714a993d68c7c892972133a06a1abc484549670fd"
+    }
+  ],
+  "checks": {
+    "variants": 1,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

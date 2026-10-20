@@ -1,0 +1,154 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/manivela-com-cabo-giratorio/",
+  "fetchedAt": "2026-10-20T12:49:29.705Z",
+  "product": {
+    "id": 201033,
+    "slug": "merkbak-mcg-manivela-com-cabo-giratorio",
+    "name": "MCG – Manivela com Cabo Giratório",
+    "sku": "MCG",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/manivela-com-cabo-giratorio/",
+    "type": "product",
+    "summary": "Máquinas e equipamentos que exigem regulagens manuais",
+    "description": "<p>Máquinas e equipamentos que exigem regulagens manuais</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro + pino aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Cabo giratório e furo liso</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Manivelas",
+        "slug": "manivelas"
+      }
+    ],
+    "image": "/images/products/merkbak/mcg-manivela-com-cabo-giratorio/1.png",
+    "images": [
+      "/images/products/merkbak/mcg-manivela-com-cabo-giratorio/1.png",
+      "/images/products/merkbak/mcg-manivela-com-cabo-giratorio/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Nylon reforçado com fibra de vidro + pino aço carbono zincado"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Máquinas e equipamentos que exigem regulagens manuais"
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Alta resistência / Cabo giratório e furo liso"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220173,
+        "sku": "MCG 7521 FURO 8mm",
+        "label": "MCG 7521 FURO 8mm",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MCG 7521 FURO 8mm"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220174,
+        "sku": "MCG 11028 FURO 8mm",
+        "label": "MCG 11028 FURO 8mm",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MCG 11028 FURO 8mm"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220175,
+        "sku": "MCG 11028 FURO 10mm",
+        "label": "MCG 11028 FURO 10mm",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MCG 11028 FURO 10mm"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Nylon reforçado com fibra de vidro + pino aço carbono zincado"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Máquinas e equipamentos que exigem regulagens manuais"
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Alta resistência / Cabo giratório e furo liso"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "MCG 7521 FURO 8mm"
+          },
+          {
+            "name": "Medida",
+            "value": "MCG 11028 FURO 8mm"
+          },
+          {
+            "name": "Medida",
+            "value": "MCG 11028 FURO 10mm"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/mcg-manivela-com-cabo-giratorio/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/003-mcg-copiar.png",
+      "bytes": 507582,
+      "sha256": "d217e9c17c1350056461755bc586efcbb80d0420704dfef8d9fe2d466487b79f"
+    },
+    {
+      "path": "/images/products/merkbak/mcg-manivela-com-cabo-giratorio/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/MCG_tab.png",
+      "bytes": 133047,
+      "sha256": "0fb592db1cf1e4c84a88f55e5dfc42ce8eb68530980e908e2085103e27c7a0d7"
+    }
+  ],
+  "checks": {
+    "variants": 3,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

@@ -2,12 +2,12 @@
   "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf",
   "fetchedAt": "2026-10-20T02:37:44.544Z",
   "product": {
-    "id": 200004,
+    "id": 203016,
     "slug": "carolfix-anel-retencao-eixo-liso",
     "name": "Anel de Retenção para Eixo Liso",
     "sku": "Série 525",
-    "brand": "Carolfix",
-    "supplier": "Carolfix",
+    "brand": "Seeger-Orbis",
+    "supplier": "Seeger-Orbis",
     "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf",
     "type": "product",
     "summary": "Anel de retenção para eixo liso; 24 referências dimensionais no catálogo técnico Carolfix, página 18.",
@@ -37,7 +37,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240001,
+        "id": 240997,
         "sku": "525.015",
         "label": "525.015",
         "attributes": [
@@ -75,7 +75,7 @@
         "image": null
       },
       {
-        "id": 240002,
+        "id": 240998,
         "sku": "525.020",
         "label": "525.020",
         "attributes": [
@@ -113,7 +113,7 @@
         "image": null
       },
       {
-        "id": 240003,
+        "id": 240999,
         "sku": "525.030",
         "label": "525.030",
         "attributes": [
@@ -151,7 +151,7 @@
         "image": null
       },
       {
-        "id": 240004,
+        "id": 241000,
         "sku": "525.035",
         "label": "525.035",
         "attributes": [
@@ -189,7 +189,7 @@
         "image": null
       },
       {
-        "id": 240005,
+        "id": 241001,
         "sku": "525.040",
         "label": "525.040",
         "attributes": [
@@ -227,7 +227,7 @@
         "image": null
       },
       {
-        "id": 240006,
+        "id": 241002,
         "sku": "525.050",
         "label": "525.050",
         "attributes": [
@@ -265,7 +265,7 @@
         "image": null
       },
       {
-        "id": 240007,
+        "id": 241003,
         "sku": "525.060",
         "label": "525.060",
         "attributes": [
@@ -303,7 +303,7 @@
         "image": null
       },
       {
-        "id": 240008,
+        "id": 241004,
         "sku": "525.070",
         "label": "525.070",
         "attributes": [
@@ -341,7 +341,7 @@
         "image": null
       },
       {
-        "id": 240009,
+        "id": 241005,
         "sku": "525.080",
         "label": "525.080",
         "attributes": [
@@ -379,7 +379,7 @@
         "image": null
       },
       {
-        "id": 240010,
+        "id": 241006,
         "sku": "525.090",
         "label": "525.090",
         "attributes": [
@@ -417,7 +417,7 @@
         "image": null
       },
       {
-        "id": 240011,
+        "id": 241007,
         "sku": "525.100",
         "label": "525.100",
         "attributes": [
@@ -455,7 +455,7 @@
         "image": null
       },
       {
-        "id": 240012,
+        "id": 241008,
         "sku": "525.120",
         "label": "525.120",
         "attributes": [
@@ -493,7 +493,7 @@
         "image": null
       },
       {
-        "id": 240013,
+        "id": 241009,
         "sku": "525.140",
         "label": "525.140",
         "attributes": [
@@ -531,7 +531,7 @@
         "image": null
       },
       {
-        "id": 240014,
+        "id": 241010,
         "sku": "525.150",
         "label": "525.150",
         "attributes": [
@@ -569,7 +569,7 @@
         "image": null
       },
       {
-        "id": 240015,
+        "id": 241011,
         "sku": "525.160",
         "label": "525.160",
         "attributes": [
@@ -607,7 +607,7 @@
         "image": null
       },
       {
-        "id": 240016,
+        "id": 241012,
         "sku": "525.170",
         "label": "525.170",
         "attributes": [
@@ -645,7 +645,7 @@
         "image": null
       },
       {
-        "id": 240017,
+        "id": 241013,
         "sku": "525.180",
         "label": "525.180",
         "attributes": [
@@ -683,7 +683,7 @@
         "image": null
       },
       {
-        "id": 240018,
+        "id": 241014,
         "sku": "525.190",
         "label": "525.190",
         "attributes": [
@@ -721,7 +721,7 @@
         "image": null
       },
       {
-        "id": 240019,
+        "id": 241015,
         "sku": "525.200",
         "label": "525.200",
         "attributes": [
@@ -759,7 +759,7 @@
         "image": null
       },
       {
-        "id": 240020,
+        "id": 241016,
         "sku": "525.220",
         "label": "525.220",
         "attributes": [
@@ -797,7 +797,7 @@
         "image": null
       },
       {
-        "id": 240021,
+        "id": 241017,
         "sku": "525.230",
         "label": "525.230",
         "attributes": [
@@ -835,7 +835,7 @@
         "image": null
       },
       {
-        "id": 240022,
+        "id": 241018,
         "sku": "525.250",
         "label": "525.250",
         "attributes": [
@@ -873,7 +873,7 @@
         "image": null
       },
       {
-        "id": 240023,
+        "id": 241019,
         "sku": "525.280",
         "label": "525.280",
         "attributes": [
@@ -911,7 +911,7 @@
         "image": null
       },
       {
-        "id": 240024,
+        "id": 241020,
         "sku": "525.300",
         "label": "525.300",
         "attributes": [

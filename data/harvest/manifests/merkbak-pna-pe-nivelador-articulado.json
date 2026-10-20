@@ -1,0 +1,334 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/pe-nivelador-articulado/",
+  "fetchedAt": "2026-10-20T12:49:46.118Z",
+  "product": {
+    "id": 201039,
+    "slug": "merkbak-pna-pe-nivelador-articulado",
+    "name": "PNA – Pé Nivelador Articulado",
+    "sku": "PNA",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/pe-nivelador-articulado/",
+    "type": "product",
+    "summary": "Pés niveladores são colocados nas bases de máquinas, equipamentos ou móveis e servem para nivelar ou simplesmente evitar que fiquem em contato com o piso. O pino roscado move-se em todas as direções permitindo que seja colocado em superfícies com declínio. Acompanha disco antivibração",
+    "description": "<p>Pés niveladores são colocados nas bases de máquinas, equipamentos ou móveis e servem para nivelar ou simplesmente evitar que fiquem em contato com o piso. O pino roscado move-se em todas as direções permitindo que seja colocado em superfícies com declínio. Acompanha disco antivibração</p><p><strong>Material:</strong> Pvc e nylon reforçado com fibra de vidro + rosca, porca e arruela aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Pés Niveladores",
+        "slug": "pes-niveladores"
+      }
+    ],
+    "image": "/images/products/merkbak/pna-pe-nivelador-articulado/1.png",
+    "images": [
+      "/images/products/merkbak/pna-pe-nivelador-articulado/1.png",
+      "/images/products/merkbak/pna-pe-nivelador-articulado/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Pvc e nylon reforçado com fibra de vidro + rosca, porca e arruela aço carbono zincado"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Pés niveladores são colocados nas bases de máquinas, equipamentos ou móveis e servem para nivelar ou simplesmente evitar que fiquem em contato com o piso. O pino roscado move-se em todas as direções permitindo que seja colocado em superfícies com declínio. Acompanha disco antivibração"
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Alta resistência"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220248,
+        "sku": "PNA 4119 M10X70",
+        "label": "PNA 4119 M10X70",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PNA 4119 M10X70"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220249,
+        "sku": "PNA 4119 M10X100",
+        "label": "PNA 4119 M10X100",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PNA 4119 M10X100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220250,
+        "sku": "PNA 4119 M12X70",
+        "label": "PNA 4119 M12X70",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PNA 4119 M12X70"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220251,
+        "sku": "PNA 6020 M12X70",
+        "label": "PNA 6020 M12X70",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PNA 6020 M12X70"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220252,
+        "sku": "PNA 6020 M12X100",
+        "label": "PNA 6020 M12X100",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PNA 6020 M12X100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220253,
+        "sku": "PNA 6020 M12X120",
+        "label": "PNA 6020 M12X120",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PNA 6020 M12X120"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220254,
+        "sku": "PNA 8015 M12X120",
+        "label": "PNA 8015 M12X120",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PNA 8015 M12X120"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220255,
+        "sku": "PNA 8015 M16X70",
+        "label": "PNA 8015 M16X70",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PNA 8015 M16X70"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220256,
+        "sku": "PNA 8015 M16X120",
+        "label": "PNA 8015 M16X120",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PNA 8015 M16X120"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220257,
+        "sku": "PNA 8015 M20X70",
+        "label": "PNA 8015 M20X70",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PNA 8015 M20X70"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220258,
+        "sku": "PNA 8015 M20X120",
+        "label": "PNA 8015 M20X120",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PNA 8015 M20X120"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220259,
+        "sku": "PNA 10020 M16X120",
+        "label": "PNA 10020 M16X120",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PNA 10020 M16X120"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220260,
+        "sku": "PNA 10020 M20X140",
+        "label": "PNA 10020 M20X140",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PNA 10020 M20X140"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Pvc e nylon reforçado com fibra de vidro + rosca, porca e arruela aço carbono zincado"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Pés niveladores são colocados nas bases de máquinas, equipamentos ou móveis e servem para nivelar ou simplesmente evitar que fiquem em contato com o piso. O pino roscado move-se em todas as direções permitindo que seja colocado em superfícies com declínio. Acompanha disco antivibração"
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Alta resistência"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "PNA 4119 M10X70"
+          },
+          {
+            "name": "Medida",
+            "value": "PNA 4119 M10X100"
+          },
+          {
+            "name": "Medida",
+            "value": "PNA 4119 M12X70"
+          },
+          {
+            "name": "Medida",
+            "value": "PNA 6020 M12X70"
+          },
+          {
+            "name": "Medida",
+            "value": "PNA 6020 M12X100"
+          },
+          {
+            "name": "Medida",
+            "value": "PNA 6020 M12X120"
+          },
+          {
+            "name": "Medida",
+            "value": "PNA 8015 M12X120"
+          },
+          {
+            "name": "Medida",
+            "value": "PNA 8015 M16X70"
+          },
+          {
+            "name": "Medida",
+            "value": "PNA 8015 M16X120"
+          },
+          {
+            "name": "Medida",
+            "value": "PNA 8015 M20X70"
+          },
+          {
+            "name": "Medida",
+            "value": "PNA 8015 M20X120"
+          },
+          {
+            "name": "Medida",
+            "value": "PNA 10020 M16X120"
+          },
+          {
+            "name": "Medida",
+            "value": "PNA 10020 M20X140"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/pna-pe-nivelador-articulado/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/12/MB-PNA-8015-M16X150-01-scaled.png",
+      "bytes": 1281988,
+      "sha256": "722c9989f068bb779ccbd2587b2d3691aad56683ae93cf533bb15846a802ada0"
+    },
+    {
+      "path": "/images/products/merkbak/pna-pe-nivelador-articulado/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/12/PNA_tab.png",
+      "bytes": 115433,
+      "sha256": "bf571c5a494e45f172b4de54843fb942c644e4b1e972c6534483c8475859fd9f"
+    }
+  ],
+  "checks": {
+    "variants": 13,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-estriado-plastico/",
+  "fetchedAt": "2026-10-20T12:44:19.104Z",
+  "product": {
+    "id": 201012,
+    "slug": "merkbak-cep-cabo-estriado-plastico",
+    "name": "CEP – Cabo Estriado Plástico",
+    "sku": "CEP",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/cabo-estriado-plastico/",
+    "type": "product",
+    "summary": "Indicado para pontas de haste",
+    "description": "<p>Indicado para pontas de haste</p><p><strong>Material:</strong> Polipropileno</p><p><strong>Informações adicionais:</strong> Média resistência / Ótima empunhadura / Sem rosca, fixação por encaixe</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Plásticos",
+        "slug": "plasticos"
+      }
+    ],
+    "image": "/images/products/merkbak/cep-cabo-estriado-plastico/1.png",
+    "images": [
+      "/images/products/merkbak/cep-cabo-estriado-plastico/1.png",
+      "/images/products/merkbak/cep-cabo-estriado-plastico/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Polipropileno"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Indicado para pontas de haste"
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Média resistência / Ótima empunhadura / Sem rosca, fixação por encaixe"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220048,
+        "sku": "CEP 30104 FURO LISO 1/2 C/TAMPA",
+        "label": "CEP 30104 FURO LISO 1/2 C/TAMPA",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "CEP 30104 FURO LISO 1/2 C/TAMPA"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220049,
+        "sku": "CEP 30104 FURO LISO 1/2 PASSANTE",
+        "label": "CEP 30104 FURO LISO 1/2 PASSANTE",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "CEP 30104 FURO LISO 1/2 PASSANTE"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220050,
+        "sku": "CEP 30104 FURO LISO 5/8 C/TAMPA",
+        "label": "CEP 30104 FURO LISO 5/8 C/TAMPA",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "CEP 30104 FURO LISO 5/8 C/TAMPA"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Polipropileno"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Indicado para pontas de haste"
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Média resistência / Ótima empunhadura / Sem rosca, fixação por encaixe"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "CEP 30104 FURO LISO 1/2 C/TAMPA"
+          },
+          {
+            "name": "Medida",
+            "value": "CEP 30104 FURO LISO 1/2 PASSANTE"
+          },
+          {
+            "name": "Medida",
+            "value": "CEP 30104 FURO LISO 5/8 C/TAMPA"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/cep-cabo-estriado-plastico/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/cep-e1779823291534.png",
+      "bytes": 96964,
+      "sha256": "8e911f3355e5d41b962ee86269546b8424dc24dc8d0c0932d2f8ae72b47faa87"
+    },
+    {
+      "path": "/images/products/merkbak/cep-cabo-estriado-plastico/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/CEP_tab.png",
+      "bytes": 118845,
+      "sha256": "bf8a5de459246934e29f872346126e62103c75daee691143cdbe66396701e05d"
+    }
+  ],
+  "checks": {
+    "variants": 3,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

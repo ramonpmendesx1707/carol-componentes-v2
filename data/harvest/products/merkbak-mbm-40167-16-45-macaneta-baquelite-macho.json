@@ -1,0 +1,81 @@
+{
+  "id": 201032,
+  "slug": "merkbak-mbm-40167-16-45-macaneta-baquelite-macho",
+  "name": "MBM 40167 16×45- Maçaneta Baquelite Macho",
+  "sku": "MBM 40167 16×45",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/macaneta-mae/",
+  "type": "product",
+  "summary": "Fornos industriais, portas de cofres ou máquinas e equipamentos que necessitem abertura manual",
+  "description": "<p>Fornos industriais, portas de cofres ou máquinas e equipamentos que necessitem abertura manual</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Isolamento térmico / Higienização eficiente / Pino liso / Em casos de pedido com rosca, consultar fábrica</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Baquelite",
+      "slug": "baquelite"
+    }
+  ],
+  "image": "/images/products/merkbak/mbm-40167-16-45-macaneta-baquelite-macho/1.png",
+  "images": [
+    "/images/products/merkbak/mbm-40167-16-45-macaneta-baquelite-macho/1.png",
+    "/images/products/merkbak/mbm-40167-16-45-macaneta-baquelite-macho/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Baquelite"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Fornos industriais, portas de cofres ou máquinas e equipamentos que necessitem abertura manual"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Isolamento térmico / Higienização eficiente / Pino liso / Em casos de pedido com rosca, consultar fábrica"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220172,
+      "sku": "MBM 40167 16×45- Maçaneta Baquelite Macho",
+      "label": "Padrão",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Baquelite"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Fornos industriais, portas de cofres ou máquinas e equipamentos que necessitem abertura manual"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Isolamento térmico / Higienização eficiente / Pino liso / Em casos de pedido com rosca, consultar fábrica"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

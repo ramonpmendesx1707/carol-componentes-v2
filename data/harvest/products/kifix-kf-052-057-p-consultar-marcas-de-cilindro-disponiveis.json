@@ -1,0 +1,250 @@
+{
+  "id": 202028,
+  "slug": "kifix-kf-052-057-p-consultar-marcas-de-cilindro-disponiveis",
+  "name": "KF-052/057_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS",
+  "sku": "KF-052/057_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-pneumatico/kf-052-057-p-consultar-marcas/",
+  "type": "product",
+  "summary": "Linha Grampo pneumático Kifix modelo KF-052/057_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS, com 2 referências dimensionais.",
+  "description": "<p>Linha Grampo pneumático Kifix modelo KF-052/057_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo pneumático",
+      "slug": "grampo-pneumatico"
+    }
+  ],
+  "image": "/images/products/kifix/kf-052-057-p-consultar-marcas-de-cilindro-disponiveis/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-052-057-p-consultar-marcas-de-cilindro-disponiveis/foto-1.png",
+    "/images/products/kifix/kf-052-057-p-consultar-marcas-de-cilindro-disponiveis/foto-2.png",
+    "/images/products/kifix/kf-052-057-p-consultar-marcas-de-cilindro-disponiveis/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo pneumático"
+    }
+  ],
+  "weight": "1,500 (3,300)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230228,
+      "sku": "KF-057 P",
+      "label": "KF-057 P",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "230 (506)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "22 (0,86)"
+        },
+        {
+          "name": "A (in)",
+          "value": "80 (3,15)"
+        },
+        {
+          "name": "B (in)",
+          "value": "284 (11,18)"
+        },
+        {
+          "name": "C (in)",
+          "value": "25 (0,98)"
+        },
+        {
+          "name": "D (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "E (in)",
+          "value": "40 (1,57)"
+        },
+        {
+          "name": "G (in)",
+          "value": "65 (2,56)"
+        },
+        {
+          "name": "H (in)",
+          "value": "68 (2,68)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7 (0,28)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "M8X1,25"
+        },
+        {
+          "name": "N (in)",
+          "value": "12 (0,47)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M12"
+        },
+        {
+          "name": "ROSCA CIL",
+          "value": "M5"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,500 (3,300)"
+        }
+      ],
+      "weight": "1,500 (3,300)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230229,
+      "sku": "KF-052 P",
+      "label": "KF-052 P",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "700 (1540)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "31 (1,22)"
+        },
+        {
+          "name": "A (in)",
+          "value": "119 (4,69)"
+        },
+        {
+          "name": "B (in)",
+          "value": "390 (15,35)"
+        },
+        {
+          "name": "C (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "D (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "E (in)",
+          "value": "50 (1,97)"
+        },
+        {
+          "name": "G (in)",
+          "value": "83,5 (3,29)"
+        },
+        {
+          "name": "H (in)",
+          "value": "99 (3,90)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "M12X1,75"
+        },
+        {
+          "name": "N (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M12"
+        },
+        {
+          "name": "ROSCA CIL",
+          "value": "1/8 in NPT"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "3,700 (8,140)"
+        }
+      ],
+      "weight": "3,700 (8,140)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "CURSO (in)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "J1 (in)",
+        "N (in)",
+        "PONTEIRA",
+        "ROSCA CIL",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-057 P",
+          "230 (506)",
+          "22 (0,86)",
+          "80 (3,15)",
+          "284 (11,18)",
+          "25 (0,98)",
+          "35 (1,38)",
+          "40 (1,57)",
+          "65 (2,56)",
+          "68 (2,68)",
+          "7 (0,28)",
+          "M8X1,25",
+          "12 (0,47)",
+          "M12",
+          "M5",
+          "1,500 (3,300)"
+        ],
+        [
+          "KF-052 P",
+          "700 (1540)",
+          "31 (1,22)",
+          "119 (4,69)",
+          "390 (15,35)",
+          "44 (1,73)",
+          "60 (2,36)",
+          "50 (1,97)",
+          "83,5 (3,29)",
+          "99 (3,90)",
+          "8,5 (0,33)",
+          "M12X1,75",
+          "19 (0,75)",
+          "M12",
+          "1/8 in NPT",
+          "3,700 (8,140)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-052-057-p-consultar-marcas-de-cilindro-disponiveis/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

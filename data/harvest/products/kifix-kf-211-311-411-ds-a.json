@@ -1,0 +1,339 @@
+{
+  "id": 202041,
+  "slug": "kifix-kf-211-311-411-ds-a",
+  "name": "KF-211/311/411 DS A",
+  "sku": "KF-211/311/411 DS A",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-211-311-411-ds-a/",
+  "type": "product",
+  "summary": "Linha Grampo vertical Kifix modelo KF-211/311/411 DS A, com 3 referências dimensionais.",
+  "description": "<p>Linha Grampo vertical Kifix modelo KF-211/311/411 DS A, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo vertical",
+      "slug": "grampo-vertical"
+    }
+  ],
+  "image": "/images/products/kifix/kf-211-311-411-ds-a/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-211-311-411-ds-a/foto-1.png",
+    "/images/products/kifix/kf-211-311-411-ds-a/foto-2.png",
+    "/images/products/kifix/kf-211-311-411-ds-a/foto-3.png",
+    "/images/products/kifix/kf-211-311-411-ds-a/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo vertical"
+    }
+  ],
+  "weight": "0,560 (1,234)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230344,
+      "sku": "KF-211 DS A",
+      "label": "KF-211 DS A",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "160 (352)"
+        },
+        {
+          "name": "A (in)",
+          "value": "207 (8,15)"
+        },
+        {
+          "name": "B (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "C (in)",
+          "value": "65 (2,56)"
+        },
+        {
+          "name": "C1 (in)",
+          "value": "67,5 (2,66)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "F (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "G (in)",
+          "value": "46,5 (1,83)"
+        },
+        {
+          "name": "H (in)",
+          "value": "79 (3,11)"
+        },
+        {
+          "name": "H1 (in)",
+          "value": "61 (2,40)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M6"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "88"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,560 (1,234)"
+        }
+      ],
+      "weight": "0,560 (1,234)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230345,
+      "sku": "KF-311 DS A",
+      "label": "KF-311 DS A",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "240 (528)"
+        },
+        {
+          "name": "A (in)",
+          "value": "260 (10,24)"
+        },
+        {
+          "name": "B (in)",
+          "value": "166 (6,54)"
+        },
+        {
+          "name": "C (in)",
+          "value": "90 (3,54)"
+        },
+        {
+          "name": "C1 (in)",
+          "value": "90 (3,54)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "E (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "F (in)",
+          "value": "49 (1,93)"
+        },
+        {
+          "name": "G (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "H (in)",
+          "value": "106 (4,17)"
+        },
+        {
+          "name": "H1 (in)",
+          "value": "78 (3,07)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M8"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "97"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,240 (2,734)"
+        }
+      ],
+      "weight": "1,240 (2,734)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230346,
+      "sku": "KF-411 DS A",
+      "label": "KF-411 DS A",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "560 (1234)"
+        },
+        {
+          "name": "A (in)",
+          "value": "321 (12,64)"
+        },
+        {
+          "name": "B (in)",
+          "value": "200 (7,87)"
+        },
+        {
+          "name": "C (in)",
+          "value": "113 (4,45)"
+        },
+        {
+          "name": "C1 (in)",
+          "value": "114 (4,49)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "E (in)",
+          "value": "45 (1,77)"
+        },
+        {
+          "name": "F (in)",
+          "value": "55 (2,17)"
+        },
+        {
+          "name": "G (in)",
+          "value": "67 (2,64)"
+        },
+        {
+          "name": "H (in)",
+          "value": "134 (5,28)"
+        },
+        {
+          "name": "H1 (in)",
+          "value": "92 (3,62)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M10"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "100"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "2,250 (4,960)"
+        }
+      ],
+      "weight": "2,250 (4,960)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "C1 (in)",
+        "D (in)",
+        "E (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "H1 (in)",
+        "J (in)",
+        "PONTEIRA",
+        "ÂNGULO DE ABERTURA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-211 DS A",
+          "160 (352)",
+          "207 (8,15)",
+          "120 (4,72)",
+          "65 (2,56)",
+          "67,5 (2,66)",
+          "19 (0,75)",
+          "32 (1,26)",
+          "35 (1,38)",
+          "46,5 (1,83)",
+          "79 (3,11)",
+          "61 (2,40)",
+          "7,0 (0,28)",
+          "M6",
+          "88",
+          "0,560 (1,234)"
+        ],
+        [
+          "KF-311 DS A",
+          "240 (528)",
+          "260 (10,24)",
+          "166 (6,54)",
+          "90 (3,54)",
+          "90 (3,54)",
+          "32 (1,26)",
+          "44 (1,73)",
+          "49 (1,93)",
+          "60 (2,36)",
+          "106 (4,17)",
+          "78 (3,07)",
+          "8,5 (0,33)",
+          "M8",
+          "97",
+          "1,240 (2,734)"
+        ],
+        [
+          "KF-411 DS A",
+          "560 (1234)",
+          "321 (12,64)",
+          "200 (7,87)",
+          "113 (4,45)",
+          "114 (4,49)",
+          "32 (1,26)",
+          "45 (1,77)",
+          "55 (2,17)",
+          "67 (2,64)",
+          "134 (5,28)",
+          "92 (3,62)",
+          "8,5 (0,33)",
+          "M10",
+          "100",
+          "2,250 (4,960)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-211-311-411-ds-a/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

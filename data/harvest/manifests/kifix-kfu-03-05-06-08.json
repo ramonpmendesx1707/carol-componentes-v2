@@ -1,0 +1,1261 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kfu-03-05-06-08/",
+  "fetchedAt": "2026-10-20T12:58:01.766Z",
+  "product": {
+    "id": 202083,
+    "slug": "kifix-kfu-03-05-06-08",
+    "name": "KFU-03/05/06/08",
+    "sku": "KFU-03/05/06/08",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kfu-03-05-06-08/",
+    "type": "product",
+    "summary": "Linha Grampo vertical Kifix modelo KFU-03/05/06/08, com 13 referências dimensionais.",
+    "description": "<p>Linha Grampo vertical Kifix modelo KFU-03/05/06/08, com 13 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo vertical",
+        "slug": "grampo-vertical"
+      }
+    ],
+    "image": "/images/products/kifix/kfu-03-05-06-08/foto-1.png",
+    "images": [
+      "/images/products/kifix/kfu-03-05-06-08/foto-1.png",
+      "/images/products/kifix/kfu-03-05-06-08/foto-2.png",
+      "/images/products/kifix/kfu-03-05-06-08/foto-3.png",
+      "/images/products/kifix/kfu-03-05-06-08/foto-4.png",
+      "/images/products/kifix/kfu-03-05-06-08/foto-5.png",
+      "/images/products/kifix/kfu-03-05-06-08/foto-6.png",
+      "/images/products/kifix/kfu-03-05-06-08/foto-7.png",
+      "/images/products/kifix/kfu-03-05-06-08/foto-8.png",
+      "/images/products/kifix/kfu-03-05-06-08/foto-9.png",
+      "/images/products/kifix/kfu-03-05-06-08/foto-10.png",
+      "/images/products/kifix/kfu-03-05-06-08/foto-11.png",
+      "/images/products/kifix/kfu-03-05-06-08/desenho-1.jpg",
+      "/images/products/kifix/kfu-03-05-06-08/desenho-2.jpg",
+      "/images/products/kifix/kfu-03-05-06-08/desenho-3.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo vertical"
+      }
+    ],
+    "weight": "0,670 (1,477)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230532,
+        "sku": "KFU-03 A",
+        "label": "KFU-03 A",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "680 (1499)"
+          },
+          {
+            "name": "A (in)",
+            "value": "105 (4,13)"
+          },
+          {
+            "name": "B (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "C (in)",
+            "value": "72 (2,83)"
+          },
+          {
+            "name": "D (in)",
+            "value": "-"
+          },
+          {
+            "name": "E (in)",
+            "value": "9,5 (0,37)"
+          },
+          {
+            "name": "F (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "-"
+          },
+          {
+            "name": "I (in)",
+            "value": "-"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M6"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "200"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,670 (1,477)"
+          }
+        ],
+        "weight": "0,670 (1,477)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230533,
+        "sku": "KFU-03 D",
+        "label": "KFU-03 D",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "680 (1499)"
+          },
+          {
+            "name": "A (in)",
+            "value": "112 (4,41)"
+          },
+          {
+            "name": "B (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "C (in)",
+            "value": "72 (2,83)"
+          },
+          {
+            "name": "D (in)",
+            "value": "24,5 (0,96)"
+          },
+          {
+            "name": "E (in)",
+            "value": "51 (2,01)"
+          },
+          {
+            "name": "F (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "34,5 (1,36)"
+          },
+          {
+            "name": "I (in)",
+            "value": "6,35 (0,25)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M6"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "200"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,760 (1,67)"
+          }
+        ],
+        "weight": "0,760 (1,67)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230534,
+        "sku": "KFU-03 R",
+        "label": "KFU-03 R",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "680 (1499)"
+          },
+          {
+            "name": "A (in)",
+            "value": "130 (5,12)"
+          },
+          {
+            "name": "B (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "C (in)",
+            "value": "68 (2,68)"
+          },
+          {
+            "name": "D (in)",
+            "value": "-"
+          },
+          {
+            "name": "E (in)",
+            "value": "9,5 (0,37)"
+          },
+          {
+            "name": "F (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "G (in)",
+            "value": "18 (0,71)"
+          },
+          {
+            "name": "H (in)",
+            "value": "-"
+          },
+          {
+            "name": "I (in)",
+            "value": "-"
+          },
+          {
+            "name": "J (in)",
+            "value": "-"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M6"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "200"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,730 (1,609)"
+          }
+        ],
+        "weight": "0,730 (1,609)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230535,
+        "sku": "KFU-03 R AG",
+        "label": "KFU-03 R AG",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "680 (1499)"
+          },
+          {
+            "name": "A (in)",
+            "value": "254 (10)"
+          },
+          {
+            "name": "B (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "C (in)",
+            "value": "83 (3,27)"
+          },
+          {
+            "name": "D (in)",
+            "value": "-"
+          },
+          {
+            "name": "E (in)",
+            "value": "9,5 (0,37)"
+          },
+          {
+            "name": "F (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "G (in)",
+            "value": "16 (0,630)"
+          },
+          {
+            "name": "H (in)",
+            "value": "-"
+          },
+          {
+            "name": "I (in)",
+            "value": "-"
+          },
+          {
+            "name": "J (in)",
+            "value": "-"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M6"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "200"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,730 (1,609)"
+          }
+        ],
+        "weight": "0,730 (1,609)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230536,
+        "sku": "KFU-05 A",
+        "label": "KFU-05 A",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1000 (2200)"
+          },
+          {
+            "name": "A (in)",
+            "value": "145 (5,71)"
+          },
+          {
+            "name": "B (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "C (in)",
+            "value": "98 (3,86)"
+          },
+          {
+            "name": "D (in)",
+            "value": "-"
+          },
+          {
+            "name": "E (in)",
+            "value": "12,7 (0,50)"
+          },
+          {
+            "name": "F (in)",
+            "value": "47 (1,85)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "-"
+          },
+          {
+            "name": "I (in)",
+            "value": "-"
+          },
+          {
+            "name": "J (in)",
+            "value": "10,5 (0,41)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "200"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,170 (2,579)"
+          }
+        ],
+        "weight": "1,170 (2,579)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230537,
+        "sku": "KFU-05 D",
+        "label": "KFU-05 D",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1000 (2200)"
+          },
+          {
+            "name": "A (in)",
+            "value": "153 (6,02)"
+          },
+          {
+            "name": "B (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "C (in)",
+            "value": "98 (3,86)"
+          },
+          {
+            "name": "D (in)",
+            "value": "31,5 (1,24)"
+          },
+          {
+            "name": "E (in)",
+            "value": "64 (2,52)"
+          },
+          {
+            "name": "F (in)",
+            "value": "47 (1,85)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "45 (1,77)"
+          },
+          {
+            "name": "I (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "200"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,380 (3,042)"
+          }
+        ],
+        "weight": "1,380 (3,042)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230538,
+        "sku": "KFU-05 R",
+        "label": "KFU-05 R",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1000 (2200)"
+          },
+          {
+            "name": "A (in)",
+            "value": "170 (6,69)"
+          },
+          {
+            "name": "B (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "C (in)",
+            "value": "92 (3,62)"
+          },
+          {
+            "name": "D (in)",
+            "value": "-"
+          },
+          {
+            "name": "E (in)",
+            "value": "13,7 (0,50)"
+          },
+          {
+            "name": "F (in)",
+            "value": "47 (1,85)"
+          },
+          {
+            "name": "G (in)",
+            "value": "22 (0,87)"
+          },
+          {
+            "name": "H (in)",
+            "value": "-"
+          },
+          {
+            "name": "I (in)",
+            "value": "-"
+          },
+          {
+            "name": "J (in)",
+            "value": "-"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "200"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,240 (2,734)"
+          }
+        ],
+        "weight": "1,240 (2,734)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230539,
+        "sku": "KFU-06 A",
+        "label": "KFU-06 A",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "2200 (4850)"
+          },
+          {
+            "name": "A (in)",
+            "value": "176 (6,93)"
+          },
+          {
+            "name": "B (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "C (in)",
+            "value": "118 (4,65)"
+          },
+          {
+            "name": "D (in)",
+            "value": "-"
+          },
+          {
+            "name": "E (in)",
+            "value": "15,9 (0,63)"
+          },
+          {
+            "name": "F (in)",
+            "value": "66 (2,60)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "-"
+          },
+          {
+            "name": "I (in)",
+            "value": "-"
+          },
+          {
+            "name": "J (in)",
+            "value": "12,5 (0,49)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "200"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "2,720 (5,996)"
+          }
+        ],
+        "weight": "2,720 (5,996)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230540,
+        "sku": "KFU-06 D",
+        "label": "KFU-06 D",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "2200 (4850)"
+          },
+          {
+            "name": "A (in)",
+            "value": "186 (7,32)"
+          },
+          {
+            "name": "B (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "C (in)",
+            "value": "118 (4,65)"
+          },
+          {
+            "name": "D (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "E (in)",
+            "value": "80 (3,15)"
+          },
+          {
+            "name": "F (in)",
+            "value": "66 (2,60)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "I (in)",
+            "value": "9,5 (0,37)"
+          },
+          {
+            "name": "J (in)",
+            "value": "10,5 (0,41)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "200"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "3,110 (6,856)"
+          }
+        ],
+        "weight": "3,110 (6,856)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230541,
+        "sku": "KFU-06 R",
+        "label": "KFU-06 R",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "2200 (4850)"
+          },
+          {
+            "name": "A (in)",
+            "value": "211 (8,31)"
+          },
+          {
+            "name": "B (in)",
+            "value": "65 (2,56)"
+          },
+          {
+            "name": "C (in)",
+            "value": "114 (4,49)"
+          },
+          {
+            "name": "D (in)",
+            "value": "-"
+          },
+          {
+            "name": "E (in)",
+            "value": "15,9 (0,63)"
+          },
+          {
+            "name": "F (in)",
+            "value": "66 (2,60)"
+          },
+          {
+            "name": "G (in)",
+            "value": "29 (1,14)"
+          },
+          {
+            "name": "H (in)",
+            "value": "-"
+          },
+          {
+            "name": "I (in)",
+            "value": "-"
+          },
+          {
+            "name": "J (in)",
+            "value": "-"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "200"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "2,900 (6,393)"
+          }
+        ],
+        "weight": "2,900 (6,393)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230542,
+        "sku": "KFU-08 A",
+        "label": "KFU-08 A",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "3500 (7700)"
+          },
+          {
+            "name": "A (in)",
+            "value": "247 (9,72)"
+          },
+          {
+            "name": "B (in)",
+            "value": "84 (3,31)"
+          },
+          {
+            "name": "C (in)",
+            "value": "177 (6,97)"
+          },
+          {
+            "name": "D (in)",
+            "value": "-"
+          },
+          {
+            "name": "E (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "F (in)",
+            "value": "72,5 (2,85)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "-"
+          },
+          {
+            "name": "I (in)",
+            "value": "-"
+          },
+          {
+            "name": "J (in)",
+            "value": "13,0 (0,51)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M12"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "200"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "6,440 (14,198)"
+          }
+        ],
+        "weight": "6,440 (14,198)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230543,
+        "sku": "KFU-08 D",
+        "label": "KFU-08 D",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "3500 (7700)"
+          },
+          {
+            "name": "A (in)",
+            "value": "260 (10,24)"
+          },
+          {
+            "name": "B (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "C (in)",
+            "value": "177 (6,97)"
+          },
+          {
+            "name": "D (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "E (in)",
+            "value": "150 (5,91)"
+          },
+          {
+            "name": "F (in)",
+            "value": "72,5 (2,85)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "I (in)",
+            "value": "12,7 (0,50)"
+          },
+          {
+            "name": "J (in)",
+            "value": "10,5 (0,41)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M12"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "200"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "7,830 (17,262)"
+          }
+        ],
+        "weight": "7,830 (17,262)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230544,
+        "sku": "KFU-08 R",
+        "label": "KFU-08 R",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "3500 (7700)"
+          },
+          {
+            "name": "A (in)",
+            "value": "273 (10,75)"
+          },
+          {
+            "name": "B (in)",
+            "value": "80,6 (3,17)"
+          },
+          {
+            "name": "C (in)",
+            "value": "177 (6,97)"
+          },
+          {
+            "name": "D (in)",
+            "value": "-"
+          },
+          {
+            "name": "E (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "F (in)",
+            "value": "72,5 (2,85)"
+          },
+          {
+            "name": "G (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "H (in)",
+            "value": "-"
+          },
+          {
+            "name": "I (in)",
+            "value": "-"
+          },
+          {
+            "name": "J (in)",
+            "value": "-"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M12"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "200"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "6,270 (13,822)"
+          }
+        ],
+        "weight": "6,270 (13,822)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "I (in)",
+          "J (in)",
+          "PONTEIRA",
+          "ÂNGULO DE ABERTURA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KFU-03 A",
+            "680 (1499)",
+            "105 (4,13)",
+            "42 (1,65)",
+            "72 (2,83)",
+            "-",
+            "9,5 (0,37)",
+            "42 (1,65)",
+            "-",
+            "-",
+            "-",
+            "8,5 (0,33)",
+            "M6",
+            "200",
+            "0,670 (1,477)"
+          ],
+          [
+            "KFU-03 D",
+            "680 (1499)",
+            "112 (4,41)",
+            "40 (1,57)",
+            "72 (2,83)",
+            "24,5 (0,96)",
+            "51 (2,01)",
+            "42 (1,65)",
+            "-",
+            "34,5 (1,36)",
+            "6,35 (0,25)",
+            "7,0",
+            "M6",
+            "200",
+            "0,760 (1,67)"
+          ],
+          [
+            "KFU-03 R",
+            "680 (1499)",
+            "130 (5,12)",
+            "40 (1,57)",
+            "68 (2,68)",
+            "-",
+            "9,5 (0,37)",
+            "42 (1,65)",
+            "18 (0,71)",
+            "-",
+            "-",
+            "-",
+            "M6",
+            "200",
+            "0,730 (1,609)"
+          ],
+          [
+            "KFU-03 R AG",
+            "680 (1499)",
+            "254 (10)",
+            "40 (1,57)",
+            "83 (3,27)",
+            "-",
+            "9,5 (0,37)",
+            "42 (1,65)",
+            "16 (0,630)",
+            "-",
+            "-",
+            "-",
+            "M6",
+            "200",
+            "0,730 (1,609)"
+          ],
+          [
+            "KFU-05 A",
+            "1000 (2200)",
+            "145 (5,71)",
+            "60 (2,36)",
+            "98 (3,86)",
+            "-",
+            "12,7 (0,50)",
+            "47 (1,85)",
+            "-",
+            "-",
+            "-",
+            "10,5 (0,41)",
+            "M10",
+            "200",
+            "1,170 (2,579)"
+          ],
+          [
+            "KFU-05 D",
+            "1000 (2200)",
+            "153 (6,02)",
+            "55 (2,17)",
+            "98 (3,86)",
+            "31,5 (1,24)",
+            "64 (2,52)",
+            "47 (1,85)",
+            "-",
+            "45 (1,77)",
+            "8 (0,31)",
+            "8,5 (0,33)",
+            "M10",
+            "200",
+            "1,380 (3,042)"
+          ],
+          [
+            "KFU-05 R",
+            "1000 (2200)",
+            "170 (6,69)",
+            "50 (1,97)",
+            "92 (3,62)",
+            "-",
+            "13,7 (0,50)",
+            "47 (1,85)",
+            "22 (0,87)",
+            "-",
+            "-",
+            "-",
+            "M10",
+            "200",
+            "1,240 (2,734)"
+          ],
+          [
+            "KFU-06 A",
+            "2200 (4850)",
+            "176 (6,93)",
+            "70 (2,76)",
+            "118 (4,65)",
+            "-",
+            "15,9 (0,63)",
+            "66 (2,60)",
+            "-",
+            "-",
+            "-",
+            "12,5 (0,49)",
+            "M10",
+            "200",
+            "2,720 (5,996)"
+          ],
+          [
+            "KFU-06 D",
+            "2200 (4850)",
+            "186 (7,32)",
+            "70 (2,76)",
+            "118 (4,65)",
+            "40 (1,57)",
+            "80 (3,15)",
+            "66 (2,60)",
+            "-",
+            "50 (1,97)",
+            "9,5 (0,37)",
+            "10,5 (0,41)",
+            "M10",
+            "200",
+            "3,110 (6,856)"
+          ],
+          [
+            "KFU-06 R",
+            "2200 (4850)",
+            "211 (8,31)",
+            "65 (2,56)",
+            "114 (4,49)",
+            "-",
+            "15,9 (0,63)",
+            "66 (2,60)",
+            "29 (1,14)",
+            "-",
+            "-",
+            "-",
+            "M10",
+            "200",
+            "2,900 (6,393)"
+          ],
+          [
+            "KFU-08 A",
+            "3500 (7700)",
+            "247 (9,72)",
+            "84 (3,31)",
+            "177 (6,97)",
+            "-",
+            "19 (0,75)",
+            "72,5 (2,85)",
+            "-",
+            "-",
+            "-",
+            "13,0 (0,51)",
+            "M12",
+            "200",
+            "6,440 (14,198)"
+          ],
+          [
+            "KFU-08 D",
+            "3500 (7700)",
+            "260 (10,24)",
+            "100 (3,94)",
+            "177 (6,97)",
+            "70 (2,76)",
+            "150 (5,91)",
+            "72,5 (2,85)",
+            "-",
+            "120 (4,72)",
+            "12,7 (0,50)",
+            "10,5 (0,41)",
+            "M12",
+            "200",
+            "7,830 (17,262)"
+          ],
+          [
+            "KFU-08 R",
+            "3500 (7700)",
+            "273 (10,75)",
+            "80,6 (3,17)",
+            "177 (6,97)",
+            "-",
+            "19 (0,75)",
+            "72,5 (2,85)",
+            "35 (1,38)",
+            "-",
+            "-",
+            "-",
+            "M12",
+            "200",
+            "6,270 (13,822)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kfu-03-05-06-08/desenho-1.jpg",
+          "/images/products/kifix/kfu-03-05-06-08/desenho-2.jpg",
+          "/images/products/kifix/kfu-03-05-06-08/desenho-3.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kfu-03-05-06-08/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/629_KFU_03A83.png",
+      "bytes": 406754,
+      "sha256": "5bf31c2b9f444055e74c481ebfaca0d0dbad8322ba57fcaf5419cebb976c6d38"
+    },
+    {
+      "path": "/images/products/kifix/kfu-03-05-06-08/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/630_KFU_03D85.png",
+      "bytes": 464202,
+      "sha256": "1441d638ff3489e8d567b9ea8841f3a3cedefc8fa24537f34a36377082492a3d"
+    },
+    {
+      "path": "/images/products/kifix/kfu-03-05-06-08/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/631_KFU_03R86.png",
+      "bytes": 421083,
+      "sha256": "2ff45a82c0cc41ddab3981a0686b85ea451855b98043dba26a363647a60178fa"
+    },
+    {
+      "path": "/images/products/kifix/kfu-03-05-06-08/foto-4.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1074_KFU03RAG.png",
+      "bytes": 1252519,
+      "sha256": "b345eae3919563a9cdb1f5caa18892b666605711776f60870faeb602e9c07174"
+    },
+    {
+      "path": "/images/products/kifix/kfu-03-05-06-08/foto-5.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/640_KFU_05_A90.png",
+      "bytes": 343455,
+      "sha256": "6c357118cf47265f4507e497794699e9c1e1d5a1f93c59177626e9888154ee38"
+    },
+    {
+      "path": "/images/products/kifix/kfu-03-05-06-08/foto-6.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/632_KFU_05D88.png",
+      "bytes": 387879,
+      "sha256": "839550249f614854ad970a7c7dacd72b94f13c9a67aaf62cef14c4197c5d8f33"
+    },
+    {
+      "path": "/images/products/kifix/kfu-03-05-06-08/foto-7.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/633_KFU_05R88.png",
+      "bytes": 330477,
+      "sha256": "5f7243ecf0265a56bfb70a16103b89395ac1e650a0da9123e30d5a618e839c58"
+    },
+    {
+      "path": "/images/products/kifix/kfu-03-05-06-08/foto-8.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1075_KFU05RAG.png",
+      "bytes": 1147853,
+      "sha256": "562b0cc08c8b7f9d3f5bd6fad680d32193585618853e1aa6bfd57cb5a22e563f"
+    },
+    {
+      "path": "/images/products/kifix/kfu-03-05-06-08/foto-9.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/636_KFU_06D91.png",
+      "bytes": 316089,
+      "sha256": "856dd4fb4c5f424ac8f95012e4b34f5bab3d8a10fe4be1de56102572b4d37a5e"
+    },
+    {
+      "path": "/images/products/kifix/kfu-03-05-06-08/foto-10.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/635_KFU_06D90.png",
+      "bytes": 358530,
+      "sha256": "a80faf98717985feb64d5908ce829ce9d590a526a288ab9ea8f9936b4d146cfd"
+    },
+    {
+      "path": "/images/products/kifix/kfu-03-05-06-08/foto-11.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/634_KFU_06A88.png",
+      "bytes": 362843,
+      "sha256": "fda41b7b78b32653f99c59ec2cd4a7066f11c13a50c062eddd2c36f37793bf37"
+    },
+    {
+      "path": "/images/products/kifix/kfu-03-05-06-08/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/230_KFU_A.JPG",
+      "bytes": 96069,
+      "sha256": "a609f041920bba22f7bc805793d084cb933b0c7b1e980a3be275047cb65a6e04"
+    },
+    {
+      "path": "/images/products/kifix/kfu-03-05-06-08/desenho-2.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/231_KFU_D.JPG",
+      "bytes": 98003,
+      "sha256": "6684b6062c42f90cafbcc82835e019910239f8499be0c8524847d21be1c9b29f"
+    },
+    {
+      "path": "/images/products/kifix/kfu-03-05-06-08/desenho-3.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/232_KFU_R.JPG",
+      "bytes": 88079,
+      "sha256": "499b8dfbd168ba1992f51c12d97910034a71c259c529c5b116073415fce4ba4b"
+    }
+  ],
+  "checks": {
+    "variants": 13,
+    "photos": 11,
+    "drawings": 3,
+    "tableRows": 13
+  }
+}

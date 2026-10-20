@@ -1,0 +1,1485 @@
+{
+  "id": 203011,
+  "slug": "carolfix-pinos-elasticos-pesados-din-1481",
+  "name": "Pinos Elásticos Tubulares Pesados DIN 1481",
+  "sku": "DIN 1481 / ISO 8752",
+  "brand": "Padrão DIN",
+  "supplier": "Padrão DIN",
+  "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=22",
+  "type": "product",
+  "summary": "Pinos elásticos tubulares longitudinais em aço mola para travamento de elementos de máquinas.",
+  "description": "<p>Pinos de fixação elásticos padrão pesado conforme norma DIN 1481 (ISO 8752), temperados e revenidos.</p>",
+  "categories": [
+    {
+      "id": 212,
+      "name": "Ferramentaria",
+      "slug": "ferramentaria"
+    }
+  ],
+  "image": "/images/products/carolfix/pinos-elasticos-pesados-din-1481/pagina-22.png",
+  "images": [
+    "/images/products/carolfix/pinos-elasticos-pesados-din-1481/pagina-22.png"
+  ],
+  "attributes": [
+    {
+      "name": "Norma / Padrão",
+      "value": "DIN 1481 / ISO 8752"
+    },
+    {
+      "name": "Fonte documental",
+      "value": "Catálogo Técnico Carolfix, Página 22"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240645,
+      "sku": "e Diâmentro Nomindal 1",
+      "label": "e Diâmentro Nomindal 1",
+      "attributes": [
+        {
+          "name": "1 1,5 2 2,5 3 3,5 Dime4nsões 4(,m5 m) 5 6 8 10 12 13",
+          "value": "0,2 1,5 1,2"
+        },
+        {
+          "name": "",
+          "value": "0,3 2 1,7"
+        },
+        {
+          "name": "",
+          "value": "0,4 2,5 2,3"
+        },
+        {
+          "name": "",
+          "value": "0,5 3 2,8"
+        },
+        {
+          "name": "",
+          "value": "0,6 3,5 3,3"
+        },
+        {
+          "name": "",
+          "value": "0,75 4 3,8"
+        },
+        {
+          "name": "",
+          "value": "0,8 4,5 4,4"
+        },
+        {
+          "name": "",
+          "value": "1 5 4,9"
+        },
+        {
+          "name": "",
+          "value": "1 6 5,4"
+        },
+        {
+          "name": "",
+          "value": "1,25 8 6,4"
+        },
+        {
+          "name": "",
+          "value": "1,5 10 8,5"
+        },
+        {
+          "name": "",
+          "value": "2 12 10,5"
+        },
+        {
+          "name": "",
+          "value": "2,5 14 12,5"
+        },
+        {
+          "name": "",
+          "value": "2,5 16 13,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240646,
+      "sku": "s",
+      "label": "s",
+      "attributes": [
+        {
+          "name": "1 1,5 2 2,5 3 3,5 Dime4nsões 4(,m5 m) 5 6 8 10 12 13",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,75"
+        },
+        {
+          "name": "",
+          "value": "0,8"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "1,25"
+        },
+        {
+          "name": "",
+          "value": "1,5"
+        },
+        {
+          "name": "",
+          "value": "2"
+        },
+        {
+          "name": "",
+          "value": "2,5"
+        },
+        {
+          "name": "",
+          "value": "3"
+        },
+        {
+          "name": "",
+          "value": "3"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240647,
+      "sku": "Tol. s",
+      "label": "Tol. s",
+      "attributes": [
+        {
+          "name": "1 1,5 2 2,5 3 3,5 Dime4nsões 4(,m5 m) 5 6 8 10 12 13",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,75"
+        },
+        {
+          "name": "",
+          "value": "0,8"
+        },
+        {
+          "name": "",
+          "value": "+0,2 1"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "1,25"
+        },
+        {
+          "name": "",
+          "value": "1,5"
+        },
+        {
+          "name": "",
+          "value": "2"
+        },
+        {
+          "name": "",
+          "value": "+0,3 2,5"
+        },
+        {
+          "name": "",
+          "value": "3"
+        },
+        {
+          "name": "",
+          "value": "3"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240648,
+      "sku": "*dR1ciz(kgf )",
+      "label": "*dR1ciz(kgf )",
+      "attributes": [
+        {
+          "name": "1 1,5 2 2,5 3 3,5 Dime4nsões 4(,m5 m) 5 6 8 10 12 13",
+          "value": "31,47"
+        },
+        {
+          "name": "",
+          "value": "726,3"
+        },
+        {
+          "name": "",
+          "value": "12,386"
+        },
+        {
+          "name": "",
+          "value": "213,23"
+        },
+        {
+          "name": "",
+          "value": "330,85"
+        },
+        {
+          "name": "",
+          "value": "443,74"
+        },
+        {
+          "name": "",
+          "value": "544,39"
+        },
+        {
+          "name": "",
+          "value": "754,24"
+        },
+        {
+          "name": "",
+          "value": "864,48"
+        },
+        {
+          "name": "",
+          "value": "182,559"
+        },
+        {
+          "name": "",
+          "value": "21006,57"
+        },
+        {
+          "name": "",
+          "value": "31329,52"
+        },
+        {
+          "name": "",
+          "value": "51043,56"
+        },
+        {
+          "name": "",
+          "value": "5165,656"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240649,
+      "sku": "Tol. Compri",
+      "label": "Tol. Compri",
+      "attributes": [
+        {
+          "name": "1 1,5 2 2,5 3 3,5 Dime4nsões 4(,m5 m) 5 6 8 10 12 13",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240650,
+      "sku": "*Rcis (kgf) -mento",
+      "label": "*Rcis (kgf) -mento",
+      "attributes": [
+        {
+          "name": "1 1,5 2 2,5 3 3,5 Dime4nsões 4(,m5 m) 5 6 8 10 12 13",
+          "value": "76"
+        },
+        {
+          "name": "",
+          "value": "136"
+        },
+        {
+          "name": "",
+          "value": "212"
+        },
+        {
+          "name": "",
+          "value": "305"
+        },
+        {
+          "name": "",
+          "value": "437"
+        },
+        {
+          "name": "",
+          "value": "543"
+        },
+        {
+          "name": "",
+          "value": "742"
+        },
+        {
+          "name": "",
+          "value": "848"
+        },
+        {
+          "name": "",
+          "value": "1259"
+        },
+        {
+          "name": "",
+          "value": "2067"
+        },
+        {
+          "name": "",
+          "value": "3392"
+        },
+        {
+          "name": "",
+          "value": "5036"
+        },
+        {
+          "name": "",
+          "value": "6997"
+        },
+        {
+          "name": "",
+          "value": "8270"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240651,
+      "sku": "Comprimento L L Tol.",
+      "label": "Comprimento L L Tol.",
+      "attributes": [
+        {
+          "name": "1 1,5 2 2,5 3 3,5 Dime4nsões 4(,m5 m) 5 6 8 10 12 13",
+          "value": "*Rcis é a resistência as cisalhamento unilateral sem fator de segurança, que deverá ser determinado pelo usuário."
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240652,
+      "sku": "55 C P",
+      "label": "55 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240653,
+      "sku": "66 C +0,5 P",
+      "label": "66 C +0,5 P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240654,
+      "sku": "88 C P",
+      "label": "88 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240655,
+      "sku": "1010 C P",
+      "label": "1010 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240656,
+      "sku": "1212 C P",
+      "label": "1212 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240657,
+      "sku": "1414 C P",
+      "label": "1414 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240658,
+      "sku": "1616 C P",
+      "label": "1616 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240659,
+      "sku": "1818 C P",
+      "label": "1818 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240660,
+      "sku": "2020 C P",
+      "label": "2020 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240661,
+      "sku": "2222 C P",
+      "label": "2222 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240662,
+      "sku": "2424 C P",
+      "label": "2424 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240663,
+      "sku": "2626 +1 C P",
+      "label": "2626 +1 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240664,
+      "sku": "2828 C P",
+      "label": "2828 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240665,
+      "sku": "3030 C P",
+      "label": "3030 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240666,
+      "sku": "3232 C P",
+      "label": "3232 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240667,
+      "sku": "3636 C P",
+      "label": "3636 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240668,
+      "sku": "4040 C P",
+      "label": "4040 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240669,
+      "sku": "4545 C P",
+      "label": "4545 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240670,
+      "sku": "5050 C P",
+      "label": "5050 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240671,
+      "sku": "5555 C P",
+      "label": "5555 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240672,
+      "sku": "6060 C P",
+      "label": "6060 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240673,
+      "sku": "6565 C P",
+      "label": "6565 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240674,
+      "sku": "7070 C P",
+      "label": "7070 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240675,
+      "sku": "7575 C P",
+      "label": "7575 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240676,
+      "sku": "8080 C P",
+      "label": "8080 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240677,
+      "sku": "8585 C P",
+      "label": "8585 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240678,
+      "sku": "+1,5 9090 C P",
+      "label": "+1,5 9090 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240679,
+      "sku": "9595 C P",
+      "label": "9595 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240680,
+      "sku": "110000 C P",
+      "label": "110000 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240681,
+      "sku": "112020 C P",
+      "label": "112020 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240682,
+      "sku": "114040 C P",
+      "label": "114040 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240683,
+      "sku": "116060 C P",
+      "label": "116060 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240684,
+      "sku": "118080 C P",
+      "label": "118080 C P",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240685,
+      "sku": "200",
+      "label": "200",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Catálogo Técnico Carolfix (Página 22)",
+      "url": "/downloads/catalogo-carol-componentes.pdf#page=22",
+      "kind": "pdf",
+      "note": "Referência técnica oficial extraída do catálogo histórico de 60 páginas."
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela Técnica Dimensional — Página 22",
+      "columns": [
+        "Diâmetro Nominal",
+        "1 1,5 2 2,5 3 3,5 Dime4nsões 4(,m5 m) 5 6 8 10 12 13",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "e Diâmentro Nomindal 1",
+          "0,2 1,5 1,2",
+          "0,3 2 1,7",
+          "0,4 2,5 2,3",
+          "0,5 3 2,8",
+          "0,6 3,5 3,3",
+          "0,75 4 3,8",
+          "0,8 4,5 4,4",
+          "1 5 4,9",
+          "1 6 5,4",
+          "1,25 8 6,4",
+          "1,5 10 8,5",
+          "2 12 10,5",
+          "2,5 14 12,5",
+          "2,5 16 13,5"
+        ],
+        [
+          "s",
+          "0,3",
+          "0,4",
+          "0,5",
+          "0,6",
+          "0,75",
+          "0,8",
+          "1",
+          "1",
+          "1,25",
+          "1,5",
+          "2",
+          "2,5",
+          "3",
+          "3"
+        ],
+        [
+          "Tol. s",
+          "0,3",
+          "0,4",
+          "0,5",
+          "0,6",
+          "0,75",
+          "0,8",
+          "+0,2 1",
+          "1",
+          "1,25",
+          "1,5",
+          "2",
+          "+0,3 2,5",
+          "3",
+          "3"
+        ],
+        [
+          "*dR1ciz(kgf )",
+          "31,47",
+          "726,3",
+          "12,386",
+          "213,23",
+          "330,85",
+          "443,74",
+          "544,39",
+          "754,24",
+          "864,48",
+          "182,559",
+          "21006,57",
+          "31329,52",
+          "51043,56",
+          "5165,656"
+        ],
+        [
+          "Tol. Compri",
+          "0,1",
+          "0,1",
+          "0,1",
+          "0,2",
+          "0,2",
+          "0,2",
+          "0,2",
+          "0,2",
+          "0,3",
+          "0,3",
+          "0,3",
+          "0,3",
+          "0,3",
+          "0,3"
+        ],
+        [
+          "*Rcis (kgf) -mento",
+          "76",
+          "136",
+          "212",
+          "305",
+          "437",
+          "543",
+          "742",
+          "848",
+          "1259",
+          "2067",
+          "3392",
+          "5036",
+          "6997",
+          "8270"
+        ],
+        [
+          "Comprimento L L Tol.",
+          "*Rcis é a resistência as cisalhamento unilateral sem fator de segurança, que deverá ser determinado pelo usuário.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "55 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "66 C +0,5 P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "88 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1010 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1212 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1414 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1616 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1818 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2020 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2222 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2424 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2626 +1 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2828 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3030 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3232 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3636 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "4040 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "4545 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "5050 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "5555 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "6060 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "6565 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "7070 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "7575 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "8080 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "8585 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "+1,5 9090 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "9595 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "110000 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "112020 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "114040 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "116060 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "118080 C P",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "200",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "note": "Dados extraídos diretamente da página 22 do catálogo técnico Carolfix."
+    }
+  ],
+  "homepage": false
+}

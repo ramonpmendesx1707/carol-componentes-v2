@@ -75,5 +75,62 @@
   ],
   "headings": [
     "Vibra-Stop Ventosa"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-videos",
+      "label": "Vídeo",
+      "text": "play_arrow\nvolume_up\n0:00 / 0:59\nfullscreen",
+      "images": [],
+      "videos": [
+        "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-ventosa.mp4"
+      ],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/VENTOSA/Ventosa%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/VENTOSA/Ventosa%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade de Carga\tDeflexão\tParafuso\tAltura\tAltura\tDiâmetro\nMedidas\tKgf\tmm/Kgf\t(d)\t(H) mm\t(h) mm\t(D) mm\nVT I\t5 a 25\t3,85/25\t1/4”, 5/16”\t40\t20\t40\nVT II\t25 a 40\t5,11/40\t5/16”, 3/8”\t65\t35\t60\nVT III\t40 a 60\t5,7/60\t3/8”, 1/2\"\t70\t40\t80\nVT IV\t60 a 150\t4,68/150\t1/2\", M12\t90\t50\t150",
+      "images": [],
+      "videos": [],
+      "tables": [
+        6
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/VENTOSA/Manual%20de%20Instalacao%20-%20VENTOSA.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:58:27.948Z"
 }

@@ -97,5 +97,51 @@
   "videos": [],
   "headings": [
     "Vibra-Stop Mola Sísmica Vip"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20SISMICA/MSIS%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20SISMICA/MSIS%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade de Carga\tDeflexão\tParafuso\tAltura Total\tDiâmetro Externo Batente\tDiâmetro Externo Mola\tDiâmetro do Arame da Mola\tDiâm. do Furo/Dist. entre Furos\tDimensões da Caixa\tDimensões da chapa\nMedidas\tKgf\tmm/Kgf\t(d) UNC\t(H) mm\t(D) mm\t(De) mm\t(a) mm\t(f x t) mm\t(L x L1 x e1) mm\t(B x L x e2) mm\nMSISV3\t3\t6,61/3\t5/16” x 2.1/2”\t46\t30\t22\t2\t10 x 90\t50 x 60 x 3\t110 x 60 x 4\nMSISV10\t10\t6,10/10\t5/16” x 2.1/2”\t46\t30\t24\t3\t10 x 90\t50 x 60 x 3\t110 x 60 x 4\nMSISV20\t20\t6,71/20\t5/16” x 2.1/2”\t46\t30\t24\t3\t10 x 90\t50 x 60 x 3\t110 x 60 x 4\nMSISV30\t30\t6,15/30\t5/16” x 2.1/2”\t46\t30\t25\t3,5\t10 x 90\t50 x 60 x 3\t110 x 60 x 4",
+      "images": [],
+      "videos": [],
+      "tables": [
+        6
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20SISMICA/VIP/Manual%20de%20Instalacao%20-%20Mola%20Sismica%20Vip.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T11:00:02.228Z"
 }

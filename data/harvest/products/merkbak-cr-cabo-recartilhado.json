@@ -1,0 +1,149 @@
+{
+  "id": 201019,
+  "slug": "merkbak-cr-cabo-recartilhado",
+  "name": "CR – Cabo Recartilhado",
+  "sku": "CR",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-recartilhado/",
+  "type": "product",
+  "summary": "Indicado para pontas de haste, alavancas e uso em máquinas em geral",
+  "description": "<p>Indicado para pontas de haste, alavancas e uso em máquinas em geral</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Isolante térmico / Ótima empunhadura / Rosca direto no baquelite</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Baquelite",
+      "slug": "baquelite"
+    }
+  ],
+  "image": "/images/products/merkbak/cr-cabo-recartilhado/1.png",
+  "images": [
+    "/images/products/merkbak/cr-cabo-recartilhado/1.png",
+    "/images/products/merkbak/cr-cabo-recartilhado/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Baquelite"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Indicado para pontas de haste, alavancas e uso em máquinas em geral"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Isolante térmico / Ótima empunhadura / Rosca direto no baquelite"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220070,
+      "sku": "CR 3282 3/8",
+      "label": "CR 3282 3/8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CR 3282 3/8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220071,
+      "sku": "CR 3282 M10",
+      "label": "CR 3282 M10",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CR 3282 M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220072,
+      "sku": "CR 3282 M12",
+      "label": "CR 3282 M12",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CR 3282 M12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220073,
+      "sku": "CR 3282 1/2",
+      "label": "CR 3282 1/2",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CR 3282 1/2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Baquelite"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Indicado para pontas de haste, alavancas e uso em máquinas em geral"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Isolante térmico / Ótima empunhadura / Rosca direto no baquelite"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "CR 3282 3/8"
+        },
+        {
+          "name": "Medida",
+          "value": "CR 3282 M10"
+        },
+        {
+          "name": "Medida",
+          "value": "CR 3282 M12"
+        },
+        {
+          "name": "Medida",
+          "value": "CR 3282 1/2"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

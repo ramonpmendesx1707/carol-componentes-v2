@@ -2,7 +2,7 @@
   "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-ret?model=ret&language=pt-BR",
   "fetchedAt": "2026-10-20T10:33:25.140Z",
   "product": {
-    "id": 200029,
+    "id": 200045,
     "slug": "vibra-stop-ret",
     "name": "Vibra-Stop Ret",
     "sku": "Ret",
@@ -35,7 +35,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240113,
+        "id": 210283,
         "sku": "RET1",
         "label": "RET1",
         "attributes": [
@@ -81,7 +81,7 @@
         "image": null
       },
       {
-        "id": 240114,
+        "id": 210284,
         "sku": "RET2",
         "label": "RET2",
         "attributes": [
@@ -127,7 +127,7 @@
         "image": null
       },
       {
-        "id": 240115,
+        "id": 210285,
         "sku": "RET3",
         "label": "RET3",
         "attributes": [
@@ -179,6 +179,12 @@
         "url": "/downloads/products/vibra-stop/ret/ficha-tecnica.pdf",
         "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Ret.pdf",
         "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [
@@ -313,6 +319,18 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 1,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:58:06.374Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Vídeo",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 5,
+    "pdfReconciled2026": true
   }
 }

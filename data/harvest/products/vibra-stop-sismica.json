@@ -1,5 +1,5 @@
 {
-  "id": 200048,
+  "id": 200049,
   "slug": "vibra-stop-sismica",
   "name": "Vibra-Stop Mola Sísmica",
   "sku": "Sísmica",
@@ -32,7 +32,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240262,
+      "id": 210306,
       "sku": "MSIS30",
       "label": "MSIS30",
       "attributes": [
@@ -74,7 +74,7 @@
       "image": null
     },
     {
-      "id": 240263,
+      "id": 210307,
       "sku": "MSIS50",
       "label": "MSIS50",
       "attributes": [
@@ -116,7 +116,7 @@
       "image": null
     },
     {
-      "id": 240264,
+      "id": 210308,
       "sku": "MSIS100",
       "label": "MSIS100",
       "attributes": [
@@ -158,7 +158,7 @@
       "image": null
     },
     {
-      "id": 240265,
+      "id": 210309,
       "sku": "MSIS200",
       "label": "MSIS200",
       "attributes": [
@@ -200,7 +200,7 @@
       "image": null
     },
     {
-      "id": 240266,
+      "id": 210310,
       "sku": "MSIS300",
       "label": "MSIS300",
       "attributes": [
@@ -242,7 +242,7 @@
       "image": null
     },
     {
-      "id": 240267,
+      "id": 210311,
       "sku": "MSIS400",
       "label": "MSIS400",
       "attributes": [
@@ -284,7 +284,7 @@
       "image": null
     },
     {
-      "id": 240268,
+      "id": 210312,
       "sku": "MSIS500",
       "label": "MSIS500",
       "attributes": [
@@ -326,7 +326,7 @@
       "image": null
     },
     {
-      "id": 240269,
+      "id": 210313,
       "sku": "MSIS700",
       "label": "MSIS700",
       "attributes": [
@@ -368,7 +368,7 @@
       "image": null
     },
     {
-      "id": 240270,
+      "id": 210314,
       "sku": "MSIS1000",
       "label": "MSIS1000",
       "attributes": [
@@ -410,7 +410,7 @@
       "image": null
     },
     {
-      "id": 240271,
+      "id": 210315,
       "sku": "MSIS1500",
       "label": "MSIS1500",
       "attributes": [
@@ -452,7 +452,7 @@
       "image": null
     },
     {
-      "id": 240272,
+      "id": 210316,
       "sku": "MSIS2000",
       "label": "MSIS2000",
       "attributes": [
@@ -494,7 +494,7 @@
       "image": null
     },
     {
-      "id": 240273,
+      "id": 210317,
       "sku": "MSIS2500",
       "label": "MSIS2500",
       "attributes": [
@@ -542,6 +542,12 @@
       "url": "/downloads/products/vibra-stop/sismica/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Sismica.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [],

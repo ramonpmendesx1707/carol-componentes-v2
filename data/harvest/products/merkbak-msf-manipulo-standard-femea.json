@@ -1,0 +1,347 @@
+{
+  "id": 201034,
+  "slug": "merkbak-msf-manipulo-standard-femea",
+  "name": "MSF – Manípulo Standard Fêmea",
+  "sku": "MSF",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/manipulo-standard-femea/",
+  "type": "product",
+  "summary": "Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais.",
+  "description": "<p>Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais.</p><p><strong>Material:</strong> Baquelite + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Alta resistência / Isolamento térmico / Higienização eficiente</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Baquelite",
+      "slug": "baquelite"
+    }
+  ],
+  "image": "/images/products/merkbak/msf-manipulo-standard-femea/1.png",
+  "images": [
+    "/images/products/merkbak/msf-manipulo-standard-femea/1.png",
+    "/images/products/merkbak/msf-manipulo-standard-femea/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Baquelite + inserto rosca latão"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais."
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Isolamento térmico / Higienização eficiente"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220176,
+      "sku": "MSF 3526 M6",
+      "label": "MSF 3526 M6",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSF 3526 M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220177,
+      "sku": "MSF 3526 1/4",
+      "label": "MSF 3526 1/4",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSF 3526 1/4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220178,
+      "sku": "MSF 4631 1/4",
+      "label": "MSF 4631 1/4",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSF 4631 1/4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220179,
+      "sku": "MSF 4631 5/16",
+      "label": "MSF 4631 5/16",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSF 4631 5/16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220180,
+      "sku": "MSF 4631 M8",
+      "label": "MSF 4631 M8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSF 4631 M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220181,
+      "sku": "MSF 4631 3/8",
+      "label": "MSF 4631 3/8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSF 4631 3/8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220182,
+      "sku": "MSF 4631 M10",
+      "label": "MSF 4631 M10",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSF 4631 M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220183,
+      "sku": "MSF 6236 M8",
+      "label": "MSF 6236 M8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSF 6236 M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220184,
+      "sku": "MSF 6236 3/8",
+      "label": "MSF 6236 3/8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSF 6236 3/8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220185,
+      "sku": "MSF 6236 M10",
+      "label": "MSF 6236 M10",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSF 6236 M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220186,
+      "sku": "MSF 6236 M12",
+      "label": "MSF 6236 M12",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSF 6236 M12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220187,
+      "sku": "MSF 6236 1/2",
+      "label": "MSF 6236 1/2",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSF 6236 1/2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220188,
+      "sku": "MSF 7142 M12",
+      "label": "MSF 7142 M12",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSF 7142 M12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220189,
+      "sku": "MSF 7142 1/2",
+      "label": "MSF 7142 1/2",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSF 7142 1/2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220190,
+      "sku": "MSF 7142 5/8",
+      "label": "MSF 7142 5/8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "MSF 7142 5/8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Baquelite + inserto rosca latão"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais."
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Isolamento térmico / Higienização eficiente"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "MSF 3526 M6"
+        },
+        {
+          "name": "Medida",
+          "value": "MSF 3526 1/4"
+        },
+        {
+          "name": "Medida",
+          "value": "MSF 4631 1/4"
+        },
+        {
+          "name": "Medida",
+          "value": "MSF 4631 5/16"
+        },
+        {
+          "name": "Medida",
+          "value": "MSF 4631 M8"
+        },
+        {
+          "name": "Medida",
+          "value": "MSF 4631 3/8"
+        },
+        {
+          "name": "Medida",
+          "value": "MSF 4631 M10"
+        },
+        {
+          "name": "Medida",
+          "value": "MSF 6236 M8"
+        },
+        {
+          "name": "Medida",
+          "value": "MSF 6236 3/8"
+        },
+        {
+          "name": "Medida",
+          "value": "MSF 6236 M10"
+        },
+        {
+          "name": "Medida",
+          "value": "MSF 6236 M12"
+        },
+        {
+          "name": "Medida",
+          "value": "MSF 6236 1/2"
+        },
+        {
+          "name": "Medida",
+          "value": "MSF 7142 M12"
+        },
+        {
+          "name": "Medida",
+          "value": "MSF 7142 1/2"
+        },
+        {
+          "name": "Medida",
+          "value": "MSF 7142 5/8"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

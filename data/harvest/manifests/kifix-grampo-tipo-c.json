@@ -1,0 +1,317 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-c-e-sargentos/grampo-tipo-c/",
+  "fetchedAt": "2026-10-20T12:55:45.921Z",
+  "product": {
+    "id": 202011,
+    "slug": "kifix-grampo-tipo-c",
+    "name": "Grampo tipo C",
+    "sku": "Grampo tipo C",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-c-e-sargentos/grampo-tipo-c/",
+    "type": "product",
+    "summary": "Linha Grampo C e sargentos Kifix modelo Grampo tipo C, com 7 referências dimensionais.",
+    "description": "<p>Linha Grampo C e sargentos Kifix modelo Grampo tipo C, com 7 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo C e sargentos",
+        "slug": "grampo-c-e-sargentos"
+      }
+    ],
+    "image": "/images/products/kifix/grampo-tipo-c/foto-1.png",
+    "images": [
+      "/images/products/kifix/grampo-tipo-c/foto-1.png",
+      "/images/products/kifix/grampo-tipo-c/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo C e sargentos"
+      }
+    ],
+    "weight": "0,09 (1,19)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230075,
+        "sku": "KFSC 1 POL (25MM)",
+        "label": "KFSC 1 POL (25MM)",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1000"
+          },
+          {
+            "name": "A (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "B (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,09 (1,19)"
+          }
+        ],
+        "weight": "0,09 (1,19)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230076,
+        "sku": "KFSC 2 POL (50MM)",
+        "label": "KFSC 2 POL (50MM)",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "2300"
+          },
+          {
+            "name": "A (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "B (in)",
+            "value": "50 (1,96)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,175 (0,38)"
+          }
+        ],
+        "weight": "0,175 (0,38)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230077,
+        "sku": "KFSC 3 POL (75MM)",
+        "label": "KFSC 3 POL (75MM)",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "5500"
+          },
+          {
+            "name": "A (in)",
+            "value": "50 (1,96)"
+          },
+          {
+            "name": "B (in)",
+            "value": "75 (2,95)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,44 (0,97)"
+          }
+        ],
+        "weight": "0,44 (0,97)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230078,
+        "sku": "KFSC 4 POL (100MM)",
+        "label": "KFSC 4 POL (100MM)",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "7000"
+          },
+          {
+            "name": "A (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "B (in)",
+            "value": "100 (3,93)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,64 (1,41)"
+          }
+        ],
+        "weight": "0,64 (1,41)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230079,
+        "sku": "KFSC 5 POL (125MM)",
+        "label": "KFSC 5 POL (125MM)",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "7500"
+          },
+          {
+            "name": "A (in)",
+            "value": "67 (2,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "125 (4,92)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,95 (2,09)"
+          }
+        ],
+        "weight": "0,95 (2,09)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230080,
+        "sku": "KFSC 6 POL (150MM)",
+        "label": "KFSC 6 POL (150MM)",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "9000"
+          },
+          {
+            "name": "A (in)",
+            "value": "72 (2,83)"
+          },
+          {
+            "name": "B (in)",
+            "value": "150 (5,90)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,23 (2,71)"
+          }
+        ],
+        "weight": "1,23 (2,71)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230081,
+        "sku": "KFSC 8 POL (200MM)",
+        "label": "KFSC 8 POL (200MM)",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "10000"
+          },
+          {
+            "name": "A (in)",
+            "value": "88 (3,46)"
+          },
+          {
+            "name": "B (in)",
+            "value": "200 (7,87)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,79 (3,94)"
+          }
+        ],
+        "weight": "1,79 (3,94)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KFSC 1 POL (25MM)",
+            "1000",
+            "25 (0,98)",
+            "25 (0,98)",
+            "0,09 (1,19)"
+          ],
+          [
+            "KFSC 2 POL (50MM)",
+            "2300",
+            "26 (1,02)",
+            "50 (1,96)",
+            "0,175 (0,38)"
+          ],
+          [
+            "KFSC 3 POL (75MM)",
+            "5500",
+            "50 (1,96)",
+            "75 (2,95)",
+            "0,44 (0,97)"
+          ],
+          [
+            "KFSC 4 POL (100MM)",
+            "7000",
+            "60 (2,36)",
+            "100 (3,93)",
+            "0,64 (1,41)"
+          ],
+          [
+            "KFSC 5 POL (125MM)",
+            "7500",
+            "67 (2,63)",
+            "125 (4,92)",
+            "0,95 (2,09)"
+          ],
+          [
+            "KFSC 6 POL (150MM)",
+            "9000",
+            "72 (2,83)",
+            "150 (5,90)",
+            "1,23 (2,71)"
+          ],
+          [
+            "KFSC 8 POL (200MM)",
+            "10000",
+            "88 (3,46)",
+            "200 (7,87)",
+            "1,79 (3,94)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/grampo-tipo-c/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/grampo-tipo-c/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/807_KFSC.png",
+      "bytes": 242926,
+      "sha256": "e798b77c4db3f49d29fa4ea926e141bb080fbcc37ec687421b6c5126db742689"
+    },
+    {
+      "path": "/images/products/kifix/grampo-tipo-c/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/415_G_clamp_tecnico01.jpg",
+      "bytes": 268454,
+      "sha256": "a3e5e12dd250206b16dd8224e2884cd7f916c75f5f967fb07c37848b67bbcc62"
+    }
+  ],
+  "checks": {
+    "variants": 7,
+    "photos": 1,
+    "drawings": 1,
+    "tableRows": 7
+  }
+}

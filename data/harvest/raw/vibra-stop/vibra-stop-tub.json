@@ -129,5 +129,62 @@
   ],
   "headings": [
     "Vibra-Stop Tub"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-videos",
+      "label": "Vídeo",
+      "text": "play_arrow\nvolume_up\n0:00 / 1:04\nfullscreen",
+      "images": [],
+      "videos": [
+        "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tub-quad.mp4"
+      ],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TUB/TUB%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TUB/TUB%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade de Carga\tAltura Interno\tAltura Externo\tDiâmetro Externo\tDiâmetro Interno\tDiâmetro Tubo\nMedidas\tKgf\t(h) mm\t(H) mm\t(D) mm\t(d) mm\t\nTUB1\t10\t15\t18\t15\t13\t3/8”\nTUB2\t15\t15\t20\t18\t16\t1/2\"\nTUB3\t20\t14\t20\t20\t19\t5/8”\nTUB4\t30\t20\t24\t25\t25\t3/4\"\nTUB5\t40\t24\t30\t31\t33\t1”\nTUB6\t45\t34\t40\t37\t37\t1 1/4\"\nTUB7\t50\t36\t45\t44\t50\t1.1/2”\nTUB8\t65\t48\t57\t57\t76\t2”\nTUB9\t80\t68\t82\t83\t22\t3”\nTUB10\t25\t24\t28\t28\t\t7/8”",
+      "images": [],
+      "videos": [],
+      "tables": [
+        12
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/TUB/Manual%20de%20Instalacao%20-%20TUB.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:58:22.797Z"
 }

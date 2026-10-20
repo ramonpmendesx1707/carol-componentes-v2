@@ -1,0 +1,81 @@
+{
+  "id": 201009,
+  "slug": "merkbak-cap-p-104-cabo-alca-polipropileno-mod-p",
+  "name": "CAP-P 104 – Cabo Alça Polipropileno Mod. P",
+  "sku": "CAP",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-alca-polipropileno-mod-p/",
+  "type": "product",
+  "summary": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação",
+  "description": "<p>Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação</p><p><strong>Material:</strong> Polipropileno</p><p><strong>Informações adicionais:</strong> Média resistência / Higienização eficiente</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Plásticos",
+      "slug": "plasticos"
+    }
+  ],
+  "image": "/images/products/merkbak/cap-p-104-cabo-alca-polipropileno-mod-p/1.png",
+  "images": [
+    "/images/products/merkbak/cap-p-104-cabo-alca-polipropileno-mod-p/1.png",
+    "/images/products/merkbak/cap-p-104-cabo-alca-polipropileno-mod-p/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Polipropileno"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Média resistência / Higienização eficiente"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220044,
+      "sku": "CAP-P 104 – Cabo Alça Polipropileno Mod. P",
+      "label": "Padrão",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Polipropileno"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Média resistência / Higienização eficiente"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

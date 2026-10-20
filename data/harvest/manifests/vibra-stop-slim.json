@@ -2,7 +2,7 @@
   "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-slim?model=slim&language=pt-BR",
   "fetchedAt": "2026-10-20T10:33:40.874Z",
   "product": {
-    "id": 200030,
+    "id": 200050,
     "slug": "vibra-stop-slim",
     "name": "Vibra-Stop Slim",
     "sku": "Slim",
@@ -35,7 +35,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240116,
+        "id": 210318,
         "sku": "SLIM1",
         "label": "SLIM1",
         "attributes": [
@@ -69,7 +69,7 @@
         "image": null
       },
       {
-        "id": 240117,
+        "id": 210319,
         "sku": "SLIM1SP",
         "label": "SLIM1SP",
         "attributes": [
@@ -103,7 +103,7 @@
         "image": null
       },
       {
-        "id": 240118,
+        "id": 210320,
         "sku": "SLIM2",
         "label": "SLIM2",
         "attributes": [
@@ -137,7 +137,7 @@
         "image": null
       },
       {
-        "id": 240119,
+        "id": 210321,
         "sku": "SLIM2SP",
         "label": "SLIM2SP",
         "attributes": [
@@ -171,7 +171,7 @@
         "image": null
       },
       {
-        "id": 240120,
+        "id": 210322,
         "sku": "SLIM3",
         "label": "SLIM3",
         "attributes": [
@@ -205,7 +205,7 @@
         "image": null
       },
       {
-        "id": 240121,
+        "id": 210323,
         "sku": "SLIM3SP",
         "label": "SLIM3SP",
         "attributes": [
@@ -245,6 +245,12 @@
         "url": "/downloads/products/vibra-stop/slim/ficha-tecnica.pdf",
         "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Slim.pdf",
         "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [],
@@ -386,6 +392,17 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 0,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:58:13.126Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 8,
+    "pdfReconciled2026": true
   }
 }

@@ -1,0 +1,247 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/dobradica/kfd-14-19/",
+  "fetchedAt": "2026-10-20T13:04:54.356Z",
+  "product": {
+    "id": 202070,
+    "slug": "kifix-kfd-14-19",
+    "name": "KFD-14/19",
+    "sku": "KFD-14/19",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/dobradica/kfd-14-19/",
+    "type": "product",
+    "summary": "Linha Dobradiça Kifix modelo KFD-14/19, com 2 referências dimensionais.",
+    "description": "<p>Linha Dobradiça Kifix modelo KFD-14/19, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Dobradiça",
+        "slug": "dobradica"
+      }
+    ],
+    "image": "/images/products/kifix/kfd-14-19/foto-1.png",
+    "images": [
+      "/images/products/kifix/kfd-14-19/foto-1.png",
+      "/images/products/kifix/kfd-14-19/foto-2.png",
+      "/images/products/kifix/kfd-14-19/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Dobradiça"
+      }
+    ],
+    "weight": "1,040 (2,288)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230495,
+        "sku": "KFD-14",
+        "label": "KFD-14",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "900 (1980)"
+          },
+          {
+            "name": "A (in)",
+            "value": "33 (1,30)"
+          },
+          {
+            "name": "B (in)",
+            "value": "156 (6,14)"
+          },
+          {
+            "name": "C (in)",
+            "value": "21 (0,83)"
+          },
+          {
+            "name": "D (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "E (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "76 (2,99)"
+          },
+          {
+            "name": "H (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M14X2,00"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,040 (2,288)"
+          }
+        ],
+        "weight": "1,040 (2,288)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230496,
+        "sku": "KFD-19",
+        "label": "KFD-19",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1400 (3080)"
+          },
+          {
+            "name": "A (in)",
+            "value": "38,1 (1,50)"
+          },
+          {
+            "name": "B (in)",
+            "value": "203,5 (8,01)"
+          },
+          {
+            "name": "C (in)",
+            "value": "23,8 (0,94)"
+          },
+          {
+            "name": "D (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "E (in)",
+            "value": "85 (3,35)"
+          },
+          {
+            "name": "F (in)",
+            "value": "63,5 (2,50)"
+          },
+          {
+            "name": "G (in)",
+            "value": "105 (4,13)"
+          },
+          {
+            "name": "H (in)",
+            "value": "76,5 (3,01)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M14X2,00"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,750 (3,850)"
+          }
+        ],
+        "weight": "1,750 (3,850)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "M (in)",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KFD-14",
+            "900 (1980)",
+            "33 (1,30)",
+            "156 (6,14)",
+            "21 (0,83)",
+            "26 (1,02)",
+            "60 (2,36)",
+            "50 (1,97)",
+            "76 (2,99)",
+            "56 (2,20)",
+            "5,5 (0,22)",
+            "M14X2,00",
+            "1,040 (2,288)"
+          ],
+          [
+            "KFD-19",
+            "1400 (3080)",
+            "38,1 (1,50)",
+            "203,5 (8,01)",
+            "23,8 (0,94)",
+            "35 (1,38)",
+            "85 (3,35)",
+            "63,5 (2,50)",
+            "105 (4,13)",
+            "76,5 (3,01)",
+            "8,5 (0,33)",
+            "M14X2,00",
+            "1,750 (3,850)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kfd-14-19/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kfd-14-19/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/561_KFD14.png",
+      "bytes": 286838,
+      "sha256": "4247bbef2b026592ff3fc064be55a7760633b1f23b6ace98b72621a518d2f9cc"
+    },
+    {
+      "path": "/images/products/kifix/kfd-14-19/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/933_KFD19.png",
+      "bytes": 1739966,
+      "sha256": "ca77e3e4463eb435a9aa4883ced6e8e8c990263974e4f1a4d5a818f917c761d3"
+    },
+    {
+      "path": "/images/products/kifix/kfd-14-19/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/291_KFD14_19.JPG",
+      "bytes": 96131,
+      "sha256": "ddb0cb05db00264ec0b75f464792b27be2587adf384cf6a4a0b4494e7d26b14c"
+    }
+  ],
+  "checks": {
+    "variants": 2,
+    "photos": 2,
+    "drawings": 1,
+    "tableRows": 2
+  }
+}

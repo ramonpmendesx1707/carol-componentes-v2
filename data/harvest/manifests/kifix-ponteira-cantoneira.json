@@ -1,0 +1,185 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-cantoneira/",
+  "fetchedAt": "2026-10-20T13:04:40.731Z",
+  "product": {
+    "id": 202091,
+    "slug": "kifix-ponteira-cantoneira",
+    "name": "PONTEIRA CANTONEIRA",
+    "sku": "PONTEIRA CANTONEIRA",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-cantoneira/",
+    "type": "product",
+    "summary": "Linha Ponteiras Kifix modelo PONTEIRA CANTONEIRA, com 3 referências dimensionais.",
+    "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA CANTONEIRA, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Ponteiras",
+        "slug": "ponteiras"
+      }
+    ],
+    "image": "/images/products/kifix/ponteira-cantoneira/foto-1.png",
+    "images": [
+      "/images/products/kifix/ponteira-cantoneira/foto-1.png",
+      "/images/products/kifix/ponteira-cantoneira/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Ponteiras"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230588,
+        "sku": "PC-M6",
+        "label": "PC-M6",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "B (in)",
+            "value": "80 (3,15)"
+          },
+          {
+            "name": "C (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230589,
+        "sku": "PC-M8",
+        "label": "PC-M8",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "B (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "C (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230590,
+        "sku": "PC-M10",
+        "label": "PC-M10",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "B (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "C (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "M (in)"
+        ],
+        "rows": [
+          [
+            "PC-M6",
+            "36 (1,42)",
+            "80 (3,15)",
+            "30 (1,18)",
+            "M6"
+          ],
+          [
+            "PC-M8",
+            "36 (1,42)",
+            "100 (3,94)",
+            "30 (1,18)",
+            "M8"
+          ],
+          [
+            "PC-M10",
+            "36 (1,42)",
+            "91 (3,58)",
+            "30 (1,18)",
+            "M10"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/ponteira-cantoneira/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/ponteira-cantoneira/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/743_PCM8.png",
+      "bytes": 201592,
+      "sha256": "6b9d64aa27499c98ac3922aa54b1ab721ac8b5ad94f45712ca1937a5ca443207"
+    },
+    {
+      "path": "/images/products/kifix/ponteira-cantoneira/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/310_PC.JPG",
+      "bytes": 64044,
+      "sha256": "0ecef79c3d141a5e293b27ac233234f9d73473021b48a3bdd5618b9fe445f1e9"
+    }
+  ],
+  "checks": {
+    "variants": 3,
+    "photos": 1,
+    "drawings": 1,
+    "tableRows": 3
+  }
+}

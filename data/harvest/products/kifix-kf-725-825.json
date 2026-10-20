@@ -1,0 +1,388 @@
+{
+  "id": 202063,
+  "slug": "kifix-kf-725-825",
+  "name": "KF-725/825",
+  "sku": "KF-725/825",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-725-825/",
+  "type": "product",
+  "summary": "Linha Grampo vertical Kifix modelo KF-725/825, com 4 referências dimensionais.",
+  "description": "<p>Linha Grampo vertical Kifix modelo KF-725/825, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo vertical",
+      "slug": "grampo-vertical"
+    }
+  ],
+  "image": "/images/products/kifix/kf-725-825/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-725-825/foto-1.png",
+    "/images/products/kifix/kf-725-825/foto-2.png",
+    "/images/products/kifix/kf-725-825/foto-3.png",
+    "/images/products/kifix/kf-725-825/foto-4.png",
+    "/images/products/kifix/kf-725-825/desenho-1.jpg",
+    "/images/products/kifix/kf-725-825/desenho-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo vertical"
+    }
+  ],
+  "weight": "2,030 (4,475)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230463,
+      "sku": "KF-725 D",
+      "label": "KF-725 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "450 (990)"
+        },
+        {
+          "name": "A (in)",
+          "value": "196 (7,72)"
+        },
+        {
+          "name": "B (in)",
+          "value": "213 (8,39)"
+        },
+        {
+          "name": "C (in)",
+          "value": "55,6 (2,19)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "F (in)",
+          "value": "38,1 (1,50)"
+        },
+        {
+          "name": "G (in)",
+          "value": "57,2 (2,25)"
+        },
+        {
+          "name": "H (in)",
+          "value": "92,2 (3,63)"
+        },
+        {
+          "name": "J (in)",
+          "value": "10,5 (0,41)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M10"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "195"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "2,030 (4,475)"
+        }
+      ],
+      "weight": "2,030 (4,475)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230464,
+      "sku": "KF-725 F",
+      "label": "KF-725 F",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "450 (990)"
+        },
+        {
+          "name": "A (in)",
+          "value": "196 (7,72)"
+        },
+        {
+          "name": "B (in)",
+          "value": "213 (8,39)"
+        },
+        {
+          "name": "C (in)",
+          "value": "48 (1,89)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "F (in)",
+          "value": "38,1 (1,50)"
+        },
+        {
+          "name": "G (in)",
+          "value": "57,2 (2,25)"
+        },
+        {
+          "name": "H (in)",
+          "value": "101,6 (4,00)"
+        },
+        {
+          "name": "J (in)",
+          "value": "10,5 (0,41)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M10"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "195"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "2,030 (4,475)"
+        }
+      ],
+      "weight": "2,030 (4,475)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230465,
+      "sku": "KF-825 D",
+      "label": "KF-825 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "450 (990)"
+        },
+        {
+          "name": "A (in)",
+          "value": "231 (9,09)"
+        },
+        {
+          "name": "B (in)",
+          "value": "175 (6,89)"
+        },
+        {
+          "name": "C (in)",
+          "value": "53 (2,09)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "F (in)",
+          "value": "38,1 (1,50)"
+        },
+        {
+          "name": "G (in)",
+          "value": "57,2 (2,25)"
+        },
+        {
+          "name": "H (in)",
+          "value": "92,2 (3,63)"
+        },
+        {
+          "name": "J (in)",
+          "value": "10,5 (0,41)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M10"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "195"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,850 (4,078)"
+        }
+      ],
+      "weight": "1,850 (4,078)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230466,
+      "sku": "KF-825 F",
+      "label": "KF-825 F",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "450 (990)"
+        },
+        {
+          "name": "A (in)",
+          "value": "225 (8,86)"
+        },
+        {
+          "name": "B (in)",
+          "value": "175 (6,89)"
+        },
+        {
+          "name": "C (in)",
+          "value": "46,7 (1,84)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "F (in)",
+          "value": "38,1 (1,50)"
+        },
+        {
+          "name": "G (in)",
+          "value": "57,2 (2,25)"
+        },
+        {
+          "name": "H (in)",
+          "value": "101,6 (4,00)"
+        },
+        {
+          "name": "J (in)",
+          "value": "10,5 (0,41)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M10"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "195"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,850 (4,078)"
+        }
+      ],
+      "weight": "1,850 (4,078)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "PONTEIRA",
+        "ÂNGULO DE ABERTURA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-725 D",
+          "450 (990)",
+          "196 (7,72)",
+          "213 (8,39)",
+          "55,6 (2,19)",
+          "19 (0,75)",
+          "32 (1,26)",
+          "38,1 (1,50)",
+          "57,2 (2,25)",
+          "92,2 (3,63)",
+          "10,5 (0,41)",
+          "M10",
+          "195",
+          "2,030 (4,475)"
+        ],
+        [
+          "KF-725 F",
+          "450 (990)",
+          "196 (7,72)",
+          "213 (8,39)",
+          "48 (1,89)",
+          "19 (0,75)",
+          "32 (1,26)",
+          "38,1 (1,50)",
+          "57,2 (2,25)",
+          "101,6 (4,00)",
+          "10,5 (0,41)",
+          "M10",
+          "195",
+          "2,030 (4,475)"
+        ],
+        [
+          "KF-825 D",
+          "450 (990)",
+          "231 (9,09)",
+          "175 (6,89)",
+          "53 (2,09)",
+          "19 (0,75)",
+          "32 (1,26)",
+          "38,1 (1,50)",
+          "57,2 (2,25)",
+          "92,2 (3,63)",
+          "10,5 (0,41)",
+          "M10",
+          "195",
+          "1,850 (4,078)"
+        ],
+        [
+          "KF-825 F",
+          "450 (990)",
+          "225 (8,86)",
+          "175 (6,89)",
+          "46,7 (1,84)",
+          "19 (0,75)",
+          "32 (1,26)",
+          "38,1 (1,50)",
+          "57,2 (2,25)",
+          "101,6 (4,00)",
+          "10,5 (0,41)",
+          "M10",
+          "195",
+          "1,850 (4,078)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-725-825/desenho-1.jpg",
+        "/images/products/kifix/kf-725-825/desenho-2.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

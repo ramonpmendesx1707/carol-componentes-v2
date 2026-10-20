@@ -1,0 +1,173 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/grampo-pneumatico/",
+  "fetchedAt": "2026-10-20T12:55:24.251Z",
+  "product": {
+    "id": 202007,
+    "slug": "kifix-grampo-pneumatico",
+    "name": "Grampo Pneumático",
+    "sku": "Grampo Pneumático",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/grampo-pneumatico/",
+    "type": "product",
+    "summary": "Linha LANÇAMENTOS Kifix modelo Grampo Pneumático, com 1 referências dimensionais.",
+    "description": "<p>Linha LANÇAMENTOS Kifix modelo Grampo Pneumático, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "LANÇAMENTOS",
+        "slug": "lancamentos"
+      }
+    ],
+    "image": "/images/products/kifix/grampo-pneumatico/foto-1.png",
+    "images": [
+      "/images/products/kifix/grampo-pneumatico/foto-1.png",
+      "/images/products/kifix/grampo-pneumatico/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "LANÇAMENTOS"
+      }
+    ],
+    "weight": "0,269 (0,593)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230041,
+        "sku": "KF-010 DB P",
+        "label": "KF-010 DB P",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "60(132)"
+          },
+          {
+            "name": "A (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "B (in)",
+            "value": "161 (6,33)"
+          },
+          {
+            "name": "C (in)",
+            "value": "18 (0,70)"
+          },
+          {
+            "name": "D (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "E (in)",
+            "value": "-23,9 (0,94)"
+          },
+          {
+            "name": "G (in)",
+            "value": "39 (1,53)"
+          },
+          {
+            "name": "H (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "J (in)",
+            "value": "4,3 (0,16)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M6"
+          },
+          {
+            "name": "ROSCA CIL",
+            "value": "M5"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,269 (0,593)"
+          }
+        ],
+        "weight": "0,269 (0,593)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "PONTEIRA",
+          "ROSCA CIL",
+          "ÂNGULO DE ABERTURA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-010 DB P",
+            "60(132)",
+            "40 (1,57)",
+            "161 (6,33)",
+            "18 (0,70)",
+            "16 (0,63)",
+            "-23,9 (0,94)",
+            "39 (1,53)",
+            "26 (1,02)",
+            "4,3 (0,16)",
+            "M6",
+            "M5",
+            "80",
+            "0,269 (0,593)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/grampo-pneumatico/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/grampo-pneumatico/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/942_KF010_DB_P.png",
+      "bytes": 1483716,
+      "sha256": "a6f5a7accef048e9f5e64a2f144a82dc239522774754a93671e18618623b1aa7"
+    },
+    {
+      "path": "/images/products/kifix/grampo-pneumatico/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/456_KF010_DB_P01.jpg",
+      "bytes": 158202,
+      "sha256": "111c3593c2efcaa1110f358ab110e598b30f0d31fa26dbd502cedc2c7a2f47e8"
+    }
+  ],
+  "checks": {
+    "variants": 1,
+    "photos": 1,
+    "drawings": 1,
+    "tableRows": 1
+  }
+}

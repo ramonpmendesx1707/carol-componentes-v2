@@ -1,0 +1,353 @@
+{
+  "id": 202005,
+  "slug": "kifix-base-vertical",
+  "name": "Base Vertical",
+  "sku": "Base Vertical",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-vertical/",
+  "type": "product",
+  "summary": "Linha Adaptadores para mesas de solda Kifix modelo Base Vertical, com 6 referências dimensionais.",
+  "description": "<p>Linha Adaptadores para mesas de solda Kifix modelo Base Vertical, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Adaptadores para mesas de solda",
+      "slug": "adaptadores-para-mesas-de-solda"
+    }
+  ],
+  "image": "/images/products/kifix/base-vertical/foto-1.png",
+  "images": [
+    "/images/products/kifix/base-vertical/foto-1.png",
+    "/images/products/kifix/base-vertical/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Adaptadores para mesas de solda"
+    }
+  ],
+  "weight": "0,48 (1,05)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230034,
+      "sku": "MS BV Ø 16 - KF-011",
+      "label": "MS BV Ø 16 - KF-011",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "83,2 (3,27)"
+        },
+        {
+          "name": "B (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "C (in)",
+          "value": "12,7 (0,5)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,25)"
+        },
+        {
+          "name": "E (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,48 (1,05)"
+        }
+      ],
+      "weight": "0,48 (1,05)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230035,
+      "sku": "MS BV Ø 22 - KF-011",
+      "label": "MS BV Ø 22 - KF-011",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "83,2 (3,27)"
+        },
+        {
+          "name": "B (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "C (in)",
+          "value": "12,7 (0,5)"
+        },
+        {
+          "name": "D (in)",
+          "value": "33 (1,25)"
+        },
+        {
+          "name": "E (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,538 (1,18)"
+        }
+      ],
+      "weight": "0,538 (1,18)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230036,
+      "sku": "MS BV Ø 28 - KF-011",
+      "label": "MS BV Ø 28 - KF-011",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "83,2 (3,27)"
+        },
+        {
+          "name": "B (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "C (in)",
+          "value": "12,7 (0,5)"
+        },
+        {
+          "name": "D (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "E (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,673 (1,48)"
+        }
+      ],
+      "weight": "0,673 (1,48)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230037,
+      "sku": "MS BV Ø 16 - KF-111",
+      "label": "MS BV Ø 16 - KF-111",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "97,24 (3,82)"
+        },
+        {
+          "name": "B (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "C (in)",
+          "value": "12,7 (0,5)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,25)"
+        },
+        {
+          "name": "E (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,63 (1,38)"
+        }
+      ],
+      "weight": "0,63 (1,38)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230038,
+      "sku": "MS BV Ø 22 - KF-111",
+      "label": "MS BV Ø 22 - KF-111",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "97,24 (3,82)"
+        },
+        {
+          "name": "B (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "C (in)",
+          "value": "12,7 (0,5)"
+        },
+        {
+          "name": "D (in)",
+          "value": "33 (1,25)"
+        },
+        {
+          "name": "E (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,72 (1,58)"
+        }
+      ],
+      "weight": "0,72 (1,58)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230039,
+      "sku": "MS BV Ø 28 - KF-111",
+      "label": "MS BV Ø 28 - KF-111",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "97,24 (3,82)"
+        },
+        {
+          "name": "B (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "C (in)",
+          "value": "12,7 (0,5)"
+        },
+        {
+          "name": "D (in)",
+          "value": "34 (1,25)"
+        },
+        {
+          "name": "E (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,96 (2,11)"
+        }
+      ],
+      "weight": "0,96 (2,11)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "J (in)",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "MS BV Ø 16 - KF-011",
+          "83,2 (3,27)",
+          "60 (2,36)",
+          "12,7 (0,5)",
+          "32 (1,25)",
+          "44 (1,73)",
+          "M6",
+          "0,48 (1,05)"
+        ],
+        [
+          "MS BV Ø 22 - KF-011",
+          "83,2 (3,27)",
+          "60 (2,36)",
+          "12,7 (0,5)",
+          "33 (1,25)",
+          "44 (1,73)",
+          "M6",
+          "0,538 (1,18)"
+        ],
+        [
+          "MS BV Ø 28 - KF-011",
+          "83,2 (3,27)",
+          "60 (2,36)",
+          "12,7 (0,5)",
+          "25,4 (1,00)",
+          "44 (1,73)",
+          "M6",
+          "0,673 (1,48)"
+        ],
+        [
+          "MS BV Ø 16 - KF-111",
+          "97,24 (3,82)",
+          "60 (2,36)",
+          "12,7 (0,5)",
+          "32 (1,25)",
+          "44 (1,73)",
+          "M8",
+          "0,63 (1,38)"
+        ],
+        [
+          "MS BV Ø 22 - KF-111",
+          "97,24 (3,82)",
+          "60 (2,36)",
+          "12,7 (0,5)",
+          "33 (1,25)",
+          "44 (1,73)",
+          "M8",
+          "0,72 (1,58)"
+        ],
+        [
+          "MS BV Ø 28 - KF-111",
+          "97,24 (3,82)",
+          "60 (2,36)",
+          "12,7 (0,5)",
+          "34 (1,25)",
+          "44 (1,73)",
+          "M8",
+          "0,96 (2,11)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/base-vertical/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

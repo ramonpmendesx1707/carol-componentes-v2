@@ -1,0 +1,172 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/visor-de-oleo-standard/",
+  "fetchedAt": "2026-10-20T12:50:43.595Z",
+  "product": {
+    "id": 201049,
+    "slug": "merkbak-vot-visor-de-oleo-standard",
+    "name": "VOT – Visor de Óleo Standard",
+    "sku": "VOT",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/visor-de-oleo-standard/",
+    "type": "product",
+    "summary": "Máquinas e equipamentos em geral para a verificação visual do nível de óleo.",
+    "description": "<p>Máquinas e equipamentos em geral para a verificação visual do nível de óleo.</p><p><strong>Material:</strong> Acrílico + Oring</p><p><strong>Informações adicionais:</strong> Resistência ao calor = 100°C. Boa resistência ao impacto, óleos e envelhecimento.</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Visores de Óleo",
+        "slug": "visores-de-oleo"
+      }
+    ],
+    "image": "/images/products/merkbak/vot-visor-de-oleo-standard/1.png",
+    "images": [
+      "/images/products/merkbak/vot-visor-de-oleo-standard/1.png",
+      "/images/products/merkbak/vot-visor-de-oleo-standard/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Acrílico + Oring"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial polido transparente"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Máquinas e equipamentos em geral para a verificação visual do nível de óleo."
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Resistência ao calor = 100°C. Boa resistência ao impacto, óleos e envelhecimento."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220300,
+        "sku": "VOT 3018 1/2 14 FIOS",
+        "label": "VOT 3018 1/2 14 FIOS",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "VOT 3018 1/2 14 FIOS"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220301,
+        "sku": "VOT 3518 3/4 14 FIOS",
+        "label": "VOT 3518 3/4 14 FIOS",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "VOT 3518 3/4 14 FIOS"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220302,
+        "sku": "VOT 3924 1\" 11 FIOS",
+        "label": "VOT 3924 1\" 11 FIOS",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "VOT 3924 1\" 11 FIOS"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220303,
+        "sku": "VOT 4423 1\" 1/8 11 FIOS",
+        "label": "VOT 4423 1\" 1/8 11 FIOS",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "VOT 4423 1\" 1/8 11 FIOS"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Acrílico + Oring"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial polido transparente"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Máquinas e equipamentos em geral para a verificação visual do nível de óleo."
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Resistência ao calor = 100°C. Boa resistência ao impacto, óleos e envelhecimento."
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "VOT 3018 1/2 14 FIOS"
+          },
+          {
+            "name": "Medida",
+            "value": "VOT 3518 3/4 14 FIOS"
+          },
+          {
+            "name": "Medida",
+            "value": "VOT 3924 1\" 11 FIOS"
+          },
+          {
+            "name": "Medida",
+            "value": "VOT 4423 1\" 1/8 11 FIOS"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/vot-visor-de-oleo-standard/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/048-vot-copiar.png",
+      "bytes": 898624,
+      "sha256": "d81373f83804b45e6b00693553729b9d5bc313941017d76baaffd191c8f73dfe"
+    },
+    {
+      "path": "/images/products/merkbak/vot-visor-de-oleo-standard/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/VOT_tab.png",
+      "bytes": 94885,
+      "sha256": "3ee4ccd457e72d370ddc8b8de9779ca5f8d8dfae13f2de6a32bd5b9eb47655b5"
+    }
+  ],
+  "checks": {
+    "variants": 4,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

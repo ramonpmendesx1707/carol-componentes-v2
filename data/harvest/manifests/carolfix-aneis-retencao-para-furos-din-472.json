@@ -1,0 +1,8346 @@
+{
+  "source": "PDF pág. 17",
+  "product": {
+    "id": 203003,
+    "slug": "carolfix-aneis-retencao-para-furos-din-472",
+    "name": "Anéis de Retenção para Furos DIN 472",
+    "sku": "DIN 472",
+    "brand": "Seeger-Orbis",
+    "supplier": "Seeger-Orbis",
+    "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=17",
+    "type": "product",
+    "summary": "Anéis elásticos de retenção interna para alojamentos cilíndricos padronizados DIN 472.",
+    "description": "<p>Anéis elásticos em aço mola para travamento interno em orifícios e caixas de mancais conforme DIN 472.</p>",
+    "categories": [
+      {
+        "id": 211,
+        "name": "Fixação e retenção",
+        "slug": "fixacao-e-retencao"
+      }
+    ],
+    "image": "/images/products/carolfix/aneis-retencao-para-furos-din-472/pagina-17.png",
+    "images": [
+      "/images/products/carolfix/aneis-retencao-para-furos-din-472/pagina-17.png"
+    ],
+    "attributes": [
+      {
+        "name": "Norma / Padrão",
+        "value": "DIN 472"
+      },
+      {
+        "name": "Fonte documental",
+        "value": "Catálogo Técnico Carolfix, Página 17"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240231,
+        "sku": "> I-008",
+        "label": "> I-008",
+        "attributes": [
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "8,7"
+          },
+          {
+            "name": "",
+            "value": "-9,64"
+          },
+          {
+            "name": "",
+            "value": "2,4"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "RANHURA",
+            "value": "8,4"
+          },
+          {
+            "name": "",
+            "value": "0,11"
+          },
+          {
+            "name": "",
+            "value": "0,9"
+          },
+          {
+            "name": "",
+            "value": "0,2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240232,
+        "sku": "> I-009",
+        "label": "> I-009",
+        "attributes": [
+          {
+            "name": "",
+            "value": "9"
+          },
+          {
+            "name": "",
+            "value": "0,8"
+          },
+          {
+            "name": "",
+            "value": "9,8"
+          },
+          {
+            "name": "",
+            "value": "-9,64"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "1,3"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "RANHURA",
+            "value": "9,4"
+          },
+          {
+            "name": "",
+            "value": "0,11"
+          },
+          {
+            "name": "",
+            "value": "0,9"
+          },
+          {
+            "name": "",
+            "value": "0,2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240233,
+        "sku": "> I-010",
+        "label": "> I-010",
+        "attributes": [
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "10,8"
+          },
+          {
+            "name": "",
+            "value": "-9,64"
+          },
+          {
+            "name": "",
+            "value": "3,2"
+          },
+          {
+            "name": "",
+            "value": "1,4"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "10,4"
+          },
+          {
+            "name": "",
+            "value": "0,11"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "0,2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240234,
+        "sku": "> I-011",
+        "label": "> I-011",
+        "attributes": [
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "11,8"
+          },
+          {
+            "name": "",
+            "value": "-9,64"
+          },
+          {
+            "name": "",
+            "value": "3,3"
+          },
+          {
+            "name": "",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "11,4"
+          },
+          {
+            "name": "",
+            "value": "0,11"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "0,2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240235,
+        "sku": "> I-012",
+        "label": "> I-012",
+        "attributes": [
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "13"
+          },
+          {
+            "name": "",
+            "value": "-9,64"
+          },
+          {
+            "name": "",
+            "value": "3,4"
+          },
+          {
+            "name": "",
+            "value": "1,7"
+          },
+          {
+            "name": "",
+            "value": "1,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "12,5"
+          },
+          {
+            "name": "",
+            "value": "0,11"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240236,
+        "sku": "> I-013",
+        "label": "> I-013",
+        "attributes": [
+          {
+            "name": "",
+            "value": "13"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "14,1"
+          },
+          {
+            "name": "",
+            "value": "-9,64"
+          },
+          {
+            "name": "",
+            "value": "3,6"
+          },
+          {
+            "name": "",
+            "value": "1,8"
+          },
+          {
+            "name": "",
+            "value": "1,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "13,6"
+          },
+          {
+            "name": "",
+            "value": "0,11"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240237,
+        "sku": "> I-014",
+        "label": "> I-014",
+        "attributes": [
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "15,1"
+          },
+          {
+            "name": "",
+            "value": "-9,64"
+          },
+          {
+            "name": "",
+            "value": "3,7"
+          },
+          {
+            "name": "",
+            "value": "1,9"
+          },
+          {
+            "name": "",
+            "value": "1,7"
+          },
+          {
+            "name": "RANHURA",
+            "value": "14,6"
+          },
+          {
+            "name": "",
+            "value": "0,11"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240238,
+        "sku": "> I-015",
+        "label": "> I-015",
+        "attributes": [
+          {
+            "name": "",
+            "value": "15"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "16,2"
+          },
+          {
+            "name": "",
+            "value": "-9,64"
+          },
+          {
+            "name": "",
+            "value": "3,7"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "1,7"
+          },
+          {
+            "name": "RANHURA",
+            "value": "15,7"
+          },
+          {
+            "name": "",
+            "value": "0,11"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "0,35"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240239,
+        "sku": "> I-016",
+        "label": "> I-016",
+        "attributes": [
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "17,3"
+          },
+          {
+            "name": "",
+            "value": "-9,64"
+          },
+          {
+            "name": "",
+            "value": "3,8"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "1,7"
+          },
+          {
+            "name": "RANHURA",
+            "value": "16,8"
+          },
+          {
+            "name": "",
+            "value": "0,11"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "0,4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240240,
+        "sku": "> I-017",
+        "label": "> I-017",
+        "attributes": [
+          {
+            "name": "",
+            "value": "17"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "18,3"
+          },
+          {
+            "name": "",
+            "value": "0,29"
+          },
+          {
+            "name": "",
+            "value": "3,9"
+          },
+          {
+            "name": "",
+            "value": "2,1"
+          },
+          {
+            "name": "",
+            "value": "1,7"
+          },
+          {
+            "name": "RANHURA",
+            "value": "17,8"
+          },
+          {
+            "name": "",
+            "value": "0,11"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "0,4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240241,
+        "sku": "> I-018",
+        "label": "> I-018",
+        "attributes": [
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "19,5"
+          },
+          {
+            "name": "",
+            "value": "0,29"
+          },
+          {
+            "name": "",
+            "value": "4,1"
+          },
+          {
+            "name": "",
+            "value": "2,2"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "19"
+          },
+          {
+            "name": "",
+            "value": "0,15"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240242,
+        "sku": "> I-019",
+        "label": "> I-019",
+        "attributes": [
+          {
+            "name": "",
+            "value": "19"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "20,5"
+          },
+          {
+            "name": "",
+            "value": "0,29"
+          },
+          {
+            "name": "",
+            "value": "4,1"
+          },
+          {
+            "name": "",
+            "value": "2,2"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "0,15"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240243,
+        "sku": "> I-020",
+        "label": "> I-020",
+        "attributes": [
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "21,5"
+          },
+          {
+            "name": "",
+            "value": "0,29"
+          },
+          {
+            "name": "",
+            "value": "4,1"
+          },
+          {
+            "name": "",
+            "value": "2,3"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "21"
+          },
+          {
+            "name": "",
+            "value": "0,15"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240244,
+        "sku": "> I-021",
+        "label": "> I-021",
+        "attributes": [
+          {
+            "name": "",
+            "value": "21"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "22,5"
+          },
+          {
+            "name": "",
+            "value": "0,29"
+          },
+          {
+            "name": "",
+            "value": "4,2"
+          },
+          {
+            "name": "",
+            "value": "2,4"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "22"
+          },
+          {
+            "name": "",
+            "value": "0,15"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240245,
+        "sku": "> I-022",
+        "label": "> I-022",
+        "attributes": [
+          {
+            "name": "",
+            "value": "22"
+          },
+          {
+            "name": "",
+            "value": "1"
+          },
+          {
+            "name": "",
+            "value": "23,5"
+          },
+          {
+            "name": "",
+            "value": "0,29"
+          },
+          {
+            "name": "",
+            "value": "4,2"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "23"
+          },
+          {
+            "name": "",
+            "value": "0,15"
+          },
+          {
+            "name": "",
+            "value": "1,1"
+          },
+          {
+            "name": "",
+            "value": "0,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240246,
+        "sku": "I-023",
+        "label": "I-023",
+        "attributes": [
+          {
+            "name": "",
+            "value": "23"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "24,6"
+          },
+          {
+            "name": "",
+            "value": "0,29"
+          },
+          {
+            "name": "",
+            "value": "4,2"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "24,1"
+          },
+          {
+            "name": "",
+            "value": "0,15"
+          },
+          {
+            "name": "",
+            "value": "1,3"
+          },
+          {
+            "name": "",
+            "value": "0,55"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240247,
+        "sku": "> I-024",
+        "label": "> I-024",
+        "attributes": [
+          {
+            "name": "",
+            "value": "24"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "25,9"
+          },
+          {
+            "name": "",
+            "value": "0,21"
+          },
+          {
+            "name": "",
+            "value": "4,3"
+          },
+          {
+            "name": "",
+            "value": "2,6"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "25,2"
+          },
+          {
+            "name": "",
+            "value": "0,21"
+          },
+          {
+            "name": "",
+            "value": "1,3"
+          },
+          {
+            "name": "",
+            "value": "0,6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240248,
+        "sku": "> I-025",
+        "label": "> I-025",
+        "attributes": [
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "26,9"
+          },
+          {
+            "name": "",
+            "value": "0,21"
+          },
+          {
+            "name": "",
+            "value": "4,5"
+          },
+          {
+            "name": "",
+            "value": "2,7"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "26,2"
+          },
+          {
+            "name": "",
+            "value": "0,21"
+          },
+          {
+            "name": "",
+            "value": "1,3"
+          },
+          {
+            "name": "",
+            "value": "0,6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240249,
+        "sku": "> I-026",
+        "label": "> I-026",
+        "attributes": [
+          {
+            "name": "",
+            "value": "26"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "27,9"
+          },
+          {
+            "name": "",
+            "value": "0,21"
+          },
+          {
+            "name": "",
+            "value": "4,7"
+          },
+          {
+            "name": "",
+            "value": "2,8"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "27,2"
+          },
+          {
+            "name": "",
+            "value": "0,21"
+          },
+          {
+            "name": "",
+            "value": "1,3"
+          },
+          {
+            "name": "",
+            "value": "0,6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240250,
+        "sku": "I-027",
+        "label": "I-027",
+        "attributes": [
+          {
+            "name": "",
+            "value": "27"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "29,1"
+          },
+          {
+            "name": "",
+            "value": "0,21"
+          },
+          {
+            "name": "",
+            "value": "4,7"
+          },
+          {
+            "name": "",
+            "value": "2,9"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "28,4"
+          },
+          {
+            "name": "",
+            "value": "0,21"
+          },
+          {
+            "name": "",
+            "value": "1,3"
+          },
+          {
+            "name": "",
+            "value": "0,7"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240251,
+        "sku": "> I-028",
+        "label": "> I-028",
+        "attributes": [
+          {
+            "name": "",
+            "value": "28"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "30,1"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "4,8"
+          },
+          {
+            "name": "",
+            "value": "2,9"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "29,4"
+          },
+          {
+            "name": "",
+            "value": "0,21"
+          },
+          {
+            "name": "",
+            "value": "1,3"
+          },
+          {
+            "name": "",
+            "value": "0,7"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240252,
+        "sku": "I-029",
+        "label": "I-029",
+        "attributes": [
+          {
+            "name": "",
+            "value": "29"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "31,1"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "4,8"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "30,4"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,3"
+          },
+          {
+            "name": "",
+            "value": "0,7"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240253,
+        "sku": "> I-030",
+        "label": "> I-030",
+        "attributes": [
+          {
+            "name": "",
+            "value": "30"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "32,1"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "4,8"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "RANHURA",
+            "value": "31,4"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,3"
+          },
+          {
+            "name": "",
+            "value": "0,7"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240254,
+        "sku": "> I-031",
+        "label": "> I-031",
+        "attributes": [
+          {
+            "name": "",
+            "value": "31"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "33,4"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "5,2"
+          },
+          {
+            "name": "",
+            "value": "3,1"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "32,7"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,3"
+          },
+          {
+            "name": "",
+            "value": "0,85"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240255,
+        "sku": "> I-032",
+        "label": "> I-032",
+        "attributes": [
+          {
+            "name": "",
+            "value": "32"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "34,4"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "5,4"
+          },
+          {
+            "name": "",
+            "value": "3,2"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "33,7"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,3"
+          },
+          {
+            "name": "",
+            "value": "0,85"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240256,
+        "sku": "I-033",
+        "label": "I-033",
+        "attributes": [
+          {
+            "name": "",
+            "value": "33"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "35,5"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "5,4"
+          },
+          {
+            "name": "",
+            "value": "3,3"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "34,7"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,3"
+          },
+          {
+            "name": "",
+            "value": "0,85"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240257,
+        "sku": "> I-034",
+        "label": "> I-034",
+        "attributes": [
+          {
+            "name": "",
+            "value": "34"
+          },
+          {
+            "name": "",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "36,5"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "5,4"
+          },
+          {
+            "name": "",
+            "value": "3,3"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "35,7"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,6"
+          },
+          {
+            "name": "",
+            "value": "0,85"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240258,
+        "sku": "> I-035",
+        "label": "> I-035",
+        "attributes": [
+          {
+            "name": "",
+            "value": "35"
+          },
+          {
+            "name": "",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "37,8"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "5,4"
+          },
+          {
+            "name": "",
+            "value": "3,4"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "37"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,6"
+          },
+          {
+            "name": "",
+            "value": "1"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240259,
+        "sku": "> I-036",
+        "label": "> I-036",
+        "attributes": [
+          {
+            "name": "",
+            "value": "36"
+          },
+          {
+            "name": "",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "38,8"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "5,4"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "38"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,6"
+          },
+          {
+            "name": "",
+            "value": "1"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240260,
+        "sku": "> I-037",
+        "label": "> I-037",
+        "attributes": [
+          {
+            "name": "",
+            "value": "37"
+          },
+          {
+            "name": "",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "39,8"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "5,5"
+          },
+          {
+            "name": "",
+            "value": "3,6"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "39"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,6"
+          },
+          {
+            "name": "",
+            "value": "1"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240261,
+        "sku": "> I-038",
+        "label": "> I-038",
+        "attributes": [
+          {
+            "name": "",
+            "value": "38"
+          },
+          {
+            "name": "",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "40,8"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "5,5"
+          },
+          {
+            "name": "",
+            "value": "3,7"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "40"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,6"
+          },
+          {
+            "name": "",
+            "value": "1"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240262,
+        "sku": "I-039",
+        "label": "I-039",
+        "attributes": [
+          {
+            "name": "",
+            "value": "39"
+          },
+          {
+            "name": "",
+            "value": "1,5"
+          },
+          {
+            "name": "",
+            "value": "42"
+          },
+          {
+            "name": "",
+            "value": "0,51"
+          },
+          {
+            "name": "",
+            "value": "5,6"
+          },
+          {
+            "name": "",
+            "value": "3,8"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "41"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,85"
+          },
+          {
+            "name": "",
+            "value": "1"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240263,
+        "sku": "> I-040",
+        "label": "> I-040",
+        "attributes": [
+          {
+            "name": "",
+            "value": "40"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "43,5"
+          },
+          {
+            "name": "",
+            "value": "0,51"
+          },
+          {
+            "name": "",
+            "value": "5,8"
+          },
+          {
+            "name": "",
+            "value": "3,9"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "42,5"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,85"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240264,
+        "sku": "I-041",
+        "label": "I-041",
+        "attributes": [
+          {
+            "name": "",
+            "value": "41"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "44,5"
+          },
+          {
+            "name": "",
+            "value": "0,51"
+          },
+          {
+            "name": "",
+            "value": "5,9"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "43,5"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,85"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240265,
+        "sku": "> I-042",
+        "label": "> I-042",
+        "attributes": [
+          {
+            "name": "",
+            "value": "42"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "45,5"
+          },
+          {
+            "name": "",
+            "value": "0,51"
+          },
+          {
+            "name": "",
+            "value": "5,9"
+          },
+          {
+            "name": "",
+            "value": "4,1"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "44,5"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,85"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240266,
+        "sku": "I-043",
+        "label": "I-043",
+        "attributes": [
+          {
+            "name": "",
+            "value": "43"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "46,5"
+          },
+          {
+            "name": "",
+            "value": "0,51"
+          },
+          {
+            "name": "",
+            "value": "5,9"
+          },
+          {
+            "name": "",
+            "value": "4,2"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "45,5"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,85"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240267,
+        "sku": "I-044",
+        "label": "I-044",
+        "attributes": [
+          {
+            "name": "",
+            "value": "44"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "47,5"
+          },
+          {
+            "name": "",
+            "value": "0,51"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "4,2"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "46,5"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,85"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240268,
+        "sku": "> I-045",
+        "label": "> I-045",
+        "attributes": [
+          {
+            "name": "",
+            "value": "45"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "48,5"
+          },
+          {
+            "name": "",
+            "value": "0,51"
+          },
+          {
+            "name": "",
+            "value": "6,2"
+          },
+          {
+            "name": "",
+            "value": "4,3"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "47,5"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,85"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240269,
+        "sku": "I-046",
+        "label": "I-046",
+        "attributes": [
+          {
+            "name": "",
+            "value": "46"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "49,5"
+          },
+          {
+            "name": "",
+            "value": "0,51"
+          },
+          {
+            "name": "",
+            "value": "6,3"
+          },
+          {
+            "name": "",
+            "value": "4,4"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "48,5"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,85"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240270,
+        "sku": "> I-047",
+        "label": "> I-047",
+        "attributes": [
+          {
+            "name": "",
+            "value": "47"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "50,5"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "6,4"
+          },
+          {
+            "name": "",
+            "value": "4,4"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "49,5"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,85"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240271,
+        "sku": "> I-048",
+        "label": "> I-048",
+        "attributes": [
+          {
+            "name": "",
+            "value": "48"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "51,5"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "6,4"
+          },
+          {
+            "name": "",
+            "value": "4,5"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "50,5"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "1,85"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240272,
+        "sku": "> I-050",
+        "label": "> I-050",
+        "attributes": [
+          {
+            "name": "",
+            "value": "50"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "54,2"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "6,5"
+          },
+          {
+            "name": "",
+            "value": "4,6"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "53"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "2,15"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240273,
+        "sku": "I-051",
+        "label": "I-051",
+        "attributes": [
+          {
+            "name": "",
+            "value": "51"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "55,2"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "6,5"
+          },
+          {
+            "name": "",
+            "value": "4,7"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "54"
+          },
+          {
+            "name": "",
+            "value": "0,25"
+          },
+          {
+            "name": "",
+            "value": "2,15"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240274,
+        "sku": "> I-052",
+        "label": "> I-052",
+        "attributes": [
+          {
+            "name": "",
+            "value": "52"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "56,2"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "6,7"
+          },
+          {
+            "name": "",
+            "value": "4,7"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "55"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,15"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240275,
+        "sku": "I-053",
+        "label": "I-053",
+        "attributes": [
+          {
+            "name": "",
+            "value": "53"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "57,2"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "6,7"
+          },
+          {
+            "name": "",
+            "value": "4,9"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "56"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,15"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240276,
+        "sku": "I-054",
+        "label": "I-054",
+        "attributes": [
+          {
+            "name": "",
+            "value": "54"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "58,2"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "6,7"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "57"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,15"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240277,
+        "sku": "> I-055",
+        "label": "> I-055",
+        "attributes": [
+          {
+            "name": "",
+            "value": "55"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "59,2"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "6,8"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "58"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,15"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240278,
+        "sku": "> I-056",
+        "label": "> I-056",
+        "attributes": [
+          {
+            "name": "",
+            "value": "56"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "60,2"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "6,8"
+          },
+          {
+            "name": "",
+            "value": "5,1"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "59"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,15"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240279,
+        "sku": "I-057",
+        "label": "I-057",
+        "attributes": [
+          {
+            "name": "",
+            "value": "57"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "61,2"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "6,8"
+          },
+          {
+            "name": "",
+            "value": "5,1"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "60"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,15"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240280,
+        "sku": "> I-058",
+        "label": "> I-058",
+        "attributes": [
+          {
+            "name": "",
+            "value": "58"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "62,2"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "6,9"
+          },
+          {
+            "name": "",
+            "value": "5,2"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "61"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,15"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240281,
+        "sku": "> I-060",
+        "label": "> I-060",
+        "attributes": [
+          {
+            "name": "",
+            "value": "60"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "64,2"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "7,3"
+          },
+          {
+            "name": "",
+            "value": "5,4"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "63"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,15"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240282,
+        "sku": "> I-062",
+        "label": "> I-062",
+        "attributes": [
+          {
+            "name": "",
+            "value": "62"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "66,2"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "7,3"
+          },
+          {
+            "name": "",
+            "value": "5,5"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "65"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,15"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240283,
+        "sku": "> I-063",
+        "label": "> I-063",
+        "attributes": [
+          {
+            "name": "",
+            "value": "63"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "67,2"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "7,3"
+          },
+          {
+            "name": "",
+            "value": "5,6"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "66"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,15"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240284,
+        "sku": "> I-065",
+        "label": "> I-065",
+        "attributes": [
+          {
+            "name": "",
+            "value": "65"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "69,2"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "7,6"
+          },
+          {
+            "name": "",
+            "value": "5,8"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "68"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240285,
+        "sku": "I-067",
+        "label": "I-067",
+        "attributes": [
+          {
+            "name": "",
+            "value": "67"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "71,5"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "7,7"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "70"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240286,
+        "sku": "> I-068",
+        "label": "> I-068",
+        "attributes": [
+          {
+            "name": "",
+            "value": "68"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "72,5"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "7,8"
+          },
+          {
+            "name": "",
+            "value": "6,1"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "71"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240287,
+        "sku": "> I-070",
+        "label": "> I-070",
+        "attributes": [
+          {
+            "name": "",
+            "value": "70"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "74,5"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "7,8"
+          },
+          {
+            "name": "",
+            "value": "6,2"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "73"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240288,
+        "sku": "> I-072",
+        "label": "> I-072",
+        "attributes": [
+          {
+            "name": "",
+            "value": "72"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "76,5"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "7,8"
+          },
+          {
+            "name": "",
+            "value": "6,4"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "75"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240289,
+        "sku": "> I-075",
+        "label": "> I-075",
+        "attributes": [
+          {
+            "name": "",
+            "value": "75"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "79,5"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "7,8"
+          },
+          {
+            "name": "",
+            "value": "6,6"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "78"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240290,
+        "sku": "I-077",
+        "label": "I-077",
+        "attributes": [
+          {
+            "name": "",
+            "value": "77"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "81,5"
+          },
+          {
+            "name": "",
+            "value": "0,67"
+          },
+          {
+            "name": "",
+            "value": "7,9"
+          },
+          {
+            "name": "",
+            "value": "6,7"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "80"
+          },
+          {
+            "name": "",
+            "value": "0,3"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240291,
+        "sku": "> I-078",
+        "label": "> I-078",
+        "attributes": [
+          {
+            "name": "",
+            "value": "78"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "82,5"
+          },
+          {
+            "name": "",
+            "value": "0,76"
+          },
+          {
+            "name": "",
+            "value": "8,5"
+          },
+          {
+            "name": "",
+            "value": "6,8"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "81"
+          },
+          {
+            "name": "",
+            "value": "0,35"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "1,25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240292,
+        "sku": "> I-080",
+        "label": "> I-080",
+        "attributes": [
+          {
+            "name": "",
+            "value": "80"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "85,5"
+          },
+          {
+            "name": "",
+            "value": "0,76"
+          },
+          {
+            "name": "",
+            "value": "8,5"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "83,5"
+          },
+          {
+            "name": "",
+            "value": "0,35"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240293,
+        "sku": "I-081",
+        "label": "I-081",
+        "attributes": [
+          {
+            "name": "",
+            "value": "81"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "86,5"
+          },
+          {
+            "name": "",
+            "value": "0,76"
+          },
+          {
+            "name": "",
+            "value": "8,5"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "84,5"
+          },
+          {
+            "name": "",
+            "value": "0,35"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240294,
+        "sku": "> I-082",
+        "label": "> I-082",
+        "attributes": [
+          {
+            "name": "",
+            "value": "82"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "87,5"
+          },
+          {
+            "name": "",
+            "value": "0,76"
+          },
+          {
+            "name": "",
+            "value": "8,5"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "RANHURA",
+            "value": "85,5"
+          },
+          {
+            "name": "",
+            "value": "0,35"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240295,
+        "sku": "> I-085",
+        "label": "> I-085",
+        "attributes": [
+          {
+            "name": "",
+            "value": "85"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "90,5"
+          },
+          {
+            "name": "",
+            "value": "0,76"
+          },
+          {
+            "name": "",
+            "value": "8,6"
+          },
+          {
+            "name": "",
+            "value": "7,2"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "88,5"
+          },
+          {
+            "name": "",
+            "value": "0,35"
+          },
+          {
+            "name": "",
+            "value": "3,15"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240296,
+        "sku": "> I-087",
+        "label": "> I-087",
+        "attributes": [
+          {
+            "name": "",
+            "value": "87"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "92,5"
+          },
+          {
+            "name": "",
+            "value": "0,76"
+          },
+          {
+            "name": "",
+            "value": "8,6"
+          },
+          {
+            "name": "",
+            "value": "7,3"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "90,5"
+          },
+          {
+            "name": "",
+            "value": "0,35"
+          },
+          {
+            "name": "",
+            "value": "3,15"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240297,
+        "sku": "> I-088",
+        "label": "> I-088",
+        "attributes": [
+          {
+            "name": "",
+            "value": "88"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "93,6"
+          },
+          {
+            "name": "",
+            "value": "0,76"
+          },
+          {
+            "name": "",
+            "value": "8,6"
+          },
+          {
+            "name": "",
+            "value": "7,4"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "91,5"
+          },
+          {
+            "name": "",
+            "value": "0,35"
+          },
+          {
+            "name": "",
+            "value": "3,15"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240298,
+        "sku": "> I-090",
+        "label": "> I-090",
+        "attributes": [
+          {
+            "name": "",
+            "value": "90"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "95,5"
+          },
+          {
+            "name": "",
+            "value": "0,76"
+          },
+          {
+            "name": "",
+            "value": "8,6"
+          },
+          {
+            "name": "",
+            "value": "7,6"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "93,5"
+          },
+          {
+            "name": "",
+            "value": "0,35"
+          },
+          {
+            "name": "",
+            "value": "3,15"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240299,
+        "sku": "> I-092",
+        "label": "> I-092",
+        "attributes": [
+          {
+            "name": "",
+            "value": "92"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "97,5"
+          },
+          {
+            "name": "",
+            "value": "0,76"
+          },
+          {
+            "name": "",
+            "value": "8,7"
+          },
+          {
+            "name": "",
+            "value": "7,8"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "95,5"
+          },
+          {
+            "name": "",
+            "value": "0,35"
+          },
+          {
+            "name": "",
+            "value": "3,15"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240300,
+        "sku": "> I-095",
+        "label": "> I-095",
+        "attributes": [
+          {
+            "name": "",
+            "value": "95"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "100,5"
+          },
+          {
+            "name": "",
+            "value": "0,76"
+          },
+          {
+            "name": "",
+            "value": "8,8"
+          },
+          {
+            "name": "",
+            "value": "8,1"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "98,5"
+          },
+          {
+            "name": "",
+            "value": "0,35"
+          },
+          {
+            "name": "",
+            "value": "3,15"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240301,
+        "sku": "I-097",
+        "label": "I-097",
+        "attributes": [
+          {
+            "name": "",
+            "value": "97"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "102,5"
+          },
+          {
+            "name": "",
+            "value": "0,76"
+          },
+          {
+            "name": "",
+            "value": "8,8"
+          },
+          {
+            "name": "",
+            "value": "8,2"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "100,5"
+          },
+          {
+            "name": "",
+            "value": "0,35"
+          },
+          {
+            "name": "",
+            "value": "3,15"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240302,
+        "sku": "> I-098",
+        "label": "> I-098",
+        "attributes": [
+          {
+            "name": "",
+            "value": "98"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "103,5"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "9"
+          },
+          {
+            "name": "",
+            "value": "8,3"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "101,5"
+          },
+          {
+            "name": "",
+            "value": "0,35"
+          },
+          {
+            "name": "",
+            "value": "3,15"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240303,
+        "sku": "> I-100",
+        "label": "> I-100",
+        "attributes": [
+          {
+            "name": "",
+            "value": "100"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "105,5"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "9,2"
+          },
+          {
+            "name": "",
+            "value": "8,4"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "103,5"
+          },
+          {
+            "name": "",
+            "value": "0,35"
+          },
+          {
+            "name": "",
+            "value": "3,15"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240304,
+        "sku": "> I-102",
+        "label": "> I-102",
+        "attributes": [
+          {
+            "name": "",
+            "value": "102"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "108"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "9,5"
+          },
+          {
+            "name": "",
+            "value": "8,5"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "106"
+          },
+          {
+            "name": "",
+            "value": "0,54"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240305,
+        "sku": "> I-105",
+        "label": "> I-105",
+        "attributes": [
+          {
+            "name": "",
+            "value": "105"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "112"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "9,5"
+          },
+          {
+            "name": "",
+            "value": "8,7"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "109"
+          },
+          {
+            "name": "",
+            "value": "0,54"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240306,
+        "sku": "I-107",
+        "label": "I-107",
+        "attributes": [
+          {
+            "name": "",
+            "value": "107"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "114"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "9,5"
+          },
+          {
+            "name": "",
+            "value": "8,8"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "111"
+          },
+          {
+            "name": "",
+            "value": "0,54"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240307,
+        "sku": "> I-108",
+        "label": "> I-108",
+        "attributes": [
+          {
+            "name": "",
+            "value": "108"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "115"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "9,5"
+          },
+          {
+            "name": "",
+            "value": "8,9"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "112"
+          },
+          {
+            "name": "",
+            "value": "0,54"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240308,
+        "sku": "> I-110",
+        "label": "> I-110",
+        "attributes": [
+          {
+            "name": "",
+            "value": "110"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "117"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "10,4"
+          },
+          {
+            "name": "",
+            "value": "9"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "114"
+          },
+          {
+            "name": "",
+            "value": "0,54"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240309,
+        "sku": "> I-112",
+        "label": "> I-112",
+        "attributes": [
+          {
+            "name": "",
+            "value": "112"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "119"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "10,5"
+          },
+          {
+            "name": "",
+            "value": "9,1"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "116"
+          },
+          {
+            "name": "",
+            "value": "0,54"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240310,
+        "sku": "> I-115",
+        "label": "> I-115",
+        "attributes": [
+          {
+            "name": "",
+            "value": "115"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "122"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "10,5"
+          },
+          {
+            "name": "",
+            "value": "9,3"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "119"
+          },
+          {
+            "name": "",
+            "value": "0,54"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240311,
+        "sku": "I-117",
+        "label": "I-117",
+        "attributes": [
+          {
+            "name": "",
+            "value": "117"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "124"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "10,6"
+          },
+          {
+            "name": "",
+            "value": "9,5"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "121"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240312,
+        "sku": "I-118",
+        "label": "I-118",
+        "attributes": [
+          {
+            "name": "",
+            "value": "118"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "125"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "10,7"
+          },
+          {
+            "name": "",
+            "value": "9,6"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "122"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240313,
+        "sku": "> I-120",
+        "label": "> I-120",
+        "attributes": [
+          {
+            "name": "",
+            "value": "120"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "127"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "9,7"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "RANHURA",
+            "value": "124"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240314,
+        "sku": "I-122",
+        "label": "I-122",
+        "attributes": [
+          {
+            "name": "",
+            "value": "122"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "129"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "9,8"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "126"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240315,
+        "sku": "> I-125",
+        "label": "> I-125",
+        "attributes": [
+          {
+            "name": "",
+            "value": "125"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "132"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "129"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240316,
+        "sku": "I-127",
+        "label": "I-127",
+        "attributes": [
+          {
+            "name": "",
+            "value": "127"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "134"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "10,1"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "131"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240317,
+        "sku": "I-128",
+        "label": "I-128",
+        "attributes": [
+          {
+            "name": "",
+            "value": "128"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "135"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "10,2"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "132"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240318,
+        "sku": "> I-130",
+        "label": "> I-130",
+        "attributes": [
+          {
+            "name": "",
+            "value": "130"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "137"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "10,2"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "134"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240319,
+        "sku": "I-132",
+        "label": "I-132",
+        "attributes": [
+          {
+            "name": "",
+            "value": "132"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "139"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "10,3"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "136"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240320,
+        "sku": "> I-135",
+        "label": "> I-135",
+        "attributes": [
+          {
+            "name": "",
+            "value": "135"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "142"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "11,2"
+          },
+          {
+            "name": "",
+            "value": "10,5"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "139"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240321,
+        "sku": "I-137",
+        "label": "I-137",
+        "attributes": [
+          {
+            "name": "",
+            "value": "137"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "144"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "11,2"
+          },
+          {
+            "name": "",
+            "value": "10,5"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "141"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240322,
+        "sku": "I-138",
+        "label": "I-138",
+        "attributes": [
+          {
+            "name": "",
+            "value": "138"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "145"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "11,2"
+          },
+          {
+            "name": "",
+            "value": "10,6"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "142"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240323,
+        "sku": "> I-140",
+        "label": "> I-140",
+        "attributes": [
+          {
+            "name": "",
+            "value": "140"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "147"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "11,2"
+          },
+          {
+            "name": "",
+            "value": "10,7"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "144"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240324,
+        "sku": "I-142",
+        "label": "I-142",
+        "attributes": [
+          {
+            "name": "",
+            "value": "142"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "149"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "11,3"
+          },
+          {
+            "name": "",
+            "value": "10,8"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "146"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240325,
+        "sku": "> I-145",
+        "label": "> I-145",
+        "attributes": [
+          {
+            "name": "",
+            "value": "145"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "152"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "11,4"
+          },
+          {
+            "name": "",
+            "value": "10,9"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "149"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240326,
+        "sku": "I-147",
+        "label": "I-147",
+        "attributes": [
+          {
+            "name": "",
+            "value": "147"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "154"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "11,6"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "151"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240327,
+        "sku": "I-148",
+        "label": "I-148",
+        "attributes": [
+          {
+            "name": "",
+            "value": "148"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "155"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "11,8"
+          },
+          {
+            "name": "",
+            "value": "11,1"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "152"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240328,
+        "sku": "> I-150",
+        "label": "> I-150",
+        "attributes": [
+          {
+            "name": "",
+            "value": "150"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "158"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "11,2"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "155"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240329,
+        "sku": "I-152",
+        "label": "I-152",
+        "attributes": [
+          {
+            "name": "",
+            "value": "152"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "161"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "11,3"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "157"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240330,
+        "sku": "> I-155",
+        "label": "> I-155",
+        "attributes": [
+          {
+            "name": "",
+            "value": "155"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "164"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "11,4"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "160"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240331,
+        "sku": "I-157",
+        "label": "I-157",
+        "attributes": [
+          {
+            "name": "",
+            "value": "157"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "166"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "11,5"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "162"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240332,
+        "sku": "I-158",
+        "label": "I-158",
+        "attributes": [
+          {
+            "name": "",
+            "value": "158"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "167"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "12,3"
+          },
+          {
+            "name": "",
+            "value": "11,5"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "163"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240333,
+        "sku": "> I-160",
+        "label": "> I-160",
+        "attributes": [
+          {
+            "name": "",
+            "value": "160"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "169"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "13"
+          },
+          {
+            "name": "",
+            "value": "11,6"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "165"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240334,
+        "sku": "I-162",
+        "label": "I-162",
+        "attributes": [
+          {
+            "name": "",
+            "value": "162"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "171,5"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "13"
+          },
+          {
+            "name": "",
+            "value": "11,7"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "167"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240335,
+        "sku": "> I-165",
+        "label": "> I-165",
+        "attributes": [
+          {
+            "name": "",
+            "value": "165"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "174,5"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "13"
+          },
+          {
+            "name": "",
+            "value": "11,8"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "170"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240336,
+        "sku": "I-167",
+        "label": "I-167",
+        "attributes": [
+          {
+            "name": "",
+            "value": "167"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "176,5"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "172"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240337,
+        "sku": "I-168",
+        "label": "I-168",
+        "attributes": [
+          {
+            "name": "",
+            "value": "168"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "177,5"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "12,1"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "173"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240338,
+        "sku": "> I-170",
+        "label": "> I-170",
+        "attributes": [
+          {
+            "name": "",
+            "value": "170"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "179,5"
+          },
+          {
+            "name": "",
+            "value": "0,87"
+          },
+          {
+            "name": "",
+            "value": "12,2"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "175"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240339,
+        "sku": "I-172",
+        "label": "I-172",
+        "attributes": [
+          {
+            "name": "",
+            "value": "172"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "181,5"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "12,5"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "177"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240340,
+        "sku": "> I-175",
+        "label": "> I-175",
+        "attributes": [
+          {
+            "name": "",
+            "value": "175"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "184,5"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "12,7"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "180"
+          },
+          {
+            "name": "",
+            "value": "0,63"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240341,
+        "sku": "I-177",
+        "label": "I-177",
+        "attributes": [
+          {
+            "name": "",
+            "value": "177"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "186,5"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "12,8"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "182"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240342,
+        "sku": "I-178",
+        "label": "I-178",
+        "attributes": [
+          {
+            "name": "",
+            "value": "178"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "187,5"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "12,9"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "183"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240343,
+        "sku": "> I-180",
+        "label": "> I-180",
+        "attributes": [
+          {
+            "name": "",
+            "value": "180"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "189,5"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "13,2"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "185"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240344,
+        "sku": "I-182",
+        "label": "I-182",
+        "attributes": [
+          {
+            "name": "",
+            "value": "182"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "191,5"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "13,5"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "187"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240345,
+        "sku": "> I-185",
+        "label": "> I-185",
+        "attributes": [
+          {
+            "name": "",
+            "value": "185"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "194,5"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "13,7"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "190"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240346,
+        "sku": "I-187",
+        "label": "I-187",
+        "attributes": [
+          {
+            "name": "",
+            "value": "187"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "196,5"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "13,7"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "192"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240347,
+        "sku": "I-188",
+        "label": "I-188",
+        "attributes": [
+          {
+            "name": "",
+            "value": "188"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "197,5"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "13,8"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "193"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240348,
+        "sku": "> I-190",
+        "label": "> I-190",
+        "attributes": [
+          {
+            "name": "",
+            "value": "190"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "199,5"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "13,8"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "195"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240349,
+        "sku": "I-192",
+        "label": "I-192",
+        "attributes": [
+          {
+            "name": "",
+            "value": "192"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "201,5"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "13,8"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "197"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240350,
+        "sku": "> I-195",
+        "label": "> I-195",
+        "attributes": [
+          {
+            "name": "",
+            "value": "195"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "204,5"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "13,8"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "200"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240351,
+        "sku": "I-197",
+        "label": "I-197",
+        "attributes": [
+          {
+            "name": "",
+            "value": "197"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "206,5"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "202"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240352,
+        "sku": "I-198",
+        "label": "I-198",
+        "attributes": [
+          {
+            "name": "",
+            "value": "198"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "207,5"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "203"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240353,
+        "sku": "> I-200",
+        "label": "> I-200",
+        "attributes": [
+          {
+            "name": "",
+            "value": "200"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "209,5"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "205"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "4,15"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240354,
+        "sku": "I-202",
+        "label": "I-202",
+        "attributes": [
+          {
+            "name": "",
+            "value": "202"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "214"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "508"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240355,
+        "sku": "I-205",
+        "label": "I-205",
+        "attributes": [
+          {
+            "name": "",
+            "value": "205"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "217"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "211"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240356,
+        "sku": "I-207",
+        "label": "I-207",
+        "attributes": [
+          {
+            "name": "",
+            "value": "207"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "219"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "213"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240357,
+        "sku": "I-208",
+        "label": "I-208",
+        "attributes": [
+          {
+            "name": "",
+            "value": "208"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "220"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "214"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240358,
+        "sku": "> I-210",
+        "label": "> I-210",
+        "attributes": [
+          {
+            "name": "",
+            "value": "210"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "222"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "216"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240359,
+        "sku": "I-212",
+        "label": "I-212",
+        "attributes": [
+          {
+            "name": "",
+            "value": "212"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "224"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "218"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240360,
+        "sku": "I-215",
+        "label": "I-215",
+        "attributes": [
+          {
+            "name": "",
+            "value": "215"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "227"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "221"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240361,
+        "sku": "I-217",
+        "label": "I-217",
+        "attributes": [
+          {
+            "name": "",
+            "value": "217"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "229"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "223"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240362,
+        "sku": "I-218",
+        "label": "I-218",
+        "attributes": [
+          {
+            "name": "",
+            "value": "218"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "230"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "224"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240363,
+        "sku": "> I-220",
+        "label": "> I-220",
+        "attributes": [
+          {
+            "name": "",
+            "value": "220"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "232"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "226"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240364,
+        "sku": "I-222",
+        "label": "I-222",
+        "attributes": [
+          {
+            "name": "",
+            "value": "222"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "234"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "228"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240365,
+        "sku": "I-225",
+        "label": "I-225",
+        "attributes": [
+          {
+            "name": "",
+            "value": "225"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "237"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "231"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240366,
+        "sku": "I-227",
+        "label": "I-227",
+        "attributes": [
+          {
+            "name": "",
+            "value": "227"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "239"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "233"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240367,
+        "sku": "I-228",
+        "label": "I-228",
+        "attributes": [
+          {
+            "name": "",
+            "value": "228"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "240"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "234"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240368,
+        "sku": "> I-230",
+        "label": "> I-230",
+        "attributes": [
+          {
+            "name": "",
+            "value": "230"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "242"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "236"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240369,
+        "sku": "I-232",
+        "label": "I-232",
+        "attributes": [
+          {
+            "name": "",
+            "value": "232"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "244"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "238"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240370,
+        "sku": "I-235",
+        "label": "I-235",
+        "attributes": [
+          {
+            "name": "",
+            "value": "235"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "247"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "241"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240371,
+        "sku": "I-237",
+        "label": "I-237",
+        "attributes": [
+          {
+            "name": "",
+            "value": "237"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "249"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "243"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240372,
+        "sku": "I-238",
+        "label": "I-238",
+        "attributes": [
+          {
+            "name": "",
+            "value": "238"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "250"
+          },
+          {
+            "name": "",
+            "value": "0,98"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "244"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240373,
+        "sku": "> I-240",
+        "label": "> I-240",
+        "attributes": [
+          {
+            "name": "",
+            "value": "240"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "252"
+          },
+          {
+            "name": "",
+            "value": "1,2"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "RANHURA",
+            "value": "246"
+          },
+          {
+            "name": "",
+            "value": "0,72"
+          },
+          {
+            "name": "",
+            "value": "5,15"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Catálogo Técnico Carolfix (Página 17)",
+        "url": "/downloads/catalogo-carol-componentes.pdf#page=17",
+        "kind": "pdf",
+        "note": "Referência técnica oficial extraída do catálogo histórico de 60 páginas."
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela Técnica Dimensional — Página 17",
+        "columns": [
+          "ANEL DE RETENÇÃO PARA FURO",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "RANHURA",
+          "",
+          "",
+          ""
+        ],
+        "rows": [
+          [
+            "> I-008",
+            "8",
+            "0,8",
+            "8,7",
+            "-9,64",
+            "2,4",
+            "1,1",
+            "1",
+            "8,4",
+            "0,11",
+            "0,9",
+            "0,2"
+          ],
+          [
+            "> I-009",
+            "9",
+            "0,8",
+            "9,8",
+            "-9,64",
+            "2,5",
+            "1,3",
+            "1",
+            "9,4",
+            "0,11",
+            "0,9",
+            "0,2"
+          ],
+          [
+            "> I-010",
+            "10",
+            "1",
+            "10,8",
+            "-9,64",
+            "3,2",
+            "1,4",
+            "1,2",
+            "10,4",
+            "0,11",
+            "1,1",
+            "0,2"
+          ],
+          [
+            "> I-011",
+            "11",
+            "1",
+            "11,8",
+            "-9,64",
+            "3,3",
+            "1,5",
+            "1,2",
+            "11,4",
+            "0,11",
+            "1,1",
+            "0,2"
+          ],
+          [
+            "> I-012",
+            "12",
+            "1",
+            "13",
+            "-9,64",
+            "3,4",
+            "1,7",
+            "1,5",
+            "12,5",
+            "0,11",
+            "1,1",
+            "0,25"
+          ],
+          [
+            "> I-013",
+            "13",
+            "1",
+            "14,1",
+            "-9,64",
+            "3,6",
+            "1,8",
+            "1,5",
+            "13,6",
+            "0,11",
+            "1,1",
+            "0,3"
+          ],
+          [
+            "> I-014",
+            "14",
+            "1",
+            "15,1",
+            "-9,64",
+            "3,7",
+            "1,9",
+            "1,7",
+            "14,6",
+            "0,11",
+            "1,1",
+            "0,3"
+          ],
+          [
+            "> I-015",
+            "15",
+            "1",
+            "16,2",
+            "-9,64",
+            "3,7",
+            "2",
+            "1,7",
+            "15,7",
+            "0,11",
+            "1,1",
+            "0,35"
+          ],
+          [
+            "> I-016",
+            "16",
+            "1",
+            "17,3",
+            "-9,64",
+            "3,8",
+            "2",
+            "1,7",
+            "16,8",
+            "0,11",
+            "1,1",
+            "0,4"
+          ],
+          [
+            "> I-017",
+            "17",
+            "1",
+            "18,3",
+            "0,29",
+            "3,9",
+            "2,1",
+            "1,7",
+            "17,8",
+            "0,11",
+            "1,1",
+            "0,4"
+          ],
+          [
+            "> I-018",
+            "18",
+            "1",
+            "19,5",
+            "0,29",
+            "4,1",
+            "2,2",
+            "2",
+            "19",
+            "0,15",
+            "1,1",
+            "0,5"
+          ],
+          [
+            "> I-019",
+            "19",
+            "1",
+            "20,5",
+            "0,29",
+            "4,1",
+            "2,2",
+            "2",
+            "20",
+            "0,15",
+            "1,1",
+            "0,5"
+          ],
+          [
+            "> I-020",
+            "20",
+            "1",
+            "21,5",
+            "0,29",
+            "4,1",
+            "2,3",
+            "2",
+            "21",
+            "0,15",
+            "1,1",
+            "0,5"
+          ],
+          [
+            "> I-021",
+            "21",
+            "1",
+            "22,5",
+            "0,29",
+            "4,2",
+            "2,4",
+            "2",
+            "22",
+            "0,15",
+            "1,1",
+            "0,5"
+          ],
+          [
+            "> I-022",
+            "22",
+            "1",
+            "23,5",
+            "0,29",
+            "4,2",
+            "2,5",
+            "2",
+            "23",
+            "0,15",
+            "1,1",
+            "0,5"
+          ],
+          [
+            "I-023",
+            "23",
+            "1,2",
+            "24,6",
+            "0,29",
+            "4,2",
+            "2,5",
+            "2",
+            "24,1",
+            "0,15",
+            "1,3",
+            "0,55"
+          ],
+          [
+            "> I-024",
+            "24",
+            "1,2",
+            "25,9",
+            "0,21",
+            "4,3",
+            "2,6",
+            "2",
+            "25,2",
+            "0,21",
+            "1,3",
+            "0,6"
+          ],
+          [
+            "> I-025",
+            "25",
+            "1,2",
+            "26,9",
+            "0,21",
+            "4,5",
+            "2,7",
+            "2",
+            "26,2",
+            "0,21",
+            "1,3",
+            "0,6"
+          ],
+          [
+            "> I-026",
+            "26",
+            "1,2",
+            "27,9",
+            "0,21",
+            "4,7",
+            "2,8",
+            "2",
+            "27,2",
+            "0,21",
+            "1,3",
+            "0,6"
+          ],
+          [
+            "I-027",
+            "27",
+            "1,2",
+            "29,1",
+            "0,21",
+            "4,7",
+            "2,9",
+            "2",
+            "28,4",
+            "0,21",
+            "1,3",
+            "0,7"
+          ],
+          [
+            "> I-028",
+            "28",
+            "1,2",
+            "30,1",
+            "0,25",
+            "4,8",
+            "2,9",
+            "2",
+            "29,4",
+            "0,21",
+            "1,3",
+            "0,7"
+          ],
+          [
+            "I-029",
+            "29",
+            "1,2",
+            "31,1",
+            "0,25",
+            "4,8",
+            "3",
+            "2",
+            "30,4",
+            "0,25",
+            "1,3",
+            "0,7"
+          ],
+          [
+            "> I-030",
+            "30",
+            "1,2",
+            "32,1",
+            "0,25",
+            "4,8",
+            "3",
+            "2",
+            "31,4",
+            "0,25",
+            "1,3",
+            "0,7"
+          ],
+          [
+            "> I-031",
+            "31",
+            "1,2",
+            "33,4",
+            "0,25",
+            "5,2",
+            "3,1",
+            "2,5",
+            "32,7",
+            "0,25",
+            "1,3",
+            "0,85"
+          ],
+          [
+            "> I-032",
+            "32",
+            "1,2",
+            "34,4",
+            "0,25",
+            "5,4",
+            "3,2",
+            "2,5",
+            "33,7",
+            "0,25",
+            "1,3",
+            "0,85"
+          ],
+          [
+            "I-033",
+            "33",
+            "1,2",
+            "35,5",
+            "0,25",
+            "5,4",
+            "3,3",
+            "2,5",
+            "34,7",
+            "0,25",
+            "1,3",
+            "0,85"
+          ],
+          [
+            "> I-034",
+            "34",
+            "1,5",
+            "36,5",
+            "0,25",
+            "5,4",
+            "3,3",
+            "2,5",
+            "35,7",
+            "0,25",
+            "1,6",
+            "0,85"
+          ],
+          [
+            "> I-035",
+            "35",
+            "1,5",
+            "37,8",
+            "0,25",
+            "5,4",
+            "3,4",
+            "2,5",
+            "37",
+            "0,25",
+            "1,6",
+            "1"
+          ],
+          [
+            "> I-036",
+            "36",
+            "1,5",
+            "38,8",
+            "0,25",
+            "5,4",
+            "3,5",
+            "2,5",
+            "38",
+            "0,25",
+            "1,6",
+            "1"
+          ],
+          [
+            "> I-037",
+            "37",
+            "1,5",
+            "39,8",
+            "0,25",
+            "5,5",
+            "3,6",
+            "2,5",
+            "39",
+            "0,25",
+            "1,6",
+            "1"
+          ],
+          [
+            "> I-038",
+            "38",
+            "1,5",
+            "40,8",
+            "0,25",
+            "5,5",
+            "3,7",
+            "2,5",
+            "40",
+            "0,25",
+            "1,6",
+            "1"
+          ],
+          [
+            "I-039",
+            "39",
+            "1,5",
+            "42",
+            "0,51",
+            "5,6",
+            "3,8",
+            "2,5",
+            "41",
+            "0,25",
+            "1,85",
+            "1"
+          ],
+          [
+            "> I-040",
+            "40",
+            "1,75",
+            "43,5",
+            "0,51",
+            "5,8",
+            "3,9",
+            "2,5",
+            "42,5",
+            "0,25",
+            "1,85",
+            "1,25"
+          ],
+          [
+            "I-041",
+            "41",
+            "1,75",
+            "44,5",
+            "0,51",
+            "5,9",
+            "4",
+            "2,5",
+            "43,5",
+            "0,25",
+            "1,85",
+            "1,25"
+          ],
+          [
+            "> I-042",
+            "42",
+            "1,75",
+            "45,5",
+            "0,51",
+            "5,9",
+            "4,1",
+            "2,5",
+            "44,5",
+            "0,25",
+            "1,85",
+            "1,25"
+          ],
+          [
+            "I-043",
+            "43",
+            "1,75",
+            "46,5",
+            "0,51",
+            "5,9",
+            "4,2",
+            "2,5",
+            "45,5",
+            "0,25",
+            "1,85",
+            "1,25"
+          ],
+          [
+            "I-044",
+            "44",
+            "1,75",
+            "47,5",
+            "0,51",
+            "6",
+            "4,2",
+            "2,5",
+            "46,5",
+            "0,25",
+            "1,85",
+            "1,25"
+          ],
+          [
+            "> I-045",
+            "45",
+            "1,75",
+            "48,5",
+            "0,51",
+            "6,2",
+            "4,3",
+            "2,5",
+            "47,5",
+            "0,25",
+            "1,85",
+            "1,25"
+          ],
+          [
+            "I-046",
+            "46",
+            "1,75",
+            "49,5",
+            "0,51",
+            "6,3",
+            "4,4",
+            "2,5",
+            "48,5",
+            "0,25",
+            "1,85",
+            "1,25"
+          ],
+          [
+            "> I-047",
+            "47",
+            "1,75",
+            "50,5",
+            "0,67",
+            "6,4",
+            "4,4",
+            "2,5",
+            "49,5",
+            "0,25",
+            "1,85",
+            "1,25"
+          ],
+          [
+            "> I-048",
+            "48",
+            "1,75",
+            "51,5",
+            "0,67",
+            "6,4",
+            "4,5",
+            "2,5",
+            "50,5",
+            "0,25",
+            "1,85",
+            "1,25"
+          ],
+          [
+            "> I-050",
+            "50",
+            "2",
+            "54,2",
+            "0,67",
+            "6,5",
+            "4,6",
+            "2,5",
+            "53",
+            "0,25",
+            "2,15",
+            "1,25"
+          ],
+          [
+            "I-051",
+            "51",
+            "2",
+            "55,2",
+            "0,67",
+            "6,5",
+            "4,7",
+            "2,5",
+            "54",
+            "0,25",
+            "2,15",
+            "1,25"
+          ],
+          [
+            "> I-052",
+            "52",
+            "2",
+            "56,2",
+            "0,67",
+            "6,7",
+            "4,7",
+            "2,5",
+            "55",
+            "0,3",
+            "2,15",
+            "1,25"
+          ],
+          [
+            "I-053",
+            "53",
+            "2",
+            "57,2",
+            "0,67",
+            "6,7",
+            "4,9",
+            "2,5",
+            "56",
+            "0,3",
+            "2,15",
+            "1,25"
+          ],
+          [
+            "I-054",
+            "54",
+            "2",
+            "58,2",
+            "0,67",
+            "6,7",
+            "5",
+            "2,5",
+            "57",
+            "0,3",
+            "2,15",
+            "1,25"
+          ],
+          [
+            "> I-055",
+            "55",
+            "2",
+            "59,2",
+            "0,67",
+            "6,8",
+            "5",
+            "2,5",
+            "58",
+            "0,3",
+            "2,15",
+            "1,25"
+          ],
+          [
+            "> I-056",
+            "56",
+            "2",
+            "60,2",
+            "0,67",
+            "6,8",
+            "5,1",
+            "2,5",
+            "59",
+            "0,3",
+            "2,15",
+            "1,25"
+          ],
+          [
+            "I-057",
+            "57",
+            "2",
+            "61,2",
+            "0,67",
+            "6,8",
+            "5,1",
+            "2,5",
+            "60",
+            "0,3",
+            "2,15",
+            "1,25"
+          ],
+          [
+            "> I-058",
+            "58",
+            "2",
+            "62,2",
+            "0,67",
+            "6,9",
+            "5,2",
+            "2,5",
+            "61",
+            "0,3",
+            "2,15",
+            "1,25"
+          ]
+        ],
+        "note": "Dados extraídos diretamente da página 17 do catálogo técnico Carolfix."
+      }
+    ],
+    "homepage": false
+  },
+  "checks": {
+    "variants": 143,
+    "pdfPage": 17
+  }
+}

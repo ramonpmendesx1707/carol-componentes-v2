@@ -1,0 +1,185 @@
+{
+  "id": 201013,
+  "slug": "merkbak-ces-cabo-estilizado",
+  "name": "CES – Cabo Estilizado",
+  "sku": "CES",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-estilizado/",
+  "type": "product",
+  "summary": "Máquinas, equipamentos e dispositivos que requerem regulagem manual",
+  "description": "<p>Máquinas, equipamentos e dispositivos que requerem regulagem manual</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Rosca direta no baquelite / Isolante térmico / Higienização eficiente</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Baquelite",
+      "slug": "baquelite"
+    }
+  ],
+  "image": "/images/products/merkbak/ces-cabo-estilizado/1.png",
+  "images": [
+    "/images/products/merkbak/ces-cabo-estilizado/1.png",
+    "/images/products/merkbak/ces-cabo-estilizado/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Baquelite"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Máquinas, equipamentos e dispositivos que requerem regulagem manual"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Rosca direta no baquelite / Isolante térmico / Higienização eficiente"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220051,
+      "sku": "CES 3047 3/8\"",
+      "label": "CES 3047 3/8\"",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CES 3047 3/8\""
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220052,
+      "sku": "CES 3047 5/16\"",
+      "label": "CES 3047 5/16\"",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CES 3047 5/16\""
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220053,
+      "sku": "CES 3061 5/16”",
+      "label": "CES 3061 5/16”",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CES 3061 5/16”"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220054,
+      "sku": "CES 3061 M8",
+      "label": "CES 3061 M8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CES 3061 M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220055,
+      "sku": "CES 3061 3/8”",
+      "label": "CES 3061 3/8”",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CES 3061 3/8”"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220056,
+      "sku": "CES 3061 M10",
+      "label": "CES 3061 M10",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CES 3061 M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Baquelite"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Máquinas, equipamentos e dispositivos que requerem regulagem manual"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Rosca direta no baquelite / Isolante térmico / Higienização eficiente"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "CES 3047 3/8\""
+        },
+        {
+          "name": "Medida",
+          "value": "CES 3047 5/16\""
+        },
+        {
+          "name": "Medida",
+          "value": "CES 3061 5/16”"
+        },
+        {
+          "name": "Medida",
+          "value": "CES 3061 M8"
+        },
+        {
+          "name": "Medida",
+          "value": "CES 3061 3/8”"
+        },
+        {
+          "name": "Medida",
+          "value": "CES 3061 M10"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

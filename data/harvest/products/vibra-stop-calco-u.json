@@ -1,5 +1,5 @@
 {
-  "id": 200020,
+  "id": 200012,
   "slug": "vibra-stop-calco-u",
   "name": "Vibra-Stop Calço U",
   "sku": "Calço U",
@@ -32,7 +32,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240083,
+      "id": 210041,
       "sku": "CU",
       "label": "CU",
       "attributes": [
@@ -64,6 +64,12 @@
       "url": "/downloads/products/vibra-stop/calco-u/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Calco%20U.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [],

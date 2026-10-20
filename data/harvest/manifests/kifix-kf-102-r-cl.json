@@ -1,0 +1,173 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kf-102-r-cl/",
+  "fetchedAt": "2026-10-20T12:54:36.868Z",
+  "product": {
+    "id": 202036,
+    "slug": "kifix-kf-102-r-cl",
+    "name": "KF-102 R CL",
+    "sku": "KF-102 R CL",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kf-102-r-cl/",
+    "type": "product",
+    "summary": "Linha LANÇAMENTOS Kifix modelo KF-102 R CL, com 1 referências dimensionais.",
+    "description": "<p>Linha LANÇAMENTOS Kifix modelo KF-102 R CL, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "LANÇAMENTOS",
+        "slug": "lancamentos"
+      }
+    ],
+    "image": "/images/products/kifix/kf-102-r-cl/foto-1.png",
+    "images": [
+      "/images/products/kifix/kf-102-r-cl/foto-1.png",
+      "/images/products/kifix/kf-102-r-cl/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "LANÇAMENTOS"
+      }
+    ],
+    "weight": "0,085 (0,187)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230284,
+        "sku": "KF-102 R CL",
+        "label": "KF-102 R CL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "50 (110)"
+          },
+          {
+            "name": "A (in)",
+            "value": "58 (2,28)"
+          },
+          {
+            "name": "B (in)",
+            "value": "80 (3,15)"
+          },
+          {
+            "name": "C (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "D (in)",
+            "value": "15 (0,59)"
+          },
+          {
+            "name": "E (in)",
+            "value": "4 (0,16)"
+          },
+          {
+            "name": "F (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "36 (1,42)"
+          },
+          {
+            "name": "J (in)",
+            "value": "4,5 (0,18)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M6"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "75"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,085 (0,187)"
+          }
+        ],
+        "weight": "0,085 (0,187)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "PONTEIRA",
+          "ÂNGULO DE ABERTURA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-102 R CL",
+            "50 (110)",
+            "58 (2,28)",
+            "80 (3,15)",
+            "14 (0,55)",
+            "15 (0,59)",
+            "4 (0,16)",
+            "24 (0,94)",
+            "-",
+            "36 (1,42)",
+            "4,5 (0,18)",
+            "M6",
+            "75",
+            "0,085 (0,187)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kf-102-r-cl/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kf-102-r-cl/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/985_KF102_R_CL.png",
+      "bytes": 3027673,
+      "sha256": "79ccce93c30b1cb0c56d17eb8cd158efd3559fcf122a8ff55b5444d04c27a0a0"
+    },
+    {
+      "path": "/images/products/kifix/kf-102-r-cl/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/466_KF102_R_CL.jpg",
+      "bytes": 119938,
+      "sha256": "b2245d7d0a6785294cae63b1a95496cccf5ca3356314b27b628a07b2c5393d72"
+    }
+  ],
+  "checks": {
+    "variants": 1,
+    "photos": 1,
+    "drawings": 1,
+    "tableRows": 1
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "id": 200015,
+  "id": 200007,
   "slug": "vibra-stop-batente-de-borracha-femea",
   "name": "Vibra-Stop Batente de Borracha Fêmea",
   "sku": "Batente de Borracha Fêmea",
@@ -32,7 +32,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240068,
+      "id": 210027,
       "sku": "P",
       "label": "P",
       "attributes": [
@@ -74,7 +74,7 @@
       "image": null
     },
     {
-      "id": 240069,
+      "id": 210028,
       "sku": "G",
       "label": "G",
       "attributes": [
@@ -122,6 +122,12 @@
       "url": "/downloads/products/vibra-stop/batente-de-borracha-femea/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Batente%20de%20Borracha%20Femea.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [],

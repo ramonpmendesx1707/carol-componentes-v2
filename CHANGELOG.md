@@ -1,5 +1,15 @@
 # V2 — Catálogo preparado para reconstrução — 19/10/2026
 
+## Catálogo V2 100% coletado, reconciliado e unificado — 20/10/2026
+
+- **Coleta e publicação total**: 228 produtos e 2.362 referências técnicas ativas em data/catalog.json, sem preços, prazos ou estoques de terceiros.
+- **Vibra-Stop**: 65 produtos e 405 variantes 100% coletados e confrontados com os catálogos edição 2026 (catalogo-de-produtos.pdf e catalogo-molas-site-ago-2026.pdf). A regra de Ramon foi aplicada integralmente (PDF prevalece sobre o site, com reconciliação documentada em data/harvest/reconciliations/vibra-stop-2026.json).
+- **Merkbak**: Todas as 18 categorias concluídas (50 produtos coletados com fotos de alta resolução, abas técnicas de material/aplicação/acabamento e medidas).
+- **Kifix**: Todas as 29 famílias concluídas (98 produtos e 629 variantes; tabelas dimensionais completas, fotos PNG originais e desenhos técnicos esquemáticos de /desenhos_produtos/ incorporados localmente; arquivos restritos a login isolados da vitrine).
+- **Carolfix**: 16 produtos de normas mecânicas (1.020 variantes) extraídos do catálogo técnico oficial de 60 páginas (rolamentos rígidos, mancais UCPA/UCT/UCFL, porcas KM e travas MB, anéis de retenção DIN 471/472/6799, molas prato DIN 2093, arruelas DIN 137, pinos DIN 1481/7/1530 e parafusos olhal DIN 580/582). Produtos revendidos foram mantidos sob seus fabricantes originais (Merkbak/Kifix), evitando duplicação.
+- **Reindexação e IDs particionados**: IDs de produtos e variantes organizados em faixas exclusivas por fornecedor (Vibra: 200000+, Merkbak: 201000+, Kifix: 202000+, Carolfix: 203000+).
+- **Compilação e integridade**: Validados com êxito npx tsc --noEmit, npm run build:pages e npm run build (Vinext Worker). Fila persistente queue.json (148 sementes) e ledger status.json 100% finalizados.
+
 ## PDFs 2026 e início da coleta contínua Vibra-Stop — 20/10/2026
 
 - Base Elevada Kifix: desenho técnico JPG público de alta resolução incorporado à galeria e à aba técnica; removido o documento restrito que antes levava ao site do fornecedor. A V2 agora oculta materiais não armazenados localmente, sem expor links diretos de fonte na aba. Vídeos públicos aparecem em player integrado no detalhe, inclusive o MP4 Vibra-Stop, sem botão externo.

@@ -1,0 +1,453 @@
+{
+  "id": 202049,
+  "slug": "kifix-kf-330-350-340",
+  "name": "KF-330/350/340",
+  "sku": "KF-330/350/340",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-330-350-340/",
+  "type": "product",
+  "summary": "Linha Grampo tensor Kifix modelo KF-330/350/340, com 4 referências dimensionais.",
+  "description": "<p>Linha Grampo tensor Kifix modelo KF-330/350/340, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo tensor",
+      "slug": "grampo-tensor"
+    }
+  ],
+  "image": "/images/products/kifix/kf-330-350-340/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-330-350-340/foto-1.png",
+    "/images/products/kifix/kf-330-350-340/foto-2.png",
+    "/images/products/kifix/kf-330-350-340/foto-3.png",
+    "/images/products/kifix/kf-330-350-340/foto-4.png",
+    "/images/products/kifix/kf-330-350-340/desenho-1.jpg",
+    "/images/products/kifix/kf-330-350-340/desenho-2.jpg",
+    "/images/products/kifix/kf-330-350-340/desenho-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo tensor"
+    }
+  ],
+  "weight": "2,960 (6,526)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230381,
+      "sku": "KF-330",
+      "label": "KF-330",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1500 (3307)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "48 (1,89)"
+        },
+        {
+          "name": "A (in)",
+          "value": "208 (8,19)"
+        },
+        {
+          "name": "B máx (in)",
+          "value": "209 (8,23)"
+        },
+        {
+          "name": "C (in)",
+          "value": "31 (1,22)"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "D2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "E (in)",
+          "value": "85 (3,35)"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "63,5 (2,50)"
+        },
+        {
+          "name": "F2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "G (in)",
+          "value": "105 (4,13)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "N (in)",
+          "value": "12,7 (0,50)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "86 (3,38)"
+        },
+        {
+          "name": "ROSCA",
+          "value": "M16"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "2,960 (6,526)"
+        }
+      ],
+      "weight": "2,960 (6,526)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230382,
+      "sku": "KF-350",
+      "label": "KF-350",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1800 (3969)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "50 (1,97)"
+        },
+        {
+          "name": "A (in)",
+          "value": "246 (9,69)"
+        },
+        {
+          "name": "B máx (in)",
+          "value": "239 (9,41)"
+        },
+        {
+          "name": "C (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "D2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "E (in)",
+          "value": "94 (3,70)"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "F2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "G (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "J (in)",
+          "value": "11,0 (0,43)"
+        },
+        {
+          "name": "N (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "80 (3,15)"
+        },
+        {
+          "name": "ROSCA",
+          "value": "M16"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "3,970 (8,754)"
+        }
+      ],
+      "weight": "3,970 (8,754)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230383,
+      "sku": "KF-340",
+      "label": "KF-340",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "2500 (5512)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "53 (2,09)"
+        },
+        {
+          "name": "A (in)",
+          "value": "61 (2,40)"
+        },
+        {
+          "name": "B máx (in)",
+          "value": "490 (19,29)"
+        },
+        {
+          "name": "C (in)",
+          "value": "38,1 (1,50)"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "D2 (in)",
+          "value": "55 (2,17)"
+        },
+        {
+          "name": "E (in)",
+          "value": "85 (3,35)"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "63,5 (2,50)"
+        },
+        {
+          "name": "F2 (in)",
+          "value": "76 (2,99)"
+        },
+        {
+          "name": "G (in)",
+          "value": "112 (4,41)"
+        },
+        {
+          "name": "J (in)",
+          "value": "11,0 (0,43)"
+        },
+        {
+          "name": "N (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "115 (4,53)"
+        },
+        {
+          "name": "ROSCA",
+          "value": "M16"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "3,200 (7,056)"
+        }
+      ],
+      "weight": "3,200 (7,056)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230384,
+      "sku": "KF-350 RF",
+      "label": "KF-350 RF",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1800 (3969)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "50 (1,97)"
+        },
+        {
+          "name": "A (in)",
+          "value": "246 (9,69)"
+        },
+        {
+          "name": "B máx (in)",
+          "value": "239 (9,41)"
+        },
+        {
+          "name": "C (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "D2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "E (in)",
+          "value": "94 (3,70)"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "F2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "G (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "J (in)",
+          "value": "11,0 (0,43)"
+        },
+        {
+          "name": "N (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "80 (3,15)"
+        },
+        {
+          "name": "ROSCA",
+          "value": "M16"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "3,970 (8,754)"
+        }
+      ],
+      "weight": "3,970 (8,754)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "CURSO (in)",
+        "A (in)",
+        "B máx (in)",
+        "C (in)",
+        "D1 (in)",
+        "D2 (in)",
+        "E (in)",
+        "F1 (in)",
+        "F2 (in)",
+        "G (in)",
+        "J (in)",
+        "N (in)",
+        "Q (in)",
+        "ROSCA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-330",
+          "1500 (3307)",
+          "48 (1,89)",
+          "208 (8,19)",
+          "209 (8,23)",
+          "31 (1,22)",
+          "35 (1,38)",
+          "-",
+          "85 (3,35)",
+          "63,5 (2,50)",
+          "-",
+          "105 (4,13)",
+          "8,5 (0,33)",
+          "12,7 (0,50)",
+          "86 (3,38)",
+          "M16",
+          "2,960 (6,526)"
+        ],
+        [
+          "KF-350",
+          "1800 (3969)",
+          "50 (1,97)",
+          "246 (9,69)",
+          "239 (9,41)",
+          "44 (1,73)",
+          "35 (1,38)",
+          "-",
+          "94 (3,70)",
+          "60 (2,36)",
+          "-",
+          "120 (4,72)",
+          "11,0 (0,43)",
+          "16 (0,63)",
+          "80 (3,15)",
+          "M16",
+          "3,970 (8,754)"
+        ],
+        [
+          "KF-340",
+          "2500 (5512)",
+          "53 (2,09)",
+          "61 (2,40)",
+          "490 (19,29)",
+          "38,1 (1,50)",
+          "35 (1,38)",
+          "55 (2,17)",
+          "85 (3,35)",
+          "63,5 (2,50)",
+          "76 (2,99)",
+          "112 (4,41)",
+          "11,0 (0,43)",
+          "16 (0,63)",
+          "115 (4,53)",
+          "M16",
+          "3,200 (7,056)"
+        ],
+        [
+          "KF-350 RF",
+          "1800 (3969)",
+          "50 (1,97)",
+          "246 (9,69)",
+          "239 (9,41)",
+          "44 (1,73)",
+          "35 (1,38)",
+          "-",
+          "94 (3,70)",
+          "60 (2,36)",
+          "-",
+          "120 (4,72)",
+          "11,0 (0,43)",
+          "16 (0,63)",
+          "80 (3,15)",
+          "M16",
+          "3,970 (8,754)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-330-350-340/desenho-1.jpg",
+        "/images/products/kifix/kf-330-350-340/desenho-2.jpg",
+        "/images/products/kifix/kf-330-350-340/desenho-3.png"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

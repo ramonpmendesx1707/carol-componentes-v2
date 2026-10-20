@@ -1,0 +1,81 @@
+{
+  "id": 201005,
+  "slug": "merkbak-btm-2613-m6x14",
+  "name": "BTM 2613 M6X14",
+  "sku": "BTM 2613 M6X14",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/botao-trava/",
+  "type": "product",
+  "summary": "Botões são utilizados em ajustes/apertos/regulagens manuais",
+  "description": "<p>Botões são utilizados em ajustes/apertos/regulagens manuais</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro + rosca aço carbono zincada amarela</p><p><strong>Informações adicionais:</strong> Alta resistência / Em casos de medida de rosca específica, consultar fábrica</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Plásticos",
+      "slug": "plasticos"
+    }
+  ],
+  "image": "/images/products/merkbak/btm-2613-m6x14/1.png",
+  "images": [
+    "/images/products/merkbak/btm-2613-m6x14/1.png",
+    "/images/products/merkbak/btm-2613-m6x14/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Nylon reforçado com fibra de vidro + rosca aço carbono zincada amarela"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial texturizado na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Botões são utilizados em ajustes/apertos/regulagens manuais"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Em casos de medida de rosca específica, consultar fábrica"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220025,
+      "sku": "BTM 2613 M6X14",
+      "label": "Padrão",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Nylon reforçado com fibra de vidro + rosca aço carbono zincada amarela"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial texturizado na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Botões são utilizados em ajustes/apertos/regulagens manuais"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Em casos de medida de rosca específica, consultar fábrica"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

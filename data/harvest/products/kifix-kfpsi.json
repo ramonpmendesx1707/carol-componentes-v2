@@ -1,0 +1,137 @@
+{
+  "id": 202076,
+  "slug": "kifix-kfpsi",
+  "name": "KFPSI",
+  "sku": "KFPSI",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/posicionadores-indexadores/kfpsi/",
+  "type": "product",
+  "summary": "Linha Posicionadores/ Indexadores Kifix modelo KFPSI, com 1 referências dimensionais.",
+  "description": "<p>Linha Posicionadores/ Indexadores Kifix modelo KFPSI, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Posicionadores/ Indexadores",
+      "slug": "posicionadores-indexadores"
+    }
+  ],
+  "image": "/images/products/kifix/kfpsi/foto-1.png",
+  "images": [
+    "/images/products/kifix/kfpsi/foto-1.png",
+    "/images/products/kifix/kfpsi/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Posicionadores/ Indexadores"
+    }
+  ],
+  "weight": "0,067",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230513,
+      "sku": "KFPSI M12",
+      "label": "KFPSI M12",
+      "attributes": [
+        {
+          "name": "A1 (in)",
+          "value": "74"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "54"
+        },
+        {
+          "name": "B (in)",
+          "value": "22,5"
+        },
+        {
+          "name": "C (in)",
+          "value": "20"
+        },
+        {
+          "name": "D (in)",
+          "value": "33,4"
+        },
+        {
+          "name": "E (in)",
+          "value": "8"
+        },
+        {
+          "name": "F (in)",
+          "value": "5,5"
+        },
+        {
+          "name": "G (in)",
+          "value": "-"
+        },
+        {
+          "name": "H (in)",
+          "value": "15,19"
+        },
+        {
+          "name": "J (in)",
+          "value": "M12X1,75"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,067"
+        }
+      ],
+      "weight": "0,067",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "A1 (in)",
+        "A2 (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KFPSI M12",
+          "74",
+          "54",
+          "22,5",
+          "20",
+          "33,4",
+          "8",
+          "5,5",
+          "-",
+          "15,19",
+          "M12X1,75",
+          "0,067"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kfpsi/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

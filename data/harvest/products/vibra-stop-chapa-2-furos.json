@@ -1,5 +1,5 @@
 {
-  "id": 200007,
+  "id": 200013,
   "slug": "vibra-stop-chapa-2-furos",
   "name": "Vibra-Stop Tradicional Com Chapa + 2 Furos",
   "sku": "Chapa + 2 Furos",
@@ -36,7 +36,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240036,
+      "id": 210042,
       "sku": "Mac",
       "label": "Mac",
       "attributes": [
@@ -90,7 +90,7 @@
       "image": null
     },
     {
-      "id": 240037,
+      "id": 210043,
       "sku": "Mini",
       "label": "Mini",
       "attributes": [
@@ -144,7 +144,7 @@
       "image": null
     },
     {
-      "id": 240038,
+      "id": 210044,
       "sku": "Standard",
       "label": "Standard",
       "attributes": [
@@ -204,6 +204,12 @@
       "url": "/downloads/products/vibra-stop/chapa-2-furos/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Com%20Chapa%20%2B%202%20Furos.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [

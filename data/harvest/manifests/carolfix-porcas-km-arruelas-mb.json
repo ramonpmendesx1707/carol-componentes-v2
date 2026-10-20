@@ -1,0 +1,3460 @@
+{
+  "source": "PDF pág. 15",
+  "product": {
+    "id": 203013,
+    "slug": "carolfix-porcas-km-arruelas-mb",
+    "name": "Porcas de Fixação KM e Arruelas de Trava MB",
+    "sku": "DIN 981 / DIN 5406",
+    "brand": "Padrão DIN",
+    "supplier": "Padrão DIN",
+    "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=15",
+    "type": "product",
+    "summary": "Porcas cilíndricas ranhuradas DIN 981 (KM) e arruelas de segurança dentadas DIN 5406 (MB).",
+    "description": "<p>Elementos de travamento para rolamentos e buchas em eixos industriais, atendendo às normas DIN 981 e DIN 5406.</p>",
+    "categories": [
+      {
+        "id": 211,
+        "name": "Fixação e retenção",
+        "slug": "fixacao-e-retencao"
+      }
+    ],
+    "image": "/images/products/carolfix/porcas-km-arruelas-mb/pagina-15.png",
+    "images": [
+      "/images/products/carolfix/porcas-km-arruelas-mb/pagina-15.png"
+    ],
+    "attributes": [
+      {
+        "name": "Norma / Padrão",
+        "value": "DIN 981 / DIN 5406"
+      },
+      {
+        "name": "Fonte documental",
+        "value": "Catálogo Técnico Carolfix, Página 15"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240704,
+        "sku": "KM 0",
+        "label": "KM 0",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M10X0,75"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "13,5"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240705,
+        "sku": "KM 1",
+        "label": "KM 1",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M12X1,0"
+          },
+          {
+            "name": "",
+            "value": "22"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "17"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240706,
+        "sku": "KM 2",
+        "label": "KM 2",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M15X1,0"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "21"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240707,
+        "sku": "KM 3",
+        "label": "KM 3",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M17X1,0"
+          },
+          {
+            "name": "",
+            "value": "28"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "24"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240708,
+        "sku": "KM 4",
+        "label": "KM 4",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M20X1,0"
+          },
+          {
+            "name": "",
+            "value": "32"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "26"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240709,
+        "sku": "KM 5",
+        "label": "KM 5",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M25X1,5"
+          },
+          {
+            "name": "",
+            "value": "38"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "32"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240710,
+        "sku": "KM 6",
+        "label": "KM 6",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M30X1,5"
+          },
+          {
+            "name": "",
+            "value": "45"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "38"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240711,
+        "sku": "KM 7",
+        "label": "KM 7",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M35X1,5"
+          },
+          {
+            "name": "",
+            "value": "52"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "44"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "2"
+          },
+          {
+            "name": "",
+            "value": "5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240712,
+        "sku": "KM 8",
+        "label": "KM 8",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M40X1,5"
+          },
+          {
+            "name": "",
+            "value": "58"
+          },
+          {
+            "name": "",
+            "value": "9"
+          },
+          {
+            "name": "",
+            "value": "50"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240713,
+        "sku": "KM 9",
+        "label": "KM 9",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M45X1,5"
+          },
+          {
+            "name": "",
+            "value": "65"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "56"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240714,
+        "sku": "KM 10",
+        "label": "KM 10",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M50X1,5"
+          },
+          {
+            "name": "",
+            "value": "70"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "61"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "2,5"
+          },
+          {
+            "name": "",
+            "value": "6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240715,
+        "sku": "KM 11",
+        "label": "KM 11",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M55X2,0"
+          },
+          {
+            "name": "",
+            "value": "75"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "67"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "7"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240716,
+        "sku": "KM 12",
+        "label": "KM 12",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M60X2,0"
+          },
+          {
+            "name": "",
+            "value": "80"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "73"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "7"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240717,
+        "sku": "KM 13",
+        "label": "KM 13",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M65X2,0"
+          },
+          {
+            "name": "",
+            "value": "85"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "79"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "7"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240718,
+        "sku": "KM 14",
+        "label": "KM 14",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M70X2,0"
+          },
+          {
+            "name": "",
+            "value": "92"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "85"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240719,
+        "sku": "KM 15",
+        "label": "KM 15",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M75X2,0"
+          },
+          {
+            "name": "",
+            "value": "98"
+          },
+          {
+            "name": "",
+            "value": "13"
+          },
+          {
+            "name": "",
+            "value": "90"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240720,
+        "sku": "KM 16",
+        "label": "KM 16",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M80X2,0"
+          },
+          {
+            "name": "",
+            "value": "105"
+          },
+          {
+            "name": "",
+            "value": "15"
+          },
+          {
+            "name": "",
+            "value": "95"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240721,
+        "sku": "KM 17",
+        "label": "KM 17",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M85X2,0"
+          },
+          {
+            "name": "",
+            "value": "110"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "102"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "3,5"
+          },
+          {
+            "name": "",
+            "value": "8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240722,
+        "sku": "KM 18",
+        "label": "KM 18",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M90X2,0"
+          },
+          {
+            "name": "",
+            "value": "120"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "108"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240723,
+        "sku": "KM 19",
+        "label": "KM 19",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M95X2,0"
+          },
+          {
+            "name": "",
+            "value": "125"
+          },
+          {
+            "name": "",
+            "value": "17"
+          },
+          {
+            "name": "",
+            "value": "113"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240724,
+        "sku": "KM 20",
+        "label": "KM 20",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M100X2,0"
+          },
+          {
+            "name": "",
+            "value": "130"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "120"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240725,
+        "sku": "KM 21",
+        "label": "KM 21",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M105X2,0"
+          },
+          {
+            "name": "",
+            "value": "140"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "126"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240726,
+        "sku": "KM 22",
+        "label": "KM 22",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M110X2,0"
+          },
+          {
+            "name": "",
+            "value": "145"
+          },
+          {
+            "name": "",
+            "value": "19"
+          },
+          {
+            "name": "",
+            "value": "133"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240727,
+        "sku": "KM 23",
+        "label": "KM 23",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M115X2,0"
+          },
+          {
+            "name": "",
+            "value": "150"
+          },
+          {
+            "name": "",
+            "value": "19"
+          },
+          {
+            "name": "",
+            "value": "137"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240728,
+        "sku": "KM 24",
+        "label": "KM 24",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M120X2,0"
+          },
+          {
+            "name": "",
+            "value": "155"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "138"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240729,
+        "sku": "KM 25",
+        "label": "KM 25",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M125X2,0"
+          },
+          {
+            "name": "",
+            "value": "160"
+          },
+          {
+            "name": "",
+            "value": "21"
+          },
+          {
+            "name": "",
+            "value": "148"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240730,
+        "sku": "KM 26",
+        "label": "KM 26",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M130X2,0"
+          },
+          {
+            "name": "",
+            "value": "165"
+          },
+          {
+            "name": "",
+            "value": "21"
+          },
+          {
+            "name": "",
+            "value": "149"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240731,
+        "sku": "KM 27",
+        "label": "KM 27",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M135X2,0"
+          },
+          {
+            "name": "",
+            "value": "175"
+          },
+          {
+            "name": "",
+            "value": "22"
+          },
+          {
+            "name": "",
+            "value": "160"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "14"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240732,
+        "sku": "KM 28",
+        "label": "KM 28",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M140X2,0"
+          },
+          {
+            "name": "",
+            "value": "180"
+          },
+          {
+            "name": "",
+            "value": "22"
+          },
+          {
+            "name": "",
+            "value": "160"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "14"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240733,
+        "sku": "KM 29",
+        "label": "KM 29",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M145X2,0"
+          },
+          {
+            "name": "",
+            "value": "190"
+          },
+          {
+            "name": "",
+            "value": "24"
+          },
+          {
+            "name": "",
+            "value": "171"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "14"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240734,
+        "sku": "KM 30",
+        "label": "KM 30",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M150X2,0"
+          },
+          {
+            "name": "",
+            "value": "195"
+          },
+          {
+            "name": "",
+            "value": "24"
+          },
+          {
+            "name": "",
+            "value": "171"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "14"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240735,
+        "sku": "KM 31",
+        "label": "KM 31",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M155X3,0"
+          },
+          {
+            "name": "",
+            "value": "200"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "182"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240736,
+        "sku": "KM 32",
+        "label": "KM 32",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M160X3,0"
+          },
+          {
+            "name": "",
+            "value": "210"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "182"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240737,
+        "sku": "KM 33",
+        "label": "KM 33",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M165X3,0"
+          },
+          {
+            "name": "",
+            "value": "210"
+          },
+          {
+            "name": "",
+            "value": "26"
+          },
+          {
+            "name": "",
+            "value": "193"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240738,
+        "sku": "KM 34",
+        "label": "KM 34",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M170X3,0"
+          },
+          {
+            "name": "",
+            "value": "220"
+          },
+          {
+            "name": "",
+            "value": "26"
+          },
+          {
+            "name": "",
+            "value": "193"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "7"
+          },
+          {
+            "name": "",
+            "value": "16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240739,
+        "sku": "KM 36",
+        "label": "KM 36",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M180X3,0"
+          },
+          {
+            "name": "",
+            "value": "230"
+          },
+          {
+            "name": "",
+            "value": "27"
+          },
+          {
+            "name": "",
+            "value": "203"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "18"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240740,
+        "sku": "KM 38",
+        "label": "KM 38",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M190X3,0"
+          },
+          {
+            "name": "",
+            "value": "240"
+          },
+          {
+            "name": "",
+            "value": "28"
+          },
+          {
+            "name": "",
+            "value": "214"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "18"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240741,
+        "sku": "KM 40",
+        "label": "KM 40",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "M200X3,0"
+          },
+          {
+            "name": "",
+            "value": "250"
+          },
+          {
+            "name": "",
+            "value": "29"
+          },
+          {
+            "name": "",
+            "value": "226"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "18"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240742,
+        "sku": "MB 0",
+        "label": "MB 0",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "21"
+          },
+          {
+            "name": "",
+            "value": "13,5"
+          },
+          {
+            "name": "",
+            "value": "1,00"
+          },
+          {
+            "name": "",
+            "value": "8,5"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240743,
+        "sku": "MB 1",
+        "label": "MB 1",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "17"
+          },
+          {
+            "name": "",
+            "value": "1,00"
+          },
+          {
+            "name": "",
+            "value": "10,5"
+          },
+          {
+            "name": "",
+            "value": "3"
+          },
+          {
+            "name": "",
+            "value": "3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240744,
+        "sku": "MB 2",
+        "label": "MB 2",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "15"
+          },
+          {
+            "name": "",
+            "value": "28"
+          },
+          {
+            "name": "",
+            "value": "21"
+          },
+          {
+            "name": "",
+            "value": "1,00"
+          },
+          {
+            "name": "",
+            "value": "13,5"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240745,
+        "sku": "MB 3",
+        "label": "MB 3",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "17"
+          },
+          {
+            "name": "",
+            "value": "32"
+          },
+          {
+            "name": "",
+            "value": "24"
+          },
+          {
+            "name": "",
+            "value": "1,00"
+          },
+          {
+            "name": "",
+            "value": "15,5"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240746,
+        "sku": "MB 4",
+        "label": "MB 4",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "36"
+          },
+          {
+            "name": "",
+            "value": "26"
+          },
+          {
+            "name": "",
+            "value": "1,00"
+          },
+          {
+            "name": "",
+            "value": "18,5"
+          },
+          {
+            "name": "",
+            "value": "4"
+          },
+          {
+            "name": "",
+            "value": "4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240747,
+        "sku": "MB 5",
+        "label": "MB 5",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "42"
+          },
+          {
+            "name": "",
+            "value": "32"
+          },
+          {
+            "name": "",
+            "value": "1,20"
+          },
+          {
+            "name": "",
+            "value": "23"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240748,
+        "sku": "MB 6",
+        "label": "MB 6",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "30"
+          },
+          {
+            "name": "",
+            "value": "49"
+          },
+          {
+            "name": "",
+            "value": "38"
+          },
+          {
+            "name": "",
+            "value": "1,20"
+          },
+          {
+            "name": "",
+            "value": "27,5"
+          },
+          {
+            "name": "",
+            "value": "5"
+          },
+          {
+            "name": "",
+            "value": "5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240749,
+        "sku": "MB 7",
+        "label": "MB 7",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "35"
+          },
+          {
+            "name": "",
+            "value": "57"
+          },
+          {
+            "name": "",
+            "value": "44"
+          },
+          {
+            "name": "",
+            "value": "1,20"
+          },
+          {
+            "name": "",
+            "value": "32,5"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240750,
+        "sku": "MB 8",
+        "label": "MB 8",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "40"
+          },
+          {
+            "name": "",
+            "value": "62"
+          },
+          {
+            "name": "",
+            "value": "50"
+          },
+          {
+            "name": "",
+            "value": "1,20"
+          },
+          {
+            "name": "",
+            "value": "37,5"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240751,
+        "sku": "MB 9",
+        "label": "MB 9",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "45"
+          },
+          {
+            "name": "",
+            "value": "69"
+          },
+          {
+            "name": "",
+            "value": "56"
+          },
+          {
+            "name": "",
+            "value": "1,20"
+          },
+          {
+            "name": "",
+            "value": "42,5"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240752,
+        "sku": "MB 10",
+        "label": "MB 10",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "50"
+          },
+          {
+            "name": "",
+            "value": "74"
+          },
+          {
+            "name": "",
+            "value": "61"
+          },
+          {
+            "name": "",
+            "value": "1,20"
+          },
+          {
+            "name": "",
+            "value": "47,5"
+          },
+          {
+            "name": "",
+            "value": "6"
+          },
+          {
+            "name": "",
+            "value": "6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240753,
+        "sku": "MB 11",
+        "label": "MB 11",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "55"
+          },
+          {
+            "name": "",
+            "value": "81"
+          },
+          {
+            "name": "",
+            "value": "67"
+          },
+          {
+            "name": "",
+            "value": "1,50"
+          },
+          {
+            "name": "",
+            "value": "52,5"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "7"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240754,
+        "sku": "MB 12",
+        "label": "MB 12",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "60"
+          },
+          {
+            "name": "",
+            "value": "86"
+          },
+          {
+            "name": "",
+            "value": "73"
+          },
+          {
+            "name": "",
+            "value": "1,50"
+          },
+          {
+            "name": "",
+            "value": "57,5"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "7"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240755,
+        "sku": "MB 13",
+        "label": "MB 13",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "65"
+          },
+          {
+            "name": "",
+            "value": "92"
+          },
+          {
+            "name": "",
+            "value": "79"
+          },
+          {
+            "name": "",
+            "value": "1,50"
+          },
+          {
+            "name": "",
+            "value": "62,5"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "7"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240756,
+        "sku": "MB 14",
+        "label": "MB 14",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "70"
+          },
+          {
+            "name": "",
+            "value": "98"
+          },
+          {
+            "name": "",
+            "value": "85"
+          },
+          {
+            "name": "",
+            "value": "1,50"
+          },
+          {
+            "name": "",
+            "value": "66,5"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240757,
+        "sku": "MB 15",
+        "label": "MB 15",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "75"
+          },
+          {
+            "name": "",
+            "value": "104"
+          },
+          {
+            "name": "",
+            "value": "90"
+          },
+          {
+            "name": "",
+            "value": "1,50"
+          },
+          {
+            "name": "",
+            "value": "71,5"
+          },
+          {
+            "name": "",
+            "value": "8"
+          },
+          {
+            "name": "",
+            "value": "8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240758,
+        "sku": "MB 16",
+        "label": "MB 16",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "80"
+          },
+          {
+            "name": "",
+            "value": "112"
+          },
+          {
+            "name": "",
+            "value": "95"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "76,5"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240759,
+        "sku": "MB 17",
+        "label": "MB 17",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "85"
+          },
+          {
+            "name": "",
+            "value": "119"
+          },
+          {
+            "name": "",
+            "value": "102"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "81,5"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240760,
+        "sku": "MB 18",
+        "label": "MB 18",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "90"
+          },
+          {
+            "name": "",
+            "value": "126"
+          },
+          {
+            "name": "",
+            "value": "108"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "86,5"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240761,
+        "sku": "MB 19",
+        "label": "MB 19",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "95"
+          },
+          {
+            "name": "",
+            "value": "133"
+          },
+          {
+            "name": "",
+            "value": "113"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "91,5"
+          },
+          {
+            "name": "",
+            "value": "10"
+          },
+          {
+            "name": "",
+            "value": "10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240762,
+        "sku": "MB 20",
+        "label": "MB 20",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "100"
+          },
+          {
+            "name": "",
+            "value": "142"
+          },
+          {
+            "name": "",
+            "value": "120"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "96,5"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240763,
+        "sku": "MB 21",
+        "label": "MB 21",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "105"
+          },
+          {
+            "name": "",
+            "value": "145"
+          },
+          {
+            "name": "",
+            "value": "126"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "100,5"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240764,
+        "sku": "MB 22",
+        "label": "MB 22",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "110"
+          },
+          {
+            "name": "",
+            "value": "154"
+          },
+          {
+            "name": "",
+            "value": "133"
+          },
+          {
+            "name": "",
+            "value": "1,75"
+          },
+          {
+            "name": "",
+            "value": "105,5"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240765,
+        "sku": "MB 23",
+        "label": "MB 23",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "115"
+          },
+          {
+            "name": "",
+            "value": "159"
+          },
+          {
+            "name": "",
+            "value": "137"
+          },
+          {
+            "name": "",
+            "value": "2,00"
+          },
+          {
+            "name": "",
+            "value": "110,5"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240766,
+        "sku": "MB 24",
+        "label": "MB 24",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "120"
+          },
+          {
+            "name": "",
+            "value": "164"
+          },
+          {
+            "name": "",
+            "value": "138"
+          },
+          {
+            "name": "",
+            "value": "2,00"
+          },
+          {
+            "name": "",
+            "value": "115"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240767,
+        "sku": "MB 25",
+        "label": "MB 25",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "125"
+          },
+          {
+            "name": "",
+            "value": "170"
+          },
+          {
+            "name": "",
+            "value": "148"
+          },
+          {
+            "name": "",
+            "value": "2,00"
+          },
+          {
+            "name": "",
+            "value": "120"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240768,
+        "sku": "MB 26",
+        "label": "MB 26",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "130"
+          },
+          {
+            "name": "",
+            "value": "175"
+          },
+          {
+            "name": "",
+            "value": "149"
+          },
+          {
+            "name": "",
+            "value": "2,00"
+          },
+          {
+            "name": "",
+            "value": "125"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240769,
+        "sku": "MB 27",
+        "label": "MB 27",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "135"
+          },
+          {
+            "name": "",
+            "value": "185"
+          },
+          {
+            "name": "",
+            "value": "160"
+          },
+          {
+            "name": "",
+            "value": "2,00"
+          },
+          {
+            "name": "",
+            "value": "130"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "14"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240770,
+        "sku": "MB 28",
+        "label": "MB 28",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "140"
+          },
+          {
+            "name": "",
+            "value": "192"
+          },
+          {
+            "name": "",
+            "value": "160"
+          },
+          {
+            "name": "",
+            "value": "2,00"
+          },
+          {
+            "name": "",
+            "value": "135"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "14"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240771,
+        "sku": "MB 29",
+        "label": "MB 29",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "145"
+          },
+          {
+            "name": "",
+            "value": "202"
+          },
+          {
+            "name": "",
+            "value": "171"
+          },
+          {
+            "name": "",
+            "value": "2,00"
+          },
+          {
+            "name": "",
+            "value": "140"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "14"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240772,
+        "sku": "MB 30",
+        "label": "MB 30",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "150"
+          },
+          {
+            "name": "",
+            "value": "205"
+          },
+          {
+            "name": "",
+            "value": "171"
+          },
+          {
+            "name": "",
+            "value": "2,00"
+          },
+          {
+            "name": "",
+            "value": "145"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "14"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240773,
+        "sku": "MB 31",
+        "label": "MB 31",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "155"
+          },
+          {
+            "name": "",
+            "value": "212"
+          },
+          {
+            "name": "",
+            "value": "182"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "147,5"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240774,
+        "sku": "MB 32",
+        "label": "MB 32",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "160"
+          },
+          {
+            "name": "",
+            "value": "217"
+          },
+          {
+            "name": "",
+            "value": "182"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "154"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240775,
+        "sku": "MB 33",
+        "label": "MB 33",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "165"
+          },
+          {
+            "name": "",
+            "value": "222"
+          },
+          {
+            "name": "",
+            "value": "193"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "157,5"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240776,
+        "sku": "MB 34",
+        "label": "MB 34",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "170"
+          },
+          {
+            "name": "",
+            "value": "232"
+          },
+          {
+            "name": "",
+            "value": "193"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "164"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240777,
+        "sku": "MB 36",
+        "label": "MB 36",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "180"
+          },
+          {
+            "name": "",
+            "value": "242"
+          },
+          {
+            "name": "",
+            "value": "203"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "164"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "18"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240778,
+        "sku": "MB 38",
+        "label": "MB 38",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "190"
+          },
+          {
+            "name": "",
+            "value": "252"
+          },
+          {
+            "name": "",
+            "value": "214"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "184"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "18"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240779,
+        "sku": "MB 40",
+        "label": "MB 40",
+        "attributes": [
+          {
+            "name": "Dimensões (mm)",
+            "value": "200"
+          },
+          {
+            "name": "",
+            "value": "262"
+          },
+          {
+            "name": "",
+            "value": "226"
+          },
+          {
+            "name": "",
+            "value": "2,65"
+          },
+          {
+            "name": "",
+            "value": "194"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "18"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Catálogo Técnico Carolfix (Página 15)",
+        "url": "/downloads/catalogo-carol-componentes.pdf#page=15",
+        "kind": "pdf",
+        "note": "Referência técnica oficial extraída do catálogo histórico de 60 páginas."
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela Técnica Dimensional — Página 15",
+        "columns": [
+          "Código",
+          "Dimensões (mm)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "rows": [
+          [
+            "KM 0",
+            "M10X0,75",
+            "18",
+            "4",
+            "13,5",
+            "3",
+            "2",
+            "3"
+          ],
+          [
+            "KM 1",
+            "M12X1,0",
+            "22",
+            "4",
+            "17",
+            "3",
+            "2",
+            "3"
+          ],
+          [
+            "KM 2",
+            "M15X1,0",
+            "25",
+            "5",
+            "21",
+            "4",
+            "2",
+            "4"
+          ],
+          [
+            "KM 3",
+            "M17X1,0",
+            "28",
+            "5",
+            "24",
+            "4",
+            "2",
+            "4"
+          ],
+          [
+            "KM 4",
+            "M20X1,0",
+            "32",
+            "6",
+            "26",
+            "4",
+            "2",
+            "4"
+          ],
+          [
+            "KM 5",
+            "M25X1,5",
+            "38",
+            "7",
+            "32",
+            "5",
+            "2",
+            "5"
+          ],
+          [
+            "KM 6",
+            "M30X1,5",
+            "45",
+            "7",
+            "38",
+            "5",
+            "2",
+            "5"
+          ],
+          [
+            "KM 7",
+            "M35X1,5",
+            "52",
+            "8",
+            "44",
+            "5",
+            "2",
+            "5"
+          ],
+          [
+            "KM 8",
+            "M40X1,5",
+            "58",
+            "9",
+            "50",
+            "6",
+            "2,5",
+            "6"
+          ],
+          [
+            "KM 9",
+            "M45X1,5",
+            "65",
+            "10",
+            "56",
+            "6",
+            "2,5",
+            "6"
+          ],
+          [
+            "KM 10",
+            "M50X1,5",
+            "70",
+            "11",
+            "61",
+            "6",
+            "2,5",
+            "6"
+          ],
+          [
+            "KM 11",
+            "M55X2,0",
+            "75",
+            "11",
+            "67",
+            "7",
+            "3",
+            "7"
+          ],
+          [
+            "KM 12",
+            "M60X2,0",
+            "80",
+            "11",
+            "73",
+            "7",
+            "3",
+            "7"
+          ],
+          [
+            "KM 13",
+            "M65X2,0",
+            "85",
+            "12",
+            "79",
+            "7",
+            "3",
+            "7"
+          ],
+          [
+            "KM 14",
+            "M70X2,0",
+            "92",
+            "12",
+            "85",
+            "8",
+            "3,5",
+            "8"
+          ],
+          [
+            "KM 15",
+            "M75X2,0",
+            "98",
+            "13",
+            "90",
+            "8",
+            "3,5",
+            "8"
+          ],
+          [
+            "KM 16",
+            "M80X2,0",
+            "105",
+            "15",
+            "95",
+            "8",
+            "3,5",
+            "8"
+          ],
+          [
+            "KM 17",
+            "M85X2,0",
+            "110",
+            "16",
+            "102",
+            "8",
+            "3,5",
+            "8"
+          ],
+          [
+            "KM 18",
+            "M90X2,0",
+            "120",
+            "16",
+            "108",
+            "10",
+            "4",
+            "10"
+          ],
+          [
+            "KM 19",
+            "M95X2,0",
+            "125",
+            "17",
+            "113",
+            "10",
+            "4",
+            "10"
+          ],
+          [
+            "KM 20",
+            "M100X2,0",
+            "130",
+            "18",
+            "120",
+            "10",
+            "4",
+            "10"
+          ],
+          [
+            "KM 21",
+            "M105X2,0",
+            "140",
+            "18",
+            "126",
+            "12",
+            "5",
+            "12"
+          ],
+          [
+            "KM 22",
+            "M110X2,0",
+            "145",
+            "19",
+            "133",
+            "12",
+            "5",
+            "12"
+          ],
+          [
+            "KM 23",
+            "M115X2,0",
+            "150",
+            "19",
+            "137",
+            "12",
+            "5",
+            "12"
+          ],
+          [
+            "KM 24",
+            "M120X2,0",
+            "155",
+            "20",
+            "138",
+            "12",
+            "5",
+            "12"
+          ],
+          [
+            "KM 25",
+            "M125X2,0",
+            "160",
+            "21",
+            "148",
+            "12",
+            "5",
+            "12"
+          ],
+          [
+            "KM 26",
+            "M130X2,0",
+            "165",
+            "21",
+            "149",
+            "12",
+            "5",
+            "12"
+          ],
+          [
+            "KM 27",
+            "M135X2,0",
+            "175",
+            "22",
+            "160",
+            "14",
+            "6",
+            "14"
+          ],
+          [
+            "KM 28",
+            "M140X2,0",
+            "180",
+            "22",
+            "160",
+            "14",
+            "6",
+            "14"
+          ],
+          [
+            "KM 29",
+            "M145X2,0",
+            "190",
+            "24",
+            "171",
+            "14",
+            "6",
+            "14"
+          ],
+          [
+            "KM 30",
+            "M150X2,0",
+            "195",
+            "24",
+            "171",
+            "14",
+            "6",
+            "14"
+          ],
+          [
+            "KM 31",
+            "M155X3,0",
+            "200",
+            "25",
+            "182",
+            "16",
+            "7",
+            "16"
+          ],
+          [
+            "KM 32",
+            "M160X3,0",
+            "210",
+            "25",
+            "182",
+            "16",
+            "7",
+            "16"
+          ],
+          [
+            "KM 33",
+            "M165X3,0",
+            "210",
+            "26",
+            "193",
+            "16",
+            "7",
+            "16"
+          ],
+          [
+            "KM 34",
+            "M170X3,0",
+            "220",
+            "26",
+            "193",
+            "16",
+            "7",
+            "16"
+          ],
+          [
+            "KM 36",
+            "M180X3,0",
+            "230",
+            "27",
+            "203",
+            "18",
+            "8",
+            "18"
+          ],
+          [
+            "KM 38",
+            "M190X3,0",
+            "240",
+            "28",
+            "214",
+            "18",
+            "8",
+            "18"
+          ],
+          [
+            "KM 40",
+            "M200X3,0",
+            "250",
+            "29",
+            "226",
+            "18",
+            "8",
+            "18"
+          ],
+          [
+            "MB 0",
+            "10",
+            "21",
+            "13,5",
+            "1,00",
+            "8,5",
+            "3",
+            "3"
+          ],
+          [
+            "MB 1",
+            "12",
+            "25",
+            "17",
+            "1,00",
+            "10,5",
+            "3",
+            "3"
+          ],
+          [
+            "MB 2",
+            "15",
+            "28",
+            "21",
+            "1,00",
+            "13,5",
+            "4",
+            "4"
+          ],
+          [
+            "MB 3",
+            "17",
+            "32",
+            "24",
+            "1,00",
+            "15,5",
+            "4",
+            "4"
+          ],
+          [
+            "MB 4",
+            "20",
+            "36",
+            "26",
+            "1,00",
+            "18,5",
+            "4",
+            "4"
+          ],
+          [
+            "MB 5",
+            "25",
+            "42",
+            "32",
+            "1,20",
+            "23",
+            "5",
+            "5"
+          ],
+          [
+            "MB 6",
+            "30",
+            "49",
+            "38",
+            "1,20",
+            "27,5",
+            "5",
+            "5"
+          ],
+          [
+            "MB 7",
+            "35",
+            "57",
+            "44",
+            "1,20",
+            "32,5",
+            "6",
+            "5"
+          ],
+          [
+            "MB 8",
+            "40",
+            "62",
+            "50",
+            "1,20",
+            "37,5",
+            "6",
+            "6"
+          ],
+          [
+            "MB 9",
+            "45",
+            "69",
+            "56",
+            "1,20",
+            "42,5",
+            "6",
+            "6"
+          ],
+          [
+            "MB 10",
+            "50",
+            "74",
+            "61",
+            "1,20",
+            "47,5",
+            "6",
+            "6"
+          ],
+          [
+            "MB 11",
+            "55",
+            "81",
+            "67",
+            "1,50",
+            "52,5",
+            "8",
+            "7"
+          ]
+        ],
+        "note": "Dados extraídos diretamente da página 15 do catálogo técnico Carolfix."
+      }
+    ],
+    "homepage": false
+  },
+  "checks": {
+    "variants": 76,
+    "pdfPage": 15
+  }
+}

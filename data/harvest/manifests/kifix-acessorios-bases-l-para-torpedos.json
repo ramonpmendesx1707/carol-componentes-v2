@@ -1,0 +1,295 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo-frontal/acessorios-bases-l-para-torped/",
+  "fetchedAt": "2026-10-20T13:02:32.438Z",
+  "product": {
+    "id": 202001,
+    "slug": "kifix-acessorios-bases-l-para-torpedos",
+    "name": "ACESSÓRIOS : BASES L PARA TORPEDOS",
+    "sku": "ACESSÓRIOS : BASES L PARA TORPEDOS",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo-frontal/acessorios-bases-l-para-torped/",
+    "type": "product",
+    "summary": "Linha Grampo Torpedo frontal Kifix modelo ACESSÓRIOS : BASES L PARA TORPEDOS, com 3 referências dimensionais.",
+    "description": "<p>Linha Grampo Torpedo frontal Kifix modelo ACESSÓRIOS : BASES L PARA TORPEDOS, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo Torpedo frontal",
+        "slug": "grampo-torpedo-frontal"
+      }
+    ],
+    "image": "/images/products/kifix/acessorios-bases-l-para-torpedos/foto-1.png",
+    "images": [
+      "/images/products/kifix/acessorios-bases-l-para-torpedos/foto-1.png",
+      "/images/products/kifix/acessorios-bases-l-para-torpedos/foto-2.png",
+      "/images/products/kifix/acessorios-bases-l-para-torpedos/foto-3.png",
+      "/images/products/kifix/acessorios-bases-l-para-torpedos/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo Torpedo frontal"
+      }
+    ],
+    "weight": "0,075 (0,165)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230001,
+        "sku": "KF-005 BASE L",
+        "label": "KF-005 BASE L",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "B (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "C (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "D (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "E (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "F (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "G (in)",
+            "value": "16,5 (0,65)"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "J2 (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,075 (0,165)"
+          }
+        ],
+        "weight": "0,075 (0,165)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230002,
+        "sku": "KF-006/007/015 BASE L",
+        "label": "KF-006/007/015 BASE L",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "65 (2,56)"
+          },
+          {
+            "name": "B (in)",
+            "value": "44 (1,73)"
+          },
+          {
+            "name": "C (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "D (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "E (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "F (in)",
+            "value": "33 (1,30)"
+          },
+          {
+            "name": "G (in)",
+            "value": "20,5 (0,81)"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "J2 (in)",
+            "value": "10,5 (0,41)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,140 (0,308)"
+          }
+        ],
+        "weight": "0,140 (0,308)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230003,
+        "sku": "KF-025/035 BASE L",
+        "label": "KF-025/035 BASE L",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "B (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "C (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "D (in)",
+            "value": "45 (1,77)"
+          },
+          {
+            "name": "E (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "G (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "10,5 (0,41)"
+          },
+          {
+            "name": "J2 (in)",
+            "value": "12,5 (0,49)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,250 (0,550)"
+          }
+        ],
+        "weight": "0,250 (0,550)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "J1 (in)",
+          "J2 (in)",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-005 BASE L",
+            "60 (2,36)",
+            "40 (1,57)",
+            "40 (1,57)",
+            "40 (1,57)",
+            "16 (0,63)",
+            "24 (0,94)",
+            "16,5 (0,65)",
+            "8,5 (0,33)",
+            "8,5 (0,33)",
+            "0,075 (0,165)"
+          ],
+          [
+            "KF-006/007/015 BASE L",
+            "65 (2,56)",
+            "44 (1,73)",
+            "50 (1,97)",
+            "40 (1,57)",
+            "20 (0,79)",
+            "33 (1,30)",
+            "20,5 (0,81)",
+            "8,5 (0,33)",
+            "10,5 (0,41)",
+            "0,140 (0,308)"
+          ],
+          [
+            "KF-025/035 BASE L",
+            "70 (2,76)",
+            "60 (2,36)",
+            "60 (2,36)",
+            "45 (1,77)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "25 (0,98)",
+            "10,5 (0,41)",
+            "12,5 (0,49)",
+            "0,250 (0,550)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/acessorios-bases-l-para-torpedos/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/acessorios-bases-l-para-torpedos/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/715_Base_005.png",
+      "bytes": 248019,
+      "sha256": "e19ae381c290436327bb6fd18f43f652172667dec5d27bb17a27d6b472540c70"
+    },
+    {
+      "path": "/images/products/kifix/acessorios-bases-l-para-torpedos/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/716_Base_006_007_015.png",
+      "bytes": 328357,
+      "sha256": "c4013aec4bd3a79ca0491f03f8c628c2b25a8a1f536814664ce5a9005a1662bc"
+    },
+    {
+      "path": "/images/products/kifix/acessorios-bases-l-para-torpedos/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/717_Base_25_35.png",
+      "bytes": 456071,
+      "sha256": "5706b2729caf39669cf088b004ca6ded0f476c092ead3e33960dfc8d347ee0f5"
+    },
+    {
+      "path": "/images/products/kifix/acessorios-bases-l-para-torpedos/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/285_KF005_006_007_015_025_035_BASE.JPG",
+      "bytes": 48947,
+      "sha256": "1c6a98b0e6b72542b82126a2033869bf478bb6fcc269cc4c0bb4cc6990bb4bb2"
+    }
+  ],
+  "checks": {
+    "variants": 3,
+    "photos": 3,
+    "drawings": 1,
+    "tableRows": 3
+  }
+}

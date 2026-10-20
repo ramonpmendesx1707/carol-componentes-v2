@@ -81,5 +81,62 @@
   ],
   "headings": [
     "Vibra-Stop Micro"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-videos",
+      "label": "Vídeo",
+      "text": "play_arrow\nvolume_up\n0:00 / 1:15\nfullscreen",
+      "images": [],
+      "videos": [
+        "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-micro.mp4"
+      ],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MICRO/Micro%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MICRO/Micro%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCarga Estática\tCarga Dinâmica\tDeflexão\tParafuso\tAltura\tAltura\tDiâmetro\nMedidas\tKgf\tKgf\tmm/Kgf\t(d)\t(H) mm\t(h) mm\t(D) mm\nMIC I\t20 a 50\t80 a 200\t3,44/50\t1/4”, 5/16”\t70\t35\t45\nMIC II\t50 a 70\t200 a 280\t5,04/70\t5/16”, 3/8”, 1/2\"\t85\t40\t55\nMIC III\t70 a 100\t280 a 400\t3,02/100\t5/16”, 3/8”, 1/2\"\t105\t50\t70\nMIC IV\t100 a 300\t400 a 1.200\t9,98/300\t3/8”, 1/2\", 5/8”\t145\t70\t100",
+      "images": [],
+      "videos": [],
+      "tables": [
+        6
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/MICRO/MACHO/Manual%20de%20Instalacao%20-%20MICRO%20MACHO.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:57:49.396Z"
 }

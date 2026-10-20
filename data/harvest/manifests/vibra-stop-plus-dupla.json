@@ -39,7 +39,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240194,
+        "id": 210249,
         "sku": "MPD200",
         "label": "MPD200",
         "attributes": [
@@ -81,7 +81,7 @@
         "image": null
       },
       {
-        "id": 240195,
+        "id": 210250,
         "sku": "MPD400",
         "label": "MPD400",
         "attributes": [
@@ -123,7 +123,7 @@
         "image": null
       },
       {
-        "id": 240196,
+        "id": 210251,
         "sku": "MPD600",
         "label": "MPD600",
         "attributes": [
@@ -165,7 +165,7 @@
         "image": null
       },
       {
-        "id": 240197,
+        "id": 210252,
         "sku": "MPD800",
         "label": "MPD800",
         "attributes": [
@@ -207,7 +207,7 @@
         "image": null
       },
       {
-        "id": 240198,
+        "id": 210253,
         "sku": "MPD1000",
         "label": "MPD1000",
         "attributes": [
@@ -249,7 +249,7 @@
         "image": null
       },
       {
-        "id": 240199,
+        "id": 210254,
         "sku": "MPD1400",
         "label": "MPD1400",
         "attributes": [
@@ -291,7 +291,7 @@
         "image": null
       },
       {
-        "id": 240200,
+        "id": 210255,
         "sku": "MPD2000",
         "label": "MPD2000",
         "attributes": [
@@ -333,7 +333,7 @@
         "image": null
       },
       {
-        "id": 240201,
+        "id": 210256,
         "sku": "MPD3000",
         "label": "MPD3000",
         "attributes": [
@@ -381,6 +381,12 @@
         "url": "/downloads/products/vibra-stop/plus-dupla/ficha-tecnica.pdf",
         "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Plus%20Dupla.pdf",
         "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [],
@@ -558,6 +564,17 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 0,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:59:14.554Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 10,
+    "pdfReconciled2026": true
   }
 }

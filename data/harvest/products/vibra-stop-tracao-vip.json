@@ -1,0 +1,247 @@
+{
+  "id": 200056,
+  "slug": "vibra-stop-tracao-vip",
+  "name": "Vibra-Stop Mola Tração Vip",
+  "sku": "Tração Vip",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao?model=tracao-vip&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.",
+  "description": "<p>Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/tracao-vip/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/tracao-vip/foto-1.png",
+    "/images/products/vibra-stop/tracao-vip/foto-2.png",
+    "/images/products/vibra-stop/tracao-vip/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Aço Carbono Zinacado e Borracha Natural."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 210359,
+      "sku": "MTV3",
+      "label": "MTV3",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "3"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,61/ 3"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/16” x 49, 5/16” x 121"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "230"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 210360,
+      "sku": "MTV10",
+      "label": "MTV10",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "10"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,10 / 10"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/16” x 49, 5/16” x 121"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "230"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "3"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 210361,
+      "sku": "MTV20",
+      "label": "MTV20",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "20"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,71 / 20"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/16” x 49, 5/16” x 121"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "230"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "3"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 210362,
+      "sku": "MTV30",
+      "label": "MTV30",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "30"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,15 / 30"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/16” x 49, 5/16” x 121"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "230"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "3,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/tracao-vip/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Tracao%20Vip.pdf",
+      "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Parafuso ((d))",
+        "Altura Total ((H) mm)",
+        "Diâmetro Externo Batente ((D) mm)",
+        "Diâmetro do Arame da Mola ((a) mm)"
+      ],
+      "rows": [
+        [
+          "MTV3",
+          "3",
+          "6,61/ 3",
+          "5/16” x 49, 5/16” x 121",
+          "230",
+          "30",
+          "2"
+        ],
+        [
+          "MTV10",
+          "10",
+          "6,10 / 10",
+          "5/16” x 49, 5/16” x 121",
+          "230",
+          "30",
+          "3"
+        ],
+        [
+          "MTV20",
+          "20",
+          "6,71 / 20",
+          "5/16” x 49, 5/16” x 121",
+          "230",
+          "30",
+          "3"
+        ],
+        [
+          "MTV30",
+          "30",
+          "6,15 / 30",
+          "5/16” x 49, 5/16” x 121",
+          "230",
+          "30",
+          "3,5"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/tracao-vip/aplicacao-4.png",
+        "/images/products/vibra-stop/tracao-vip/aplicacao-5.png",
+        "/images/products/vibra-stop/tracao-vip/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

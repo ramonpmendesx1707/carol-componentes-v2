@@ -1,0 +1,250 @@
+{
+  "id": 202031,
+  "slug": "kifix-kf-061-kf-065",
+  "name": "KF-061/KF-065",
+  "sku": "KF-061/KF-065",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo/kf-061-kf-065/",
+  "type": "product",
+  "summary": "Linha Grampo torpedo Kifix modelo KF-061/KF-065, com 2 referências dimensionais.",
+  "description": "<p>Linha Grampo torpedo Kifix modelo KF-061/KF-065, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo torpedo",
+      "slug": "grampo-torpedo"
+    }
+  ],
+  "image": "/images/products/kifix/kf-061-kf-065/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-061-kf-065/foto-1.png",
+    "/images/products/kifix/kf-061-kf-065/foto-2.png",
+    "/images/products/kifix/kf-061-kf-065/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo torpedo"
+    }
+  ],
+  "weight": "0,070 (0,154)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230250,
+      "sku": "KF-061",
+      "label": "KF-061",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "50 (110)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "A (in)",
+          "value": "51,3 (2,02)"
+        },
+        {
+          "name": "B (in)",
+          "value": "66,1 (2,60)"
+        },
+        {
+          "name": "C (in)",
+          "value": "13,7 (0,54)"
+        },
+        {
+          "name": "D (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "E (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "F (in)",
+          "value": "35,4 (1,39)"
+        },
+        {
+          "name": "G (in)",
+          "value": "26,7 (1,05)"
+        },
+        {
+          "name": "H (in)",
+          "value": "31 (1,22)"
+        },
+        {
+          "name": "J (in)",
+          "value": "4,3 (0,17)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "M4X0,70"
+        },
+        {
+          "name": "N (in)",
+          "value": "6,35 (0,25)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M4"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,070 (0,154)"
+        }
+      ],
+      "weight": "0,070 (0,154)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230251,
+      "sku": "KF-065",
+      "label": "KF-065",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "250 (551,16)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "18 (0,70)"
+        },
+        {
+          "name": "A (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "B (in)",
+          "value": "75,2 (2,97)"
+        },
+        {
+          "name": "C (in)",
+          "value": "12,7 (0,5)"
+        },
+        {
+          "name": "D (in)",
+          "value": "44,5 (1,76)"
+        },
+        {
+          "name": "E (in)",
+          "value": "22,2 (0,88)"
+        },
+        {
+          "name": "F (in)",
+          "value": "75 (2,95)"
+        },
+        {
+          "name": "G (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "H (in)",
+          "value": "18 (0,70)"
+        },
+        {
+          "name": "J (in)",
+          "value": "5,5 (0,21)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "M6X1,0"
+        },
+        {
+          "name": "N (in)",
+          "value": "10 (0,40)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,160"
+        }
+      ],
+      "weight": "0,160",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "CURSO (in)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "J1 (in)",
+        "N (in)",
+        "PONTEIRA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-061",
+          "50 (110)",
+          "16 (0,62)",
+          "51,3 (2,02)",
+          "66,1 (2,60)",
+          "13,7 (0,54)",
+          "16 (0,63)",
+          "16 (0,63)",
+          "35,4 (1,39)",
+          "26,7 (1,05)",
+          "31 (1,22)",
+          "4,3 (0,17)",
+          "M4X0,70",
+          "6,35 (0,25)",
+          "M4",
+          "0,070 (0,154)"
+        ],
+        [
+          "KF-065",
+          "250 (551,16)",
+          "18 (0,70)",
+          "44 (1,73)",
+          "75,2 (2,97)",
+          "12,7 (0,5)",
+          "44,5 (1,76)",
+          "22,2 (0,88)",
+          "75 (2,95)",
+          "32 (1,26)",
+          "18 (0,70)",
+          "5,5 (0,21)",
+          "M6X1,0",
+          "10 (0,40)",
+          "M6",
+          "0,160"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-061-kf-065/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

@@ -63,5 +63,51 @@
   "videos": [],
   "headings": [
     "Vibra-Stop Batente de Elevador"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/ELEVADOR/Elevador%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/ELEVADOR/Elevador%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade à Compressão\tDeflexão\tAltura Total\tDiâmetro\tDiâmetro Externo\tMaterial elastômero\tDiâmetro interno\tEspessura do rebaixo\nMedidas\tKgf\tmm/Kgf\t(H) mm\t(D) mm\t(D) (de) mm\t\t(di) mm\t(e) mm\nELEVADOR\t30 a 500\t2,25/1500\t30\t133\t110\tBorracha Natural\t118\t16\nELEVADOR MACICO\t200 a 1200\t2,25/1500\t30\t\t116,4\tBorracha Natural\t\t6",
+      "images": [],
+      "videos": [],
+      "tables": [
+        4
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/ELEVADOR/Manual%20de%20Instalacao%20-%20ELEVADOR.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:56:57.600Z"
 }

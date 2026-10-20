@@ -1,0 +1,1020 @@
+{
+  "id": 202035,
+  "slug": "kifix-kf-102-101-103-104",
+  "name": "KF-102/101/103/104",
+  "sku": "KF-102/101/103/104",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-horizontal/kf-102-101-103-104/",
+  "type": "product",
+  "summary": "Linha Grampo horizontal Kifix modelo KF-102/101/103/104, com 12 referências dimensionais.",
+  "description": "<p>Linha Grampo horizontal Kifix modelo KF-102/101/103/104, com 12 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo horizontal",
+      "slug": "grampo-horizontal"
+    }
+  ],
+  "image": "/images/products/kifix/kf-102-101-103-104/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-102-101-103-104/foto-1.png",
+    "/images/products/kifix/kf-102-101-103-104/foto-2.png",
+    "/images/products/kifix/kf-102-101-103-104/foto-3.png",
+    "/images/products/kifix/kf-102-101-103-104/foto-4.png",
+    "/images/products/kifix/kf-102-101-103-104/foto-5.png",
+    "/images/products/kifix/kf-102-101-103-104/foto-6.png",
+    "/images/products/kifix/kf-102-101-103-104/foto-7.png",
+    "/images/products/kifix/kf-102-101-103-104/foto-8.png",
+    "/images/products/kifix/kf-102-101-103-104/foto-9.png",
+    "/images/products/kifix/kf-102-101-103-104/foto-10.png",
+    "/images/products/kifix/kf-102-101-103-104/foto-11.png",
+    "/images/products/kifix/kf-102-101-103-104/foto-12.png",
+    "/images/products/kifix/kf-102-101-103-104/desenho-1.jpg",
+    "/images/products/kifix/kf-102-101-103-104/desenho-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo horizontal"
+    }
+  ],
+  "weight": "0,075 (0,165)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230272,
+      "sku": "KF-102 D",
+      "label": "KF-102 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "50 (110)"
+        },
+        {
+          "name": "A (in)",
+          "value": "38 (1,50)"
+        },
+        {
+          "name": "B (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "C (in)",
+          "value": "11 (0,43)"
+        },
+        {
+          "name": "D (in)",
+          "value": "15 (0,59)"
+        },
+        {
+          "name": "E (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "F (in)",
+          "value": "24 (0,94)"
+        },
+        {
+          "name": "G (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "H (in)",
+          "value": "36 (1,42)"
+        },
+        {
+          "name": "J (in)",
+          "value": "4,5 (0,18)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M6"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "75"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,075 (0,165)"
+        }
+      ],
+      "weight": "0,075 (0,165)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230273,
+      "sku": "KF-102 R",
+      "label": "KF-102 R",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "50 (110)"
+        },
+        {
+          "name": "A (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "B (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "C (in)",
+          "value": "14 (0,55)"
+        },
+        {
+          "name": "D (in)",
+          "value": "15 (0,59)"
+        },
+        {
+          "name": "E (in)",
+          "value": "4 (0,16)"
+        },
+        {
+          "name": "F (in)",
+          "value": "24 (0,94)"
+        },
+        {
+          "name": "G (in)",
+          "value": "-"
+        },
+        {
+          "name": "H (in)",
+          "value": "36 (1,42)"
+        },
+        {
+          "name": "J (in)",
+          "value": "4,5 (0,18)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M6"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "75"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,075 (0,165)"
+        }
+      ],
+      "weight": "0,075 (0,165)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230274,
+      "sku": "KF-102 D CL",
+      "label": "KF-102 D CL",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "50 (110)"
+        },
+        {
+          "name": "A (in)",
+          "value": "54 (2,13)"
+        },
+        {
+          "name": "B (in)",
+          "value": "80 (3,15)"
+        },
+        {
+          "name": "C (in)",
+          "value": "11 (0,43)"
+        },
+        {
+          "name": "D (in)",
+          "value": "15 (0,59)"
+        },
+        {
+          "name": "E (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "F (in)",
+          "value": "24 (0,94)"
+        },
+        {
+          "name": "G (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "H (in)",
+          "value": "36 (1,42)"
+        },
+        {
+          "name": "J (in)",
+          "value": "4,5 (0,18)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M6"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "75"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,085 (0,187)"
+        }
+      ],
+      "weight": "0,085 (0,187)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230275,
+      "sku": "KF-102 R CL",
+      "label": "KF-102 R CL",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "50 (110)"
+        },
+        {
+          "name": "A (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "B (in)",
+          "value": "80 (3,15)"
+        },
+        {
+          "name": "C (in)",
+          "value": "14 (0,55)"
+        },
+        {
+          "name": "D (in)",
+          "value": "15 (0,59)"
+        },
+        {
+          "name": "E (in)",
+          "value": "4 (0,16)"
+        },
+        {
+          "name": "F (in)",
+          "value": "24 (0,94)"
+        },
+        {
+          "name": "G (in)",
+          "value": "-"
+        },
+        {
+          "name": "H (in)",
+          "value": "36 (1,42)"
+        },
+        {
+          "name": "J (in)",
+          "value": "4,5 (0,18)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M6"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "75"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,085 (0,187)"
+        }
+      ],
+      "weight": "0,085 (0,187)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230276,
+      "sku": "KF-101 D",
+      "label": "KF-101 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "65 (143)"
+        },
+        {
+          "name": "A (in)",
+          "value": "40 (1,57)"
+        },
+        {
+          "name": "B (in)",
+          "value": "61 (2,40)"
+        },
+        {
+          "name": "C (in)",
+          "value": "12,2 (0,48)"
+        },
+        {
+          "name": "D (in)",
+          "value": "13,5 (0,53)"
+        },
+        {
+          "name": "E (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "F (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "G (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "H (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "J (in)",
+          "value": "4,5 (0,18)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M6"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "75"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,075 (0,165)"
+        }
+      ],
+      "weight": "0,075 (0,165)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230277,
+      "sku": "KF-101 R",
+      "label": "KF-101 R",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "65 (143)"
+        },
+        {
+          "name": "A (in)",
+          "value": "43 (1,69)"
+        },
+        {
+          "name": "B (in)",
+          "value": "61 (2,40)"
+        },
+        {
+          "name": "C (in)",
+          "value": "15 (0,59)"
+        },
+        {
+          "name": "D (in)",
+          "value": "13,5 (0,53)"
+        },
+        {
+          "name": "E (in)",
+          "value": "4 (0,16)"
+        },
+        {
+          "name": "F (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "G (in)",
+          "value": "-"
+        },
+        {
+          "name": "H (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "J (in)",
+          "value": "4,5 (0,18)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M6"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "75"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,075 (0,165)"
+        }
+      ],
+      "weight": "0,075 (0,165)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230278,
+      "sku": "KF-103 D",
+      "label": "KF-103 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "75 (165)"
+        },
+        {
+          "name": "A (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "B (in)",
+          "value": "94 (3,70)"
+        },
+        {
+          "name": "C (in)",
+          "value": "21 (0,83)"
+        },
+        {
+          "name": "D (in)",
+          "value": "23 (0,91)"
+        },
+        {
+          "name": "E (in)",
+          "value": "29 (1,14)"
+        },
+        {
+          "name": "F (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "G (in)",
+          "value": "46 (1,81)"
+        },
+        {
+          "name": "H (in)",
+          "value": "50 (1,97)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M6"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "85"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,260 (0,572)"
+        }
+      ],
+      "weight": "0,260 (0,572)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230279,
+      "sku": "KF-103 D TR",
+      "label": "KF-103 D TR",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "75 (165)"
+        },
+        {
+          "name": "A (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "B (in)",
+          "value": "94 (3,70)"
+        },
+        {
+          "name": "C (in)",
+          "value": "21 (0,83)"
+        },
+        {
+          "name": "D (in)",
+          "value": "23 (0,91)"
+        },
+        {
+          "name": "E (in)",
+          "value": "29 (1,14)"
+        },
+        {
+          "name": "F (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "G (in)",
+          "value": "46 (1,81)"
+        },
+        {
+          "name": "H (in)",
+          "value": "50 (1,97)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M6"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "85"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,275 (0,605)"
+        }
+      ],
+      "weight": "0,275 (0,605)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230280,
+      "sku": "KF-103 R",
+      "label": "KF-103 R",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "75 (165)"
+        },
+        {
+          "name": "A (in)",
+          "value": "64 (2,52)"
+        },
+        {
+          "name": "B (in)",
+          "value": "94 (3,70)"
+        },
+        {
+          "name": "C (in)",
+          "value": "28 (1,10)"
+        },
+        {
+          "name": "D (in)",
+          "value": "23 (0,91)"
+        },
+        {
+          "name": "E (in)",
+          "value": "6 (0,24)"
+        },
+        {
+          "name": "F (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "G (in)",
+          "value": "-"
+        },
+        {
+          "name": "H (in)",
+          "value": "50 (1,97)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M6"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "85"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,260 (0,572)"
+        }
+      ],
+      "weight": "0,260 (0,572)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230281,
+      "sku": "KF-104 D",
+      "label": "KF-104 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "340 (749)"
+        },
+        {
+          "name": "A (in)",
+          "value": "85,6 (3,37)"
+        },
+        {
+          "name": "B (in)",
+          "value": "131,8 (5,19)"
+        },
+        {
+          "name": "C (in)",
+          "value": "31,3 (1,23)"
+        },
+        {
+          "name": "D (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "E (in)",
+          "value": "38,1 (1,50)"
+        },
+        {
+          "name": "F (in)",
+          "value": "64 (2,52)"
+        },
+        {
+          "name": "G (in)",
+          "value": "62,7 (2,47)"
+        },
+        {
+          "name": "H (in)",
+          "value": "67,8 (2,67)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M10"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "90"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,670 (1,477)"
+        }
+      ],
+      "weight": "0,670 (1,477)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230282,
+      "sku": "KF-104 DS TR",
+      "label": "KF-104 DS TR",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "340 (749)"
+        },
+        {
+          "name": "A (in)",
+          "value": "85,6 (3,37)"
+        },
+        {
+          "name": "B (in)",
+          "value": "112 (4,41)"
+        },
+        {
+          "name": "C (in)",
+          "value": "31,3 (1,23)"
+        },
+        {
+          "name": "D (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "E (in)",
+          "value": "38,1 (1,50)"
+        },
+        {
+          "name": "F (in)",
+          "value": "64 (2,52)"
+        },
+        {
+          "name": "G (in)",
+          "value": "62,7 (2,47)"
+        },
+        {
+          "name": "H (in)",
+          "value": "48 (1,88)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M10"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "90"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,721 (1,589)"
+        }
+      ],
+      "weight": "0,721 (1,589)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230283,
+      "sku": "KF-104 R",
+      "label": "KF-104 R",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "340 (749)"
+        },
+        {
+          "name": "A (in)",
+          "value": "95,9 (3,78)"
+        },
+        {
+          "name": "B (in)",
+          "value": "131,8 (5,19)"
+        },
+        {
+          "name": "C (in)",
+          "value": "41,6 (1,64)"
+        },
+        {
+          "name": "D (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "E (in)",
+          "value": "7,5 (0,30)"
+        },
+        {
+          "name": "F (in)",
+          "value": "64 (2,52)"
+        },
+        {
+          "name": "G (in)",
+          "value": "-"
+        },
+        {
+          "name": "H (in)",
+          "value": "67,8 (2,67)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M10"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "90"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,670 (1,477)"
+        }
+      ],
+      "weight": "0,670 (1,477)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "PONTEIRA",
+        "ÂNGULO DE ABERTURA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-102 D",
+          "50 (110)",
+          "38 (1,50)",
+          "60 (2,36)",
+          "11 (0,43)",
+          "15 (0,59)",
+          "19 (0,75)",
+          "24 (0,94)",
+          "26 (1,02)",
+          "36 (1,42)",
+          "4,5 (0,18)",
+          "M6",
+          "75",
+          "0,075 (0,165)"
+        ],
+        [
+          "KF-102 R",
+          "50 (110)",
+          "42 (1,65)",
+          "60 (2,36)",
+          "14 (0,55)",
+          "15 (0,59)",
+          "4 (0,16)",
+          "24 (0,94)",
+          "-",
+          "36 (1,42)",
+          "4,5 (0,18)",
+          "M6",
+          "75",
+          "0,075 (0,165)"
+        ],
+        [
+          "KF-102 D CL",
+          "50 (110)",
+          "54 (2,13)",
+          "80 (3,15)",
+          "11 (0,43)",
+          "15 (0,59)",
+          "19 (0,75)",
+          "24 (0,94)",
+          "26 (1,02)",
+          "36 (1,42)",
+          "4,5 (0,18)",
+          "M6",
+          "75",
+          "0,085 (0,187)"
+        ],
+        [
+          "KF-102 R CL",
+          "50 (110)",
+          "58 (2,28)",
+          "80 (3,15)",
+          "14 (0,55)",
+          "15 (0,59)",
+          "4 (0,16)",
+          "24 (0,94)",
+          "-",
+          "36 (1,42)",
+          "4,5 (0,18)",
+          "M6",
+          "75",
+          "0,085 (0,187)"
+        ],
+        [
+          "KF-101 D",
+          "65 (143)",
+          "40 (1,57)",
+          "61 (2,40)",
+          "12,2 (0,48)",
+          "13,5 (0,53)",
+          "16 (0,63)",
+          "26 (1,02)",
+          "26 (1,02)",
+          "35 (1,38)",
+          "4,5 (0,18)",
+          "M6",
+          "75",
+          "0,075 (0,165)"
+        ],
+        [
+          "KF-101 R",
+          "65 (143)",
+          "43 (1,69)",
+          "61 (2,40)",
+          "15 (0,59)",
+          "13,5 (0,53)",
+          "4 (0,16)",
+          "26 (1,02)",
+          "-",
+          "35 (1,38)",
+          "4,5 (0,18)",
+          "M6",
+          "75",
+          "0,075 (0,165)"
+        ],
+        [
+          "KF-103 D",
+          "75 (165)",
+          "57 (2,24)",
+          "94 (3,70)",
+          "21 (0,83)",
+          "23 (0,91)",
+          "29 (1,14)",
+          "44 (1,73)",
+          "46 (1,81)",
+          "50 (1,97)",
+          "7,0 (0,28)",
+          "M6",
+          "85",
+          "0,260 (0,572)"
+        ],
+        [
+          "KF-103 D TR",
+          "75 (165)",
+          "57 (2,24)",
+          "94 (3,70)",
+          "21 (0,83)",
+          "23 (0,91)",
+          "29 (1,14)",
+          "44 (1,73)",
+          "46 (1,81)",
+          "50 (1,97)",
+          "7,0 (0,28)",
+          "M6",
+          "85",
+          "0,275 (0,605)"
+        ],
+        [
+          "KF-103 R",
+          "75 (165)",
+          "64 (2,52)",
+          "94 (3,70)",
+          "28 (1,10)",
+          "23 (0,91)",
+          "6 (0,24)",
+          "44 (1,73)",
+          "-",
+          "50 (1,97)",
+          "7,0 (0,28)",
+          "M6",
+          "85",
+          "0,260 (0,572)"
+        ],
+        [
+          "KF-104 D",
+          "340 (749)",
+          "85,6 (3,37)",
+          "131,8 (5,19)",
+          "31,3 (1,23)",
+          "35 (1,38)",
+          "38,1 (1,50)",
+          "64 (2,52)",
+          "62,7 (2,47)",
+          "67,8 (2,67)",
+          "8,5 (0,33)",
+          "M10",
+          "90",
+          "0,670 (1,477)"
+        ],
+        [
+          "KF-104 DS TR",
+          "340 (749)",
+          "85,6 (3,37)",
+          "112 (4,41)",
+          "31,3 (1,23)",
+          "35 (1,38)",
+          "38,1 (1,50)",
+          "64 (2,52)",
+          "62,7 (2,47)",
+          "48 (1,88)",
+          "8,5 (0,33)",
+          "M10",
+          "90",
+          "0,721 (1,589)"
+        ],
+        [
+          "KF-104 R",
+          "340 (749)",
+          "95,9 (3,78)",
+          "131,8 (5,19)",
+          "41,6 (1,64)",
+          "35 (1,38)",
+          "7,5 (0,30)",
+          "64 (2,52)",
+          "-",
+          "67,8 (2,67)",
+          "8,5 (0,33)",
+          "M10",
+          "90",
+          "0,670 (1,477)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-102-101-103-104/desenho-1.jpg",
+        "/images/products/kifix/kf-102-101-103-104/desenho-2.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

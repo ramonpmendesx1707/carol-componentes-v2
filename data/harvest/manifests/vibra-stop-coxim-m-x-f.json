@@ -2,7 +2,7 @@
   "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-m-x-f&language=pt-BR",
   "fetchedAt": "2026-10-20T10:30:01.488Z",
   "product": {
-    "id": 200023,
+    "id": 200018,
     "slug": "vibra-stop-coxim-m-x-f",
     "name": "Vibra-Stop Coxim M x F",
     "sku": "Coxim M x F",
@@ -35,7 +35,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240090,
+        "id": 210075,
         "sku": "CX1MF",
         "label": "CX1MF",
         "attributes": [
@@ -85,7 +85,7 @@
         "image": null
       },
       {
-        "id": 240091,
+        "id": 210076,
         "sku": "CX2MF",
         "label": "CX2MF",
         "attributes": [
@@ -135,7 +135,7 @@
         "image": null
       },
       {
-        "id": 240092,
+        "id": 210077,
         "sku": "CX3MF",
         "label": "CX3MF",
         "attributes": [
@@ -191,6 +191,12 @@
         "url": "/downloads/products/vibra-stop/coxim-m-x-f/ficha-tecnica.pdf",
         "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Coxim%20M%20x%20F.pdf",
         "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [
@@ -329,6 +335,18 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 1,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:57:32.875Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Vídeo",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 5,
+    "pdfReconciled2026": true
   }
 }

@@ -1,0 +1,217 @@
+{
+  "id": 202079,
+  "slug": "kifix-kft-10-14",
+  "name": "KFT-10/14",
+  "sku": "KFT-10/14",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/trinco/kft-10-14/",
+  "type": "product",
+  "summary": "Linha Trinco Kifix modelo KFT-10/14, com 2 referências dimensionais.",
+  "description": "<p>Linha Trinco Kifix modelo KFT-10/14, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Trinco",
+      "slug": "trinco"
+    }
+  ],
+  "image": "/images/products/kifix/kft-10-14/foto-1.png",
+  "images": [
+    "/images/products/kifix/kft-10-14/foto-1.png",
+    "/images/products/kifix/kft-10-14/foto-2.png",
+    "/images/products/kifix/kft-10-14/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Trinco"
+    }
+  ],
+  "weight": "1,040 (2,288)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230522,
+      "sku": "KFT-10",
+      "label": "KFT-10",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "900 (1980)"
+        },
+        {
+          "name": "A (in)",
+          "value": "40 (1,57)"
+        },
+        {
+          "name": "C (in)",
+          "value": "23 (0,91)"
+        },
+        {
+          "name": "D (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "E (in)",
+          "value": "9,5 (0,37)"
+        },
+        {
+          "name": "F (in)",
+          "value": "38 (1,50)"
+        },
+        {
+          "name": "G (in)",
+          "value": "82 (3,23)"
+        },
+        {
+          "name": "H (in)",
+          "value": "12,7 (0,50)"
+        },
+        {
+          "name": "J (in)",
+          "value": "11 (0,43)"
+        },
+        {
+          "name": "R1 (in)",
+          "value": "M10x1,50"
+        },
+        {
+          "name": "R2 (in)",
+          "value": "M8x1,25"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,040 (2,288)"
+        }
+      ],
+      "weight": "1,040 (2,288)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230523,
+      "sku": "KFT-14",
+      "label": "KFT-14",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1400 (3080)"
+        },
+        {
+          "name": "A (in)",
+          "value": "40 (1,57)"
+        },
+        {
+          "name": "C (in)",
+          "value": "25 (0,98)"
+        },
+        {
+          "name": "D (in)",
+          "value": "70 (2,76)"
+        },
+        {
+          "name": "E (in)",
+          "value": "9,5 (0,37)"
+        },
+        {
+          "name": "F (in)",
+          "value": "38 (1,50)"
+        },
+        {
+          "name": "G (in)",
+          "value": "90 (3,54)"
+        },
+        {
+          "name": "H (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "J (in)",
+          "value": "12,5 (0,49)"
+        },
+        {
+          "name": "R1 (in)",
+          "value": "M14x2,00"
+        },
+        {
+          "name": "R2 (in)",
+          "value": "M14x2,00"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,370 (3,014)"
+        }
+      ],
+      "weight": "1,370 (3,014)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "A (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "R1 (in)",
+        "R2 (in)",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KFT-10",
+          "900 (1980)",
+          "40 (1,57)",
+          "23 (0,91)",
+          "60 (2,36)",
+          "9,5 (0,37)",
+          "38 (1,50)",
+          "82 (3,23)",
+          "12,7 (0,50)",
+          "11 (0,43)",
+          "M10x1,50",
+          "M8x1,25",
+          "1,040 (2,288)"
+        ],
+        [
+          "KFT-14",
+          "1400 (3080)",
+          "40 (1,57)",
+          "25 (0,98)",
+          "70 (2,76)",
+          "9,5 (0,37)",
+          "38 (1,50)",
+          "90 (3,54)",
+          "16 (0,63)",
+          "12,5 (0,49)",
+          "M14x2,00",
+          "M14x2,00",
+          "1,370 (3,014)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kft-10-14/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

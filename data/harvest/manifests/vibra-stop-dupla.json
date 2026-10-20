@@ -2,7 +2,7 @@
   "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-dupla?model=dupla&language=pt-BR",
   "fetchedAt": "2026-10-20T10:35:11.901Z",
   "product": {
-    "id": 200035,
+    "id": 200021,
     "slug": "vibra-stop-dupla",
     "name": "Vibra-Stop Mola Dupla",
     "sku": "Mola Dupla",
@@ -39,7 +39,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240140,
+        "id": 210084,
         "sku": "MD200",
         "label": "MD200",
         "attributes": [
@@ -81,7 +81,7 @@
         "image": null
       },
       {
-        "id": 240141,
+        "id": 210085,
         "sku": "MD400",
         "label": "MD400",
         "attributes": [
@@ -123,7 +123,7 @@
         "image": null
       },
       {
-        "id": 240142,
+        "id": 210086,
         "sku": "MD600",
         "label": "MD600",
         "attributes": [
@@ -165,7 +165,7 @@
         "image": null
       },
       {
-        "id": 240143,
+        "id": 210087,
         "sku": "MD800",
         "label": "MD800",
         "attributes": [
@@ -207,7 +207,7 @@
         "image": null
       },
       {
-        "id": 240144,
+        "id": 210088,
         "sku": "MD1000",
         "label": "MD1000",
         "attributes": [
@@ -249,7 +249,7 @@
         "image": null
       },
       {
-        "id": 240145,
+        "id": 210089,
         "sku": "MD1400",
         "label": "MD1400",
         "attributes": [
@@ -291,7 +291,7 @@
         "image": null
       },
       {
-        "id": 240146,
+        "id": 210090,
         "sku": "MD2000",
         "label": "MD2000",
         "attributes": [
@@ -333,7 +333,7 @@
         "image": null
       },
       {
-        "id": 240147,
+        "id": 210091,
         "sku": "MD3000",
         "label": "MD3000",
         "attributes": [
@@ -375,7 +375,7 @@
         "image": null
       },
       {
-        "id": 240148,
+        "id": 210092,
         "sku": "MD4000",
         "label": "MD4000",
         "attributes": [
@@ -417,7 +417,7 @@
         "image": null
       },
       {
-        "id": 240149,
+        "id": 210093,
         "sku": "MD5000",
         "label": "MD5000",
         "attributes": [
@@ -465,6 +465,12 @@
         "url": "/downloads/products/vibra-stop/dupla/ficha-tecnica.pdf",
         "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Dupla.pdf",
         "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [],
@@ -664,6 +670,17 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 0,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:58:43.928Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 12,
+    "pdfReconciled2026": true
   }
 }

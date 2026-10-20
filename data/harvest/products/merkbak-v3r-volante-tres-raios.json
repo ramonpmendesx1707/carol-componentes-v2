@@ -1,0 +1,221 @@
+{
+  "id": 201045,
+  "slug": "merkbak-v3r-volante-tres-raios",
+  "name": "V3R – Volante Três Raios",
+  "sku": "V3R",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/volante-tres-raios/",
+  "type": "product",
+  "summary": "Máquinas e equipamentos que exigem regulagens precisas.",
+  "description": "<p>Máquinas e equipamentos que exigem regulagens precisas.</p><p><strong>Material:</strong> Revestido em resina termoplástica + alma e cubo de ferro fundido</p><p><strong>Informações adicionais:</strong> Alta resistência / Com a opção de cabo giratório para facilitar a regulagem.</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Volantes",
+      "slug": "volantes"
+    }
+  ],
+  "image": "/images/products/merkbak/v3r-volante-tres-raios/1.png",
+  "images": [
+    "/images/products/merkbak/v3r-volante-tres-raios/1.png",
+    "/images/products/merkbak/v3r-volante-tres-raios/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Revestido em resina termoplástica + alma e cubo de ferro fundido"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Máquinas e equipamentos que exigem regulagens precisas."
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Com a opção de cabo giratório para facilitar a regulagem."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220283,
+      "sku": "V3R 060",
+      "label": "V3R 060",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 060"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220284,
+      "sku": "V3R 095",
+      "label": "V3R 095",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 095"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220285,
+      "sku": "V3R 115",
+      "label": "V3R 115",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 115"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220286,
+      "sku": "V3R 140",
+      "label": "V3R 140",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 140"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220287,
+      "sku": "V3R 160",
+      "label": "V3R 160",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 160"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220288,
+      "sku": "V3R 185",
+      "label": "V3R 185",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 185"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220289,
+      "sku": "V3R 215",
+      "label": "V3R 215",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 215"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220290,
+      "sku": "V3R 280",
+      "label": "V3R 280",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 280"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Revestido em resina termoplástica + alma e cubo de ferro fundido"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Máquinas e equipamentos que exigem regulagens precisas."
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Com a opção de cabo giratório para facilitar a regulagem."
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "V3R 060"
+        },
+        {
+          "name": "Medida",
+          "value": "V3R 095"
+        },
+        {
+          "name": "Medida",
+          "value": "V3R 115"
+        },
+        {
+          "name": "Medida",
+          "value": "V3R 140"
+        },
+        {
+          "name": "Medida",
+          "value": "V3R 160"
+        },
+        {
+          "name": "Medida",
+          "value": "V3R 185"
+        },
+        {
+          "name": "Medida",
+          "value": "V3R 215"
+        },
+        {
+          "name": "Medida",
+          "value": "V3R 280"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

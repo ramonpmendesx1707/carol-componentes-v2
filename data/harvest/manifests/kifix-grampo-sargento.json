@@ -1,0 +1,680 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-c-e-sargentos/grampo-sargento/",
+  "fetchedAt": "2026-10-20T12:55:51.652Z",
+  "product": {
+    "id": 202009,
+    "slug": "kifix-grampo-sargento",
+    "name": "Grampo sargento",
+    "sku": "Grampo sargento",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-c-e-sargentos/grampo-sargento/",
+    "type": "product",
+    "summary": "Linha Grampo C e sargentos Kifix modelo Grampo sargento, com 18 referências dimensionais.",
+    "description": "<p>Linha Grampo C e sargentos Kifix modelo Grampo sargento, com 18 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo C e sargentos",
+        "slug": "grampo-c-e-sargentos"
+      }
+    ],
+    "image": "/images/products/kifix/grampo-sargento/foto-1.png",
+    "images": [
+      "/images/products/kifix/grampo-sargento/foto-1.png",
+      "/images/products/kifix/grampo-sargento/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo C e sargentos"
+      }
+    ],
+    "weight": "0,33 (0,72)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230053,
+        "sku": "KFSG 50X100 MM",
+        "label": "KFSG 50X100 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1700"
+          },
+          {
+            "name": "A (in)",
+            "value": "50 (1,96)"
+          },
+          {
+            "name": "B (in)",
+            "value": "100 (3,93)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,33 (0,72)"
+          }
+        ],
+        "weight": "0,33 (0,72)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230054,
+        "sku": "KFSG 50X150 MM",
+        "label": "KFSG 50X150 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1700"
+          },
+          {
+            "name": "A (in)",
+            "value": "50 (1,96)"
+          },
+          {
+            "name": "B (in)",
+            "value": "150 (5,90)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,35 (0,77)"
+          }
+        ],
+        "weight": "0,35 (0,77)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230055,
+        "sku": "KFSG 50X200 MM",
+        "label": "KFSG 50X200 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1700"
+          },
+          {
+            "name": "A (in)",
+            "value": "50 (1,96)"
+          },
+          {
+            "name": "B (in)",
+            "value": "200 (7,87)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,38 (0,83)"
+          }
+        ],
+        "weight": "0,38 (0,83)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230056,
+        "sku": "KFSG 50X300 MM",
+        "label": "KFSG 50X300 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1700"
+          },
+          {
+            "name": "A (in)",
+            "value": "50 (1,96)"
+          },
+          {
+            "name": "B (in)",
+            "value": "300 (11,81)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,42 (0,92)"
+          }
+        ],
+        "weight": "0,42 (0,92)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230057,
+        "sku": "KFSG 80X200 MM",
+        "label": "KFSG 80X200 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "2700"
+          },
+          {
+            "name": "A (in)",
+            "value": "80 (3,14)"
+          },
+          {
+            "name": "B (in)",
+            "value": "200 (7,87)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,74 (1,63)"
+          }
+        ],
+        "weight": "0,74 (1,63)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230058,
+        "sku": "KFSG 80X300 MM",
+        "label": "KFSG 80X300 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "2700"
+          },
+          {
+            "name": "A (in)",
+            "value": "81 (3,14)"
+          },
+          {
+            "name": "B (in)",
+            "value": "300 (11,81)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,93 (2,05)"
+          }
+        ],
+        "weight": "0,93 (2,05)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230059,
+        "sku": "KFSG 80X400 MM",
+        "label": "KFSG 80X400 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "2700"
+          },
+          {
+            "name": "A (in)",
+            "value": "82 (3,14)"
+          },
+          {
+            "name": "B (in)",
+            "value": "400 (15,74)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,12 (2,46)"
+          }
+        ],
+        "weight": "1,12 (2,46)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230060,
+        "sku": "KFSG 80X500 MM",
+        "label": "KFSG 80X500 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "2700"
+          },
+          {
+            "name": "A (in)",
+            "value": "83 (3,14)"
+          },
+          {
+            "name": "B (in)",
+            "value": "500 (19,68)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,31 (2,88)"
+          }
+        ],
+        "weight": "1,31 (2,88)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230061,
+        "sku": "KFSG 100X200 MM",
+        "label": "KFSG 100X200 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "3300"
+          },
+          {
+            "name": "A (in)",
+            "value": "100 (3,93)"
+          },
+          {
+            "name": "B (in)",
+            "value": "200 (7,87)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,08 (2,38)"
+          }
+        ],
+        "weight": "1,08 (2,38)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230062,
+        "sku": "KFSG 100X400 MM",
+        "label": "KFSG 100X400 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "3300"
+          },
+          {
+            "name": "A (in)",
+            "value": "100 (3,93)"
+          },
+          {
+            "name": "B (in)",
+            "value": "400 (15,74)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,38 (3,04)"
+          }
+        ],
+        "weight": "1,38 (3,04)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230063,
+        "sku": "KFSG 100X500 MM",
+        "label": "KFSG 100X500 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "3300"
+          },
+          {
+            "name": "A (in)",
+            "value": "100 (3,93)"
+          },
+          {
+            "name": "B (in)",
+            "value": "500 (19,68)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,46 (3,21)"
+          }
+        ],
+        "weight": "1,46 (3,21)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230064,
+        "sku": "KFSG 100X600 MM",
+        "label": "KFSG 100X600 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "3300"
+          },
+          {
+            "name": "A (in)",
+            "value": "100 (3,93)"
+          },
+          {
+            "name": "B (in)",
+            "value": "600 (23,62)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,58 (3,48)"
+          }
+        ],
+        "weight": "1,58 (3,48)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230065,
+        "sku": "KFSG 120X250 MM",
+        "label": "KFSG 120X250 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "4500"
+          },
+          {
+            "name": "A (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "B (in)",
+            "value": "250 (9,84)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,47 (3,24)"
+          }
+        ],
+        "weight": "1,47 (3,24)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230066,
+        "sku": "KFSG 120X300 MM",
+        "label": "KFSG 120X300 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "4500"
+          },
+          {
+            "name": "A (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "B (in)",
+            "value": "300 (11,81)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,55 (3,41)"
+          }
+        ],
+        "weight": "1,55 (3,41)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230067,
+        "sku": "KFSG 120X400 MM",
+        "label": "KFSG 120X400 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "4500"
+          },
+          {
+            "name": "A (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "B (in)",
+            "value": "400 (15,74)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,7 (3,74)"
+          }
+        ],
+        "weight": "1,7 (3,74)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230068,
+        "sku": "KFSG 120X500 MM",
+        "label": "KFSG 120X500 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "4500"
+          },
+          {
+            "name": "A (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "B (in)",
+            "value": "500 (19,68)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,85 (4,07)"
+          }
+        ],
+        "weight": "1,85 (4,07)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230069,
+        "sku": "KFSG 120X600 MM",
+        "label": "KFSG 120X600 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "4500"
+          },
+          {
+            "name": "A (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "B (in)",
+            "value": "600 (23,62)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "2 (4,40)"
+          }
+        ],
+        "weight": "2 (4,40)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230070,
+        "sku": "KFSG 120X800 MM",
+        "label": "KFSG 120X800 MM",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "4500"
+          },
+          {
+            "name": "A (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "B (in)",
+            "value": "800 (31,49)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "2,29 (5,04)"
+          }
+        ],
+        "weight": "2,29 (5,04)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KFSG 50X100 MM",
+            "1700",
+            "50 (1,96)",
+            "100 (3,93)",
+            "0,33 (0,72)"
+          ],
+          [
+            "KFSG 50X150 MM",
+            "1700",
+            "50 (1,96)",
+            "150 (5,90)",
+            "0,35 (0,77)"
+          ],
+          [
+            "KFSG 50X200 MM",
+            "1700",
+            "50 (1,96)",
+            "200 (7,87)",
+            "0,38 (0,83)"
+          ],
+          [
+            "KFSG 50X300 MM",
+            "1700",
+            "50 (1,96)",
+            "300 (11,81)",
+            "0,42 (0,92)"
+          ],
+          [
+            "KFSG 80X200 MM",
+            "2700",
+            "80 (3,14)",
+            "200 (7,87)",
+            "0,74 (1,63)"
+          ],
+          [
+            "KFSG 80X300 MM",
+            "2700",
+            "81 (3,14)",
+            "300 (11,81)",
+            "0,93 (2,05)"
+          ],
+          [
+            "KFSG 80X400 MM",
+            "2700",
+            "82 (3,14)",
+            "400 (15,74)",
+            "1,12 (2,46)"
+          ],
+          [
+            "KFSG 80X500 MM",
+            "2700",
+            "83 (3,14)",
+            "500 (19,68)",
+            "1,31 (2,88)"
+          ],
+          [
+            "KFSG 100X200 MM",
+            "3300",
+            "100 (3,93)",
+            "200 (7,87)",
+            "1,08 (2,38)"
+          ],
+          [
+            "KFSG 100X400 MM",
+            "3300",
+            "100 (3,93)",
+            "400 (15,74)",
+            "1,38 (3,04)"
+          ],
+          [
+            "KFSG 100X500 MM",
+            "3300",
+            "100 (3,93)",
+            "500 (19,68)",
+            "1,46 (3,21)"
+          ],
+          [
+            "KFSG 100X600 MM",
+            "3300",
+            "100 (3,93)",
+            "600 (23,62)",
+            "1,58 (3,48)"
+          ],
+          [
+            "KFSG 120X250 MM",
+            "4500",
+            "120 (4,72)",
+            "250 (9,84)",
+            "1,47 (3,24)"
+          ],
+          [
+            "KFSG 120X300 MM",
+            "4500",
+            "120 (4,72)",
+            "300 (11,81)",
+            "1,55 (3,41)"
+          ],
+          [
+            "KFSG 120X400 MM",
+            "4500",
+            "120 (4,72)",
+            "400 (15,74)",
+            "1,7 (3,74)"
+          ],
+          [
+            "KFSG 120X500 MM",
+            "4500",
+            "120 (4,72)",
+            "500 (19,68)",
+            "1,85 (4,07)"
+          ],
+          [
+            "KFSG 120X600 MM",
+            "4500",
+            "120 (4,72)",
+            "600 (23,62)",
+            "2 (4,40)"
+          ],
+          [
+            "KFSG 120X800 MM",
+            "4500",
+            "120 (4,72)",
+            "800 (31,49)",
+            "2,29 (5,04)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/grampo-sargento/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/grampo-sargento/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/805_KFSG_120X300.png",
+      "bytes": 116746,
+      "sha256": "3c34ec2e37216a55faae45d3b670da21f00f303802178d655088ecf5108cd956"
+    },
+    {
+      "path": "/images/products/kifix/grampo-sargento/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/413_TECNICO01.jpg",
+      "bytes": 192646,
+      "sha256": "f669d4f1d39470e3e9ce14f81cd4d000ba3dcc98ae7ee0ddebdf291890a192f3"
+    }
+  ],
+  "checks": {
+    "variants": 18,
+    "photos": 1,
+    "drawings": 1,
+    "tableRows": 18
+  }
+}

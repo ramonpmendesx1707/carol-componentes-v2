@@ -1,0 +1,375 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-horizontal/kf-515-ds-rs/",
+  "fetchedAt": "2026-10-20T12:59:39.099Z",
+  "product": {
+    "id": 202056,
+    "slug": "kifix-kf-515-ds-rs",
+    "name": "KF-515 DS/RS",
+    "sku": "KF-515 DS/RS",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-horizontal/kf-515-ds-rs/",
+    "type": "product",
+    "summary": "Linha Grampo horizontal Kifix modelo KF-515 DS/RS, com 3 referências dimensionais.",
+    "description": "<p>Linha Grampo horizontal Kifix modelo KF-515 DS/RS, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo horizontal",
+        "slug": "grampo-horizontal"
+      }
+    ],
+    "image": "/images/products/kifix/kf-515-ds-rs/foto-1.png",
+    "images": [
+      "/images/products/kifix/kf-515-ds-rs/foto-1.png",
+      "/images/products/kifix/kf-515-ds-rs/foto-2.png",
+      "/images/products/kifix/kf-515-ds-rs/foto-3.png",
+      "/images/products/kifix/kf-515-ds-rs/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo horizontal"
+      }
+    ],
+    "weight": "0,520 (1,146)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230415,
+        "sku": "KF-515 DS",
+        "label": "KF-515 DS",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "360 (793)"
+          },
+          {
+            "name": "A (in)",
+            "value": "40,8 (1,61)"
+          },
+          {
+            "name": "B (in)",
+            "value": "228 (8,98)"
+          },
+          {
+            "name": "C (in)",
+            "value": "22,3 (0,88)"
+          },
+          {
+            "name": "D (in)",
+            "value": "63,5 (2,50)"
+          },
+          {
+            "name": "E (in)",
+            "value": "-"
+          },
+          {
+            "name": "F (in)",
+            "value": "84 (3,31)"
+          },
+          {
+            "name": "G (in)",
+            "value": "25,4 (1,00)"
+          },
+          {
+            "name": "H (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "K (in)",
+            "value": "12,7 (0,50)"
+          },
+          {
+            "name": "L (in)",
+            "value": "12,7 (0,50)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "85"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,520 (1,146)"
+          }
+        ],
+        "weight": "0,520 (1,146)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230416,
+        "sku": "KF-515 DS TR",
+        "label": "KF-515 DS TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "360 (793)"
+          },
+          {
+            "name": "A (in)",
+            "value": "40,8 (1,61)"
+          },
+          {
+            "name": "B (in)",
+            "value": "223 (8,78)"
+          },
+          {
+            "name": "C (in)",
+            "value": "22,3 (0,88)"
+          },
+          {
+            "name": "D (in)",
+            "value": "63,5 (2,50)"
+          },
+          {
+            "name": "E (in)",
+            "value": "-"
+          },
+          {
+            "name": "F (in)",
+            "value": "47,7 (1,88)"
+          },
+          {
+            "name": "G (in)",
+            "value": "25,4 (1,00)"
+          },
+          {
+            "name": "H (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "K (in)",
+            "value": "12,7 (0,50)"
+          },
+          {
+            "name": "L (in)",
+            "value": "12,7 (0,50)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "85"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,550 (1,213)"
+          }
+        ],
+        "weight": "0,550 (1,213)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230417,
+        "sku": "KF-515 RS",
+        "label": "KF-515 RS",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "360 (793)"
+          },
+          {
+            "name": "A (in)",
+            "value": "40,8 (1,61)"
+          },
+          {
+            "name": "B (in)",
+            "value": "228 (8,98)"
+          },
+          {
+            "name": "C (in)",
+            "value": "22,3 (0,88)"
+          },
+          {
+            "name": "D (in)",
+            "value": "-"
+          },
+          {
+            "name": "E (in)",
+            "value": "12,7 (0,50)"
+          },
+          {
+            "name": "F (in)",
+            "value": "47,8 (1,88)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "68,2 (2,69)"
+          },
+          {
+            "name": "J (in)",
+            "value": "-"
+          },
+          {
+            "name": "K (in)",
+            "value": "12,7 (0,50)"
+          },
+          {
+            "name": "L (in)",
+            "value": "12,7 (0,50)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "85"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,450 (0,992)"
+          }
+        ],
+        "weight": "0,450 (0,992)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "K (in)",
+          "L (in)",
+          "PONTEIRA",
+          "ÂNGULO DE ABERTURA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-515 DS",
+            "360 (793)",
+            "40,8 (1,61)",
+            "228 (8,98)",
+            "22,3 (0,88)",
+            "63,5 (2,50)",
+            "-",
+            "84 (3,31)",
+            "25,4 (1,00)",
+            "50 (1,97)",
+            "8,5 (0,33)",
+            "12,7 (0,50)",
+            "12,7 (0,50)",
+            "M8",
+            "85",
+            "0,520 (1,146)"
+          ],
+          [
+            "KF-515 DS TR",
+            "360 (793)",
+            "40,8 (1,61)",
+            "223 (8,78)",
+            "22,3 (0,88)",
+            "63,5 (2,50)",
+            "-",
+            "47,7 (1,88)",
+            "25,4 (1,00)",
+            "50 (1,97)",
+            "8,5 (0,33)",
+            "12,7 (0,50)",
+            "12,7 (0,50)",
+            "M8",
+            "85",
+            "0,550 (1,213)"
+          ],
+          [
+            "KF-515 RS",
+            "360 (793)",
+            "40,8 (1,61)",
+            "228 (8,98)",
+            "22,3 (0,88)",
+            "-",
+            "12,7 (0,50)",
+            "47,8 (1,88)",
+            "-",
+            "68,2 (2,69)",
+            "-",
+            "12,7 (0,50)",
+            "12,7 (0,50)",
+            "M8",
+            "85",
+            "0,450 (0,992)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kf-515-ds-rs/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kf-515-ds-rs/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/674_KF515_DS.png",
+      "bytes": 317425,
+      "sha256": "67c9e7e3e0ba3b8779e59eed2b4f56da5775507266aceee978f2d92f511b6a41"
+    },
+    {
+      "path": "/images/products/kifix/kf-515-ds-rs/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/756_KF515_DS_TR.png",
+      "bytes": 306869,
+      "sha256": "f3d64bdc21da8d8b05c121eab8da535aca6a60d05a15b22509aad80621c71dd2"
+    },
+    {
+      "path": "/images/products/kifix/kf-515-ds-rs/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/675_KF_515_RS.png",
+      "bytes": 275048,
+      "sha256": "58c41832116a78f1c1d2e6bc1e0a759f1c1bd9e0c1e587d2c120a704652053de"
+    },
+    {
+      "path": "/images/products/kifix/kf-515-ds-rs/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/252_KF515.JPG",
+      "bytes": 101813,
+      "sha256": "99db56fab3aa855ad6fd7ef2c7734456e43e519680b4215cf10ef491188bec00"
+    }
+  ],
+  "checks": {
+    "variants": 3,
+    "photos": 3,
+    "drawings": 1,
+    "tableRows": 3
+  }
+}

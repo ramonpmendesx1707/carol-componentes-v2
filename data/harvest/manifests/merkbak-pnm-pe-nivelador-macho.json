@@ -1,0 +1,190 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/pe-nivelador/",
+  "fetchedAt": "2026-10-20T12:49:53.442Z",
+  "product": {
+    "id": 201040,
+    "slug": "merkbak-pnm-pe-nivelador-macho",
+    "name": "PNM – Pé Nivelador Macho",
+    "sku": "PNM",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/pe-nivelador/",
+    "type": "product",
+    "summary": "Pés niveladores são colocados nas bases de máquinas, equipamentos ou móveis e servem para nivelar ou simplesmente evitar que fiquem em contato com o piso.",
+    "description": "<p>Pés niveladores são colocados nas bases de máquinas, equipamentos ou móveis e servem para nivelar ou simplesmente evitar que fiquem em contato com o piso.</p><p><strong>Material:</strong> Pvc + rosca e porca aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Ótima aderência</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Pés Niveladores",
+        "slug": "pes-niveladores"
+      }
+    ],
+    "image": "/images/products/merkbak/pnm-pe-nivelador-macho/1.png",
+    "images": [
+      "/images/products/merkbak/pnm-pe-nivelador-macho/1.png",
+      "/images/products/merkbak/pnm-pe-nivelador-macho/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Pvc + rosca e porca aço carbono zincado"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Pés niveladores são colocados nas bases de máquinas, equipamentos ou móveis e servem para nivelar ou simplesmente evitar que fiquem em contato com o piso."
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Alta resistência / Ótima aderência"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220261,
+        "sku": "PN 3013 M8X22",
+        "label": "PN 3013 M8X22",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PN 3013 M8X22"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220262,
+        "sku": "PN 4013 M8X28",
+        "label": "PN 4013 M8X28",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PN 4013 M8X28"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220263,
+        "sku": "PN 4013 3/8X28",
+        "label": "PN 4013 3/8X28",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PN 4013 3/8X28"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220264,
+        "sku": "PN 4916 3/8X28",
+        "label": "PN 4916 3/8X28",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PN 4916 3/8X28"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220265,
+        "sku": "PN 4916 M10X28",
+        "label": "PN 4916 M10X28",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "PN 4916 M10X28"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Pvc + rosca e porca aço carbono zincado"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Pés niveladores são colocados nas bases de máquinas, equipamentos ou móveis e servem para nivelar ou simplesmente evitar que fiquem em contato com o piso."
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Alta resistência / Ótima aderência"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "PN 3013 M8X22"
+          },
+          {
+            "name": "Medida",
+            "value": "PN 4013 M8X28"
+          },
+          {
+            "name": "Medida",
+            "value": "PN 4013 3/8X28"
+          },
+          {
+            "name": "Medida",
+            "value": "PN 4916 3/8X28"
+          },
+          {
+            "name": "Medida",
+            "value": "PN 4916 M10X28"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/pnm-pe-nivelador-macho/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/044-pn-copiar-e1779471166509.png",
+      "bytes": 48162,
+      "sha256": "4ffc5c35a3edfd2b6892a6266d0017f52d0fa4913903d3603ff975fb77a3a5fe"
+    },
+    {
+      "path": "/images/products/merkbak/pnm-pe-nivelador-macho/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/12/PNM_tab.png",
+      "bytes": 107531,
+      "sha256": "ae70fee3fcf43f0ef3fd08bae82fccc48cf505d4c2074794d0380397d47de57c"
+    }
+  ],
+  "checks": {
+    "variants": 5,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

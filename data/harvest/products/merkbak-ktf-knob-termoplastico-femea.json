@@ -1,0 +1,221 @@
+{
+  "id": 201028,
+  "slug": "merkbak-ktf-knob-termoplastico-femea",
+  "name": "KTF – Knob Termoplástico Fêmea",
+  "sku": "KTF",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/knob-termoplastico-femea/",
+  "type": "product",
+  "summary": "Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral.",
+  "description": "<p>Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral.</p><p><strong>Material:</strong> Polipropileno + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Média resistência</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Knobs",
+      "slug": "knobs"
+    }
+  ],
+  "image": "/images/products/merkbak/ktf-knob-termoplastico-femea/1.png",
+  "images": [
+    "/images/products/merkbak/ktf-knob-termoplastico-femea/1.png",
+    "/images/products/merkbak/ktf-knob-termoplastico-femea/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Polipropileno + inserto rosca latão"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial texturizado na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral."
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Média resistência"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220137,
+      "sku": "KTF 2013 3/16",
+      "label": "KTF 2013 3/16",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KTF 2013 3/16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220138,
+      "sku": "KTF 2013 M6",
+      "label": "KTF 2013 M6",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KTF 2013 M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220139,
+      "sku": "KTF 2013 1/4",
+      "label": "KTF 2013 1/4",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KTF 2013 1/4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220140,
+      "sku": "KTF 2514 1/4",
+      "label": "KTF 2514 1/4",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KTF 2514 1/4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220141,
+      "sku": "KTF 3618 M6",
+      "label": "KTF 3618 M6",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KTF 3618 M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220142,
+      "sku": "KTF 3618 1/4",
+      "label": "KTF 3618 1/4",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KTF 3618 1/4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220143,
+      "sku": "KTF 3618 5/16",
+      "label": "KTF 3618 5/16",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KTF 3618 5/16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220144,
+      "sku": "KTF 3618 M8",
+      "label": "KTF 3618 M8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KTF 3618 M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Polipropileno + inserto rosca latão"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial texturizado na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral."
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Média resistência"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "KTF 2013 3/16"
+        },
+        {
+          "name": "Medida",
+          "value": "KTF 2013 M6"
+        },
+        {
+          "name": "Medida",
+          "value": "KTF 2013 1/4"
+        },
+        {
+          "name": "Medida",
+          "value": "KTF 2514 1/4"
+        },
+        {
+          "name": "Medida",
+          "value": "KTF 3618 M6"
+        },
+        {
+          "name": "Medida",
+          "value": "KTF 3618 1/4"
+        },
+        {
+          "name": "Medida",
+          "value": "KTF 3618 5/16"
+        },
+        {
+          "name": "Medida",
+          "value": "KTF 3618 M8"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

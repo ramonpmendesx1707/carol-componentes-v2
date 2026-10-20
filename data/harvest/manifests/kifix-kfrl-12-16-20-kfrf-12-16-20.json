@@ -1,0 +1,578 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/fuso-rpido/kfrl-121620-kfrf-121620/",
+  "fetchedAt": "2026-10-20T13:02:55.124Z",
+  "product": {
+    "id": 202077,
+    "slug": "kifix-kfrl-12-16-20-kfrf-12-16-20",
+    "name": "KFRL-12;16;20/KFRF-12;16;20",
+    "sku": "KFRL-12;16;20/KFRF-12;16;20",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/fuso-rpido/kfrl-121620-kfrf-121620/",
+    "type": "product",
+    "summary": "Linha Fuso rápido Kifix modelo KFRL-12;16;20/KFRF-12;16;20, com 6 referências dimensionais.",
+    "description": "<p>Linha Fuso rápido Kifix modelo KFRL-12;16;20/KFRF-12;16;20, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Fuso rápido",
+        "slug": "fuso-rapido"
+      }
+    ],
+    "image": "/images/products/kifix/kfrl-12-16-20-kfrf-12-16-20/foto-1.png",
+    "images": [
+      "/images/products/kifix/kfrl-12-16-20-kfrf-12-16-20/foto-1.png",
+      "/images/products/kifix/kfrl-12-16-20-kfrf-12-16-20/foto-2.png",
+      "/images/products/kifix/kfrl-12-16-20-kfrf-12-16-20/desenho-1.jpg",
+      "/images/products/kifix/kfrl-12-16-20-kfrf-12-16-20/desenho-2.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Fuso rápido"
+      }
+    ],
+    "weight": "0,480 (1,056)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230514,
+        "sku": "KFRL-12",
+        "label": "KFRL-12",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "500 (1100)"
+          },
+          {
+            "name": "A (in)",
+            "value": "64,5 (2,54)"
+          },
+          {
+            "name": "B (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "C (in)",
+            "value": "45 (1,77)"
+          },
+          {
+            "name": "D (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6 (0,24)"
+          },
+          {
+            "name": "F (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "G (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "H (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "I (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "L (in)",
+            "value": "175,4 (6,91)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M12X1,75"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,480 (1,056)"
+          }
+        ],
+        "weight": "0,480 (1,056)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230515,
+        "sku": "KFRF-12",
+        "label": "KFRF-12",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "500 (1100)"
+          },
+          {
+            "name": "A (in)",
+            "value": "64,5 (2,54)"
+          },
+          {
+            "name": "B (in)",
+            "value": "38,9 (1,53)"
+          },
+          {
+            "name": "C (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "D (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6 (0,24)"
+          },
+          {
+            "name": "F (in)",
+            "value": "17 (0,67)"
+          },
+          {
+            "name": "G (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "H (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "I (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "L (in)",
+            "value": "175,4 (6,91)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M12X1,75"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,420 (0,924)"
+          }
+        ],
+        "weight": "0,420 (0,924)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230516,
+        "sku": "KFRL-16",
+        "label": "KFRL-16",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "750 (1650)"
+          },
+          {
+            "name": "A (in)",
+            "value": "93,7 (3,69)"
+          },
+          {
+            "name": "B (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "C (in)",
+            "value": "53 (2,09)"
+          },
+          {
+            "name": "D (in)",
+            "value": "7 (0,28)"
+          },
+          {
+            "name": "E (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "F (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "G (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "H (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "I (in)",
+            "value": "65 (2,56)"
+          },
+          {
+            "name": "L (in)",
+            "value": "249 (9,80)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M16X2,00"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,920 (2,024)"
+          }
+        ],
+        "weight": "0,920 (2,024)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230517,
+        "sku": "KFRF-16",
+        "label": "KFRF-16",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "750 (1650)"
+          },
+          {
+            "name": "A (in)",
+            "value": "93,7 (3,69)"
+          },
+          {
+            "name": "B (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "C (in)",
+            "value": "48,5 (1,91)"
+          },
+          {
+            "name": "D (in)",
+            "value": "7 (0,28)"
+          },
+          {
+            "name": "E (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "F (in)",
+            "value": "22 (0,87)"
+          },
+          {
+            "name": "G (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "H (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "I (in)",
+            "value": "64,5 (2,54)"
+          },
+          {
+            "name": "L (in)",
+            "value": "249 (9,80)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M16X2,00"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,820 (1,804)"
+          }
+        ],
+        "weight": "0,820 (1,804)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230518,
+        "sku": "KFRL-20",
+        "label": "KFRL-20",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1500 (3300)"
+          },
+          {
+            "name": "A (in)",
+            "value": "116 (4,57)"
+          },
+          {
+            "name": "B (in)",
+            "value": "50,8 (2,00)"
+          },
+          {
+            "name": "C (in)",
+            "value": "68 (2,68)"
+          },
+          {
+            "name": "D (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "E (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "F (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "G (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "H (in)",
+            "value": "52 (2,05)"
+          },
+          {
+            "name": "I (in)",
+            "value": "85 (3,35)"
+          },
+          {
+            "name": "L (in)",
+            "value": "292 (11,50)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M20X2,00"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,950 (4,290)"
+          }
+        ],
+        "weight": "1,950 (4,290)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230519,
+        "sku": "KFRF-20",
+        "label": "KFRF-20",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1500 (3300)"
+          },
+          {
+            "name": "A (in)",
+            "value": "116 (4,57)"
+          },
+          {
+            "name": "B (in)",
+            "value": "59 (2,32)"
+          },
+          {
+            "name": "C (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "D (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "E (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "F (in)",
+            "value": "26,1 (1,03)"
+          },
+          {
+            "name": "G (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "H (in)",
+            "value": "52 (2,05)"
+          },
+          {
+            "name": "I (in)",
+            "value": "76 (2,99)"
+          },
+          {
+            "name": "L (in)",
+            "value": "292 (11,50)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M20X2,00"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,750 (3,850)"
+          }
+        ],
+        "weight": "1,750 (3,850)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "I (in)",
+          "L (in)",
+          "M (in)",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KFRL-12",
+            "500 (1100)",
+            "64,5 (2,54)",
+            "35 (1,38)",
+            "45 (1,77)",
+            "5,5 (0,22)",
+            "6 (0,24)",
+            "20 (0,79)",
+            "19 (0,75)",
+            "32 (1,26)",
+            "55 (2,17)",
+            "175,4 (6,91)",
+            "M12X1,75",
+            "0,480 (1,056)"
+          ],
+          [
+            "KFRF-12",
+            "500 (1100)",
+            "64,5 (2,54)",
+            "38,9 (1,53)",
+            "38 (1,50)",
+            "5,5 (0,22)",
+            "6 (0,24)",
+            "17 (0,67)",
+            "19 (0,75)",
+            "32 (1,26)",
+            "50 (1,97)",
+            "175,4 (6,91)",
+            "M12X1,75",
+            "0,420 (0,924)"
+          ],
+          [
+            "KFRL-16",
+            "750 (1650)",
+            "93,7 (3,69)",
+            "40 (1,57)",
+            "53 (2,09)",
+            "7 (0,28)",
+            "8 (0,31)",
+            "28 (1,10)",
+            "25 (0,98)",
+            "40 (1,57)",
+            "65 (2,56)",
+            "249 (9,80)",
+            "M16X2,00",
+            "0,920 (2,024)"
+          ],
+          [
+            "KFRF-16",
+            "750 (1650)",
+            "93,7 (3,69)",
+            "50 (1,97)",
+            "48,5 (1,91)",
+            "7 (0,28)",
+            "8 (0,31)",
+            "22 (0,87)",
+            "25 (0,98)",
+            "40 (1,57)",
+            "64,5 (2,54)",
+            "249 (9,80)",
+            "M16X2,00",
+            "0,820 (1,804)"
+          ],
+          [
+            "KFRL-20",
+            "1500 (3300)",
+            "116 (4,57)",
+            "50,8 (2,00)",
+            "68 (2,68)",
+            "8,5 (0,33)",
+            "9 (0,35)",
+            "32 (1,26)",
+            "32 (1,26)",
+            "52 (2,05)",
+            "85 (3,35)",
+            "292 (11,50)",
+            "M20X2,00",
+            "1,950 (4,290)"
+          ],
+          [
+            "KFRF-20",
+            "1500 (3300)",
+            "116 (4,57)",
+            "59 (2,32)",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "9 (0,35)",
+            "26,1 (1,03)",
+            "32 (1,26)",
+            "52 (2,05)",
+            "76 (2,99)",
+            "292 (11,50)",
+            "M20X2,00",
+            "1,750 (3,850)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kfrl-12-16-20-kfrf-12-16-20/desenho-1.jpg",
+          "/images/products/kifix/kfrl-12-16-20-kfrf-12-16-20/desenho-2.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kfrl-12-16-20-kfrf-12-16-20/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/549_KFRF20.png",
+      "bytes": 276692,
+      "sha256": "aa918952adfd1dde77c2b8f1f596817675685d2bcdb3c31935997c9564d9de85"
+    },
+    {
+      "path": "/images/products/kifix/kfrl-12-16-20-kfrf-12-16-20/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/550_KFRL20.png",
+      "bytes": 291570,
+      "sha256": "ecc8e98377b243f2debfcd9ba41c17e9bd8ed57cd0ae1c30e250747547c18176"
+    },
+    {
+      "path": "/images/products/kifix/kfrl-12-16-20-kfrf-12-16-20/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/287_KFRF.JPG",
+      "bytes": 45675,
+      "sha256": "21f08809613966bc133a6640b1184c13f0511c4f9440148bf1497937c3ed5a9d"
+    },
+    {
+      "path": "/images/products/kifix/kfrl-12-16-20-kfrf-12-16-20/desenho-2.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/332_KFRL.JPG",
+      "bytes": 54584,
+      "sha256": "fe7163c5ac9e47a3689abec3f063e5cb2c7729ba35203db860c24d52f9c80f93"
+    }
+  ],
+  "checks": {
+    "variants": 6,
+    "photos": 2,
+    "drawings": 2,
+    "tableRows": 6
+  }
+}

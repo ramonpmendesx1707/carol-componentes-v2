@@ -1,0 +1,249 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-dupla-borracha/",
+  "fetchedAt": "2026-10-20T13:04:49.102Z",
+  "product": {
+    "id": 202092,
+    "slug": "kifix-ponteira-dupla-borracha",
+    "name": "PONTEIRA DUPLA BORRACHA",
+    "sku": "PONTEIRA DUPLA BORRACHA",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-dupla-borracha/",
+    "type": "product",
+    "summary": "Linha Ponteiras Kifix modelo PONTEIRA DUPLA BORRACHA, com 3 referências dimensionais.",
+    "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA DUPLA BORRACHA, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Ponteiras",
+        "slug": "ponteiras"
+      }
+    ],
+    "image": "/images/products/kifix/ponteira-dupla-borracha/foto-1.png",
+    "images": [
+      "/images/products/kifix/ponteira-dupla-borracha/foto-1.png",
+      "/images/products/kifix/ponteira-dupla-borracha/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Ponteiras"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230591,
+        "sku": "PBD-M6",
+        "label": "PBD-M6",
+        "attributes": [
+          {
+            "name": "A1 (in)",
+            "value": "69 (2,72)"
+          },
+          {
+            "name": "A2 (in)",
+            "value": "89 (3,50)"
+          },
+          {
+            "name": "B (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "C (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "D mín (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "D máx (in)",
+            "value": "80 (3,15)"
+          },
+          {
+            "name": "E (in)",
+            "value": "7 (0,28)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230592,
+        "sku": "PBD-M8",
+        "label": "PBD-M8",
+        "attributes": [
+          {
+            "name": "A1 (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "A2 (in)",
+            "value": "89 (3,50)"
+          },
+          {
+            "name": "B (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "C (in)",
+            "value": "15 (0,59)"
+          },
+          {
+            "name": "D mín (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "D máx (in)",
+            "value": "92 (3,62)"
+          },
+          {
+            "name": "E (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230593,
+        "sku": "PBD-M10",
+        "label": "PBD-M10",
+        "attributes": [
+          {
+            "name": "A1 (in)",
+            "value": "82 (3,23)"
+          },
+          {
+            "name": "A2 (in)",
+            "value": "95 (3,74)"
+          },
+          {
+            "name": "B (in)",
+            "value": "180 (7,09)"
+          },
+          {
+            "name": "C (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "D mín (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "D máx (in)",
+            "value": "148 (5,83)"
+          },
+          {
+            "name": "E (in)",
+            "value": "11 (0,43)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "A1 (in)",
+          "A2 (in)",
+          "B (in)",
+          "C (in)",
+          "D mín (in)",
+          "D máx (in)",
+          "E (in)",
+          "M (in)"
+        ],
+        "rows": [
+          [
+            "PBD-M6",
+            "69 (2,72)",
+            "89 (3,50)",
+            "100 (3,94)",
+            "12 (0,47)",
+            "30 (1,18)",
+            "80 (3,15)",
+            "7 (0,28)",
+            "M6"
+          ],
+          [
+            "PBD-M8",
+            "78 (3,07)",
+            "89 (3,50)",
+            "120 (4,72)",
+            "15 (0,59)",
+            "35 (1,38)",
+            "92 (3,62)",
+            "9 (0,35)",
+            "M8"
+          ],
+          [
+            "PBD-M10",
+            "82 (3,23)",
+            "95 (3,74)",
+            "180 (7,09)",
+            "20 (0,79)",
+            "42 (1,65)",
+            "148 (5,83)",
+            "11 (0,43)",
+            "M10"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/ponteira-dupla-borracha/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/ponteira-dupla-borracha/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/755_PBDM8300.png",
+      "bytes": 463739,
+      "sha256": "0cfe67bcc36b266646ecb9bbeecca031d84a2eb9a8bc605287d369a823162b8a"
+    },
+    {
+      "path": "/images/products/kifix/ponteira-dupla-borracha/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/313_PBD.JPG",
+      "bytes": 112158,
+      "sha256": "93c75fa8708563ff5375744adf834b27dd43b68eb42be910879ccb2ce928aaca"
+    }
+  ],
+  "checks": {
+    "variants": 3,
+    "photos": 1,
+    "drawings": 1,
+    "tableRows": 3
+  }
+}

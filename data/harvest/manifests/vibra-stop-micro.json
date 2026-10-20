@@ -2,7 +2,7 @@
   "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-micro?model=micro&language=pt-BR",
   "fetchedAt": "2026-10-20T10:30:51.807Z",
   "product": {
-    "id": 200026,
+    "id": 200035,
     "slug": "vibra-stop-micro",
     "name": "Vibra-Stop Micro",
     "sku": "Micro",
@@ -35,7 +35,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240099,
+        "id": 210206,
         "sku": "MIC I",
         "label": "MIC I",
         "attributes": [
@@ -73,7 +73,7 @@
         "image": null
       },
       {
-        "id": 240100,
+        "id": 210207,
         "sku": "MIC II",
         "label": "MIC II",
         "attributes": [
@@ -111,7 +111,7 @@
         "image": null
       },
       {
-        "id": 240101,
+        "id": 210208,
         "sku": "MIC III",
         "label": "MIC III",
         "attributes": [
@@ -149,7 +149,7 @@
         "image": null
       },
       {
-        "id": 240102,
+        "id": 210209,
         "sku": "MIC IV",
         "label": "MIC IV",
         "attributes": [
@@ -193,6 +193,12 @@
         "url": "/downloads/products/vibra-stop/micro/ficha-tecnica.pdf",
         "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Micro.pdf",
         "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [
@@ -329,6 +335,18 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 1,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:57:49.396Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Vídeo",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 6,
+    "pdfReconciled2026": true
   }
 }

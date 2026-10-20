@@ -1,5 +1,5 @@
 {
-  "id": 200021,
+  "id": 200016,
   "slug": "vibra-stop-coxim-a",
   "name": "Vibra-Stop Coxim A",
   "sku": "Coxim A",
@@ -32,7 +32,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240084,
+      "id": 210069,
       "sku": "CXA1",
       "label": "CXA1",
       "attributes": [
@@ -74,7 +74,7 @@
       "image": null
     },
     {
-      "id": 240085,
+      "id": 210070,
       "sku": "CXA2",
       "label": "CXA2",
       "attributes": [
@@ -116,7 +116,7 @@
       "image": null
     },
     {
-      "id": 240086,
+      "id": 210071,
       "sku": "CXA3",
       "label": "CXA3",
       "attributes": [
@@ -164,6 +164,12 @@
       "url": "/downloads/products/vibra-stop/coxim-a/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Coxim%20A.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [

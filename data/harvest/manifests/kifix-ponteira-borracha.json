@@ -1,0 +1,430 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-borracha/",
+  "fetchedAt": "2026-10-20T13:04:26.869Z",
+  "product": {
+    "id": 202090,
+    "slug": "kifix-ponteira-borracha",
+    "name": "PONTEIRA BORRACHA",
+    "sku": "PONTEIRA BORRACHA",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-borracha/",
+    "type": "product",
+    "summary": "Linha Ponteiras Kifix modelo PONTEIRA BORRACHA, com 10 referências dimensionais.",
+    "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA BORRACHA, com 10 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Ponteiras",
+        "slug": "ponteiras"
+      }
+    ],
+    "image": "/images/products/kifix/ponteira-borracha/foto-1.png",
+    "images": [
+      "/images/products/kifix/ponteira-borracha/foto-1.png",
+      "/images/products/kifix/ponteira-borracha/foto-2.png",
+      "/images/products/kifix/ponteira-borracha/foto-3.png",
+      "/images/products/kifix/ponteira-borracha/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Ponteiras"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230578,
+        "sku": "PB-M6",
+        "label": "PB-M6",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "15 (0,59)"
+          },
+          {
+            "name": "B (in)",
+            "value": "69 (2,72)"
+          },
+          {
+            "name": "C (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230579,
+        "sku": "PB-M8",
+        "label": "PB-M8",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "18,5 (0,73)"
+          },
+          {
+            "name": "B (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "C (in)",
+            "value": "63 (2,48)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230580,
+        "sku": "PB-M10",
+        "label": "PB-M10",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "B (in)",
+            "value": "82 (3,23)"
+          },
+          {
+            "name": "C (in)",
+            "value": "63 (2,48)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230581,
+        "sku": "BRP-M6",
+        "label": "BRP-M6",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "15 (0,59)"
+          },
+          {
+            "name": "B (in)",
+            "value": "69 (2,72)"
+          },
+          {
+            "name": "C (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230582,
+        "sku": "BRP-M8",
+        "label": "BRP-M8",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "18,5 (0,73)"
+          },
+          {
+            "name": "B (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "C (in)",
+            "value": "63 (2,48))"
+          },
+          {
+            "name": "M (in)",
+            "value": "M8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230583,
+        "sku": "BRP-M10",
+        "label": "BRP-M10",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "B (in)",
+            "value": "82 (3,23)"
+          },
+          {
+            "name": "C (in)",
+            "value": "63 (2,48)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230584,
+        "sku": "BRB-M6",
+        "label": "BRB-M6",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "15 (0,59)"
+          },
+          {
+            "name": "B (in)",
+            "value": "69 (2,72)"
+          },
+          {
+            "name": "C (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230585,
+        "sku": "BRB-M8",
+        "label": "BRB-M8",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "18,5 (0,73)"
+          },
+          {
+            "name": "B (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "C (in)",
+            "value": "63 (2,48)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230586,
+        "sku": "BRB-M10",
+        "label": "BRB-M10",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "B (in)",
+            "value": "82 (3,23)"
+          },
+          {
+            "name": "C (in)",
+            "value": "63 (2,48)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230587,
+        "sku": "BAP-M6",
+        "label": "BAP-M6",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "31 (1,22)"
+          },
+          {
+            "name": "C (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "M (in)"
+        ],
+        "rows": [
+          [
+            "PB-M6",
+            "15 (0,59)",
+            "69 (2,72)",
+            "57 (2,24)",
+            "M6"
+          ],
+          [
+            "PB-M8",
+            "18,5 (0,73)",
+            "78 (3,07)",
+            "63 (2,48)",
+            "M8"
+          ],
+          [
+            "PB-M10",
+            "23 (0,91)",
+            "82 (3,23)",
+            "63 (2,48)",
+            "M10"
+          ],
+          [
+            "BRP-M6",
+            "15 (0,59)",
+            "69 (2,72)",
+            "57 (2,24)",
+            "M6"
+          ],
+          [
+            "BRP-M8",
+            "18,5 (0,73)",
+            "78 (3,07)",
+            "63 (2,48))",
+            "M8"
+          ],
+          [
+            "BRP-M10",
+            "23 (0,91)",
+            "82 (3,23)",
+            "63 (2,48)",
+            "M10"
+          ],
+          [
+            "BRB-M6",
+            "15 (0,59)",
+            "69 (2,72)",
+            "57 (2,24)",
+            "M6"
+          ],
+          [
+            "BRB-M8",
+            "18,5 (0,73)",
+            "78 (3,07)",
+            "63 (2,48)",
+            "M8"
+          ],
+          [
+            "BRB-M10",
+            "23 (0,91)",
+            "82 (3,23)",
+            "63 (2,48)",
+            "M10"
+          ],
+          [
+            "BAP-M6",
+            "16 (0,63)",
+            "31 (1,22)",
+            "24 (0,94)",
+            "M6"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/ponteira-borracha/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/ponteira-borracha/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/749_PBM8289.png",
+      "bytes": 195717,
+      "sha256": "0e7b2dffb4cc69238677c3fd4e45347e44699f946ef51e300ab81168c1a92519"
+    },
+    {
+      "path": "/images/products/kifix/ponteira-borracha/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/750_BRPM8290.png",
+      "bytes": 209909,
+      "sha256": "932747f82f13cb75e61097dba5f1d6577741db26f7920796e2e6195bc5d09bd2"
+    },
+    {
+      "path": "/images/products/kifix/ponteira-borracha/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/751_BRBM8291.png",
+      "bytes": 183226,
+      "sha256": "612277be9b7cc93ea9e508a397dae894daa7e36c546e2ee2447988884e6e4618"
+    },
+    {
+      "path": "/images/products/kifix/ponteira-borracha/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/436_tec_ponteiras100.jpg",
+      "bytes": 634830,
+      "sha256": "2287742b95ee52c0c73166d38380410cd34446333baecfd3a94e4a8e76b7ac85"
+    }
+  ],
+  "checks": {
+    "variants": 10,
+    "photos": 3,
+    "drawings": 1,
+    "tableRows": 10
+  }
+}

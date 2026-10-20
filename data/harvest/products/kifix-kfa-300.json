@@ -1,0 +1,119 @@
+{
+  "id": 202067,
+  "slug": "kifix-kfa-300",
+  "name": "KFA-300",
+  "sku": "KFA-300",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/alicates/kfa-300/",
+  "type": "product",
+  "summary": "Linha Alicates Kifix modelo KFA-300, com 1 referências dimensionais.",
+  "description": "<p>Linha Alicates Kifix modelo KFA-300, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Alicates",
+      "slug": "alicates"
+    }
+  ],
+  "image": "/images/products/kifix/kfa-300/foto-1.png",
+  "images": [
+    "/images/products/kifix/kfa-300/foto-1.png",
+    "/images/products/kifix/kfa-300/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Alicates"
+    }
+  ],
+  "weight": "2,750 (6,050)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230482,
+      "sku": "KFA-300",
+      "label": "KFA-300",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "150 (330)"
+        },
+        {
+          "name": "A (in)",
+          "value": "47 (1,85)"
+        },
+        {
+          "name": "B (in)",
+          "value": "432 (17,01)"
+        },
+        {
+          "name": "C (FECHADO) (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "C (ABERTO) (in)",
+          "value": "300 (11,81)"
+        },
+        {
+          "name": "D (in)",
+          "value": "148 (5,83)"
+        },
+        {
+          "name": "R (in)",
+          "value": "M16x2,00"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "2,750 (6,050)"
+        }
+      ],
+      "weight": "2,750 (6,050)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "A (in)",
+        "B (in)",
+        "C (FECHADO) (in)",
+        "C (ABERTO) (in)",
+        "D (in)",
+        "R (in)",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KFA-300",
+          "150 (330)",
+          "47 (1,85)",
+          "432 (17,01)",
+          "60 (2,36)",
+          "300 (11,81)",
+          "148 (5,83)",
+          "M16x2,00",
+          "2,750 (6,050)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kfa-300/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

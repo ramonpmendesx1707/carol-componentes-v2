@@ -1,0 +1,1796 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-horizontal/kf-531-541/",
+  "fetchedAt": "2026-10-20T12:59:15.798Z",
+  "product": {
+    "id": 202057,
+    "slug": "kifix-kf-531-541",
+    "name": "KF-531/541",
+    "sku": "KF-531/541",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-horizontal/kf-531-541/",
+    "type": "product",
+    "summary": "Linha Grampo horizontal Kifix modelo KF-531/541, com 20 referências dimensionais.",
+    "description": "<p>Linha Grampo horizontal Kifix modelo KF-531/541, com 20 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo horizontal",
+        "slug": "grampo-horizontal"
+      }
+    ],
+    "image": "/images/products/kifix/kf-531-541/foto-1.png",
+    "images": [
+      "/images/products/kifix/kf-531-541/foto-1.png",
+      "/images/products/kifix/kf-531-541/foto-2.png",
+      "/images/products/kifix/kf-531-541/foto-3.png",
+      "/images/products/kifix/kf-531-541/foto-4.png",
+      "/images/products/kifix/kf-531-541/foto-5.png",
+      "/images/products/kifix/kf-531-541/foto-6.png",
+      "/images/products/kifix/kf-531-541/foto-7.png",
+      "/images/products/kifix/kf-531-541/foto-8.png",
+      "/images/products/kifix/kf-531-541/foto-9.jpg",
+      "/images/products/kifix/kf-531-541/foto-10.png",
+      "/images/products/kifix/kf-531-541/foto-11.png",
+      "/images/products/kifix/kf-531-541/foto-12.png",
+      "/images/products/kifix/kf-531-541/foto-13.png",
+      "/images/products/kifix/kf-531-541/foto-14.png",
+      "/images/products/kifix/kf-531-541/foto-15.png",
+      "/images/products/kifix/kf-531-541/foto-16.png",
+      "/images/products/kifix/kf-531-541/foto-17.png",
+      "/images/products/kifix/kf-531-541/foto-18.png",
+      "/images/products/kifix/kf-531-541/foto-19.png",
+      "/images/products/kifix/kf-531-541/foto-20.png",
+      "/images/products/kifix/kf-531-541/desenho-1.jpg",
+      "/images/products/kifix/kf-531-541/desenho-2.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo horizontal"
+      }
+    ],
+    "weight": "0,870 (1,918)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230418,
+        "sku": "KF-531 D",
+        "label": "KF-531 D",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "B (in)",
+            "value": "239 (9,41)"
+          },
+          {
+            "name": "C (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,870 (1,918)"
+          }
+        ],
+        "weight": "0,870 (1,918)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230419,
+        "sku": "KF-531 DI",
+        "label": "KF-531 DI",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "B (in)",
+            "value": "239 (9,41)"
+          },
+          {
+            "name": "C (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,870 (1,918)"
+          }
+        ],
+        "weight": "0,870 (1,918)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230420,
+        "sku": "KF-531 R",
+        "label": "KF-531 R",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "B (in)",
+            "value": "239 (9,41)"
+          },
+          {
+            "name": "C (in)",
+            "value": "41 (1,61)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,870 (1,918)"
+          }
+        ],
+        "weight": "0,870 (1,918)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230421,
+        "sku": "KF-531 RI",
+        "label": "KF-531 RI",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "B (in)",
+            "value": "239 (9,41)"
+          },
+          {
+            "name": "C (in)",
+            "value": "69 (2,72)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,870 (1,918)"
+          }
+        ],
+        "weight": "0,870 (1,918)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230422,
+        "sku": "KF-531 DL",
+        "label": "KF-531 DL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "B (in)",
+            "value": "281 (11,06)"
+          },
+          {
+            "name": "C (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,940 (2,072)"
+          }
+        ],
+        "weight": "0,940 (2,072)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230423,
+        "sku": "KF-531 DIL",
+        "label": "KF-531 DIL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "B (in)",
+            "value": "281 (11,06)"
+          },
+          {
+            "name": "C (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,940 (2,072)"
+          }
+        ],
+        "weight": "0,940 (2,072)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230424,
+        "sku": "KF-531 RL",
+        "label": "KF-531 RL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "B (in)",
+            "value": "281 (11,06)"
+          },
+          {
+            "name": "C (in)",
+            "value": "41 (1,61)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,940 (2,072)"
+          }
+        ],
+        "weight": "0,940 (2,072)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230425,
+        "sku": "KF-531 RIL",
+        "label": "KF-531 RIL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "B (in)",
+            "value": "281 (11,06)"
+          },
+          {
+            "name": "C (in)",
+            "value": "69 (2,72)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,940 (2,072)"
+          }
+        ],
+        "weight": "0,940 (2,072)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230426,
+        "sku": "KF-531 D TR",
+        "label": "KF-531 D TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "B (in)",
+            "value": "245 (9,65)"
+          },
+          {
+            "name": "C (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,920 (2,028)"
+          }
+        ],
+        "weight": "0,920 (2,028)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230427,
+        "sku": "KF-531 DI TR",
+        "label": "KF-531 DI TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "B (in)",
+            "value": "245 (9,65)"
+          },
+          {
+            "name": "C (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,920 (2,028)"
+          }
+        ],
+        "weight": "0,920 (2,028)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230428,
+        "sku": "KF-531 DL TR",
+        "label": "KF-531 DL TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "B (in)",
+            "value": "287 (11,30)"
+          },
+          {
+            "name": "C (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,980 (2,160)"
+          }
+        ],
+        "weight": "0,980 (2,160)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230429,
+        "sku": "KF-531 DIL TR",
+        "label": "KF-531 DIL TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "B (in)",
+            "value": "287 (11,30)"
+          },
+          {
+            "name": "C (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,980 (2,160)"
+          }
+        ],
+        "weight": "0,980 (2,160)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230430,
+        "sku": "KF-541 D",
+        "label": "KF-541 D",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "B (in)",
+            "value": "261 (10,28)"
+          },
+          {
+            "name": "C (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,920 (2,028)"
+          }
+        ],
+        "weight": "0,920 (2,028)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230431,
+        "sku": "KF-541 DI",
+        "label": "KF-541 DI",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "B (in)",
+            "value": "261 (10,28)"
+          },
+          {
+            "name": "C (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,920 (2,028)"
+          }
+        ],
+        "weight": "0,920 (2,028)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230432,
+        "sku": "KF-541 R",
+        "label": "KF-541 R",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "B (in)",
+            "value": "261 (10,28)"
+          },
+          {
+            "name": "C (in)",
+            "value": "41 (1,61)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,920 (2,028)"
+          }
+        ],
+        "weight": "0,920 (2,028)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230433,
+        "sku": "KF-541 RI",
+        "label": "KF-541 RI",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "400 (880)"
+          },
+          {
+            "name": "A (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "B (in)",
+            "value": "261 (10,28)"
+          },
+          {
+            "name": "C (in)",
+            "value": "69 (2,72)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,920 (2,028)"
+          }
+        ],
+        "weight": "0,920 (2,028)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230434,
+        "sku": "KF-541 DL",
+        "label": "KF-541 DL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "B (in)",
+            "value": "304 (11,97)"
+          },
+          {
+            "name": "C (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,960 (2,116)"
+          }
+        ],
+        "weight": "0,960 (2,116)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230435,
+        "sku": "KF-541 DIL",
+        "label": "KF-541 DIL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "B (in)",
+            "value": "304 (11,97)"
+          },
+          {
+            "name": "C (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,960 (2,116)"
+          }
+        ],
+        "weight": "0,960 (2,116)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230436,
+        "sku": "KF-541 RL",
+        "label": "KF-541 RL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "B (in)",
+            "value": "304 (11,97)"
+          },
+          {
+            "name": "C (in)",
+            "value": "41 (1,61)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,960 (2,116)"
+          }
+        ],
+        "weight": "0,960 (2,116)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230437,
+        "sku": "KF-541 RIL",
+        "label": "KF-541 RIL",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "B (in)",
+            "value": "304 (11,97)"
+          },
+          {
+            "name": "C (in)",
+            "value": "69 (2,72)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "50 (1,97)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "80"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,960 (2,116)"
+          }
+        ],
+        "weight": "0,960 (2,116)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "PONTEIRA",
+          "ÂNGULO DE ABERTURA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-531 D",
+            "400 (880)",
+            "78 (3,07)",
+            "239 (9,41)",
+            "28 (1,10)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,870 (1,918)"
+          ],
+          [
+            "KF-531 DI",
+            "400 (880)",
+            "78 (3,07)",
+            "239 (9,41)",
+            "56 (2,20)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,870 (1,918)"
+          ],
+          [
+            "KF-531 R",
+            "400 (880)",
+            "91 (3,58)",
+            "239 (9,41)",
+            "41 (1,61)",
+            "32 (1,26)",
+            "6,5 (0,26)",
+            "50 (1,97)",
+            "-",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,870 (1,918)"
+          ],
+          [
+            "KF-531 RI",
+            "400 (880)",
+            "91 (3,58)",
+            "239 (9,41)",
+            "69 (2,72)",
+            "32 (1,26)",
+            "6,5 (0,26)",
+            "50 (1,97)",
+            "-",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,870 (1,918)"
+          ],
+          [
+            "KF-531 DL",
+            "300 (660)",
+            "78 (3,07)",
+            "281 (11,06)",
+            "28 (1,10)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,940 (2,072)"
+          ],
+          [
+            "KF-531 DIL",
+            "300 (660)",
+            "78 (3,07)",
+            "281 (11,06)",
+            "56 (2,20)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,940 (2,072)"
+          ],
+          [
+            "KF-531 RL",
+            "300 (660)",
+            "91 (3,58)",
+            "281 (11,06)",
+            "41 (1,61)",
+            "32 (1,26)",
+            "6,5 (0,26)",
+            "50 (1,97)",
+            "-",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,940 (2,072)"
+          ],
+          [
+            "KF-531 RIL",
+            "300 (660)",
+            "91 (3,58)",
+            "281 (11,06)",
+            "69 (2,72)",
+            "32 (1,26)",
+            "6,5 (0,26)",
+            "50 (1,97)",
+            "-",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,940 (2,072)"
+          ],
+          [
+            "KF-531 D TR",
+            "400 (880)",
+            "78 (3,07)",
+            "245 (9,65)",
+            "28 (1,10)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,920 (2,028)"
+          ],
+          [
+            "KF-531 DI TR",
+            "400 (880)",
+            "78 (3,07)",
+            "245 (9,65)",
+            "56 (2,20)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,920 (2,028)"
+          ],
+          [
+            "KF-531 DL TR",
+            "300 (660)",
+            "78 (3,07)",
+            "287 (11,30)",
+            "28 (1,10)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,980 (2,160)"
+          ],
+          [
+            "KF-531 DIL TR",
+            "300 (660)",
+            "78 (3,07)",
+            "287 (11,30)",
+            "56 (2,20)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,980 (2,160)"
+          ],
+          [
+            "KF-541 D",
+            "400 (880)",
+            "78 (3,07)",
+            "261 (10,28)",
+            "28 (1,10)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,920 (2,028)"
+          ],
+          [
+            "KF-541 DI",
+            "400 (880)",
+            "78 (3,07)",
+            "261 (10,28)",
+            "56 (2,20)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,920 (2,028)"
+          ],
+          [
+            "KF-541 R",
+            "400 (880)",
+            "91 (3,58)",
+            "261 (10,28)",
+            "41 (1,61)",
+            "32 (1,26)",
+            "6,5 (0,26)",
+            "50 (1,97)",
+            "-",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,920 (2,028)"
+          ],
+          [
+            "KF-541 RI",
+            "400 (880)",
+            "91 (3,58)",
+            "261 (10,28)",
+            "69 (2,72)",
+            "32 (1,26)",
+            "6,5 (0,26)",
+            "50 (1,97)",
+            "-",
+            "57 (2,24)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,920 (2,028)"
+          ],
+          [
+            "KF-541 DL",
+            "300 (660)",
+            "78 (3,07)",
+            "304 (11,97)",
+            "28 (1,10)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,960 (2,116)"
+          ],
+          [
+            "KF-541 DIL",
+            "300 (660)",
+            "78 (3,07)",
+            "304 (11,97)",
+            "56 (2,20)",
+            "32 (1,26)",
+            "37 (1,46)",
+            "50 (1,97)",
+            "55 (2,17)",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,960 (2,116)"
+          ],
+          [
+            "KF-541 RL",
+            "300 (660)",
+            "91 (3,58)",
+            "304 (11,97)",
+            "41 (1,61)",
+            "32 (1,26)",
+            "6,5 (0,26)",
+            "50 (1,97)",
+            "-",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,960 (2,116)"
+          ],
+          [
+            "KF-541 RIL",
+            "300 (660)",
+            "91 (3,58)",
+            "304 (11,97)",
+            "69 (2,72)",
+            "32 (1,26)",
+            "6,5 (0,26)",
+            "50 (1,97)",
+            "-",
+            "100 (3,94)",
+            "8,5 (0,33)",
+            "M10",
+            "80",
+            "0,960 (2,116)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kf-531-541/desenho-1.jpg",
+          "/images/products/kifix/kf-531-541/desenho-2.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/965_KF531_D.png",
+      "bytes": 1819903,
+      "sha256": "33222d4b03b9ee37e1b49a45a009c447701b829822f5ed644407b606b898707d"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/869_KF531_D.png",
+      "bytes": 275611,
+      "sha256": "0ded678a2bb34071268cb9dd548ba2b7605c7d589ec0d38c838805c79f7ffb2a"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/966_KF531_R.png",
+      "bytes": 2302713,
+      "sha256": "6c0763018d700dd73a10184d01c6e5f5deaf5ba3addce6f10d7b3aa00eb28df2"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-4.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/967_KF531_RI.png",
+      "bytes": 2158858,
+      "sha256": "5766ae4953d7cb20927181713d21b6565cbd627944194ac63585645fd5ff5926"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-5.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/968_KF531_DL.png",
+      "bytes": 1761006,
+      "sha256": "7e2b0d663c75409c8453d804ff765657ccb6327d850dcab3b23aa26ea5b14800"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-6.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/800_KF531_DIL.png",
+      "bytes": 282596,
+      "sha256": "b9e32db4446552d13c53edf606cae7c4eb9bd39959f449c2cfac4ce707a201fc"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-7.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/969_KF531_RL.png",
+      "bytes": 1980889,
+      "sha256": "66b2662f981fb6825491e8937f77ef2eff0969b4af2eb57bb06cfca5ed8d24da"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-8.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/970_KF531_RIL.png",
+      "bytes": 1898739,
+      "sha256": "4410f3026045ad3e97ab4f7b53824e2067b0456e2739d805bc38959f419f1edb"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-9.jpg",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/660_KF531_DIL.jpg",
+      "bytes": 138575,
+      "sha256": "c683a27365a1f9d569372c386ba52b7d2365afc38136ccd180e10247d909f827"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-10.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/971_KF531_DI_TR.png",
+      "bytes": 2134836,
+      "sha256": "42a923b72f801a7b3b8e8c5f2779a642a301b26fa15a45d77a53100f2eafe484"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-11.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/973_KF531_DL_TR.png",
+      "bytes": 1985320,
+      "sha256": "4f41b0145ee4fd58a35c018d447ba0f27f25ef30e182fa9010fbe79e49f5e818"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-12.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/972_KF531_DIL_TR.png",
+      "bytes": 1969366,
+      "sha256": "43cae4b73b4b47ce66ee7a150ddc226b66076bfd394b6dcb9c5372788293ecb3"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-13.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/551_KF_541_D.png",
+      "bytes": 340337,
+      "sha256": "5de38b203ae90137fe65345029b876db05a343673640b8c3b6087fe654a2ee72"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-14.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/959_KF541_DI.png",
+      "bytes": 1720524,
+      "sha256": "223cbad04a5f2e8258743d1ac01322927dd18a1609f202e6d94a79c1b562a388"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-15.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/960_KF541_R.png",
+      "bytes": 1766401,
+      "sha256": "6777b59b4e1675097ec35dc029947f221e6a7481efbc235735ba170199c3d4ff"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-16.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/961_KF541_RI.png",
+      "bytes": 2183566,
+      "sha256": "914a38789c81ee6a69ed4d00e9e3ae7fb4d1cefaa9d0d7f2ed97935786f2d7c2"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-17.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/962_KF541_DL.png",
+      "bytes": 1622872,
+      "sha256": "8f8fcb770ca5af69c3d37b08399ea606781724a796b453ec596d6ca19136eec4"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-18.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/659_KF541_DIL.png",
+      "bytes": 246964,
+      "sha256": "27695bd641ff4452783d841ebe4e60b45e92646e11d6eb1bf9357e981044f35e"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-19.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/964_KF541_RL.png",
+      "bytes": 1789203,
+      "sha256": "f345c9155764ca17e72f1e9129c2e0125a69fc00c75046bfc13de54d4b1508d5"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/foto-20.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/963_KF541_RIL.png",
+      "bytes": 1702011,
+      "sha256": "b240bc138c98fbbfeeab11504934a7a05ae8d76a8be5fb9ed46ed4833d494c8f"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/254_KF531_DI.JPG",
+      "bytes": 101370,
+      "sha256": "b45d1834d882b200f951ddcb43558c2714390c1fc9409e1d0ac79dc40ad4f0a5"
+    },
+    {
+      "path": "/images/products/kifix/kf-531-541/desenho-2.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/255_KF541_D_DI.JPG",
+      "bytes": 146161,
+      "sha256": "56a5f8d4b49a5e118de6722e10705f1cb75060750d1c7454ad757ee36f3263f4"
+    }
+  ],
+  "checks": {
+    "variants": 20,
+    "photos": 20,
+    "drawings": 2,
+    "tableRows": 20
+  }
+}

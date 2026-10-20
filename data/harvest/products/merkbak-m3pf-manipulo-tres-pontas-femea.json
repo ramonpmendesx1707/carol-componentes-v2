@@ -1,0 +1,203 @@
+{
+  "id": 201030,
+  "slug": "merkbak-m3pf-manipulo-tres-pontas-femea",
+  "name": "M3PF – Manípulo Três Pontas Fêmea",
+  "sku": "M3PF",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/manipulo-tres-pontas-femea/",
+  "type": "product",
+  "summary": "Máquinas e equipamentos em geral que necessitem regulagem manual e/ou fixação de partes móveis",
+  "description": "<p>Máquinas e equipamentos em geral que necessitem regulagem manual e/ou fixação de partes móveis</p><p><strong>Material:</strong> Polipropileno + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Média resistência / Tamanho 6034 com tampa preta e demais com tampa cinza</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Manípulos",
+      "slug": "manipulos"
+    }
+  ],
+  "image": "/images/products/merkbak/m3pf-manipulo-tres-pontas-femea/1.png",
+  "images": [
+    "/images/products/merkbak/m3pf-manipulo-tres-pontas-femea/1.png",
+    "/images/products/merkbak/m3pf-manipulo-tres-pontas-femea/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Polipropileno + inserto rosca latão"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial texturizado na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Máquinas e equipamentos em geral que necessitem regulagem manual e/ou fixação de partes móveis"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Média resistência / Tamanho 6034 com tampa preta e demais com tampa cinza"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220163,
+      "sku": "M3PF 6034 5/16",
+      "label": "M3PF 6034 5/16",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "M3PF 6034 5/16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220164,
+      "sku": "M3PF 6034 M8",
+      "label": "M3PF 6034 M8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "M3PF 6034 M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220165,
+      "sku": "M3PF 6034 3/8",
+      "label": "M3PF 6034 3/8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "M3PF 6034 3/8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220166,
+      "sku": "M3PF 8040 M10",
+      "label": "M3PF 8040 M10",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "M3PF 8040 M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220167,
+      "sku": "M3PF 8040 M12",
+      "label": "M3PF 8040 M12",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "M3PF 8040 M12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220168,
+      "sku": "M3PF 8040 1/2",
+      "label": "M3PF 8040 1/2",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "M3PF 8040 1/2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220169,
+      "sku": "M3PF 10050 1/2",
+      "label": "M3PF 10050 1/2",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "M3PF 10050 1/2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Polipropileno + inserto rosca latão"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial texturizado na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Máquinas e equipamentos em geral que necessitem regulagem manual e/ou fixação de partes móveis"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Média resistência / Tamanho 6034 com tampa preta e demais com tampa cinza"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "M3PF 6034 5/16"
+        },
+        {
+          "name": "Medida",
+          "value": "M3PF 6034 M8"
+        },
+        {
+          "name": "Medida",
+          "value": "M3PF 6034 3/8"
+        },
+        {
+          "name": "Medida",
+          "value": "M3PF 8040 M10"
+        },
+        {
+          "name": "Medida",
+          "value": "M3PF 8040 M12"
+        },
+        {
+          "name": "Medida",
+          "value": "M3PF 8040 1/2"
+        },
+        {
+          "name": "Medida",
+          "value": "M3PF 10050 1/2"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

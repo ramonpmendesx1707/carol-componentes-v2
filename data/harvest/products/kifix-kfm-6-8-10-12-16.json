@@ -1,0 +1,230 @@
+{
+  "id": 202072,
+  "slug": "kifix-kfm-6-8-10-12-16",
+  "name": "KFM-6/8/10/12/16",
+  "sku": "KFM-6/8/10/12/16",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/manipulos/kfm-6-8-10-12-16/",
+  "type": "product",
+  "summary": "Linha Manípulos Kifix modelo KFM-6/8/10/12/16, com 5 referências dimensionais.",
+  "description": "<p>Linha Manípulos Kifix modelo KFM-6/8/10/12/16, com 5 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Manípulos",
+      "slug": "manipulos"
+    }
+  ],
+  "image": "/images/products/kifix/kfm-6-8-10-12-16/foto-1.png",
+  "images": [
+    "/images/products/kifix/kfm-6-8-10-12-16/foto-1.png",
+    "/images/products/kifix/kfm-6-8-10-12-16/foto-2.png",
+    "/images/products/kifix/kfm-6-8-10-12-16/foto-3.png",
+    "/images/products/kifix/kfm-6-8-10-12-16/foto-4.png",
+    "/images/products/kifix/kfm-6-8-10-12-16/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Manípulos"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230499,
+      "sku": "KFM-6",
+      "label": "KFM-6",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "B (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "C (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "M6X1,00"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230500,
+      "sku": "KFM-8",
+      "label": "KFM-8",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "B (in)",
+          "value": "20 (0,79)"
+        },
+        {
+          "name": "C (in)",
+          "value": "19,5 (0,77)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "M8X1,25"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230501,
+      "sku": "KFM-10",
+      "label": "KFM-10",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "48 (1,89)"
+        },
+        {
+          "name": "B (in)",
+          "value": "24 (0,94)"
+        },
+        {
+          "name": "C (in)",
+          "value": "22 (0,87)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "M10X1,50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230502,
+      "sku": "KFM-12",
+      "label": "KFM-12",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "67 (2,64)"
+        },
+        {
+          "name": "B (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "C (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "M12X1,75"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230503,
+      "sku": "KFM-16",
+      "label": "KFM-16",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "80 (3,15)"
+        },
+        {
+          "name": "B (in)",
+          "value": "45 (1,77)"
+        },
+        {
+          "name": "C (in)",
+          "value": "40 (1,57)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "M16x2,00"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "J1 (in)"
+      ],
+      "rows": [
+        [
+          "KFM-6",
+          "30 (1,18)",
+          "16 (0,63)",
+          "16 (0,63)",
+          "M6X1,00"
+        ],
+        [
+          "KFM-8",
+          "41 (1,61)",
+          "20 (0,79)",
+          "19,5 (0,77)",
+          "M8X1,25"
+        ],
+        [
+          "KFM-10",
+          "48 (1,89)",
+          "24 (0,94)",
+          "22 (0,87)",
+          "M10X1,50"
+        ],
+        [
+          "KFM-12",
+          "67 (2,64)",
+          "30 (1,18)",
+          "26 (1,02)",
+          "M12X1,75"
+        ],
+        [
+          "KFM-16",
+          "80 (3,15)",
+          "45 (1,77)",
+          "40 (1,57)",
+          "M16x2,00"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kfm-6-8-10-12-16/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

@@ -1,0 +1,449 @@
+{
+  "id": 202026,
+  "slug": "kifix-kf-035-34-035-60",
+  "name": "KF-035 34/035 60",
+  "sku": "KF-035 34/035 60",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-compressor/kf-035-34-035-60/",
+  "type": "product",
+  "summary": "Linha Grampo compressor Kifix modelo KF-035 34/035 60, com 4 referências dimensionais.",
+  "description": "<p>Linha Grampo compressor Kifix modelo KF-035 34/035 60, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo compressor",
+      "slug": "grampo-compressor"
+    }
+  ],
+  "image": "/images/products/kifix/kf-035-34-035-60/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-035-34-035-60/foto-1.png",
+    "/images/products/kifix/kf-035-34-035-60/foto-2.png",
+    "/images/products/kifix/kf-035-34-035-60/foto-3.png",
+    "/images/products/kifix/kf-035-34-035-60/foto-4.png",
+    "/images/products/kifix/kf-035-34-035-60/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo compressor"
+    }
+  ],
+  "weight": "0,910 (2,002)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230223,
+      "sku": "KF-035 34",
+      "label": "KF-035 34",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1000 (2200)"
+        },
+        {
+          "name": "A (in)",
+          "value": "71 (2,80)"
+        },
+        {
+          "name": "B (in)",
+          "value": "195 (7,68)"
+        },
+        {
+          "name": "C (in)",
+          "value": "36 (1,42)"
+        },
+        {
+          "name": "D (in)",
+          "value": "45 (1,77)"
+        },
+        {
+          "name": "E (in)",
+          "value": "12,7 (0,50)"
+        },
+        {
+          "name": "F (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "G (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "H (in)",
+          "value": "34 (1,34)"
+        },
+        {
+          "name": "I (in)",
+          "value": "87 (3,43)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "K (in)",
+          "value": "7,94 (0,31)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M10"
+        },
+        {
+          "name": "N (in)",
+          "value": "12,7 (0,50)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,910 (2,002)"
+        }
+      ],
+      "weight": "0,910 (2,002)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230224,
+      "sku": "KF-035 60",
+      "label": "KF-035 60",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1000 (2200)"
+        },
+        {
+          "name": "A (in)",
+          "value": "71 (2,80)"
+        },
+        {
+          "name": "B (in)",
+          "value": "221 (8,70)"
+        },
+        {
+          "name": "C (in)",
+          "value": "18 (0,71)"
+        },
+        {
+          "name": "D (in)",
+          "value": "45 (1,77)"
+        },
+        {
+          "name": "E (in)",
+          "value": "12,7 (0,50)"
+        },
+        {
+          "name": "F (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "G (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "H (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "I (in)",
+          "value": "113 (4,45)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "K (in)",
+          "value": "7,94 (0,31)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M10"
+        },
+        {
+          "name": "N (in)",
+          "value": "12,7 (0,50)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,890 (1,958)"
+        }
+      ],
+      "weight": "0,890 (1,958)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230225,
+      "sku": "KF-035 3660",
+      "label": "KF-035 3660",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1000 (2200)"
+        },
+        {
+          "name": "A (in)",
+          "value": "71 (2,80)"
+        },
+        {
+          "name": "B (in)",
+          "value": "221 (8,70)"
+        },
+        {
+          "name": "C (in)",
+          "value": "36 (1,42)"
+        },
+        {
+          "name": "D (in)",
+          "value": "45 (1,77)"
+        },
+        {
+          "name": "E (in)",
+          "value": "12,7 (0,50)"
+        },
+        {
+          "name": "F (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "G (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "H (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "I (in)",
+          "value": "113 (4,45)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "K (in)",
+          "value": "7,94 (0,31)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M10"
+        },
+        {
+          "name": "N (in)",
+          "value": "12,7 (0,50)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,955 (2,101)"
+        }
+      ],
+      "weight": "0,955 (2,101)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230226,
+      "sku": "KF-035 100",
+      "label": "KF-035 100",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "2000 (4400)"
+        },
+        {
+          "name": "A (in)",
+          "value": "101 (3,98)"
+        },
+        {
+          "name": "B (in)",
+          "value": "318 (12,52)"
+        },
+        {
+          "name": "C (in)",
+          "value": "70 (2,76)"
+        },
+        {
+          "name": "D (in)",
+          "value": "68 (2,68)"
+        },
+        {
+          "name": "E (in)",
+          "value": "15,9 (0,63)"
+        },
+        {
+          "name": "F (in)",
+          "value": "40 (1,57)"
+        },
+        {
+          "name": "G (in)",
+          "value": "88 (3,46)"
+        },
+        {
+          "name": "H (in)",
+          "value": "100 (3,94)"
+        },
+        {
+          "name": "I (in)",
+          "value": "164 (6,46)"
+        },
+        {
+          "name": "J (in)",
+          "value": "10,5 (0,41)"
+        },
+        {
+          "name": "K (in)",
+          "value": "12,7 (0,50)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M10"
+        },
+        {
+          "name": "N (in)",
+          "value": "15,9 (0,63)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "2,215 (4,873)"
+        }
+      ],
+      "weight": "2,215 (4,873)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "I (in)",
+        "J (in)",
+        "K (in)",
+        "M (in)",
+        "N (in)",
+        "PONTEIRA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-035 34",
+          "1000 (2200)",
+          "71 (2,80)",
+          "195 (7,68)",
+          "36 (1,42)",
+          "45 (1,77)",
+          "12,7 (0,50)",
+          "25,4 (1,00)",
+          "60 (2,36)",
+          "34 (1,34)",
+          "87 (3,43)",
+          "8,5 (0,33)",
+          "7,94 (0,31)",
+          "M10",
+          "12,7 (0,50)",
+          "M10",
+          "0,910 (2,002)"
+        ],
+        [
+          "KF-035 60",
+          "1000 (2200)",
+          "71 (2,80)",
+          "221 (8,70)",
+          "18 (0,71)",
+          "45 (1,77)",
+          "12,7 (0,50)",
+          "25,4 (1,00)",
+          "60 (2,36)",
+          "60 (2,36)",
+          "113 (4,45)",
+          "8,5 (0,33)",
+          "7,94 (0,31)",
+          "M10",
+          "12,7 (0,50)",
+          "M10",
+          "0,890 (1,958)"
+        ],
+        [
+          "KF-035 3660",
+          "1000 (2200)",
+          "71 (2,80)",
+          "221 (8,70)",
+          "36 (1,42)",
+          "45 (1,77)",
+          "12,7 (0,50)",
+          "25,4 (1,00)",
+          "60 (2,36)",
+          "60 (2,36)",
+          "113 (4,45)",
+          "8,5 (0,33)",
+          "7,94 (0,31)",
+          "M10",
+          "12,7 (0,50)",
+          "M10",
+          "0,955 (2,101)"
+        ],
+        [
+          "KF-035 100",
+          "2000 (4400)",
+          "101 (3,98)",
+          "318 (12,52)",
+          "70 (2,76)",
+          "68 (2,68)",
+          "15,9 (0,63)",
+          "40 (1,57)",
+          "88 (3,46)",
+          "100 (3,94)",
+          "164 (6,46)",
+          "10,5 (0,41)",
+          "12,7 (0,50)",
+          "M10",
+          "15,9 (0,63)",
+          "M10",
+          "2,215 (4,873)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-035-34-035-60/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

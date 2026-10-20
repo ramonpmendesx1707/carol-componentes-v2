@@ -1,0 +1,399 @@
+{
+  "id": 202087,
+  "slug": "kifix-ponteira-articulada",
+  "name": "PONTEIRA ARTICULADA",
+  "sku": "PONTEIRA ARTICULADA",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-articulada/",
+  "type": "product",
+  "summary": "Linha Ponteiras Kifix modelo PONTEIRA ARTICULADA, com 12 referências dimensionais.",
+  "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA ARTICULADA, com 12 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Ponteiras",
+      "slug": "ponteiras"
+    }
+  ],
+  "image": "/images/products/kifix/ponteira-articulada/foto-1.png",
+  "images": [
+    "/images/products/kifix/ponteira-articulada/foto-1.png",
+    "/images/products/kifix/ponteira-articulada/foto-2.png",
+    "/images/products/kifix/ponteira-articulada/foto-3.png",
+    "/images/products/kifix/ponteira-articulada/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Ponteiras"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230552,
+      "sku": "PA-M6",
+      "label": "PA-M6",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "B (in)",
+          "value": "67 (2,64)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230553,
+      "sku": "PA-M8",
+      "label": "PA-M8",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "B (in)",
+          "value": "80 (3,15)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230554,
+      "sku": "PA-M10",
+      "label": "PA-M10",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "B (in)",
+          "value": "80 (3,15)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230555,
+      "sku": "PA-M12",
+      "label": "PA-M12",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "B (in)",
+          "value": "95 (3,74)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230556,
+      "sku": "PA-M16",
+      "label": "PA-M16",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "B (in)",
+          "value": "118 (4,65)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230557,
+      "sku": "ARP-M6",
+      "label": "ARP-M6",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "B (in)",
+          "value": "67 (2,64)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230558,
+      "sku": "ARP-M8",
+      "label": "ARP-M8",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "B (in)",
+          "value": "80 (3,15)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230559,
+      "sku": "ARP-M10",
+      "label": "ARP-M10",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "B (in)",
+          "value": "80 (3,15)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230560,
+      "sku": "ARB-M6",
+      "label": "ARB-M6",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "B (in)",
+          "value": "67 (2,64)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230561,
+      "sku": "ARB-M8",
+      "label": "ARB-M8",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "B (in)",
+          "value": "80 (3,15)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230562,
+      "sku": "ARB-M10",
+      "label": "ARB-M10",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "B (in)",
+          "value": "80 (3,15)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230563,
+      "sku": "ARB-M16",
+      "label": "ARB-M16",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "B (in)",
+          "value": "118 (4,65)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "A (in)",
+        "B (in)",
+        "M (in)"
+      ],
+      "rows": [
+        [
+          "PA-M6",
+          "19 (0,75)",
+          "67 (2,64)",
+          "M6"
+        ],
+        [
+          "PA-M8",
+          "19 (0,75)",
+          "80 (3,15)",
+          "M8"
+        ],
+        [
+          "PA-M10",
+          "19 (0,75)",
+          "80 (3,15)",
+          "M10"
+        ],
+        [
+          "PA-M12",
+          "32 (1,26)",
+          "95 (3,74)",
+          "M12"
+        ],
+        [
+          "PA-M16",
+          "32 (1,26)",
+          "118 (4,65)",
+          "M16"
+        ],
+        [
+          "ARP-M6",
+          "19 (0,75)",
+          "67 (2,64)",
+          "M6"
+        ],
+        [
+          "ARP-M8",
+          "19 (0,75)",
+          "80 (3,15)",
+          "M8"
+        ],
+        [
+          "ARP-M10",
+          "19 (0,75)",
+          "80 (3,15)",
+          "M10"
+        ],
+        [
+          "ARB-M6",
+          "19 (0,75)",
+          "67 (2,64)",
+          "M6"
+        ],
+        [
+          "ARB-M8",
+          "19 (0,75)",
+          "80 (3,15)",
+          "M8"
+        ],
+        [
+          "ARB-M10",
+          "19 (0,75)",
+          "80 (3,15)",
+          "M10"
+        ],
+        [
+          "ARB-M16",
+          "32 (1,26)",
+          "118 (4,65)",
+          "M16"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/ponteira-articulada/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

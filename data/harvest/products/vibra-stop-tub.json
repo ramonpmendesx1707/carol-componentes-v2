@@ -1,5 +1,5 @@
 {
-  "id": 200032,
+  "id": 200058,
   "slug": "vibra-stop-tub",
   "name": "Vibra-Stop Tub",
   "sku": "Tub",
@@ -32,7 +32,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240123,
+      "id": 210369,
       "sku": "TUB1",
       "label": "TUB1",
       "attributes": [
@@ -66,7 +66,7 @@
       "image": null
     },
     {
-      "id": 240124,
+      "id": 210370,
       "sku": "TUB2",
       "label": "TUB2",
       "attributes": [
@@ -100,7 +100,7 @@
       "image": null
     },
     {
-      "id": 240125,
+      "id": 210371,
       "sku": "TUB3",
       "label": "TUB3",
       "attributes": [
@@ -134,7 +134,7 @@
       "image": null
     },
     {
-      "id": 240126,
+      "id": 210372,
       "sku": "TUB4",
       "label": "TUB4",
       "attributes": [
@@ -168,7 +168,7 @@
       "image": null
     },
     {
-      "id": 240127,
+      "id": 210373,
       "sku": "TUB5",
       "label": "TUB5",
       "attributes": [
@@ -202,7 +202,7 @@
       "image": null
     },
     {
-      "id": 240128,
+      "id": 210374,
       "sku": "TUB6",
       "label": "TUB6",
       "attributes": [
@@ -236,7 +236,7 @@
       "image": null
     },
     {
-      "id": 240129,
+      "id": 210375,
       "sku": "TUB7",
       "label": "TUB7",
       "attributes": [
@@ -270,7 +270,7 @@
       "image": null
     },
     {
-      "id": 240130,
+      "id": 210376,
       "sku": "TUB8",
       "label": "TUB8",
       "attributes": [
@@ -304,7 +304,7 @@
       "image": null
     },
     {
-      "id": 240131,
+      "id": 210377,
       "sku": "TUB9",
       "label": "TUB9",
       "attributes": [
@@ -338,7 +338,7 @@
       "image": null
     },
     {
-      "id": 240132,
+      "id": 210378,
       "sku": "TUB10",
       "label": "TUB10",
       "attributes": [
@@ -378,6 +378,12 @@
       "url": "/downloads/products/vibra-stop/tub/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Tub.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [

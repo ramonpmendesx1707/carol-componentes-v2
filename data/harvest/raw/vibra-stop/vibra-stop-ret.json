@@ -81,5 +81,62 @@
   ],
   "headings": [
     "Vibra-Stop Ret"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-videos",
+      "label": "Vídeo",
+      "text": "play_arrow\nvolume_up\n0:00 / 0:54\nfullscreen",
+      "images": [],
+      "videos": [
+        "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-ret.mp4"
+      ],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/RET/RET%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/RET/RET%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade à Compressão\tCapacidade à Tração\tDeflexão\tParafuso\tAltura\tCapacidade ao Cisalhamento\tDistância entre Furos\tDiâmetro da Furação\tLargura\nMedidas\tKgf\tKgf\tmm/Kgf\t(d)\t(H) mm\tKgf\t(t) mm\t(f) mm\t(b) mm\nRET1\t30 a 200\t10 a 40\t7,34/200\t3/8” x 40 mm\t40\t10 a 40\t72\t8\t50\nRET2\t200 a 500\t40 a 100\t17,83/500\t3/8” x 50 mm\t56\t40 a 100\t100\t10\t70\nRET3\t500 a 1000\t100 a 200\t25,74/1000\t3/8” x 65 mm\t72\t100 a 200\t130\t10\t86",
+      "images": [],
+      "videos": [],
+      "tables": [
+        5
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/RET/Manual%20de%20Instalacao%20-%20RET.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:58:06.374Z"
 }

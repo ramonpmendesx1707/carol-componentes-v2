@@ -1,0 +1,113 @@
+{
+  "id": 201011,
+  "slug": "merkbak-ce-cabo-estriado",
+  "name": "CE – Cabo Estriado",
+  "sku": "CE",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-estriado/",
+  "type": "product",
+  "summary": "Ideal para uso em ambientes com temperatura elevada, equipamentos gastronômicos, médico/hospitalares, etc",
+  "description": "<p>Ideal para uso em ambientes com temperatura elevada, equipamentos gastronômicos, médico/hospitalares, etc</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Ótima empunhadura / Isolante térmico / Furo liso 1/2</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Baquelite",
+      "slug": "baquelite"
+    }
+  ],
+  "image": "/images/products/merkbak/ce-cabo-estriado/1.png",
+  "images": [
+    "/images/products/merkbak/ce-cabo-estriado/1.png",
+    "/images/products/merkbak/ce-cabo-estriado/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Baquelite"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Ideal para uso em ambientes com temperatura elevada, equipamentos gastronômicos, médico/hospitalares, etc"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Ótima empunhadura / Isolante térmico / Furo liso 1/2"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220046,
+      "sku": "CE 90 1/2",
+      "label": "CE 90 1/2",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CE 90 1/2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220047,
+      "sku": "CE 100 1/2",
+      "label": "CE 100 1/2",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CE 100 1/2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Baquelite"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Ideal para uso em ambientes com temperatura elevada, equipamentos gastronômicos, médico/hospitalares, etc"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Ótima empunhadura / Isolante térmico / Furo liso 1/2"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "CE 90 1/2"
+        },
+        {
+          "name": "Medida",
+          "value": "CE 100 1/2"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

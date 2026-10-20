@@ -1,0 +1,589 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kfc/",
+  "fetchedAt": "2026-10-20T12:55:01.340Z",
+  "product": {
+    "id": 202068,
+    "slug": "kifix-kfc",
+    "name": "KFC",
+    "sku": "KFC",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kfc/",
+    "type": "product",
+    "summary": "Linha LANÇAMENTOS Kifix modelo KFC, com 5 referências dimensionais.",
+    "description": "<p>Linha LANÇAMENTOS Kifix modelo KFC, com 5 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "LANÇAMENTOS",
+        "slug": "lancamentos"
+      }
+    ],
+    "image": "/images/products/kifix/kfc/foto-1.png",
+    "images": [
+      "/images/products/kifix/kfc/foto-1.png",
+      "/images/products/kifix/kfc/foto-2.png",
+      "/images/products/kifix/kfc/foto-3.png",
+      "/images/products/kifix/kfc/foto-4.png",
+      "/images/products/kifix/kfc/foto-5.png",
+      "/images/products/kifix/kfc/desenho-1.jpg",
+      "/images/products/kifix/kfc/desenho-2.jpg",
+      "/images/products/kifix/kfc/desenho-3.jpg",
+      "/images/products/kifix/kfc/desenho-4.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "LANÇAMENTOS"
+      }
+    ],
+    "weight": "0,04 (0,088)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230483,
+        "sku": "KFC1",
+        "label": "KFC1",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "15 (0,591)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "18 (0,709)"
+          },
+          {
+            "name": "A (in)",
+            "value": "15,5 (0,610)"
+          },
+          {
+            "name": "B (in)",
+            "value": "87 (3,425)"
+          },
+          {
+            "name": "C (in)",
+            "value": "8 (0,315)"
+          },
+          {
+            "name": "D (in)",
+            "value": "22 (0,866)"
+          },
+          {
+            "name": "E (in)",
+            "value": "29,5 (1,161)"
+          },
+          {
+            "name": "F (in)",
+            "value": "20,5 (0,807)"
+          },
+          {
+            "name": "G (in)",
+            "value": "40,5 (1,59)"
+          },
+          {
+            "name": "H (in)",
+            "value": "22 (0,87)"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "J2 (in)",
+            "value": "3,5 (0,138)"
+          },
+          {
+            "name": "J3 (in)",
+            "value": "5 (0,197)"
+          },
+          {
+            "name": "N (in)",
+            "value": "2,5 (0,098)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,04 (0,088)"
+          }
+        ],
+        "weight": "0,04 (0,088)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230484,
+        "sku": "KFC6",
+        "label": "KFC6",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "15 (0,591)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "18 (0,709)"
+          },
+          {
+            "name": "A (in)",
+            "value": "34 (1,339)"
+          },
+          {
+            "name": "B (in)",
+            "value": "291 (11,457)"
+          },
+          {
+            "name": "C (in)",
+            "value": "25,4 (1,00)"
+          },
+          {
+            "name": "D (in)",
+            "value": "20 (0,787)"
+          },
+          {
+            "name": "E (in)",
+            "value": "-"
+          },
+          {
+            "name": "F (in)",
+            "value": "-"
+          },
+          {
+            "name": "G (in)",
+            "value": "32 (1,260)"
+          },
+          {
+            "name": "H (in)",
+            "value": "22 (0,87)"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "6,5"
+          },
+          {
+            "name": "J2 (in)",
+            "value": "-"
+          },
+          {
+            "name": "J3 (in)",
+            "value": "-"
+          },
+          {
+            "name": "N (in)",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,36 (0,794)"
+          }
+        ],
+        "weight": "0,36 (0,794)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230485,
+        "sku": "KFC2",
+        "label": "KFC2",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "20 (0,787)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "27 (1,063)"
+          },
+          {
+            "name": "A (in)",
+            "value": "21 (0,827)"
+          },
+          {
+            "name": "B (in)",
+            "value": "126 (4,961)"
+          },
+          {
+            "name": "C (in)",
+            "value": "8 (0,315)"
+          },
+          {
+            "name": "D (in)",
+            "value": "44 (1,732)"
+          },
+          {
+            "name": "E (in)",
+            "value": "29,5 (1,161)"
+          },
+          {
+            "name": "F (in)",
+            "value": "20,5 (0,807)"
+          },
+          {
+            "name": "G (in)",
+            "value": "40,5 (1,59)"
+          },
+          {
+            "name": "H (in)",
+            "value": "-"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "J2 (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "J3 (in)",
+            "value": "8,2 (0,323)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,197)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,07 (0,154)"
+          }
+        ],
+        "weight": "0,07 (0,154)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230486,
+        "sku": "KFC7",
+        "label": "KFC7",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "20 (0,787)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "14 (0,551)"
+          },
+          {
+            "name": "A (in)",
+            "value": "21 (0,827)"
+          },
+          {
+            "name": "B (in)",
+            "value": "105 (4,134)"
+          },
+          {
+            "name": "C (in)",
+            "value": "7 (0,276)"
+          },
+          {
+            "name": "D (in)",
+            "value": "39 (1,535)"
+          },
+          {
+            "name": "E (in)",
+            "value": "29,5 (1,161)"
+          },
+          {
+            "name": "F (in)",
+            "value": "20,5 (0,807)"
+          },
+          {
+            "name": "G (in)",
+            "value": "40,5 (1,59)"
+          },
+          {
+            "name": "H (in)",
+            "value": "-"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "J2 (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "J3 (in)",
+            "value": "8,2 (0,323)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,197)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,07 (0,154)"
+          }
+        ],
+        "weight": "0,07 (0,154)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230487,
+        "sku": "KFC3",
+        "label": "KFC3",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "50 (110,25)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "A (in)",
+            "value": "23 (0,91)"
+          },
+          {
+            "name": "B (in)",
+            "value": "128 (5,04)"
+          },
+          {
+            "name": "C (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "D (in)",
+            "value": "25,5 (1,00)"
+          },
+          {
+            "name": "E (in)",
+            "value": "28,5 (1,12)"
+          },
+          {
+            "name": "F (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "G (in)",
+            "value": "40,5 (1,59)"
+          },
+          {
+            "name": "H (in)",
+            "value": "22 (0,87)"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "4,4 (0,17)"
+          },
+          {
+            "name": "J2 (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "J3 (in)",
+            "value": "-"
+          },
+          {
+            "name": "N (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,130 (0,286)"
+          }
+        ],
+        "weight": "0,130 (0,286)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "CURSO (in)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "J1 (in)",
+          "J2 (in)",
+          "J3 (in)",
+          "N (in)",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KFC1",
+            "15 (0,591)",
+            "18 (0,709)",
+            "15,5 (0,610)",
+            "87 (3,425)",
+            "8 (0,315)",
+            "22 (0,866)",
+            "29,5 (1,161)",
+            "20,5 (0,807)",
+            "40,5 (1,59)",
+            "22 (0,87)",
+            "5,5 (0,22)",
+            "3,5 (0,138)",
+            "5 (0,197)",
+            "2,5 (0,098)",
+            "0,04 (0,088)"
+          ],
+          [
+            "KFC6",
+            "15 (0,591)",
+            "18 (0,709)",
+            "34 (1,339)",
+            "291 (11,457)",
+            "25,4 (1,00)",
+            "20 (0,787)",
+            "-",
+            "-",
+            "32 (1,260)",
+            "22 (0,87)",
+            "6,5",
+            "-",
+            "-",
+            "M10",
+            "0,36 (0,794)"
+          ],
+          [
+            "KFC2",
+            "20 (0,787)",
+            "27 (1,063)",
+            "21 (0,827)",
+            "126 (4,961)",
+            "8 (0,315)",
+            "44 (1,732)",
+            "29,5 (1,161)",
+            "20,5 (0,807)",
+            "40,5 (1,59)",
+            "-",
+            "5,5 (0,22)",
+            "5,5 (0,22)",
+            "8,2 (0,323)",
+            "5 (0,197)",
+            "0,07 (0,154)"
+          ],
+          [
+            "KFC7",
+            "20 (0,787)",
+            "14 (0,551)",
+            "21 (0,827)",
+            "105 (4,134)",
+            "7 (0,276)",
+            "39 (1,535)",
+            "29,5 (1,161)",
+            "20,5 (0,807)",
+            "40,5 (1,59)",
+            "-",
+            "5,5 (0,22)",
+            "5,5 (0,22)",
+            "8,2 (0,323)",
+            "5 (0,197)",
+            "0,07 (0,154)"
+          ],
+          [
+            "KFC3",
+            "50 (110,25)",
+            "24 (0,94)",
+            "23 (0,91)",
+            "128 (5,04)",
+            "5 (0,20)",
+            "25,5 (1,00)",
+            "28,5 (1,12)",
+            "19 (0,75)",
+            "40,5 (1,59)",
+            "22 (0,87)",
+            "4,4 (0,17)",
+            "5,5 (0,22)",
+            "-",
+            "8 (0,31)",
+            "0,130 (0,286)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kfc/desenho-1.jpg",
+          "/images/products/kifix/kfc/desenho-2.jpg",
+          "/images/products/kifix/kfc/desenho-3.jpg",
+          "/images/products/kifix/kfc/desenho-4.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kfc/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/994_KFC1.png",
+      "bytes": 1346802,
+      "sha256": "cbdaf00315779c887b86f1312e4fbb1bb49f50416d86c49bf5d61b17c48c4b0e"
+    },
+    {
+      "path": "/images/products/kifix/kfc/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/996_KFC6.png",
+      "bytes": 621146,
+      "sha256": "3e17f812765def7e8a48c0d8fb9f762c630e7ececc5943fdf850446f6575e012"
+    },
+    {
+      "path": "/images/products/kifix/kfc/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/995_KFC2.png",
+      "bytes": 1015592,
+      "sha256": "e6dfe39af32383940f8b743bbbf0e821ba16b75296cf52e6a45ccd2f0986fbe2"
+    },
+    {
+      "path": "/images/products/kifix/kfc/foto-4.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/997_KFC7.png",
+      "bytes": 1201954,
+      "sha256": "0346a6ea4ac0419c83f9a0dc57205d3f733636b08e89749268dcb4e35aee5718"
+    },
+    {
+      "path": "/images/products/kifix/kfc/foto-5.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/998_KFC3.png",
+      "bytes": 1114707,
+      "sha256": "d3622a52c66919f6bfff02ba627734a7ab30c045bbb20c738c59b2e7dedbc986"
+    },
+    {
+      "path": "/images/products/kifix/kfc/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/473_KFC101.jpg",
+      "bytes": 91049,
+      "sha256": "a0bc30d76eae23b360189627f1e9ba52e13b40ec9a8dc7ed10979ed49d7f857e"
+    },
+    {
+      "path": "/images/products/kifix/kfc/desenho-2.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/475_KFC601.jpg",
+      "bytes": 146777,
+      "sha256": "40c819514743d68714e943c36a23512c712504f731e5af9428b75f11169f4111"
+    },
+    {
+      "path": "/images/products/kifix/kfc/desenho-3.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/474_KFC2_INOXpdf_101.jpg",
+      "bytes": 91626,
+      "sha256": "624440a460c77d26421cdc83e55fdcdf21b21850c66d4d54d39f7fdac4a3054f"
+    },
+    {
+      "path": "/images/products/kifix/kfc/desenho-4.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/476_KFC7_INOX01.jpg",
+      "bytes": 183392,
+      "sha256": "1714df8c4573a4e5c03e6380d612da75fc4e6afd32b2a846672294059d64f7ca"
+    }
+  ],
+  "checks": {
+    "variants": 5,
+    "photos": 5,
+    "drawings": 4,
+    "tableRows": 5
+  }
+}

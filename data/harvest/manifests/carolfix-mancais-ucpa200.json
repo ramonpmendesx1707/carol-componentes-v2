@@ -1,0 +1,2652 @@
+{
+  "source": "PDF pág. 10",
+  "product": {
+    "id": 203006,
+    "slug": "carolfix-mancais-ucpa200",
+    "name": "Mancais Pedestal Roscado UCPA 200",
+    "sku": "UCPA 200",
+    "brand": "HCH",
+    "supplier": "HCH",
+    "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=10",
+    "type": "product",
+    "summary": "Mancais de ferro fundido tipo pedestal com base roscada série UCPA 200 para eixos de 12 a 50 mm.",
+    "description": "<p>Conjunto mancal e rolamento auto-compensador série UCPA 200 com fixação inferior roscada para montagens compactas.</p>",
+    "categories": [
+      {
+        "id": 210,
+        "name": "Rolamentos e mancais",
+        "slug": "rolamentos-e-mancais"
+      }
+    ],
+    "image": "/images/products/carolfix/mancais-ucpa200/pagina-10.png",
+    "images": [
+      "/images/products/carolfix/mancais-ucpa200/pagina-10.png"
+    ],
+    "attributes": [
+      {
+        "name": "Norma / Padrão",
+        "value": "UCPA 200"
+      },
+      {
+        "name": "Fonte documental",
+        "value": "Catálogo Técnico Carolfix, Página 10"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240455,
+        "sku": "Rolamento",
+        "label": "Rolamento",
+        "attributes": [
+          {
+            "name": "",
+            "value": "Mancal"
+          },
+          {
+            "name": "Eixo D",
+            "value": "(mm)"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "H"
+          },
+          {
+            "name": "",
+            "value": "L"
+          },
+          {
+            "name": "",
+            "value": "L1"
+          },
+          {
+            "name": "",
+            "value": "A"
+          },
+          {
+            "name": "",
+            "value": "M"
+          },
+          {
+            "name": "",
+            "value": "l"
+          },
+          {
+            "name": "",
+            "value": "t"
+          },
+          {
+            "name": "",
+            "value": "H1"
+          },
+          {
+            "name": "",
+            "value": "B"
+          },
+          {
+            "name": "",
+            "value": "S"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "dinâmica"
+          },
+          {
+            "name": "",
+            "value": "estática"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240456,
+        "sku": "UC 202",
+        "label": "UC 202",
+        "attributes": [
+          {
+            "name": "",
+            "value": "PA 202"
+          },
+          {
+            "name": "Eixo D",
+            "value": "15"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "30,2"
+          },
+          {
+            "name": "",
+            "value": "76"
+          },
+          {
+            "name": "",
+            "value": "52"
+          },
+          {
+            "name": "",
+            "value": "38"
+          },
+          {
+            "name": "",
+            "value": "M10x1,5"
+          },
+          {
+            "name": "",
+            "value": "15"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "62"
+          },
+          {
+            "name": "",
+            "value": "31"
+          },
+          {
+            "name": "",
+            "value": "12,7"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "12800"
+          },
+          {
+            "name": "",
+            "value": "6650"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240457,
+        "sku": "UC 203",
+        "label": "UC 203",
+        "attributes": [
+          {
+            "name": "",
+            "value": "PA 203"
+          },
+          {
+            "name": "Eixo D",
+            "value": "17"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "30,2"
+          },
+          {
+            "name": "",
+            "value": "76"
+          },
+          {
+            "name": "",
+            "value": "52"
+          },
+          {
+            "name": "",
+            "value": "38"
+          },
+          {
+            "name": "",
+            "value": "M10x1,5"
+          },
+          {
+            "name": "",
+            "value": "15"
+          },
+          {
+            "name": "",
+            "value": "11"
+          },
+          {
+            "name": "",
+            "value": "62"
+          },
+          {
+            "name": "",
+            "value": "31"
+          },
+          {
+            "name": "",
+            "value": "12,7"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "12800"
+          },
+          {
+            "name": "",
+            "value": "6650"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240458,
+        "sku": "UC 204",
+        "label": "UC 204",
+        "attributes": [
+          {
+            "name": "",
+            "value": "PA 204"
+          },
+          {
+            "name": "Eixo D",
+            "value": "20"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "30,2"
+          },
+          {
+            "name": "",
+            "value": "76"
+          },
+          {
+            "name": "",
+            "value": "52"
+          },
+          {
+            "name": "",
+            "value": "38"
+          },
+          {
+            "name": "",
+            "value": "M10x1,5"
+          },
+          {
+            "name": "",
+            "value": "15"
+          },
+          {
+            "name": "",
+            "value": "12"
+          },
+          {
+            "name": "",
+            "value": "62"
+          },
+          {
+            "name": "",
+            "value": "31"
+          },
+          {
+            "name": "",
+            "value": "12,7"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "12800"
+          },
+          {
+            "name": "",
+            "value": "6650"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240459,
+        "sku": "UC 205",
+        "label": "UC 205",
+        "attributes": [
+          {
+            "name": "",
+            "value": "PA 205"
+          },
+          {
+            "name": "Eixo D",
+            "value": "25"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "36,5"
+          },
+          {
+            "name": "",
+            "value": "84"
+          },
+          {
+            "name": "",
+            "value": "56"
+          },
+          {
+            "name": "",
+            "value": "38"
+          },
+          {
+            "name": "",
+            "value": "M10x1,5"
+          },
+          {
+            "name": "",
+            "value": "15"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "72"
+          },
+          {
+            "name": "",
+            "value": "34"
+          },
+          {
+            "name": "",
+            "value": "14,3"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "14000"
+          },
+          {
+            "name": "",
+            "value": "7880"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240460,
+        "sku": "UC 206",
+        "label": "UC 206",
+        "attributes": [
+          {
+            "name": "",
+            "value": "PA 206"
+          },
+          {
+            "name": "Eixo D",
+            "value": "30"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "42,9"
+          },
+          {
+            "name": "",
+            "value": "94"
+          },
+          {
+            "name": "",
+            "value": "66"
+          },
+          {
+            "name": "",
+            "value": "48"
+          },
+          {
+            "name": "",
+            "value": "M14x2,0"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "13"
+          },
+          {
+            "name": "",
+            "value": "84"
+          },
+          {
+            "name": "",
+            "value": "38,1"
+          },
+          {
+            "name": "",
+            "value": "15,9"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "19500"
+          },
+          {
+            "name": "",
+            "value": "11200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240461,
+        "sku": "UC 207",
+        "label": "UC 207",
+        "attributes": [
+          {
+            "name": "",
+            "value": "PA 207"
+          },
+          {
+            "name": "Eixo D",
+            "value": "35"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "47,6"
+          },
+          {
+            "name": "",
+            "value": "110"
+          },
+          {
+            "name": "",
+            "value": "80"
+          },
+          {
+            "name": "",
+            "value": "48"
+          },
+          {
+            "name": "",
+            "value": "M14x2,0"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "13"
+          },
+          {
+            "name": "",
+            "value": "95"
+          },
+          {
+            "name": "",
+            "value": "42,9"
+          },
+          {
+            "name": "",
+            "value": "17,5"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "25700"
+          },
+          {
+            "name": "",
+            "value": "15200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240462,
+        "sku": "UC 208",
+        "label": "UC 208",
+        "attributes": [
+          {
+            "name": "",
+            "value": "PA 208"
+          },
+          {
+            "name": "Eixo D",
+            "value": "40"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "49,2"
+          },
+          {
+            "name": "",
+            "value": "116"
+          },
+          {
+            "name": "",
+            "value": "84"
+          },
+          {
+            "name": "",
+            "value": "54"
+          },
+          {
+            "name": "",
+            "value": "M14x2,0"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "13"
+          },
+          {
+            "name": "",
+            "value": "100"
+          },
+          {
+            "name": "",
+            "value": "49,2"
+          },
+          {
+            "name": "",
+            "value": "19"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "29600"
+          },
+          {
+            "name": "",
+            "value": "18200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240463,
+        "sku": "UC 209",
+        "label": "UC 209",
+        "attributes": [
+          {
+            "name": "",
+            "value": "PA 209"
+          },
+          {
+            "name": "Eixo D",
+            "value": "45"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "54,2"
+          },
+          {
+            "name": "",
+            "value": "120"
+          },
+          {
+            "name": "",
+            "value": "90"
+          },
+          {
+            "name": "",
+            "value": "54"
+          },
+          {
+            "name": "",
+            "value": "M14x2,0"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "108"
+          },
+          {
+            "name": "",
+            "value": "49,2"
+          },
+          {
+            "name": "",
+            "value": "19"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "31850"
+          },
+          {
+            "name": "",
+            "value": "20800"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240464,
+        "sku": "UC 210",
+        "label": "UC 210",
+        "attributes": [
+          {
+            "name": "",
+            "value": "PA 210"
+          },
+          {
+            "name": "Eixo D",
+            "value": "50"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "57,2"
+          },
+          {
+            "name": "",
+            "value": "130"
+          },
+          {
+            "name": "",
+            "value": "94"
+          },
+          {
+            "name": "",
+            "value": "60"
+          },
+          {
+            "name": "",
+            "value": "M16x2,0"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "15"
+          },
+          {
+            "name": "",
+            "value": "116"
+          },
+          {
+            "name": "",
+            "value": "51,6"
+          },
+          {
+            "name": "",
+            "value": "19"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "35100"
+          },
+          {
+            "name": "",
+            "value": "23200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240465,
+        "sku": "UC 211",
+        "label": "UC 211",
+        "attributes": [
+          {
+            "name": "",
+            "value": "PA 211"
+          },
+          {
+            "name": "Eixo D",
+            "value": "55"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "63,5"
+          },
+          {
+            "name": "",
+            "value": "140"
+          },
+          {
+            "name": "",
+            "value": "104"
+          },
+          {
+            "name": "",
+            "value": "66"
+          },
+          {
+            "name": "",
+            "value": "M16x2,0"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "15"
+          },
+          {
+            "name": "",
+            "value": "125"
+          },
+          {
+            "name": "",
+            "value": "55,6"
+          },
+          {
+            "name": "",
+            "value": "22,2"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "43550"
+          },
+          {
+            "name": "",
+            "value": "29200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240466,
+        "sku": "UC 212",
+        "label": "UC 212",
+        "attributes": [
+          {
+            "name": "",
+            "value": "PA 212"
+          },
+          {
+            "name": "Eixo D",
+            "value": "60"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "69,9"
+          },
+          {
+            "name": "",
+            "value": "151"
+          },
+          {
+            "name": "",
+            "value": "114"
+          },
+          {
+            "name": "",
+            "value": "68"
+          },
+          {
+            "name": "",
+            "value": "M16x2,0"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "138"
+          },
+          {
+            "name": "",
+            "value": "65,1"
+          },
+          {
+            "name": "",
+            "value": "25,4"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "47800"
+          },
+          {
+            "name": "",
+            "value": "32800"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240467,
+        "sku": "UC 213",
+        "label": "UC 213",
+        "attributes": [
+          {
+            "name": "",
+            "value": "PA 213"
+          },
+          {
+            "name": "Eixo D",
+            "value": "65"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "76,2"
+          },
+          {
+            "name": "",
+            "value": "160"
+          },
+          {
+            "name": "",
+            "value": "124"
+          },
+          {
+            "name": "",
+            "value": "70"
+          },
+          {
+            "name": "",
+            "value": "M16x2,0"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "16"
+          },
+          {
+            "name": "",
+            "value": "150"
+          },
+          {
+            "name": "",
+            "value": "65,1"
+          },
+          {
+            "name": "",
+            "value": "25,4"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "57200"
+          },
+          {
+            "name": "",
+            "value": "40000"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240468,
+        "sku": "Rolamento",
+        "label": "Rolamento",
+        "attributes": [
+          {
+            "name": "",
+            "value": "Mancal"
+          },
+          {
+            "name": "Eixo D",
+            "value": "(mm)"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "H"
+          },
+          {
+            "name": "",
+            "value": "L"
+          },
+          {
+            "name": "",
+            "value": "L1"
+          },
+          {
+            "name": "",
+            "value": "A"
+          },
+          {
+            "name": "",
+            "value": "d1"
+          },
+          {
+            "name": "",
+            "value": "d"
+          },
+          {
+            "name": "",
+            "value": "t"
+          },
+          {
+            "name": "",
+            "value": "H1"
+          },
+          {
+            "name": "",
+            "value": "B"
+          },
+          {
+            "name": "",
+            "value": "S"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "dinâmica"
+          },
+          {
+            "name": "",
+            "value": "estática"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240469,
+        "sku": "UC 202",
+        "label": "UC 202",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 202"
+          },
+          {
+            "name": "Eixo D",
+            "value": "15"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "30,2"
+          },
+          {
+            "name": "",
+            "value": "127"
+          },
+          {
+            "name": "",
+            "value": "95"
+          },
+          {
+            "name": "",
+            "value": "38"
+          },
+          {
+            "name": "",
+            "value": "19"
+          },
+          {
+            "name": "",
+            "value": "13"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "62"
+          },
+          {
+            "name": "",
+            "value": "31"
+          },
+          {
+            "name": "",
+            "value": "12,7"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "12800"
+          },
+          {
+            "name": "",
+            "value": "6650"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240470,
+        "sku": "UC 203",
+        "label": "UC 203",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 203"
+          },
+          {
+            "name": "Eixo D",
+            "value": "17"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "30,2"
+          },
+          {
+            "name": "",
+            "value": "127"
+          },
+          {
+            "name": "",
+            "value": "95"
+          },
+          {
+            "name": "",
+            "value": "38"
+          },
+          {
+            "name": "",
+            "value": "19"
+          },
+          {
+            "name": "",
+            "value": "13"
+          },
+          {
+            "name": "",
+            "value": "14"
+          },
+          {
+            "name": "",
+            "value": "62"
+          },
+          {
+            "name": "",
+            "value": "31"
+          },
+          {
+            "name": "",
+            "value": "12,7"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "12800"
+          },
+          {
+            "name": "",
+            "value": "6650"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240471,
+        "sku": "UC 204",
+        "label": "UC 204",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 204"
+          },
+          {
+            "name": "Eixo D",
+            "value": "20"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "33,3"
+          },
+          {
+            "name": "",
+            "value": "127"
+          },
+          {
+            "name": "",
+            "value": "95"
+          },
+          {
+            "name": "",
+            "value": "38"
+          },
+          {
+            "name": "",
+            "value": "19"
+          },
+          {
+            "name": "",
+            "value": "13"
+          },
+          {
+            "name": "",
+            "value": "15"
+          },
+          {
+            "name": "",
+            "value": "64"
+          },
+          {
+            "name": "",
+            "value": "31"
+          },
+          {
+            "name": "",
+            "value": "12,7"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "12800"
+          },
+          {
+            "name": "",
+            "value": "6650"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240472,
+        "sku": "UC 205",
+        "label": "UC 205",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 205"
+          },
+          {
+            "name": "Eixo D",
+            "value": "25"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "36,5"
+          },
+          {
+            "name": "",
+            "value": "140"
+          },
+          {
+            "name": "",
+            "value": "105"
+          },
+          {
+            "name": "",
+            "value": "38"
+          },
+          {
+            "name": "",
+            "value": "19"
+          },
+          {
+            "name": "",
+            "value": "13"
+          },
+          {
+            "name": "",
+            "value": "15"
+          },
+          {
+            "name": "",
+            "value": "70"
+          },
+          {
+            "name": "",
+            "value": "34,1"
+          },
+          {
+            "name": "",
+            "value": "14,3"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "14000"
+          },
+          {
+            "name": "",
+            "value": "7880"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240473,
+        "sku": "UC 206",
+        "label": "UC 206",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 206"
+          },
+          {
+            "name": "Eixo D",
+            "value": "30"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "42,9"
+          },
+          {
+            "name": "",
+            "value": "165"
+          },
+          {
+            "name": "",
+            "value": "121"
+          },
+          {
+            "name": "",
+            "value": "48"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "17"
+          },
+          {
+            "name": "",
+            "value": "17"
+          },
+          {
+            "name": "",
+            "value": "80"
+          },
+          {
+            "name": "",
+            "value": "38,1"
+          },
+          {
+            "name": "",
+            "value": "15,9"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "19500"
+          },
+          {
+            "name": "",
+            "value": "11200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240474,
+        "sku": "UC 207",
+        "label": "UC 207",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 207"
+          },
+          {
+            "name": "Eixo D",
+            "value": "35"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "47,6"
+          },
+          {
+            "name": "",
+            "value": "167"
+          },
+          {
+            "name": "",
+            "value": "127"
+          },
+          {
+            "name": "",
+            "value": "48"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "17"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "93"
+          },
+          {
+            "name": "",
+            "value": "42,9"
+          },
+          {
+            "name": "",
+            "value": "17,5"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "25700"
+          },
+          {
+            "name": "",
+            "value": "15200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240475,
+        "sku": "UC 208",
+        "label": "UC 208",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 208"
+          },
+          {
+            "name": "Eixo D",
+            "value": "40"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "49,2"
+          },
+          {
+            "name": "",
+            "value": "184"
+          },
+          {
+            "name": "",
+            "value": "137"
+          },
+          {
+            "name": "",
+            "value": "54"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "17"
+          },
+          {
+            "name": "",
+            "value": "18"
+          },
+          {
+            "name": "",
+            "value": "99"
+          },
+          {
+            "name": "",
+            "value": "42,9"
+          },
+          {
+            "name": "",
+            "value": "19"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "29600"
+          },
+          {
+            "name": "",
+            "value": "18200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240476,
+        "sku": "UC 209",
+        "label": "UC 209",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 209"
+          },
+          {
+            "name": "Eixo D",
+            "value": "45"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "54,2"
+          },
+          {
+            "name": "",
+            "value": "190"
+          },
+          {
+            "name": "",
+            "value": "146"
+          },
+          {
+            "name": "",
+            "value": "54"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "17"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "107"
+          },
+          {
+            "name": "",
+            "value": "42,9"
+          },
+          {
+            "name": "",
+            "value": "19"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "31850"
+          },
+          {
+            "name": "",
+            "value": "20800"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240477,
+        "sku": "UC 210",
+        "label": "UC 210",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 210"
+          },
+          {
+            "name": "Eixo D",
+            "value": "50"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "57,2"
+          },
+          {
+            "name": "",
+            "value": "206"
+          },
+          {
+            "name": "",
+            "value": "159"
+          },
+          {
+            "name": "",
+            "value": "60"
+          },
+          {
+            "name": "",
+            "value": "23"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "21"
+          },
+          {
+            "name": "",
+            "value": "115"
+          },
+          {
+            "name": "",
+            "value": "51,6"
+          },
+          {
+            "name": "",
+            "value": "19"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "35100"
+          },
+          {
+            "name": "",
+            "value": "23200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240478,
+        "sku": "UC 211",
+        "label": "UC 211",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 211"
+          },
+          {
+            "name": "Eixo D",
+            "value": "55"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "63,5"
+          },
+          {
+            "name": "",
+            "value": "219"
+          },
+          {
+            "name": "",
+            "value": "171"
+          },
+          {
+            "name": "",
+            "value": "60"
+          },
+          {
+            "name": "",
+            "value": "23"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "23"
+          },
+          {
+            "name": "",
+            "value": "126"
+          },
+          {
+            "name": "",
+            "value": "55,6"
+          },
+          {
+            "name": "",
+            "value": "22,2"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "43550"
+          },
+          {
+            "name": "",
+            "value": "29200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240479,
+        "sku": "UC 212",
+        "label": "UC 212",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 212"
+          },
+          {
+            "name": "Eixo D",
+            "value": "60"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "69,8"
+          },
+          {
+            "name": "",
+            "value": "241"
+          },
+          {
+            "name": "",
+            "value": "184"
+          },
+          {
+            "name": "",
+            "value": "70"
+          },
+          {
+            "name": "",
+            "value": "23"
+          },
+          {
+            "name": "",
+            "value": "20"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "138"
+          },
+          {
+            "name": "",
+            "value": "65,1"
+          },
+          {
+            "name": "",
+            "value": "25,4"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "47800"
+          },
+          {
+            "name": "",
+            "value": "32800"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240480,
+        "sku": "UC 213",
+        "label": "UC 213",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 213"
+          },
+          {
+            "name": "Eixo D",
+            "value": "65"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "76,2"
+          },
+          {
+            "name": "",
+            "value": "265"
+          },
+          {
+            "name": "",
+            "value": "203"
+          },
+          {
+            "name": "",
+            "value": "70"
+          },
+          {
+            "name": "",
+            "value": "28"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "27"
+          },
+          {
+            "name": "",
+            "value": "150"
+          },
+          {
+            "name": "",
+            "value": "65,1"
+          },
+          {
+            "name": "",
+            "value": "25,4"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "57200"
+          },
+          {
+            "name": "",
+            "value": "40000"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240481,
+        "sku": "UC 214",
+        "label": "UC 214",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 214"
+          },
+          {
+            "name": "Eixo D",
+            "value": "70"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "79,4"
+          },
+          {
+            "name": "",
+            "value": "266"
+          },
+          {
+            "name": "",
+            "value": "210"
+          },
+          {
+            "name": "",
+            "value": "72"
+          },
+          {
+            "name": "",
+            "value": "28"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "27"
+          },
+          {
+            "name": "",
+            "value": "156"
+          },
+          {
+            "name": "",
+            "value": "74,6"
+          },
+          {
+            "name": "",
+            "value": "30,2"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "60800"
+          },
+          {
+            "name": "",
+            "value": "45000"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240482,
+        "sku": "UC 215",
+        "label": "UC 215",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 215"
+          },
+          {
+            "name": "Eixo D",
+            "value": "75"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "82,6"
+          },
+          {
+            "name": "",
+            "value": "275"
+          },
+          {
+            "name": "",
+            "value": "217"
+          },
+          {
+            "name": "",
+            "value": "74"
+          },
+          {
+            "name": "",
+            "value": "28"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "28"
+          },
+          {
+            "name": "",
+            "value": "163"
+          },
+          {
+            "name": "",
+            "value": "77,8"
+          },
+          {
+            "name": "",
+            "value": "33,3"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "66000"
+          },
+          {
+            "name": "",
+            "value": "49500"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240483,
+        "sku": "UC 216",
+        "label": "UC 216",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 216"
+          },
+          {
+            "name": "Eixo D",
+            "value": "80"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "88,9"
+          },
+          {
+            "name": "",
+            "value": "292"
+          },
+          {
+            "name": "",
+            "value": "232"
+          },
+          {
+            "name": "",
+            "value": "78"
+          },
+          {
+            "name": "",
+            "value": "28"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "30"
+          },
+          {
+            "name": "",
+            "value": "175"
+          },
+          {
+            "name": "",
+            "value": "82,6"
+          },
+          {
+            "name": "",
+            "value": "33,3"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "71500"
+          },
+          {
+            "name": "",
+            "value": "54200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240484,
+        "sku": "UC 217",
+        "label": "UC 217",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 217"
+          },
+          {
+            "name": "Eixo D",
+            "value": "85"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "95,2"
+          },
+          {
+            "name": "",
+            "value": "310"
+          },
+          {
+            "name": "",
+            "value": "247"
+          },
+          {
+            "name": "",
+            "value": "83"
+          },
+          {
+            "name": "",
+            "value": "28"
+          },
+          {
+            "name": "",
+            "value": "25"
+          },
+          {
+            "name": "",
+            "value": "32"
+          },
+          {
+            "name": "",
+            "value": "187"
+          },
+          {
+            "name": "",
+            "value": "85,7"
+          },
+          {
+            "name": "",
+            "value": "34,1"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "83200"
+          },
+          {
+            "name": "",
+            "value": "63800"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240485,
+        "sku": "UC 218",
+        "label": "UC 218",
+        "attributes": [
+          {
+            "name": "",
+            "value": "P 218"
+          },
+          {
+            "name": "Eixo D",
+            "value": "90"
+          },
+          {
+            "name": "Dimensões (mm)",
+            "value": "101,6"
+          },
+          {
+            "name": "",
+            "value": "327"
+          },
+          {
+            "name": "",
+            "value": "262"
+          },
+          {
+            "name": "",
+            "value": "88"
+          },
+          {
+            "name": "",
+            "value": "30"
+          },
+          {
+            "name": "",
+            "value": "27"
+          },
+          {
+            "name": "",
+            "value": "33"
+          },
+          {
+            "name": "",
+            "value": "200"
+          },
+          {
+            "name": "",
+            "value": "96"
+          },
+          {
+            "name": "",
+            "value": "39,7"
+          },
+          {
+            "name": "Capacidade de carga (N)",
+            "value": "95900"
+          },
+          {
+            "name": "",
+            "value": "71500"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Catálogo Técnico Carolfix (Página 10)",
+        "url": "/downloads/catalogo-carol-componentes.pdf#page=10",
+        "kind": "pdf",
+        "note": "Referência técnica oficial extraída do catálogo histórico de 60 páginas."
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela Técnica Dimensional — Página 10",
+        "columns": [
+          "Código",
+          "",
+          "Eixo D",
+          "Dimensões (mm)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Capacidade de carga (N)",
+          ""
+        ],
+        "rows": [
+          [
+            "Rolamento",
+            "Mancal",
+            "(mm)",
+            "H",
+            "L",
+            "L1",
+            "A",
+            "M",
+            "l",
+            "t",
+            "H1",
+            "B",
+            "S",
+            "dinâmica",
+            "estática"
+          ],
+          [
+            "UC 202",
+            "PA 202",
+            "15",
+            "30,2",
+            "76",
+            "52",
+            "38",
+            "M10x1,5",
+            "15",
+            "11",
+            "62",
+            "31",
+            "12,7",
+            "12800",
+            "6650"
+          ],
+          [
+            "UC 203",
+            "PA 203",
+            "17",
+            "30,2",
+            "76",
+            "52",
+            "38",
+            "M10x1,5",
+            "15",
+            "11",
+            "62",
+            "31",
+            "12,7",
+            "12800",
+            "6650"
+          ],
+          [
+            "UC 204",
+            "PA 204",
+            "20",
+            "30,2",
+            "76",
+            "52",
+            "38",
+            "M10x1,5",
+            "15",
+            "12",
+            "62",
+            "31",
+            "12,7",
+            "12800",
+            "6650"
+          ],
+          [
+            "UC 205",
+            "PA 205",
+            "25",
+            "36,5",
+            "84",
+            "56",
+            "38",
+            "M10x1,5",
+            "15",
+            "14",
+            "72",
+            "34",
+            "14,3",
+            "14000",
+            "7880"
+          ],
+          [
+            "UC 206",
+            "PA 206",
+            "30",
+            "42,9",
+            "94",
+            "66",
+            "48",
+            "M14x2,0",
+            "18",
+            "13",
+            "84",
+            "38,1",
+            "15,9",
+            "19500",
+            "11200"
+          ],
+          [
+            "UC 207",
+            "PA 207",
+            "35",
+            "47,6",
+            "110",
+            "80",
+            "48",
+            "M14x2,0",
+            "20",
+            "13",
+            "95",
+            "42,9",
+            "17,5",
+            "25700",
+            "15200"
+          ],
+          [
+            "UC 208",
+            "PA 208",
+            "40",
+            "49,2",
+            "116",
+            "84",
+            "54",
+            "M14x2,0",
+            "20",
+            "13",
+            "100",
+            "49,2",
+            "19",
+            "29600",
+            "18200"
+          ],
+          [
+            "UC 209",
+            "PA 209",
+            "45",
+            "54,2",
+            "120",
+            "90",
+            "54",
+            "M14x2,0",
+            "25",
+            "14",
+            "108",
+            "49,2",
+            "19",
+            "31850",
+            "20800"
+          ],
+          [
+            "UC 210",
+            "PA 210",
+            "50",
+            "57,2",
+            "130",
+            "94",
+            "60",
+            "M16x2,0",
+            "25",
+            "15",
+            "116",
+            "51,6",
+            "19",
+            "35100",
+            "23200"
+          ],
+          [
+            "UC 211",
+            "PA 211",
+            "55",
+            "63,5",
+            "140",
+            "104",
+            "66",
+            "M16x2,0",
+            "25",
+            "15",
+            "125",
+            "55,6",
+            "22,2",
+            "43550",
+            "29200"
+          ],
+          [
+            "UC 212",
+            "PA 212",
+            "60",
+            "69,9",
+            "151",
+            "114",
+            "68",
+            "M16x2,0",
+            "25",
+            "16",
+            "138",
+            "65,1",
+            "25,4",
+            "47800",
+            "32800"
+          ],
+          [
+            "UC 213",
+            "PA 213",
+            "65",
+            "76,2",
+            "160",
+            "124",
+            "70",
+            "M16x2,0",
+            "25",
+            "16",
+            "150",
+            "65,1",
+            "25,4",
+            "57200",
+            "40000"
+          ],
+          [
+            "Rolamento",
+            "Mancal",
+            "(mm)",
+            "H",
+            "L",
+            "L1",
+            "A",
+            "d1",
+            "d",
+            "t",
+            "H1",
+            "B",
+            "S",
+            "dinâmica",
+            "estática"
+          ],
+          [
+            "UC 202",
+            "P 202",
+            "15",
+            "30,2",
+            "127",
+            "95",
+            "38",
+            "19",
+            "13",
+            "14",
+            "62",
+            "31",
+            "12,7",
+            "12800",
+            "6650"
+          ],
+          [
+            "UC 203",
+            "P 203",
+            "17",
+            "30,2",
+            "127",
+            "95",
+            "38",
+            "19",
+            "13",
+            "14",
+            "62",
+            "31",
+            "12,7",
+            "12800",
+            "6650"
+          ],
+          [
+            "UC 204",
+            "P 204",
+            "20",
+            "33,3",
+            "127",
+            "95",
+            "38",
+            "19",
+            "13",
+            "15",
+            "64",
+            "31",
+            "12,7",
+            "12800",
+            "6650"
+          ],
+          [
+            "UC 205",
+            "P 205",
+            "25",
+            "36,5",
+            "140",
+            "105",
+            "38",
+            "19",
+            "13",
+            "15",
+            "70",
+            "34,1",
+            "14,3",
+            "14000",
+            "7880"
+          ],
+          [
+            "UC 206",
+            "P 206",
+            "30",
+            "42,9",
+            "165",
+            "121",
+            "48",
+            "20",
+            "17",
+            "17",
+            "80",
+            "38,1",
+            "15,9",
+            "19500",
+            "11200"
+          ],
+          [
+            "UC 207",
+            "P 207",
+            "35",
+            "47,6",
+            "167",
+            "127",
+            "48",
+            "20",
+            "17",
+            "18",
+            "93",
+            "42,9",
+            "17,5",
+            "25700",
+            "15200"
+          ],
+          [
+            "UC 208",
+            "P 208",
+            "40",
+            "49,2",
+            "184",
+            "137",
+            "54",
+            "20",
+            "17",
+            "18",
+            "99",
+            "42,9",
+            "19",
+            "29600",
+            "18200"
+          ],
+          [
+            "UC 209",
+            "P 209",
+            "45",
+            "54,2",
+            "190",
+            "146",
+            "54",
+            "20",
+            "17",
+            "20",
+            "107",
+            "42,9",
+            "19",
+            "31850",
+            "20800"
+          ],
+          [
+            "UC 210",
+            "P 210",
+            "50",
+            "57,2",
+            "206",
+            "159",
+            "60",
+            "23",
+            "20",
+            "21",
+            "115",
+            "51,6",
+            "19",
+            "35100",
+            "23200"
+          ],
+          [
+            "UC 211",
+            "P 211",
+            "55",
+            "63,5",
+            "219",
+            "171",
+            "60",
+            "23",
+            "20",
+            "23",
+            "126",
+            "55,6",
+            "22,2",
+            "43550",
+            "29200"
+          ],
+          [
+            "UC 212",
+            "P 212",
+            "60",
+            "69,8",
+            "241",
+            "184",
+            "70",
+            "23",
+            "20",
+            "25",
+            "138",
+            "65,1",
+            "25,4",
+            "47800",
+            "32800"
+          ],
+          [
+            "UC 213",
+            "P 213",
+            "65",
+            "76,2",
+            "265",
+            "203",
+            "70",
+            "28",
+            "25",
+            "27",
+            "150",
+            "65,1",
+            "25,4",
+            "57200",
+            "40000"
+          ],
+          [
+            "UC 214",
+            "P 214",
+            "70",
+            "79,4",
+            "266",
+            "210",
+            "72",
+            "28",
+            "25",
+            "27",
+            "156",
+            "74,6",
+            "30,2",
+            "60800",
+            "45000"
+          ],
+          [
+            "UC 215",
+            "P 215",
+            "75",
+            "82,6",
+            "275",
+            "217",
+            "74",
+            "28",
+            "25",
+            "28",
+            "163",
+            "77,8",
+            "33,3",
+            "66000",
+            "49500"
+          ],
+          [
+            "UC 216",
+            "P 216",
+            "80",
+            "88,9",
+            "292",
+            "232",
+            "78",
+            "28",
+            "25",
+            "30",
+            "175",
+            "82,6",
+            "33,3",
+            "71500",
+            "54200"
+          ],
+          [
+            "UC 217",
+            "P 217",
+            "85",
+            "95,2",
+            "310",
+            "247",
+            "83",
+            "28",
+            "25",
+            "32",
+            "187",
+            "85,7",
+            "34,1",
+            "83200",
+            "63800"
+          ],
+          [
+            "UC 218",
+            "P 218",
+            "90",
+            "101,6",
+            "327",
+            "262",
+            "88",
+            "30",
+            "27",
+            "33",
+            "200",
+            "96",
+            "39,7",
+            "95900",
+            "71500"
+          ]
+        ],
+        "note": "Dados extraídos diretamente da página 10 do catálogo técnico Carolfix."
+      }
+    ],
+    "homepage": false
+  },
+  "checks": {
+    "variants": 31,
+    "pdfPage": 10
+  }
+}

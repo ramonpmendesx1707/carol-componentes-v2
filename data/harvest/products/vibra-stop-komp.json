@@ -1,5 +1,5 @@
 {
-  "id": 200036,
+  "id": 200032,
   "slug": "vibra-stop-komp",
   "name": "Vibra-Stop Mola Komp",
   "sku": "Komp",
@@ -36,7 +36,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240150,
+      "id": 210187,
       "sku": "MK30",
       "label": "MK30",
       "attributes": [
@@ -74,7 +74,7 @@
       "image": null
     },
     {
-      "id": 240151,
+      "id": 210188,
       "sku": "MK50",
       "label": "MK50",
       "attributes": [
@@ -112,7 +112,7 @@
       "image": null
     },
     {
-      "id": 240152,
+      "id": 210189,
       "sku": "MK100",
       "label": "MK100",
       "attributes": [
@@ -150,7 +150,7 @@
       "image": null
     },
     {
-      "id": 240153,
+      "id": 210190,
       "sku": "MK200",
       "label": "MK200",
       "attributes": [
@@ -188,7 +188,7 @@
       "image": null
     },
     {
-      "id": 240154,
+      "id": 210191,
       "sku": "MK300",
       "label": "MK300",
       "attributes": [
@@ -226,7 +226,7 @@
       "image": null
     },
     {
-      "id": 240155,
+      "id": 210192,
       "sku": "MK400",
       "label": "MK400",
       "attributes": [
@@ -264,7 +264,7 @@
       "image": null
     },
     {
-      "id": 240156,
+      "id": 210193,
       "sku": "MK500",
       "label": "MK500",
       "attributes": [
@@ -302,7 +302,7 @@
       "image": null
     },
     {
-      "id": 240157,
+      "id": 210194,
       "sku": "MK700",
       "label": "MK700",
       "attributes": [
@@ -340,7 +340,7 @@
       "image": null
     },
     {
-      "id": 240158,
+      "id": 210195,
       "sku": "MK1000",
       "label": "MK1000",
       "attributes": [
@@ -378,7 +378,7 @@
       "image": null
     },
     {
-      "id": 240159,
+      "id": 210196,
       "sku": "MK1500",
       "label": "MK1500",
       "attributes": [
@@ -422,6 +422,12 @@
       "url": "/downloads/products/vibra-stop/komp/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Komp.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [],

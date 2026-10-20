@@ -1,5 +1,5 @@
 {
-  "id": 200043,
+  "id": 200044,
   "slug": "vibra-stop-quadrupla",
   "name": "Vibra-Stop Mola Quádrupla",
   "sku": "Mola Quádrupla",
@@ -36,7 +36,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240212,
+      "id": 210273,
       "sku": "MQ400",
       "label": "MQ400",
       "attributes": [
@@ -78,7 +78,7 @@
       "image": null
     },
     {
-      "id": 240213,
+      "id": 210274,
       "sku": "MQ800",
       "label": "MQ800",
       "attributes": [
@@ -120,7 +120,7 @@
       "image": null
     },
     {
-      "id": 240214,
+      "id": 210275,
       "sku": "MQ1200",
       "label": "MQ1200",
       "attributes": [
@@ -162,7 +162,7 @@
       "image": null
     },
     {
-      "id": 240215,
+      "id": 210276,
       "sku": "MQ1600",
       "label": "MQ1600",
       "attributes": [
@@ -204,7 +204,7 @@
       "image": null
     },
     {
-      "id": 240216,
+      "id": 210277,
       "sku": "MQ2000",
       "label": "MQ2000",
       "attributes": [
@@ -246,7 +246,7 @@
       "image": null
     },
     {
-      "id": 240217,
+      "id": 210278,
       "sku": "MQ2800",
       "label": "MQ2800",
       "attributes": [
@@ -288,7 +288,7 @@
       "image": null
     },
     {
-      "id": 240218,
+      "id": 210279,
       "sku": "MQ4000",
       "label": "MQ4000",
       "attributes": [
@@ -330,7 +330,7 @@
       "image": null
     },
     {
-      "id": 240219,
+      "id": 210280,
       "sku": "MQ6000",
       "label": "MQ6000",
       "attributes": [
@@ -372,7 +372,7 @@
       "image": null
     },
     {
-      "id": 240220,
+      "id": 210281,
       "sku": "MQ8000",
       "label": "MQ8000",
       "attributes": [
@@ -414,7 +414,7 @@
       "image": null
     },
     {
-      "id": 240221,
+      "id": 210282,
       "sku": "MQ10000",
       "label": "MQ10000",
       "attributes": [
@@ -462,6 +462,12 @@
       "url": "/downloads/products/vibra-stop/quadrupla/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Quadrupla.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [],

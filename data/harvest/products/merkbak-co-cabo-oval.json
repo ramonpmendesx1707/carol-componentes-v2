@@ -1,0 +1,131 @@
+{
+  "id": 201017,
+  "slug": "merkbak-co-cabo-oval",
+  "name": "CO – Cabo Oval",
+  "sku": "CO",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-oval-de-baquelite/",
+  "type": "product",
+  "summary": "Indicado para pontas de haste, alavancas e uso em máquinas em geral",
+  "description": "<p>Indicado para pontas de haste, alavancas e uso em máquinas em geral</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Rosca direto no baquelite / Isolante térmico</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Baquelite",
+      "slug": "baquelite"
+    }
+  ],
+  "image": "/images/products/merkbak/co-cabo-oval/1.png",
+  "images": [
+    "/images/products/merkbak/co-cabo-oval/1.png",
+    "/images/products/merkbak/co-cabo-oval/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Baquelite"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Indicado para pontas de haste, alavancas e uso em máquinas em geral"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Higienização eficiente / Rosca direto no baquelite / Isolante térmico"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220066,
+      "sku": "CO 2643 1/4",
+      "label": "CO 2643 1/4",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CO 2643 1/4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220067,
+      "sku": "CO 2643 M8",
+      "label": "CO 2643 M8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CO 2643 M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220068,
+      "sku": "CO 2643 3/8",
+      "label": "CO 2643 3/8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CO 2643 3/8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Baquelite"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Indicado para pontas de haste, alavancas e uso em máquinas em geral"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Higienização eficiente / Rosca direto no baquelite / Isolante térmico"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "CO 2643 1/4"
+        },
+        {
+          "name": "Medida",
+          "value": "CO 2643 M8"
+        },
+        {
+          "name": "Medida",
+          "value": "CO 2643 3/8"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

@@ -1,0 +1,496 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/manipulo-termoplastico-macho/",
+  "fetchedAt": "2026-10-20T12:49:16.597Z",
+  "product": {
+    "id": 201037,
+    "slug": "merkbak-mtm-manipulo-termoplastico-macho",
+    "name": "MTM – Manípulo Termoplástico Macho",
+    "sku": "MTM",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/manipulo-termoplastico-macho/",
+    "type": "product",
+    "summary": "Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais.",
+    "description": "<p>Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais.</p><p><strong>Material:</strong> Polipropileno + rosca aço carbono zincado</p><p><strong>Informações adicionais:</strong> Média resistência / Em casos de comprimento de rosca específico, consultar fábrica</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Manípulos",
+        "slug": "manipulos"
+      }
+    ],
+    "image": "/images/products/merkbak/mtm-manipulo-termoplastico-macho/1.png",
+    "images": [
+      "/images/products/merkbak/mtm-manipulo-termoplastico-macho/1.png",
+      "/images/products/merkbak/mtm-manipulo-termoplastico-macho/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Polipropileno + rosca aço carbono zincado"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais."
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Média resistência / Em casos de comprimento de rosca específico, consultar fábrica"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220223,
+        "sku": "MTM 3522 M6X25",
+        "label": "MTM 3522 M6X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 3522 M6X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220224,
+        "sku": "MTM 3522 M6X48",
+        "label": "MTM 3522 M6X48",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 3522 M6X48"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220225,
+        "sku": "MTM 3522 1/4X25",
+        "label": "MTM 3522 1/4X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 3522 1/4X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220226,
+        "sku": "MTM 3522 1/4X50",
+        "label": "MTM 3522 1/4X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 3522 1/4X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220227,
+        "sku": "MTM 3522 5/16X25",
+        "label": "MTM 3522 5/16X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 3522 5/16X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220228,
+        "sku": "MTM 3522 5/16X50",
+        "label": "MTM 3522 5/16X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 3522 5/16X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220229,
+        "sku": "MTM 3522 M8X25",
+        "label": "MTM 3522 M8X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 3522 M8X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220230,
+        "sku": "MTM 3522 M8X50",
+        "label": "MTM 3522 M8X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 3522 M8X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220231,
+        "sku": "MTM 4526 1/4X50",
+        "label": "MTM 4526 1/4X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 4526 1/4X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220232,
+        "sku": "MTM 4526 5/16X25",
+        "label": "MTM 4526 5/16X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 4526 5/16X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220233,
+        "sku": "MTM 4526 M8X25",
+        "label": "MTM 4526 M8X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 4526 M8X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220234,
+        "sku": "MTM 4526 M8X47",
+        "label": "MTM 4526 M8X47",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 4526 M8X47"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220235,
+        "sku": "MTM 4526 3/8X25",
+        "label": "MTM 4526 3/8X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 4526 3/8X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220236,
+        "sku": "MTM 4526 3/8X50",
+        "label": "MTM 4526 3/8X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 4526 3/8X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220237,
+        "sku": "MTM 4526 M10X50",
+        "label": "MTM 4526 M10X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 4526 M10X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220238,
+        "sku": "MTM 6040 3/8X25",
+        "label": "MTM 6040 3/8X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 6040 3/8X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220239,
+        "sku": "MTM 6040 3/8X50",
+        "label": "MTM 6040 3/8X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 6040 3/8X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220240,
+        "sku": "MTM 6040 M10X25",
+        "label": "MTM 6040 M10X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 6040 M10X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220241,
+        "sku": "MTM 6040 M10X50",
+        "label": "MTM 6040 M10X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 6040 M10X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220242,
+        "sku": "MTM 6040 1/2X25",
+        "label": "MTM 6040 1/2X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 6040 1/2X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220243,
+        "sku": "MTM 6040 1/2X50",
+        "label": "MTM 6040 1/2X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 6040 1/2X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220244,
+        "sku": "MTM 7035 3/8X50",
+        "label": "MTM 7035 3/8X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTM 7035 3/8X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Polipropileno + rosca aço carbono zincado"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais."
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Média resistência / Em casos de comprimento de rosca específico, consultar fábrica"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "MTM 3522 M6X25"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 3522 M6X48"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 3522 1/4X25"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 3522 1/4X50"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 3522 5/16X25"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 3522 5/16X50"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 3522 M8X25"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 3522 M8X50"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 4526 1/4X50"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 4526 5/16X25"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 4526 M8X25"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 4526 M8X47"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 4526 3/8X25"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 4526 3/8X50"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 4526 M10X50"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 6040 3/8X25"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 6040 3/8X50"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 6040 M10X25"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 6040 M10X50"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 6040 1/2X25"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 6040 1/2X50"
+          },
+          {
+            "name": "Medida",
+            "value": "MTM 7035 3/8X50"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/mtm-manipulo-termoplastico-macho/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/037-mtm-copiar-e1779461185108.png",
+      "bytes": 30940,
+      "sha256": "31db8d9aaf17ba9d8d182fcb0be20021663bcbb26caf231c2d66830220d58d2d"
+    },
+    {
+      "path": "/images/products/merkbak/mtm-manipulo-termoplastico-macho/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/MTM_tab.png",
+      "bytes": 138500,
+      "sha256": "5dc06c353cb2b347a50121fbb1397c14d2c14476750e713ed0eac3c97d509632"
+    }
+  ],
+  "checks": {
+    "variants": 22,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

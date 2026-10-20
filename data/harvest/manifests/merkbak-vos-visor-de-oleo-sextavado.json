@@ -1,0 +1,172 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/visor-de-oleo-sextavado/",
+  "fetchedAt": "2026-10-20T12:50:37.134Z",
+  "product": {
+    "id": 201048,
+    "slug": "merkbak-vos-visor-de-oleo-sextavado",
+    "name": "VOS – Visor de Óleo Sextavado",
+    "sku": "VOS",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/visor-de-oleo-sextavado/",
+    "type": "product",
+    "summary": "Máquinas e equipamentos em geral para a verificação visual do nível de óleo.",
+    "description": "<p>Máquinas e equipamentos em geral para a verificação visual do nível de óleo.</p><p><strong>Material:</strong> Acrílico + Oring</p><p><strong>Informações adicionais:</strong> Resistência ao calor = 100°C. Boa resistência ao impacto, óleos e envelhecimento.</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Visores de Óleo",
+        "slug": "visores-de-oleo"
+      }
+    ],
+    "image": "/images/products/merkbak/vos-visor-de-oleo-sextavado/1.png",
+    "images": [
+      "/images/products/merkbak/vos-visor-de-oleo-sextavado/1.png",
+      "/images/products/merkbak/vos-visor-de-oleo-sextavado/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Acrílico + Oring"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial polido transparente"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Máquinas e equipamentos em geral para a verificação visual do nível de óleo."
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Resistência ao calor = 100°C. Boa resistência ao impacto, óleos e envelhecimento."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220296,
+        "sku": "VOS 3023 1/2 14 FIOS",
+        "label": "VOS 3023 1/2 14 FIOS",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "VOS 3023 1/2 14 FIOS"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220297,
+        "sku": "VOS 3525 3/4 14 FIOS",
+        "label": "VOS 3525 3/4 14 FIOS",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "VOS 3525 3/4 14 FIOS"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220298,
+        "sku": "VOS 3930 1\" 11 FIOS",
+        "label": "VOS 3930 1\" 11 FIOS",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "VOS 3930 1\" 11 FIOS"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220299,
+        "sku": "VOS 4430 1\" 1/8 11 FIOS",
+        "label": "VOS 4430 1\" 1/8 11 FIOS",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "VOS 4430 1\" 1/8 11 FIOS"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Acrílico + Oring"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial polido transparente"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Máquinas e equipamentos em geral para a verificação visual do nível de óleo."
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Resistência ao calor = 100°C. Boa resistência ao impacto, óleos e envelhecimento."
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "VOS 3023 1/2 14 FIOS"
+          },
+          {
+            "name": "Medida",
+            "value": "VOS 3525 3/4 14 FIOS"
+          },
+          {
+            "name": "Medida",
+            "value": "VOS 3930 1\" 11 FIOS"
+          },
+          {
+            "name": "Medida",
+            "value": "VOS 4430 1\" 1/8 11 FIOS"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/vos-visor-de-oleo-sextavado/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/12/047-vos-copiar.png",
+      "bytes": 966608,
+      "sha256": "6c51047aa58d2cad0c61933de8b4c7f06d20ffc15acd3be579e298490abe71ee"
+    },
+    {
+      "path": "/images/products/merkbak/vos-visor-de-oleo-sextavado/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/12/VOS_tab.png",
+      "bytes": 67984,
+      "sha256": "1406d0bb7c564361aee526686b8e42a5da7b9b38c0e0db1bde7d0d9830a52d63"
+    }
+  ],
+  "checks": {
+    "variants": 4,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

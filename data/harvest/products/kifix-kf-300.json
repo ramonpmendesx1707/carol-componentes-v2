@@ -1,0 +1,173 @@
+{
+  "id": 202044,
+  "slug": "kifix-kf-300",
+  "name": "KF-300",
+  "sku": "KF-300",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-300/",
+  "type": "product",
+  "summary": "Linha Grampo tensor Kifix modelo KF-300, com 1 referências dimensionais.",
+  "description": "<p>Linha Grampo tensor Kifix modelo KF-300, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo tensor",
+      "slug": "grampo-tensor"
+    }
+  ],
+  "image": "/images/products/kifix/kf-300/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-300/foto-1.png",
+    "/images/products/kifix/kf-300/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo tensor"
+    }
+  ],
+  "weight": "0,78 (1,720)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230355,
+      "sku": "KF-300",
+      "label": "KF-300",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "2400 (5291,1)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "100 (3,93)"
+        },
+        {
+          "name": "A (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "B (in)",
+          "value": "319 (12,5)"
+        },
+        {
+          "name": "C (in)",
+          "value": "31 (1,22)"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "25 (0,98)"
+        },
+        {
+          "name": "D2 (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "E (in)",
+          "value": "-"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "F2 (in)",
+          "value": "86,3 (3,39)"
+        },
+        {
+          "name": "G (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "H (in)",
+          "value": "-"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,3 (0,32)"
+        },
+        {
+          "name": "N (in)",
+          "value": "10 (0,393)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "155 (6,10)"
+        },
+        {
+          "name": "ROSCA",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,78 (1,720)"
+        }
+      ],
+      "weight": "0,78 (1,720)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "CURSO (in)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D1 (in)",
+        "D2 (in)",
+        "E (in)",
+        "F1 (in)",
+        "F2 (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "N (in)",
+        "Q (in)",
+        "ROSCA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-300",
+          "2400 (5291,1)",
+          "100 (3,93)",
+          "42 (1,65)",
+          "319 (12,5)",
+          "31 (1,22)",
+          "25 (0,98)",
+          "60 (2,36)",
+          "-",
+          "57 (2,24)",
+          "86,3 (3,39)",
+          "30 (1,18)",
+          "-",
+          "8,3 (0,32)",
+          "10 (0,393)",
+          "155 (6,10)",
+          "M10",
+          "0,78 (1,720)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-300/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

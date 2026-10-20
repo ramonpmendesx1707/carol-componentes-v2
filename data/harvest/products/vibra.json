@@ -1,5 +1,5 @@
 {
-  "id": 200001,
+  "id": 200066,
   "slug": "vibra-stop-tradicional-com-chapa",
   "name": "Amortecedor Tradicional com Chapa",
   "sku": "Tradicional CC",
@@ -40,7 +40,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 210001,
+      "id": 210406,
       "sku": "Mac",
       "label": "Mac",
       "attributes": [
@@ -94,7 +94,7 @@
       "image": null
     },
     {
-      "id": 210002,
+      "id": 210407,
       "sku": "Mini",
       "label": "Mini",
       "attributes": [
@@ -148,7 +148,7 @@
       "image": null
     },
     {
-      "id": 210003,
+      "id": 210408,
       "sku": "Standard",
       "label": "Standard",
       "attributes": [
@@ -202,7 +202,7 @@
       "image": null
     },
     {
-      "id": 210004,
+      "id": 210409,
       "sku": "Intermediário",
       "label": "Intermediário",
       "attributes": [
@@ -256,7 +256,7 @@
       "image": null
     },
     {
-      "id": 210005,
+      "id": 210410,
       "sku": "Super",
       "label": "Super",
       "attributes": [
@@ -310,7 +310,7 @@
       "image": null
     },
     {
-      "id": 210006,
+      "id": 210411,
       "sku": "Mega",
       "label": "Mega",
       "attributes": [
@@ -376,6 +376,12 @@
       "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf#page=5",
       "kind": "pdf",
       "note": "Edição 2026 recebida do fornecedor; comparação integral das referências após a coleta completa."
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [

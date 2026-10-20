@@ -139,5 +139,51 @@
   "videos": [],
   "headings": [
     "Vibra-Stop Mola Plus Com Chapa"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20PLUS/COM%20CHAPA/MPCC%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20PLUS/COM%20CHAPA/MPCC%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade de Carga\tDeflexão\tParafuso\tAltura Total\tDiâmetro Externo Batente\tDiâmetro Externo Mola\tDiâmetro do Arame da Mola\nMedidas\tKgf\tmm/Kgf\t(d)\t(H) mm\t(D) mm\t(De) mm\t(a) mm\nMPCC30\t30\t19,25/30\t3/8”, 1/2\", 5/8”, 3/4\"\t157\t70\t53\t5,5\nMPCC50\t50\t37,72/50\t3/8”, 1/2\", 5/8”, 3/4\"\t157\t70\t55\t6\nMPCC100\t100\t37,89/100\t3/8”, 1/2\", 5/8”, 3/4\"\t157\t70\t57\t7\nMPCC200\t200\t32,25/200\t3/8”, 1/2\", 5/8”, 3/4\"\t157\t70\t61\t8,5\nMPCC300\t300\t38,50/300\t3/8”, 1/2\", 5/8”, 3/4\"\t157\t70\t62\t9,5\nMPCC400\t400\t37,81/400\t3/8”, 1/2\", 5/8”, 3/4\"\t157\t70\t63\t10\nMPCC500\t500\t26,12/500\t3/8”, 1/2\", 5/8”, 3/4\"\t157\t70\t65\t10,5\nMPCC700\t700\t37,60/700\t3/8”, 1/2\", 5/8”, 3/4\"\t157\t70\t67\t12\nMPCC1000\t1000\t26,25/1.000\t3/8”, 1/2\", 5/8”, 3/4\"\t157\t70\t70\t13,5\nMPCC1500\t1500\t35,75/1.500\t3/8”, 1/2\", 5/8”, 3/4\"\t157\t70\t71,4\t14,2",
+      "images": [],
+      "videos": [],
+      "tables": [
+        12
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20PLUS/COM%20CHAPA/Manual%20de%20Instalacao%20-%20MPCC.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:59:09.707Z"
 }

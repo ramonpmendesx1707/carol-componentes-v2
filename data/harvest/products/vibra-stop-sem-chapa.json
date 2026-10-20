@@ -1,5 +1,5 @@
 {
-  "id": 200006,
+  "id": 200046,
   "slug": "vibra-stop-sem-chapa",
   "name": "Vibra-Stop Tradicional Sem Chapa",
   "sku": "Sem Chapa",
@@ -36,7 +36,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240030,
+      "id": 210286,
       "sku": "Mac",
       "label": "Mac",
       "attributes": [
@@ -70,7 +70,7 @@
       "image": null
     },
     {
-      "id": 240031,
+      "id": 210287,
       "sku": "Mini",
       "label": "Mini",
       "attributes": [
@@ -104,7 +104,7 @@
       "image": null
     },
     {
-      "id": 240032,
+      "id": 210288,
       "sku": "Standard",
       "label": "Standard",
       "attributes": [
@@ -138,7 +138,7 @@
       "image": null
     },
     {
-      "id": 240033,
+      "id": 210289,
       "sku": "Intermediário",
       "label": "Intermediário",
       "attributes": [
@@ -172,7 +172,7 @@
       "image": null
     },
     {
-      "id": 240034,
+      "id": 210290,
       "sku": "Super",
       "label": "Super",
       "attributes": [
@@ -206,7 +206,7 @@
       "image": null
     },
     {
-      "id": 240035,
+      "id": 210291,
       "sku": "Mega",
       "label": "Mega",
       "attributes": [
@@ -246,6 +246,12 @@
       "url": "/downloads/products/vibra-stop/sem-chapa/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Tradicional%20Sem%20Chapa.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [

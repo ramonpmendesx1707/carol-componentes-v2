@@ -1,5 +1,5 @@
 {
-  "id": 200027,
+  "id": 200034,
   "slug": "vibra-stop-micro-femea",
   "name": "Vibra-Stop Micro Fêmea",
   "sku": "Micro Fêmea",
@@ -32,7 +32,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240103,
+      "id": 210202,
       "sku": "MIC I F",
       "label": "MIC I F",
       "attributes": [
@@ -74,7 +74,7 @@
       "image": null
     },
     {
-      "id": 240104,
+      "id": 210203,
       "sku": "MIC II F",
       "label": "MIC II F",
       "attributes": [
@@ -116,7 +116,7 @@
       "image": null
     },
     {
-      "id": 240105,
+      "id": 210204,
       "sku": "MIC III F",
       "label": "MIC III F",
       "attributes": [
@@ -158,7 +158,7 @@
       "image": null
     },
     {
-      "id": 240106,
+      "id": 210205,
       "sku": "MIC IV F",
       "label": "MIC IV F",
       "attributes": [
@@ -206,6 +206,12 @@
       "url": "/downloads/products/vibra-stop/micro-femea/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Micro%20Femea.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [

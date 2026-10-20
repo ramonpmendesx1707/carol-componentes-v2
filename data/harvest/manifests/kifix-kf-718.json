@@ -1,0 +1,367 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-718/",
+  "fetchedAt": "2026-10-20T12:57:43.447Z",
+  "product": {
+    "id": 202062,
+    "slug": "kifix-kf-718",
+    "name": "KF-718",
+    "sku": "KF-718",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-718/",
+    "type": "product",
+    "summary": "Linha Grampo vertical Kifix modelo KF-718, com 3 referências dimensionais.",
+    "description": "<p>Linha Grampo vertical Kifix modelo KF-718, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo vertical",
+        "slug": "grampo-vertical"
+      }
+    ],
+    "image": "/images/products/kifix/kf-718/foto-1.png",
+    "images": [
+      "/images/products/kifix/kf-718/foto-1.png",
+      "/images/products/kifix/kf-718/foto-2.png",
+      "/images/products/kifix/kf-718/foto-3.png",
+      "/images/products/kifix/kf-718/desenho-1.jpg",
+      "/images/products/kifix/kf-718/desenho-2.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo vertical"
+      }
+    ],
+    "weight": "0,500 (1,102)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230460,
+        "sku": "KF-718 DB",
+        "label": "KF-718 DB",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "170 (374)"
+          },
+          {
+            "name": "A (in)",
+            "value": "158,3 (6,23)"
+          },
+          {
+            "name": "B (in)",
+            "value": "171,5 (6,75)"
+          },
+          {
+            "name": "C (in)",
+            "value": "66 (2,60)"
+          },
+          {
+            "name": "D (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "E (in)",
+            "value": "25,4 (1,00)"
+          },
+          {
+            "name": "F (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "G (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "H (in)",
+            "value": "64 (2,52)"
+          },
+          {
+            "name": "I (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,276)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "185"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,500 (1,102)"
+          }
+        ],
+        "weight": "0,500 (1,102)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230461,
+        "sku": "KF-718 DS",
+        "label": "KF-718 DS",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "170 (374)"
+          },
+          {
+            "name": "A (in)",
+            "value": "170,6 (6,72)"
+          },
+          {
+            "name": "B (in)",
+            "value": "198,3 (7,81)"
+          },
+          {
+            "name": "C (in)",
+            "value": "66 (2,60)"
+          },
+          {
+            "name": "D (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "E (in)",
+            "value": "25,4 (1,00)"
+          },
+          {
+            "name": "F (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "G (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "H (in)",
+            "value": "82 (3,23)"
+          },
+          {
+            "name": "I (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,276)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "185"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,520 (1,146)"
+          }
+        ],
+        "weight": "0,520 (1,146)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230462,
+        "sku": "KF-718 DB RTT",
+        "label": "KF-718 DB RTT",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "170 (374)"
+          },
+          {
+            "name": "A (in)",
+            "value": "226 (8,90)"
+          },
+          {
+            "name": "B (in)",
+            "value": "132 (5,20)"
+          },
+          {
+            "name": "C (in)",
+            "value": "82 (3,23)"
+          },
+          {
+            "name": "D (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "E (in)",
+            "value": "-"
+          },
+          {
+            "name": "F (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "G (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "H (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "I (in)",
+            "value": "25,4 (1,00)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,335)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M12"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "185"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,280 (2,82)"
+          }
+        ],
+        "weight": "1,280 (2,82)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "I (in)",
+          "J (in)",
+          "PONTEIRA",
+          "ÂNGULO DE ABERTURA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-718 DB",
+            "170 (374)",
+            "158,3 (6,23)",
+            "171,5 (6,75)",
+            "66 (2,60)",
+            "16 (0,63)",
+            "25,4 (1,00)",
+            "35 (1,38)",
+            "38 (1,50)",
+            "64 (2,52)",
+            "16 (0,63)",
+            "7,0 (0,276)",
+            "M8",
+            "185",
+            "0,500 (1,102)"
+          ],
+          [
+            "KF-718 DS",
+            "170 (374)",
+            "170,6 (6,72)",
+            "198,3 (7,81)",
+            "66 (2,60)",
+            "16 (0,63)",
+            "25,4 (1,00)",
+            "35 (1,38)",
+            "38 (1,50)",
+            "82 (3,23)",
+            "16 (0,63)",
+            "7,0 (0,276)",
+            "M8",
+            "185",
+            "0,520 (1,146)"
+          ],
+          [
+            "KF-718 DB RTT",
+            "170 (374)",
+            "226 (8,90)",
+            "132 (5,20)",
+            "82 (3,23)",
+            "60 (2,36)",
+            "-",
+            "40 (1,57)",
+            "100 (3,94)",
+            "37 (1,46)",
+            "25,4 (1,00)",
+            "8,5 (0,335)",
+            "M12",
+            "185",
+            "1,280 (2,82)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kf-718/desenho-1.jpg",
+          "/images/products/kifix/kf-718/desenho-2.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kf-718/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/584_KF_718_DB.png",
+      "bytes": 313273,
+      "sha256": "669665aca07e1c786fb48c5065e9b2d53a105059f6881fad92f5285c8640a1b0"
+    },
+    {
+      "path": "/images/products/kifix/kf-718/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/597_KF718_DS47.png",
+      "bytes": 356389,
+      "sha256": "0c022aeac59741b22413857fbf56f894a1efe372f7489c7747e03803b501c870"
+    },
+    {
+      "path": "/images/products/kifix/kf-718/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/892_KF718_DB_RTT.png",
+      "bytes": 975198,
+      "sha256": "5f8b5160fc24a8a78d93639e258c2191e35a4cc35e678a9827cc3a7b6db7f90b"
+    },
+    {
+      "path": "/images/products/kifix/kf-718/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/227_KF718.JPG",
+      "bytes": 132352,
+      "sha256": "b860cb919b5d5de7f6ebfdd0c6dc64a80062ba28e46a5d7f73ebe61690822c3f"
+    },
+    {
+      "path": "/images/products/kifix/kf-718/desenho-2.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/461_KF718_DB_INOX_RTT01.jpg",
+      "bytes": 117388,
+      "sha256": "e8c94b88caf57dab2fc7f2a1921d97fc33c7cb049c8664f5d4478ca593c08464"
+    }
+  ],
+  "checks": {
+    "variants": 3,
+    "photos": 3,
+    "drawings": 2,
+    "tableRows": 3
+  }
+}

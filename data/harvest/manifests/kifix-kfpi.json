@@ -1,0 +1,386 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/posicionadores-indexadores/kfpi/",
+  "fetchedAt": "2026-10-20T13:03:11.162Z",
+  "product": {
+    "id": 202074,
+    "slug": "kifix-kfpi",
+    "name": "KFPI",
+    "sku": "KFPI",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/posicionadores-indexadores/kfpi/",
+    "type": "product",
+    "summary": "Linha Posicionadores/ Indexadores Kifix modelo KFPI, com 4 referências dimensionais.",
+    "description": "<p>Linha Posicionadores/ Indexadores Kifix modelo KFPI, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Posicionadores/ Indexadores",
+        "slug": "posicionadores-indexadores"
+      }
+    ],
+    "image": "/images/products/kifix/kfpi/foto-1.png",
+    "images": [
+      "/images/products/kifix/kfpi/foto-1.png",
+      "/images/products/kifix/kfpi/foto-2.png",
+      "/images/products/kifix/kfpi/foto-3.png",
+      "/images/products/kifix/kfpi/foto-4.png",
+      "/images/products/kifix/kfpi/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Posicionadores/ Indexadores"
+      }
+    ],
+    "weight": "0,026 (0,058)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230507,
+        "sku": "KFPI M10",
+        "label": "KFPI M10",
+        "attributes": [
+          {
+            "name": "A1 (in)",
+            "value": "61,4 (2,41)"
+          },
+          {
+            "name": "A2 (in)",
+            "value": "61,4 (2,41)"
+          },
+          {
+            "name": "B (in)",
+            "value": "20 (0,78)"
+          },
+          {
+            "name": "C (in)",
+            "value": "10 (0,40)"
+          },
+          {
+            "name": "D (in)",
+            "value": "35 (1,37)"
+          },
+          {
+            "name": "E (in)",
+            "value": "5 (0,19)"
+          },
+          {
+            "name": "F (in)",
+            "value": "15 (0,60)"
+          },
+          {
+            "name": "G (in)",
+            "value": "9,5 (0,37)"
+          },
+          {
+            "name": "H (in)",
+            "value": "20 (0,78)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M10X1,5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,026 (0,058)"
+          }
+        ],
+        "weight": "0,026 (0,058)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230508,
+        "sku": "KFPI M12",
+        "label": "KFPI M12",
+        "attributes": [
+          {
+            "name": "A1 (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "A2 (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "B (in)",
+            "value": "20 (0,78)"
+          },
+          {
+            "name": "C (in)",
+            "value": "10 (0,40)"
+          },
+          {
+            "name": "D (in)",
+            "value": "35 (1,37)"
+          },
+          {
+            "name": "E (in)",
+            "value": "7 (0,27)"
+          },
+          {
+            "name": "F (in)",
+            "value": "15 (0,60)"
+          },
+          {
+            "name": "G (in)",
+            "value": "9,5 (0,37)"
+          },
+          {
+            "name": "H (in)",
+            "value": "20 (0,78)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M12x1,75"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,034 (0,075)"
+          }
+        ],
+        "weight": "0,034 (0,075)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230509,
+        "sku": "KFPI M16",
+        "label": "KFPI M16",
+        "attributes": [
+          {
+            "name": "A1 (in)",
+            "value": "64,5 (2,53)"
+          },
+          {
+            "name": "A2 (in)",
+            "value": "64,5 (2,53)"
+          },
+          {
+            "name": "B (in)",
+            "value": "20 (0,78)"
+          },
+          {
+            "name": "C (in)",
+            "value": "14,5 (0,57)"
+          },
+          {
+            "name": "D (in)",
+            "value": "35 (1,37)"
+          },
+          {
+            "name": "E (in)",
+            "value": "10 (0,40)"
+          },
+          {
+            "name": "F (in)",
+            "value": "15 (0,60)"
+          },
+          {
+            "name": "G (in)",
+            "value": "9,5 (0,37)"
+          },
+          {
+            "name": "H (in)",
+            "value": "20 (0,78)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M16X1,5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,068 (0,15)"
+          }
+        ],
+        "weight": "0,068 (0,15)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230510,
+        "sku": "KFPI M20",
+        "label": "KFPI M20",
+        "attributes": [
+          {
+            "name": "A1 (in)",
+            "value": "68 (2,67)"
+          },
+          {
+            "name": "A2 (in)",
+            "value": "68 (2,67)"
+          },
+          {
+            "name": "B (in)",
+            "value": "20 (0,78)"
+          },
+          {
+            "name": "C (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "D (in)",
+            "value": "35 (1,37)"
+          },
+          {
+            "name": "E (in)",
+            "value": "10 (0,40)"
+          },
+          {
+            "name": "F (in)",
+            "value": "21 (0,82)"
+          },
+          {
+            "name": "G (in)",
+            "value": "9,5 (0,37)"
+          },
+          {
+            "name": "H (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M20X1,5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,115 (0,253)"
+          }
+        ],
+        "weight": "0,115 (0,253)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "A1 (in)",
+          "A2 (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KFPI M10",
+            "61,4 (2,41)",
+            "61,4 (2,41)",
+            "20 (0,78)",
+            "10 (0,40)",
+            "35 (1,37)",
+            "5 (0,19)",
+            "15 (0,60)",
+            "9,5 (0,37)",
+            "20 (0,78)",
+            "M10X1,5",
+            "0,026 (0,058)"
+          ],
+          [
+            "KFPI M12",
+            "60 (2,36)",
+            "60 (2,36)",
+            "20 (0,78)",
+            "10 (0,40)",
+            "35 (1,37)",
+            "7 (0,27)",
+            "15 (0,60)",
+            "9,5 (0,37)",
+            "20 (0,78)",
+            "M12x1,75",
+            "0,034 (0,075)"
+          ],
+          [
+            "KFPI M16",
+            "64,5 (2,53)",
+            "64,5 (2,53)",
+            "20 (0,78)",
+            "14,5 (0,57)",
+            "35 (1,37)",
+            "10 (0,40)",
+            "15 (0,60)",
+            "9,5 (0,37)",
+            "20 (0,78)",
+            "M16X1,5",
+            "0,068 (0,15)"
+          ],
+          [
+            "KFPI M20",
+            "68 (2,67)",
+            "68 (2,67)",
+            "20 (0,78)",
+            "12 (0,47)",
+            "35 (1,37)",
+            "10 (0,40)",
+            "21 (0,82)",
+            "9,5 (0,37)",
+            "25 (0,98)",
+            "M20X1,5",
+            "0,115 (0,253)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kfpi/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kfpi/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1089_KFPIM10.png",
+      "bytes": 2958435,
+      "sha256": "342e41c8b895299df9a849c6dac873580eb745b1a2eb4551f0672228daa9240f"
+    },
+    {
+      "path": "/images/products/kifix/kfpi/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1088_KFPIM12.png",
+      "bytes": 2657043,
+      "sha256": "e9d33dd164275d3de0ca15fa0ef7d2a749b8e89dbe98dbfe568d6376a33ddafb"
+    },
+    {
+      "path": "/images/products/kifix/kfpi/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1090_KFPIM16.png",
+      "bytes": 3451801,
+      "sha256": "43811384040a5f8c2dfd12bd61b1e39234c910376e4bce03a5399a5abdd574c8"
+    },
+    {
+      "path": "/images/products/kifix/kfpi/foto-4.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1091_KFPIM20.png",
+      "bytes": 3360358,
+      "sha256": "f8e5aba50e7cf77f49f95ec702fa9f31150df1b42993e1f59b065e6391fa7178"
+    },
+    {
+      "path": "/images/products/kifix/kfpi/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/488_KFPIM12comcotas.jpg",
+      "bytes": 639918,
+      "sha256": "9122092588c8177faa283d883893604eb423f56b11c0f1cb96efd81f8e3290e7"
+    }
+  ],
+  "checks": {
+    "variants": 4,
+    "photos": 4,
+    "drawings": 1,
+    "tableRows": 4
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "id": 201021,
+  "slug": "merkbak-cst-cabo-standard",
+  "name": "CST – Cabo Standard",
+  "sku": "CST",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-standard/",
+  "type": "product",
+  "summary": "Indicado para pontas de haste, alavancas e uso em máquinas em geral",
+  "description": "<p>Indicado para pontas de haste, alavancas e uso em máquinas em geral</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Isolante térmico / Rosca direto no baquelite</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Baquelite",
+      "slug": "baquelite"
+    }
+  ],
+  "image": "/images/products/merkbak/cst-cabo-standard/1.png",
+  "images": [
+    "/images/products/merkbak/cst-cabo-standard/1.png",
+    "/images/products/merkbak/cst-cabo-standard/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Baquelite"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Indicado para pontas de haste, alavancas e uso em máquinas em geral"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Higienização eficiente / Isolante térmico / Rosca direto no baquelite"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220079,
+      "sku": "CST 2229 M6",
+      "label": "CST 2229 M6",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CST 2229 M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220080,
+      "sku": "CST 2536 5/16",
+      "label": "CST 2536 5/16",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CST 2536 5/16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220081,
+      "sku": "CST 2536 M8",
+      "label": "CST 2536 M8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CST 2536 M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220082,
+      "sku": "CST 2536 3/8",
+      "label": "CST 2536 3/8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CST 2536 3/8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220083,
+      "sku": "CST 2536 M10",
+      "label": "CST 2536 M10",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CST 2536 M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220084,
+      "sku": "CST 3041 3/8",
+      "label": "CST 3041 3/8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CST 3041 3/8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220085,
+      "sku": "CST 3041 M10",
+      "label": "CST 3041 M10",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CST 3041 M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220086,
+      "sku": "CST 3568 M10",
+      "label": "CST 3568 M10",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CST 3568 M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220087,
+      "sku": "CST 3642 1/2",
+      "label": "CST 3642 1/2",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CST 3642 1/2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Baquelite"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Indicado para pontas de haste, alavancas e uso em máquinas em geral"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Higienização eficiente / Isolante térmico / Rosca direto no baquelite"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "CST 2229 M6"
+        },
+        {
+          "name": "Medida",
+          "value": "CST 2536 5/16"
+        },
+        {
+          "name": "Medida",
+          "value": "CST 2536 M8"
+        },
+        {
+          "name": "Medida",
+          "value": "CST 2536 3/8"
+        },
+        {
+          "name": "Medida",
+          "value": "CST 2536 M10"
+        },
+        {
+          "name": "Medida",
+          "value": "CST 3041 3/8"
+        },
+        {
+          "name": "Medida",
+          "value": "CST 3041 M10"
+        },
+        {
+          "name": "Medida",
+          "value": "CST 3568 M10"
+        },
+        {
+          "name": "Medida",
+          "value": "CST 3642 1/2"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

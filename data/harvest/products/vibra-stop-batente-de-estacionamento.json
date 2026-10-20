@@ -1,5 +1,5 @@
 {
-  "id": 200017,
+  "id": 200010,
   "slug": "vibra-stop-batente-de-estacionamento",
   "name": "Vibra-Stop Batente de Estacionamento",
   "sku": "Batente de Estacionamento",
@@ -32,7 +32,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240072,
+      "id": 210034,
       "sku": "ESTACIONAMENTO",
       "label": "ESTACIONAMENTO",
       "attributes": [
@@ -54,7 +54,7 @@
       "image": null
     },
     {
-      "id": 240073,
+      "id": 210035,
       "sku": "QUINA",
       "label": "QUINA",
       "attributes": [
@@ -82,6 +82,12 @@
       "url": "/downloads/products/vibra-stop/batente-de-estacionamento/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Batente%20de%20Estacionamento.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [],

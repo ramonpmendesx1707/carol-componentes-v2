@@ -1,0 +1,185 @@
+{
+  "id": 201001,
+  "slug": "merkbak-atf",
+  "name": "ATF",
+  "sku": "ATF",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/alavanca-trava-femea/",
+  "type": "product",
+  "summary": "Ajustadores tipo alavanca trava são usados em ajustes manuais onde houver limitação de espaço para rotação completa de 360°. A maçaneta retorna a posição inicial sem alteração da posição da rosca",
+  "description": "<p>Ajustadores tipo alavanca trava são usados em ajustes manuais onde houver limitação de espaço para rotação completa de 360°. A maçaneta retorna a posição inicial sem alteração da posição da rosca</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Catraca / Alta resistência</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Plásticos",
+      "slug": "plasticos"
+    }
+  ],
+  "image": "/images/products/merkbak/atf/1.png",
+  "images": [
+    "/images/products/merkbak/atf/1.png",
+    "/images/products/merkbak/atf/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Nylon reforçado com fibra de vidro + inserto rosca latão"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial texturizado nas cores preto ou laranja"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Ajustadores tipo alavanca trava são usados em ajustes manuais onde houver limitação de espaço para rotação completa de 360°. A maçaneta retorna a posição inicial sem alteração da posição da rosca"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Catraca / Alta resistência"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220001,
+      "sku": "ATF 5018 M5",
+      "label": "ATF 5018 M5",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "ATF 5018 M5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220002,
+      "sku": "ATF 5018 M6",
+      "label": "ATF 5018 M6",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "ATF 5018 M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220003,
+      "sku": "ATF 7520 M6",
+      "label": "ATF 7520 M6",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "ATF 7520 M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220004,
+      "sku": "ATF 7520 M8",
+      "label": "ATF 7520 M8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "ATF 7520 M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220005,
+      "sku": "ATF 11830 M8",
+      "label": "ATF 11830 M8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "ATF 11830 M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220006,
+      "sku": "ATF 11830 M10",
+      "label": "ATF 11830 M10",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "ATF 11830 M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Nylon reforçado com fibra de vidro + inserto rosca latão"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial texturizado nas cores preto ou laranja"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Ajustadores tipo alavanca trava são usados em ajustes manuais onde houver limitação de espaço para rotação completa de 360°. A maçaneta retorna a posição inicial sem alteração da posição da rosca"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Catraca / Alta resistência"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "ATF 5018 M5"
+        },
+        {
+          "name": "Medida",
+          "value": "ATF 5018 M6"
+        },
+        {
+          "name": "Medida",
+          "value": "ATF 7520 M6"
+        },
+        {
+          "name": "Medida",
+          "value": "ATF 7520 M8"
+        },
+        {
+          "name": "Medida",
+          "value": "ATF 11830 M8"
+        },
+        {
+          "name": "Medida",
+          "value": "ATF 11830 M10"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

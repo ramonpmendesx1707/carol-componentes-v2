@@ -151,5 +151,51 @@
   "videos": [],
   "headings": [
     "Vibra-Stop Mola Dupla"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20SIMPLES/MOLA%20DUPLA/MD%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20SIMPLES/MOLA%20DUPLA/MD%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade de Carga\tDeflexão\tParafuso Central\tDiâmetro Externo Batente\tDiâmetro Externo Mola\tDiâmetro do Arame da Mola\tAltura Chapa a Chapa\tDiâm. do Furo/Dist. entre Furos\nMedidas\tKgf\tmm/Kgf\t(f)\t(D) mm\t(De) mm\t(a) mm\t(H) mm\t(d x t) mm\nMD200\t200\t4,95/200\t3/8”, 1/2\", 5/8”, 3/4\"\t70\t58\t7,5\t89\t10 x 200\nMD400\t400\t8,10/400\t3/8”, 1/2\", 5/8”, 3/4\"\t70\t62\t9,5\t89\t10 x 200\nMD600\t600\t6,12/600\t3/8”, 1/2\", 5/8”, 3/4\"\t70\t63\t10\t89\t10 x 200\nMD800\t800\t6,62/800\t3/8”, 1/2\", 5/8”, 3/4\"\t70\t65\t11\t89\t10 x 200\nMD1000\t1000\t6,60/1.000\t3/8”, 1/2\", 5/8”, 3/4\"\t70\t68,4\t12,7\t109\t10 x 200\nMD1400\t1400\t5,72/1.400\t3/8”, 1/2\", 5/8”, 3/4\"\t70\t72\t14,5\t109\t10 x 200\nMD2000\t2000\t8,71/2.000\t3/8”, 1/2\", 5/8”, 3/4\"\t70\t75\t16\t109\t10 x 200\nMD3000\t3000\t9,82/3.000\t3/8”, 1/2\", 5/8”, 3/4\"\t70\t79\t17,8\t109\t10 x 220\nMD4000\t4000\t9,58/4.000\t3/8”, 1/2\", 5/8”, 3/4\"\t70\t78\t17,8\t109\t10 x 220\nMD5000\t5000\t10,02/5.000\t3/8”, 1/2\", 5/8”, 3/4\"\t70\t82\t19,5\t109\t10 x 220",
+      "images": [],
+      "videos": [],
+      "tables": [
+        12
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20SIMPLES/MOLA%20DUPLA/Manual%20de%20Instalacao%20-%20MD.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:58:43.928Z"
 }

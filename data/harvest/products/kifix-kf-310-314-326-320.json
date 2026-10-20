@@ -1,0 +1,622 @@
+{
+  "id": 202046,
+  "slug": "kifix-kf-310-314-326-320",
+  "name": "KF-310/314/326/320",
+  "sku": "KF-310/314/326/320",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-310-314-326-320/",
+  "type": "product",
+  "summary": "Linha Grampo tensor Kifix modelo KF-310/314/326/320, com 7 referências dimensionais.",
+  "description": "<p>Linha Grampo tensor Kifix modelo KF-310/314/326/320, com 7 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo tensor",
+      "slug": "grampo-tensor"
+    }
+  ],
+  "image": "/images/products/kifix/kf-310-314-326-320/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-310-314-326-320/foto-1.png",
+    "/images/products/kifix/kf-310-314-326-320/foto-2.png",
+    "/images/products/kifix/kf-310-314-326-320/foto-3.png",
+    "/images/products/kifix/kf-310-314-326-320/foto-4.png",
+    "/images/products/kifix/kf-310-314-326-320/desenho-1.jpg",
+    "/images/products/kifix/kf-310-314-326-320/desenho-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo tensor"
+    }
+  ],
+  "weight": "0,350 (0,770)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230363,
+      "sku": "KF-310 D",
+      "label": "KF-310 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "170 (374)"
+        },
+        {
+          "name": "A (in)",
+          "value": "48 (1,89)"
+        },
+        {
+          "name": "B (in)",
+          "value": "176 (6,93)"
+        },
+        {
+          "name": "C (in)",
+          "value": "33 (1,30)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "33 (1,30)"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "F2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "G (in)",
+          "value": "49 (1,93)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "46 (1,81)"
+        },
+        {
+          "name": "BITOLA DA HASTE",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,350 (0,770)"
+        }
+      ],
+      "weight": "0,350 (0,770)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230364,
+      "sku": "KF-310 R",
+      "label": "KF-310 R",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "170 (374)"
+        },
+        {
+          "name": "A (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "B (in)",
+          "value": "176 (6,93)"
+        },
+        {
+          "name": "C (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "6 (0,24)"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "F2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "G (in)",
+          "value": "-"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "46 (1,81)"
+        },
+        {
+          "name": "BITOLA DA HASTE",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,350 (0,770)"
+        }
+      ],
+      "weight": "0,350 (0,770)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230365,
+      "sku": "KF-314 D",
+      "label": "KF-314 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "340 (749)"
+        },
+        {
+          "name": "A (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "B (in)",
+          "value": "263 (10,35)"
+        },
+        {
+          "name": "C (in)",
+          "value": "47 (1,85)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "E (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "48 (1,89)"
+        },
+        {
+          "name": "F2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "G (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "74 (2,91)"
+        },
+        {
+          "name": "BITOLA DA HASTE",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,830 (1,829)"
+        }
+      ],
+      "weight": "0,830 (1,829)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230366,
+      "sku": "KF-314 R",
+      "label": "KF-314 R",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "340 (749)"
+        },
+        {
+          "name": "A (in)",
+          "value": "73 (2,87)"
+        },
+        {
+          "name": "B (in)",
+          "value": "263 (10,35)"
+        },
+        {
+          "name": "C (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "E (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "48 (1,89)"
+        },
+        {
+          "name": "F2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "G (in)",
+          "value": "-"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "74 (2,91)"
+        },
+        {
+          "name": "BITOLA DA HASTE",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,830 (1,829)"
+        }
+      ],
+      "weight": "0,830 (1,829)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230367,
+      "sku": "KF-326 D",
+      "label": "KF-326 D",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "340 (749)"
+        },
+        {
+          "name": "A (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "B (in)",
+          "value": "263 (10,35)"
+        },
+        {
+          "name": "C (in)",
+          "value": "47 (1,85)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "E (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "48 (1,89)"
+        },
+        {
+          "name": "F2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "G (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "74 (2,91)"
+        },
+        {
+          "name": "BITOLA DA HASTE",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,830 (1,829)"
+        }
+      ],
+      "weight": "0,830 (1,829)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230368,
+      "sku": "KF-326 R",
+      "label": "KF-326 R",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "340 (749)"
+        },
+        {
+          "name": "A (in)",
+          "value": "73 (2,87)"
+        },
+        {
+          "name": "B (in)",
+          "value": "263 (10,35)"
+        },
+        {
+          "name": "C (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "E (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "48 (1,89)"
+        },
+        {
+          "name": "F2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "G (in)",
+          "value": "-"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "74 (2,91)"
+        },
+        {
+          "name": "BITOLA DA HASTE",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,830 (1,829)"
+        }
+      ],
+      "weight": "0,830 (1,829)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230369,
+      "sku": "KF-320",
+      "label": "KF-320",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "800 (1763)"
+        },
+        {
+          "name": "A (in)",
+          "value": "103 (4,06)"
+        },
+        {
+          "name": "B (in)",
+          "value": "282 (11,10)"
+        },
+        {
+          "name": "C (in)",
+          "value": "25 (0,98)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "E (in)",
+          "value": "44 (1,73)"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "50 (1,97)"
+        },
+        {
+          "name": "F2 (in)",
+          "value": "76 (2,99)"
+        },
+        {
+          "name": "G (in)",
+          "value": "64 (2,52)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "BITOLA DA HASTE",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,250 (2,750)"
+        }
+      ],
+      "weight": "1,250 (2,750)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "F1 (in)",
+        "F2 (in)",
+        "G (in)",
+        "J (in)",
+        "Q (in)",
+        "BITOLA DA HASTE",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-310 D",
+          "170 (374)",
+          "48 (1,89)",
+          "176 (6,93)",
+          "33 (1,30)",
+          "19 (0,75)",
+          "33 (1,30)",
+          "35 (1,38)",
+          "-",
+          "49 (1,93)",
+          "7,0 (0,28)",
+          "46 (1,81)",
+          "M6",
+          "0,350 (0,770)"
+        ],
+        [
+          "KF-310 R",
+          "170 (374)",
+          "57 (2,24)",
+          "176 (6,93)",
+          "42 (1,65)",
+          "19 (0,75)",
+          "6 (0,24)",
+          "35 (1,38)",
+          "-",
+          "-",
+          "7,0 (0,28)",
+          "46 (1,81)",
+          "M6",
+          "0,350 (0,770)"
+        ],
+        [
+          "KF-314 D",
+          "340 (749)",
+          "60 (2,36)",
+          "263 (10,35)",
+          "47 (1,85)",
+          "32 (1,26)",
+          "44 (1,73)",
+          "48 (1,89)",
+          "-",
+          "60 (2,36)",
+          "8,5 (0,33)",
+          "74 (2,91)",
+          "M6",
+          "0,830 (1,829)"
+        ],
+        [
+          "KF-314 R",
+          "340 (749)",
+          "73 (2,87)",
+          "263 (10,35)",
+          "60 (2,36)",
+          "32 (1,26)",
+          "8 (0,31)",
+          "48 (1,89)",
+          "-",
+          "-",
+          "8,5 (0,33)",
+          "74 (2,91)",
+          "M6",
+          "0,830 (1,829)"
+        ],
+        [
+          "KF-326 D",
+          "340 (749)",
+          "60 (2,36)",
+          "263 (10,35)",
+          "47 (1,85)",
+          "32 (1,26)",
+          "44 (1,73)",
+          "48 (1,89)",
+          "-",
+          "60 (2,36)",
+          "8,5 (0,33)",
+          "74 (2,91)",
+          "M6",
+          "0,830 (1,829)"
+        ],
+        [
+          "KF-326 R",
+          "340 (749)",
+          "73 (2,87)",
+          "263 (10,35)",
+          "60 (2,36)",
+          "32 (1,26)",
+          "8 (0,31)",
+          "48 (1,89)",
+          "-",
+          "-",
+          "8,5 (0,33)",
+          "74 (2,91)",
+          "M6",
+          "0,830 (1,829)"
+        ],
+        [
+          "KF-320",
+          "800 (1763)",
+          "103 (4,06)",
+          "282 (11,10)",
+          "25 (0,98)",
+          "32 (1,26)",
+          "44 (1,73)",
+          "50 (1,97)",
+          "76 (2,99)",
+          "64 (2,52)",
+          "8,5 (0,33)",
+          "42 (1,65)",
+          "M6",
+          "1,250 (2,750)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-310-314-326-320/desenho-1.jpg",
+        "/images/products/kifix/kf-310-314-326-320/desenho-2.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

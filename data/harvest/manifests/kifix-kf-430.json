@@ -1,0 +1,209 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-430/",
+  "fetchedAt": "2026-10-20T13:00:00.750Z",
+  "product": {
+    "id": 202052,
+    "slug": "kifix-kf-430",
+    "name": "KF-430",
+    "sku": "KF-430",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-430/",
+    "type": "product",
+    "summary": "Linha Grampo tensor Kifix modelo KF-430, com 1 referências dimensionais.",
+    "description": "<p>Linha Grampo tensor Kifix modelo KF-430, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo tensor",
+        "slug": "grampo-tensor"
+      }
+    ],
+    "image": "/images/products/kifix/kf-430/foto-1.png",
+    "images": [
+      "/images/products/kifix/kf-430/foto-1.png",
+      "/images/products/kifix/kf-430/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo tensor"
+      }
+    ],
+    "weight": "0,499 (1,100)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230393,
+        "sku": "KF-430",
+        "label": "KF-430",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "250 (551)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "116 (4,57)"
+          },
+          {
+            "name": "A (in)",
+            "value": "140 (5,51)"
+          },
+          {
+            "name": "B mín (in)",
+            "value": "46 (1,81)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "160 (6,29)"
+          },
+          {
+            "name": "C (in)",
+            "value": "12,6 (0,50)"
+          },
+          {
+            "name": "D (in)",
+            "value": "21 (0,78)"
+          },
+          {
+            "name": "E (in)",
+            "value": "21,5 (0,84)"
+          },
+          {
+            "name": "F (in)",
+            "value": "34 (1,33)"
+          },
+          {
+            "name": "G (in)",
+            "value": "38 (1,49)"
+          },
+          {
+            "name": "H (in)",
+            "value": "28 (1,10)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7 (0,27)"
+          },
+          {
+            "name": "L (in)",
+            "value": "22 (0,86)"
+          },
+          {
+            "name": "M (in)",
+            "value": "31 (1,22)"
+          },
+          {
+            "name": "N (in)",
+            "value": "6 (0,23)"
+          },
+          {
+            "name": "O (in)",
+            "value": "14,2 (0,55)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "179 (7,04)"
+          },
+          {
+            "name": "ROSCA CIL",
+            "value": "m6"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,499 (1,100)"
+          }
+        ],
+        "weight": "0,499 (1,100)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "CURSO (in)",
+          "A (in)",
+          "B mín (in)",
+          "B máx (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "L (in)",
+          "M (in)",
+          "N (in)",
+          "O (in)",
+          "Q (in)",
+          "ROSCA CIL",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-430",
+            "250 (551)",
+            "116 (4,57)",
+            "140 (5,51)",
+            "46 (1,81)",
+            "160 (6,29)",
+            "12,6 (0,50)",
+            "21 (0,78)",
+            "21,5 (0,84)",
+            "34 (1,33)",
+            "38 (1,49)",
+            "28 (1,10)",
+            "7 (0,27)",
+            "22 (0,86)",
+            "31 (1,22)",
+            "6 (0,23)",
+            "14,2 (0,55)",
+            "179 (7,04)",
+            "m6",
+            "0,499 (1,100)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kf-430/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kf-430/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/823_KF430.png",
+      "bytes": 1126597,
+      "sha256": "97883e8b8330d9221fa1c34eee33c6502671f4d7341e51fd79f07f5021117dd4"
+    },
+    {
+      "path": "/images/products/kifix/kf-430/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/417_kf430_desenho_Prancheta_1.jpg",
+      "bytes": 235558,
+      "sha256": "8a73760e6818bdf32c4909c4fa077bab1e3c4e1b51dafc5a54681de18441598d"
+    }
+  ],
+  "checks": {
+    "variants": 1,
+    "photos": 1,
+    "drawings": 1,
+    "tableRows": 1
+  }
+}

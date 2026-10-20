@@ -1,0 +1,249 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-dupla-sextavada/",
+  "fetchedAt": "2026-10-20T13:04:46.489Z",
+  "product": {
+    "id": 202093,
+    "slug": "kifix-ponteira-dupla-sextavada",
+    "name": "PONTEIRA DUPLA SEXTAVADA",
+    "sku": "PONTEIRA DUPLA SEXTAVADA",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-dupla-sextavada/",
+    "type": "product",
+    "summary": "Linha Ponteiras Kifix modelo PONTEIRA DUPLA SEXTAVADA, com 3 referências dimensionais.",
+    "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA DUPLA SEXTAVADA, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Ponteiras",
+        "slug": "ponteiras"
+      }
+    ],
+    "image": "/images/products/kifix/ponteira-dupla-sextavada/foto-1.png",
+    "images": [
+      "/images/products/kifix/ponteira-dupla-sextavada/foto-1.png",
+      "/images/products/kifix/ponteira-dupla-sextavada/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Ponteiras"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230594,
+        "sku": "PSD-M6",
+        "label": "PSD-M6",
+        "attributes": [
+          {
+            "name": "A1 (in)",
+            "value": "49 (1,93)"
+          },
+          {
+            "name": "A2 (in)",
+            "value": "59 (2,32)"
+          },
+          {
+            "name": "B (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "C (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "D mín (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "D máx (in)",
+            "value": "80 (3,15)"
+          },
+          {
+            "name": "E (in)",
+            "value": "7 (0,28)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230595,
+        "sku": "PSD-M8",
+        "label": "PSD-M8",
+        "attributes": [
+          {
+            "name": "A1 (in)",
+            "value": "75 (2,95)"
+          },
+          {
+            "name": "A2 (in)",
+            "value": "86 (3,39)"
+          },
+          {
+            "name": "B (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "C (in)",
+            "value": "15 (0,59)"
+          },
+          {
+            "name": "D mín (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "D máx (in)",
+            "value": "92 (3,62)"
+          },
+          {
+            "name": "E (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230596,
+        "sku": "PSD-M10",
+        "label": "PSD-M10",
+        "attributes": [
+          {
+            "name": "A1 (in)",
+            "value": "76 (2,99)"
+          },
+          {
+            "name": "A2 (in)",
+            "value": "90 (3,54)"
+          },
+          {
+            "name": "B (in)",
+            "value": "180 (7,09)"
+          },
+          {
+            "name": "C (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "D mín (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "D máx (in)",
+            "value": "148 (5,83)"
+          },
+          {
+            "name": "E (in)",
+            "value": "11 (0,43)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "A1 (in)",
+          "A2 (in)",
+          "B (in)",
+          "C (in)",
+          "D mín (in)",
+          "D máx (in)",
+          "E (in)",
+          "M (in)"
+        ],
+        "rows": [
+          [
+            "PSD-M6",
+            "49 (1,93)",
+            "59 (2,32)",
+            "100 (3,94)",
+            "12 (0,47)",
+            "30 (1,18)",
+            "80 (3,15)",
+            "7 (0,28)",
+            "M6"
+          ],
+          [
+            "PSD-M8",
+            "75 (2,95)",
+            "86 (3,39)",
+            "120 (4,72)",
+            "15 (0,59)",
+            "35 (1,38)",
+            "92 (3,62)",
+            "9 (0,35)",
+            "M8"
+          ],
+          [
+            "PSD-M10",
+            "76 (2,99)",
+            "90 (3,54)",
+            "180 (7,09)",
+            "20 (0,79)",
+            "42 (1,65)",
+            "148 (5,83)",
+            "11 (0,43)",
+            "M10"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/ponteira-dupla-sextavada/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/ponteira-dupla-sextavada/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/754_PSDM8298.png",
+      "bytes": 394776,
+      "sha256": "e1ae25ef35b5da89edc777d5bf89cf78c727f8cc01a1b172b7d735765912a2c1"
+    },
+    {
+      "path": "/images/products/kifix/ponteira-dupla-sextavada/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/312_PSD.JPG",
+      "bytes": 104311,
+      "sha256": "a46b4d4f49d851a90ea73c89202a75066b6db160889e3d21c5a2c48e64b79f12"
+    }
+  ],
+  "checks": {
+    "variants": 3,
+    "photos": 1,
+    "drawings": 1,
+    "tableRows": 3
+  }
+}

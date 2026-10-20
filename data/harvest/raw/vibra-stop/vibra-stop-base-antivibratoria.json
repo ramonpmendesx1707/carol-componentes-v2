@@ -67,5 +67,51 @@
   "videos": [],
   "headings": [
     "Vibra-Stop Base Antivibratória"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/BASE%20ANTIVIBRATORIA/B.A%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/BASE%20ANTIVIBRATORIA/B.A%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCarregamento Max.\tAltura\tDimensões da Base\tMola Utilizada\tPeso Estimado Montado\nMedidas\tKgf\t(h) mm\tC x L x e mm\t\tKgf\nBA1\t60\t61\t300 x 300 x 23\tMV 20\t7,5\nBA2\t90\t61\t400 x 400 x 23\tMV 30\t11,5\nBA3\t120\t98\t500 x 500 x 23\tMS 30\t19\nBA4\t200\t98\t1.000 x 600 23\tMS 50\t40",
+      "images": [],
+      "videos": [],
+      "tables": [
+        6
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/BASE%20ANTIVIBRATORIA/Manual%20de%20Instalacao%20-%20BA.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:56:27.175Z"
 }

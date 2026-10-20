@@ -1,0 +1,544 @@
+{
+  "id": 202022,
+  "slug": "kifix-kf-017-t",
+  "name": "KF-017 T",
+  "sku": "KF-017 T",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-017-t/",
+  "type": "product",
+  "summary": "Linha Grampo vertical Kifix modelo KF-017 T, com 6 referências dimensionais.",
+  "description": "<p>Linha Grampo vertical Kifix modelo KF-017 T, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo vertical",
+      "slug": "grampo-vertical"
+    }
+  ],
+  "image": "/images/products/kifix/kf-017-t/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-017-t/foto-1.png",
+    "/images/products/kifix/kf-017-t/foto-2.png",
+    "/images/products/kifix/kf-017-t/foto-3.png",
+    "/images/products/kifix/kf-017-t/foto-4.png",
+    "/images/products/kifix/kf-017-t/foto-5.png",
+    "/images/products/kifix/kf-017-t/foto-6.png",
+    "/images/products/kifix/kf-017-t/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo vertical"
+    }
+  ],
+  "weight": "0,405 (0,893)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230193,
+      "sku": "KF-017 DT",
+      "label": "KF-017 DT",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "170 (374)"
+        },
+        {
+          "name": "A (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "B (in)",
+          "value": "90 (3,54)"
+        },
+        {
+          "name": "C (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "F (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "G (in)",
+          "value": "49 (1,93)"
+        },
+        {
+          "name": "H (in)",
+          "value": "55 (2,17)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "L (in)",
+          "value": "132 (5,20)"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "88"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,405 (0,893)"
+        }
+      ],
+      "weight": "0,405 (0,893)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230194,
+      "sku": "KF-017 DTL",
+      "label": "KF-017 DTL",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "150 (330)"
+        },
+        {
+          "name": "A (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "B (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "C (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "F (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "G (in)",
+          "value": "49 (1,93)"
+        },
+        {
+          "name": "H (in)",
+          "value": "85 (3,35)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "L (in)",
+          "value": "132 (5,20)"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "88"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,415 (0,915)"
+        }
+      ],
+      "weight": "0,415 (0,915)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230195,
+      "sku": "KF-017 DTS",
+      "label": "KF-017 DTS",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "200 (440)"
+        },
+        {
+          "name": "A (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "B (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "C (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "F (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "G (in)",
+          "value": "49 (1,93)"
+        },
+        {
+          "name": "H (in)",
+          "value": "85 (3,35)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "L (in)",
+          "value": "132 (5,20)"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "88"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,415 (0,915)"
+        }
+      ],
+      "weight": "0,415 (0,915)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230196,
+      "sku": "KF-017 RT",
+      "label": "KF-017 RT",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "170 (374)"
+        },
+        {
+          "name": "A (in)",
+          "value": "128 (5,04)"
+        },
+        {
+          "name": "B (in)",
+          "value": "90 (3,54)"
+        },
+        {
+          "name": "C (in)",
+          "value": "40 (1,57)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "6,5 (0,26)"
+        },
+        {
+          "name": "F (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "G (in)",
+          "value": "-"
+        },
+        {
+          "name": "H (in)",
+          "value": "55 (2,17)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "L (in)",
+          "value": "132 (5,20)"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "88"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,405 (0,893)"
+        }
+      ],
+      "weight": "0,405 (0,893)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230197,
+      "sku": "KF-017 RTL",
+      "label": "KF-017 RTL",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "150 (330)"
+        },
+        {
+          "name": "A (in)",
+          "value": "128 (5,04)"
+        },
+        {
+          "name": "B (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "C (in)",
+          "value": "40 (1,57)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "6,5 (0,26)"
+        },
+        {
+          "name": "F (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "G (in)",
+          "value": "-"
+        },
+        {
+          "name": "H (in)",
+          "value": "85 (3,35)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "L (in)",
+          "value": "132 (5,20)"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "88"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,415 (0,915)"
+        }
+      ],
+      "weight": "0,415 (0,915)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230198,
+      "sku": "KF-017 RTS",
+      "label": "KF-017 RTS",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "200 (440)"
+        },
+        {
+          "name": "A (in)",
+          "value": "128 (5,04)"
+        },
+        {
+          "name": "B (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "C (in)",
+          "value": "40 (1,57)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "6,5 (0,26)"
+        },
+        {
+          "name": "F (in)",
+          "value": "35 (1,38)"
+        },
+        {
+          "name": "G (in)",
+          "value": "-"
+        },
+        {
+          "name": "H (in)",
+          "value": "85 (3,35)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "L (in)",
+          "value": "132 (5,20)"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "88"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,415 (0,915)"
+        }
+      ],
+      "weight": "0,415 (0,915)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "L (in)",
+        "ÂNGULO DE ABERTURA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-017 DT",
+          "170 (374)",
+          "120 (4,72)",
+          "90 (3,54)",
+          "32 (1,26)",
+          "19 (0,75)",
+          "32 (1,26)",
+          "35 (1,38)",
+          "49 (1,93)",
+          "55 (2,17)",
+          "7,0 (0,28)",
+          "132 (5,20)",
+          "88",
+          "0,405 (0,893)"
+        ],
+        [
+          "KF-017 DTL",
+          "150 (330)",
+          "120 (4,72)",
+          "120 (4,72)",
+          "32 (1,26)",
+          "19 (0,75)",
+          "32 (1,26)",
+          "35 (1,38)",
+          "49 (1,93)",
+          "85 (3,35)",
+          "7,0 (0,28)",
+          "132 (5,20)",
+          "88",
+          "0,415 (0,915)"
+        ],
+        [
+          "KF-017 DTS",
+          "200 (440)",
+          "120 (4,72)",
+          "120 (4,72)",
+          "32 (1,26)",
+          "19 (0,75)",
+          "32 (1,26)",
+          "35 (1,38)",
+          "49 (1,93)",
+          "85 (3,35)",
+          "7,0 (0,28)",
+          "132 (5,20)",
+          "88",
+          "0,415 (0,915)"
+        ],
+        [
+          "KF-017 RT",
+          "170 (374)",
+          "128 (5,04)",
+          "90 (3,54)",
+          "40 (1,57)",
+          "19 (0,75)",
+          "6,5 (0,26)",
+          "35 (1,38)",
+          "-",
+          "55 (2,17)",
+          "7,0 (0,28)",
+          "132 (5,20)",
+          "88",
+          "0,405 (0,893)"
+        ],
+        [
+          "KF-017 RTL",
+          "150 (330)",
+          "128 (5,04)",
+          "120 (4,72)",
+          "40 (1,57)",
+          "19 (0,75)",
+          "6,5 (0,26)",
+          "35 (1,38)",
+          "-",
+          "85 (3,35)",
+          "7,0 (0,28)",
+          "132 (5,20)",
+          "88",
+          "0,415 (0,915)"
+        ],
+        [
+          "KF-017 RTS",
+          "200 (440)",
+          "128 (5,04)",
+          "120 (4,72)",
+          "40 (1,57)",
+          "19 (0,75)",
+          "6,5 (0,26)",
+          "35 (1,38)",
+          "-",
+          "85 (3,35)",
+          "7,0 (0,28)",
+          "132 (5,20)",
+          "88",
+          "0,415 (0,915)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-017-t/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

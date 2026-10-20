@@ -2,7 +2,7 @@
   "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica-plus&language=pt-BR",
   "fetchedAt": "2026-10-20T10:39:13.558Z",
   "product": {
-    "id": 200049,
+    "id": 200047,
     "slug": "vibra-stop-sismica-plus",
     "name": "Vibra-Stop Mola Sísmica Plus",
     "sku": "Sísmica Plus",
@@ -35,7 +35,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240274,
+        "id": 210292,
         "sku": "MSISP30",
         "label": "MSISP30",
         "attributes": [
@@ -81,7 +81,7 @@
         "image": null
       },
       {
-        "id": 240275,
+        "id": 210293,
         "sku": "MSISP50",
         "label": "MSISP50",
         "attributes": [
@@ -127,7 +127,7 @@
         "image": null
       },
       {
-        "id": 240276,
+        "id": 210294,
         "sku": "MSISP100",
         "label": "MSISP100",
         "attributes": [
@@ -173,7 +173,7 @@
         "image": null
       },
       {
-        "id": 240277,
+        "id": 210295,
         "sku": "MSISP200",
         "label": "MSISP200",
         "attributes": [
@@ -219,7 +219,7 @@
         "image": null
       },
       {
-        "id": 240278,
+        "id": 210296,
         "sku": "MSISP300",
         "label": "MSISP300",
         "attributes": [
@@ -265,7 +265,7 @@
         "image": null
       },
       {
-        "id": 240279,
+        "id": 210297,
         "sku": "MSISP400",
         "label": "MSISP400",
         "attributes": [
@@ -311,7 +311,7 @@
         "image": null
       },
       {
-        "id": 240280,
+        "id": 210298,
         "sku": "MSISP500",
         "label": "MSISP500",
         "attributes": [
@@ -357,7 +357,7 @@
         "image": null
       },
       {
-        "id": 240281,
+        "id": 210299,
         "sku": "MSISP700",
         "label": "MSISP700",
         "attributes": [
@@ -403,7 +403,7 @@
         "image": null
       },
       {
-        "id": 240282,
+        "id": 210300,
         "sku": "MSISP1000",
         "label": "MSISP1000",
         "attributes": [
@@ -449,7 +449,7 @@
         "image": null
       },
       {
-        "id": 240283,
+        "id": 210301,
         "sku": "MSISP1500",
         "label": "MSISP1500",
         "attributes": [
@@ -501,6 +501,12 @@
         "url": "/downloads/products/vibra-stop/sismica-plus/ficha-tecnica.pdf",
         "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Sismica%20Plus.pdf",
         "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [],
@@ -640,7 +646,8 @@
             "10 x 130",
             "75 x 99 x 5"
           ]
-        ]
+        ],
+        "note": "Dimensões ajustadas conforme revisão oficial de agosto/2026 do Catálogo Linha Mola, página 31 (caixa 90x75x5, chapa 140x100x6 e fxt 10x120)."
       },
       {
         "title": "Aplicabilidades e instalação",
@@ -711,6 +718,17 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 0,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:59:57.577Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 12,
+    "pdfReconciled2026": true
   }
 }

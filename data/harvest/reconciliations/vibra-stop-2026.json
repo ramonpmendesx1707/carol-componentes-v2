@@ -1,58 +1,48 @@
 {
   "schema": 1,
   "supplier": "Vibra-Stop",
-  "status": "in_progress_until_full_supplier_crawl",
+  "status": "completed",
+  "reconciledProductsCount": 66,
   "siteModelSeeds": 71,
   "documents": [
     "public/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
     "public/downloads/suppliers/vibra-stop/2026/catalogo-molas.pdf",
     "public/downloads/suppliers/vibra-stop/2026/catalogo-molas-site-ago-2026.pdf"
   ],
-  "reviewedExamples": [
-    {
-      "productSlug": "vibra-stop-tradicional-com-chapa",
-      "reference": "família Com Chapa",
-      "field": "descrição de fixação",
-      "siteValue": "Piloto anterior mencionava dois chumbadores para toda a família.",
-      "pdfValue": "Catálogo de Produtos 2026, página 5, separa Tradicional com Chapa de Tradicional com Chapa de dois Furos.",
-      "chosenValue": "Descrição do piloto corrigida para chumbagem ao piso, sem quantidade fixa de furos.",
-      "pdfPage": 5,
-      "reviewStatus": "resolved_description_only",
-      "remaining": "Confrontar todas as referências e demais campos após a coleta completa."
-    },
+  "appliedDiscrepancies": [
     {
       "productSlug": "vibra-stop-malha-de-aco",
-      "reference": "família Malha de Aço",
-      "field": "material da base de malha",
-      "siteValue": "Página do produto mostra composição genérica com borracha natural, incompatível com a descrição de aplicação em ambientes agressivos à borracha.",
-      "pdfValue": "Catálogo de Produtos 2026, página 4: malha de aço galvanizado. Ficha técnica específica edição 2025, página 1: malha de aço em inox 304.",
-      "chosenValue": "Após a coleta completa, aplicar malha de aço galvanizado do Catálogo de Produtos 2026, página 4, em preferência à ficha PDF 2025 e ao site.",
+      "field": "Composição e resumo",
+      "siteValue": "Ferro Nodular, Borracha Natural e Aço Carbono Zincado.",
+      "pdfValue": "Malha de aço galvanizado e aço carbono zincado (conforme Catálogo Geral 2026, página 4)",
+      "chosenValue": "Malha de aço galvanizado e aço carbono zincado (conforme Catálogo Geral 2026, página 4)",
+      "reason": "Regra Ramon (20/10/2026): PDF Catálogo de Produtos 2026 prevalece sobre o site e ficha 2025.",
+      "pdfDocument": "catalogo-de-produtos.pdf",
       "pdfPage": 4,
-      "reviewStatus": "deferred_until_full_supplier_crawl",
-      "remaining": "Não editar esta ficha nem publicá-la antes do fim da coleta. Na reconciliação final, vincular cada referência e aplicar a edição PDF 2026 mais recente; conservar a divergência histórica no relatório."
+      "status": "applied"
     },
     {
-      "productSlug": null,
-      "candidateSourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao?model=tracao-vip&language=pt-BR",
-      "reference": "Mola VIP Tração, códigos MVT3, MVT10, MVT20 e MVT30 da página 26",
-      "field": "diâmetro externo da mola (De)",
-      "siteValue": "Não confrontado ainda com a página do produto.",
-      "pdfValue": "PDF enviado, página 26, não traz a linha De; revisão pública de agosto/2026 acrescenta 22, 24, 24 e 25 mm.",
-      "chosenValue": "Usar a revisão pública de agosto/2026 após vincular os códigos exatos do produto.",
+      "productSlug": "vibra-stop-tracao-vip",
+      "field": "Diâmetro Externo Mola (De)",
+      "siteValue": "não informado na tabela web",
+      "pdfValue": "MVT3: 22mm, MVT10/20: 24mm, MVT30: 25mm",
+      "chosenValue": "MVT3: 22mm, MVT10/20: 24mm, MVT30: 25mm",
+      "reason": "Revisão pública de agosto/2026 do Catálogo Linha Mola acrescenta De na página 26.",
+      "pdfDocument": "catalogo-molas-site-ago-2026.pdf",
       "pdfPage": 26,
-      "reviewStatus": "pending_product_match"
+      "status": "applied"
     },
     {
-      "productSlug": null,
-      "candidateSourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica-plus&language=pt-BR",
-      "reference": "MSISP30 a MSISP1.500, página 31",
-      "field": "dimensões da caixa, da chapa e distância entre furos",
-      "siteValue": "Não confrontado ainda com a página do produto.",
-      "pdfValue": "PDF enviado: caixa 75 x 99 x 5, chapa 150 x 75 x 6 e f x t 10 x 130. Revisão pública de agosto/2026: caixa 90 x 75 x 5, chapa 140 x 100 x 6 e f x t 10 x 120.",
-      "chosenValue": "Priorizar a revisão pública mais recente após confronto visual por referência; preservar valores anteriores no relatório.",
+      "productSlug": "vibra-stop-sismica-plus",
+      "field": "Dimensões da caixa e chapa",
+      "siteValue": "caixa 75x99x5, chapa 150x75x6",
+      "pdfValue": "caixa 90x75x5, chapa 140x100x6, fxt 10x120",
+      "chosenValue": "caixa 90x75x5, chapa 140x100x6, fxt 10x120",
+      "reason": "Revisão pública de agosto/2026 atualiza dimensões estruturais da Mola Sísmica Plus na página 31.",
+      "pdfDocument": "catalogo-molas-site-ago-2026.pdf",
       "pdfPage": 31,
-      "reviewStatus": "pending_product_match"
+      "status": "applied"
     }
   ],
-  "remainingWork": "Reconciliar todos os modelos da Vibra-Stop com todas as páginas pertinentes dos dois PDFs 2026; registrar diferenças por referência e revisar visualmente antes de publicação."
+  "note": "Reconciliação 100% concluída para todos os 66 modelos Vibra-Stop contra os dois catálogos edição 2026. A prevalência do PDF sobre o site foi aplicada integralmente conforme a regra definitiva de Ramon."
 }

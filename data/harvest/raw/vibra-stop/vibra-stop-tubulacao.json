@@ -91,5 +91,51 @@
   "videos": [],
   "headings": [
     "Vibra-Stop Calço de Tubulação"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TUBULACAO/Tubulacao%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TUBULACAO/Tubulacao%201.1.bmp"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tDeflexão\tAltura\tDiâmetro\tFuro\tLargura\tLargura\tTubulação\tCentro de furos\tEspessura\nMedidas\tmm/Kgf\t(H) mm\t(D) mm\t(f) mm\t(L) mm\t(B) mm\t\t(t) mm\t(e) mm\nP\t5,73/500\t35\t55\t8\t25\t90\t2”\t73\t17,5\nM\t5,16/500\t50\t85\t10\t30\t125\t3”\t100\t20\nG\t6,35/1000\t65\t112\t10\t35\t150\t4”\t130\t19\nGG\t6,6/1000\t100\t170\t12\t45\t225\t6-1/2”\t198\t27,5",
+      "images": [],
+      "videos": [],
+      "tables": [
+        6
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/TUBULACAO/Manual%20de%20Instalacao%20-%20TUBULACAO.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:57:11.439Z"
 }

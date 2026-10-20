@@ -1,0 +1,81 @@
+{
+  "id": 201016,
+  "slug": "merkbak-chf-5927-chave-de-fecho",
+  "name": "CHF 5927 – Chave de fecho",
+  "sku": "CHF 5927",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/chf-5927-chave-de-fecho-merkbak/",
+  "type": "product",
+  "summary": "Portas de máquinas, equipamentos, painéis elétricos e de comando, etc",
+  "description": "<p>Portas de máquinas, equipamentos, painéis elétricos e de comando, etc</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro + corpo em aço carbono</p><p><strong>Informações adicionais:</strong> Alta resistência / Fácil instalação</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Plásticos",
+      "slug": "plasticos"
+    }
+  ],
+  "image": "/images/products/merkbak/chf-5927-chave-de-fecho/1.png",
+  "images": [
+    "/images/products/merkbak/chf-5927-chave-de-fecho/1.png",
+    "/images/products/merkbak/chf-5927-chave-de-fecho/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Nylon reforçado com fibra de vidro + corpo em aço carbono"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial texturizado na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Portas de máquinas, equipamentos, painéis elétricos e de comando, etc"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Fácil instalação"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220065,
+      "sku": "CHF 5927 – Chave de fecho",
+      "label": "Padrão",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Nylon reforçado com fibra de vidro + corpo em aço carbono"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial texturizado na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Portas de máquinas, equipamentos, painéis elétricos e de comando, etc"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Fácil instalação"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

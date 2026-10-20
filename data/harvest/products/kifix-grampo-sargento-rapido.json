@@ -1,0 +1,425 @@
+{
+  "id": 202008,
+  "slug": "kifix-grampo-sargento-rapido",
+  "name": "Grampo sargento rápido",
+  "sku": "Grampo sargento rápido",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-c-e-sargentos/grampo-sargento-rapido/",
+  "type": "product",
+  "summary": "Linha Grampo C e sargentos Kifix modelo Grampo sargento rápido, com 11 referências dimensionais.",
+  "description": "<p>Linha Grampo C e sargentos Kifix modelo Grampo sargento rápido, com 11 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo C e sargentos",
+      "slug": "grampo-c-e-sargentos"
+    }
+  ],
+  "image": "/images/products/kifix/grampo-sargento-rapido/foto-1.png",
+  "images": [
+    "/images/products/kifix/grampo-sargento-rapido/foto-1.png",
+    "/images/products/kifix/grampo-sargento-rapido/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo C e sargentos"
+    }
+  ],
+  "weight": "0,46 (1,01)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230042,
+      "sku": "KFSR 60X120 MM",
+      "label": "KFSR 60X120 MM",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1600"
+        },
+        {
+          "name": "A (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "B (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,46 (1,01)"
+        }
+      ],
+      "weight": "0,46 (1,01)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230043,
+      "sku": "KFSR 80X160 MM",
+      "label": "KFSR 80X160 MM",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1600"
+        },
+        {
+          "name": "A (in)",
+          "value": "80 (3,14)"
+        },
+        {
+          "name": "B (in)",
+          "value": "160 (6,29)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,57 (1,25)"
+        }
+      ],
+      "weight": "0,57 (1,25)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230044,
+      "sku": "KFSR 100X200 MM",
+      "label": "KFSR 100X200 MM",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "2100"
+        },
+        {
+          "name": "A (in)",
+          "value": "100 (3,93)"
+        },
+        {
+          "name": "B (in)",
+          "value": "200 (7,87)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,18 (2,60)"
+        }
+      ],
+      "weight": "1,18 (2,60)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230045,
+      "sku": "KFSR 100X250 MM",
+      "label": "KFSR 100X250 MM",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "2100"
+        },
+        {
+          "name": "A (in)",
+          "value": "100 (3,93)"
+        },
+        {
+          "name": "B (in)",
+          "value": "250 (9,84)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,25 (2,75)"
+        }
+      ],
+      "weight": "1,25 (2,75)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230046,
+      "sku": "KFSR 100X300 MM",
+      "label": "KFSR 100X300 MM",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "2100"
+        },
+        {
+          "name": "A (in)",
+          "value": "100 (3,93)"
+        },
+        {
+          "name": "B (in)",
+          "value": "300 (11,81)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,38 (3,04)"
+        }
+      ],
+      "weight": "1,38 (3,04)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230047,
+      "sku": "KFSR 100X400 MM",
+      "label": "KFSR 100X400 MM",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "2100"
+        },
+        {
+          "name": "A (in)",
+          "value": "100 (3,93)"
+        },
+        {
+          "name": "B (in)",
+          "value": "400 (15,74)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,51 (3,32)"
+        }
+      ],
+      "weight": "1,51 (3,32)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230048,
+      "sku": "KFSR 120X250 MM",
+      "label": "KFSR 120X250 MM",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "3000"
+        },
+        {
+          "name": "A (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "B (in)",
+          "value": "250 (9,84)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,45 (3,19)"
+        }
+      ],
+      "weight": "1,45 (3,19)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230049,
+      "sku": "KFSR 120X300 MM",
+      "label": "KFSR 120X300 MM",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "3000"
+        },
+        {
+          "name": "A (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "B (in)",
+          "value": "300 (11,81)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,53 (3,37)"
+        }
+      ],
+      "weight": "1,53 (3,37)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230050,
+      "sku": "KFSR 120X400 MM",
+      "label": "KFSR 120X400 MM",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "3700"
+        },
+        {
+          "name": "A (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "B (in)",
+          "value": "400 (15,74)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "2,49 (5,48)"
+        }
+      ],
+      "weight": "2,49 (5,48)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230051,
+      "sku": "KFSR 120X500 MM",
+      "label": "KFSR 120X500 MM",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "3700"
+        },
+        {
+          "name": "A (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "B (in)",
+          "value": "500 (19,68)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "2,7 (5,94)"
+        }
+      ],
+      "weight": "2,7 (5,94)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230052,
+      "sku": "KFSR 120X600 MM",
+      "label": "KFSR 120X600 MM",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "3700"
+        },
+        {
+          "name": "A (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "B (in)",
+          "value": "600 (23,62)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "2,91 (6,41)"
+        }
+      ],
+      "weight": "2,91 (6,41)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "A (in)",
+        "B (in)",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KFSR 60X120 MM",
+          "1600",
+          "60 (2,36)",
+          "120 (4,72)",
+          "0,46 (1,01)"
+        ],
+        [
+          "KFSR 80X160 MM",
+          "1600",
+          "80 (3,14)",
+          "160 (6,29)",
+          "0,57 (1,25)"
+        ],
+        [
+          "KFSR 100X200 MM",
+          "2100",
+          "100 (3,93)",
+          "200 (7,87)",
+          "1,18 (2,60)"
+        ],
+        [
+          "KFSR 100X250 MM",
+          "2100",
+          "100 (3,93)",
+          "250 (9,84)",
+          "1,25 (2,75)"
+        ],
+        [
+          "KFSR 100X300 MM",
+          "2100",
+          "100 (3,93)",
+          "300 (11,81)",
+          "1,38 (3,04)"
+        ],
+        [
+          "KFSR 100X400 MM",
+          "2100",
+          "100 (3,93)",
+          "400 (15,74)",
+          "1,51 (3,32)"
+        ],
+        [
+          "KFSR 120X250 MM",
+          "3000",
+          "120 (4,72)",
+          "250 (9,84)",
+          "1,45 (3,19)"
+        ],
+        [
+          "KFSR 120X300 MM",
+          "3000",
+          "120 (4,72)",
+          "300 (11,81)",
+          "1,53 (3,37)"
+        ],
+        [
+          "KFSR 120X400 MM",
+          "3700",
+          "120 (4,72)",
+          "400 (15,74)",
+          "2,49 (5,48)"
+        ],
+        [
+          "KFSR 120X500 MM",
+          "3700",
+          "120 (4,72)",
+          "500 (19,68)",
+          "2,7 (5,94)"
+        ],
+        [
+          "KFSR 120X600 MM",
+          "3700",
+          "120 (4,72)",
+          "600 (23,62)",
+          "2,91 (6,41)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/grampo-sargento-rapido/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

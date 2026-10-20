@@ -1,5 +1,5 @@
 {
-  "id": 200010,
+  "id": 200003,
   "slug": "vibra-stop-base-antivibratoria",
   "name": "Vibra-Stop Base Antivibratória",
   "sku": "Base Antivibratória",
@@ -32,7 +32,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240044,
+      "id": 210006,
       "sku": "BA1",
       "label": "BA1",
       "attributes": [
@@ -62,7 +62,7 @@
       "image": null
     },
     {
-      "id": 240045,
+      "id": 210007,
       "sku": "BA2",
       "label": "BA2",
       "attributes": [
@@ -92,7 +92,7 @@
       "image": null
     },
     {
-      "id": 240046,
+      "id": 210008,
       "sku": "BA3",
       "label": "BA3",
       "attributes": [
@@ -122,7 +122,7 @@
       "image": null
     },
     {
-      "id": 240047,
+      "id": 210009,
       "sku": "BA4",
       "label": "BA4",
       "attributes": [
@@ -158,6 +158,12 @@
       "url": "/downloads/products/vibra-stop/base-antivibratoria/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Base%20Antivibratoria.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [],

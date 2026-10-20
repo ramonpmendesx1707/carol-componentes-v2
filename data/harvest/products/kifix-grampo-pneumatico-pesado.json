@@ -1,0 +1,185 @@
+{
+  "id": 202006,
+  "slug": "kifix-grampo-pneumatico-pesado",
+  "name": "Grampo Pneumático Pesado",
+  "sku": "Grampo Pneumático Pesado",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/grampo-pneumatico-pesado/",
+  "type": "product",
+  "summary": "Linha LANÇAMENTOS Kifix modelo Grampo Pneumático Pesado, com 1 referências dimensionais.",
+  "description": "<p>Linha LANÇAMENTOS Kifix modelo Grampo Pneumático Pesado, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "LANÇAMENTOS",
+      "slug": "lancamentos"
+    }
+  ],
+  "image": "/images/products/kifix/grampo-pneumatico-pesado/foto-1.png",
+  "images": [
+    "/images/products/kifix/grampo-pneumatico-pesado/foto-1.png",
+    "/images/products/kifix/grampo-pneumatico-pesado/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "LANÇAMENTOS"
+    }
+  ],
+  "weight": "-",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230040,
+      "sku": "KFP-L63 B",
+      "label": "KFP-L63 B",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "-"
+        },
+        {
+          "name": "ABERTURA(REGULÁVEL)",
+          "value": "-"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "-"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "B1 (in)",
+          "value": "-"
+        },
+        {
+          "name": "B2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "C (in)",
+          "value": "-"
+        },
+        {
+          "name": "D (in)",
+          "value": "-"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "-"
+        },
+        {
+          "name": "E (in)",
+          "value": "-"
+        },
+        {
+          "name": "E1 (in)",
+          "value": "-"
+        },
+        {
+          "name": "E2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "F (in)",
+          "value": "-"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "-"
+        },
+        {
+          "name": "G (in)",
+          "value": "-"
+        },
+        {
+          "name": "J (in)",
+          "value": "-"
+        },
+        {
+          "name": "J2 (in)",
+          "value": "-"
+        },
+        {
+          "name": "M (in)",
+          "value": "-"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "-"
+        }
+      ],
+      "weight": "-",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "ABERTURA(REGULÁVEL)",
+        "A1 (in)",
+        "A2 (in)",
+        "B1 (in)",
+        "B2 (in)",
+        "C (in)",
+        "D (in)",
+        "D1 (in)",
+        "E (in)",
+        "E1 (in)",
+        "E2 (in)",
+        "F (in)",
+        "F1 (in)",
+        "G (in)",
+        "J (in)",
+        "J2 (in)",
+        "M (in)",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KFP-L63 B",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/grampo-pneumatico-pesado/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

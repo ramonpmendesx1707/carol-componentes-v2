@@ -1,5 +1,5 @@
 {
-  "id": 200038,
+  "id": 200037,
   "slug": "vibra-stop-octupla",
   "name": "Vibra-Stop Mola Óctupla",
   "sku": "Mola Óctupla",
@@ -36,7 +36,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240168,
+      "id": 210222,
       "sku": "MO4000",
       "label": "MO4000",
       "attributes": [
@@ -78,7 +78,7 @@
       "image": null
     },
     {
-      "id": 240169,
+      "id": 210223,
       "sku": "MO5600",
       "label": "MO5600",
       "attributes": [
@@ -120,7 +120,7 @@
       "image": null
     },
     {
-      "id": 240170,
+      "id": 210224,
       "sku": "MO8000",
       "label": "MO8000",
       "attributes": [
@@ -162,7 +162,7 @@
       "image": null
     },
     {
-      "id": 240171,
+      "id": 210225,
       "sku": "MO12000",
       "label": "MO12000",
       "attributes": [
@@ -204,7 +204,7 @@
       "image": null
     },
     {
-      "id": 240172,
+      "id": 210226,
       "sku": "MO16000",
       "label": "MO16000",
       "attributes": [
@@ -246,7 +246,7 @@
       "image": null
     },
     {
-      "id": 240173,
+      "id": 210227,
       "sku": "MO20000",
       "label": "MO20000",
       "attributes": [
@@ -294,6 +294,12 @@
       "url": "/downloads/products/vibra-stop/octupla/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Octupla.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [],

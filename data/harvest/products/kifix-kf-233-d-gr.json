@@ -1,0 +1,185 @@
+{
+  "id": 202043,
+  "slug": "kifix-kf-233-d-gr",
+  "name": "KF-233 D GR",
+  "sku": "KF-233 D GR",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kf-233-d-gr/",
+  "type": "product",
+  "summary": "Linha LANÇAMENTOS Kifix modelo KF-233 D GR, com 1 referências dimensionais.",
+  "description": "<p>Linha LANÇAMENTOS Kifix modelo KF-233 D GR, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "LANÇAMENTOS",
+      "slug": "lancamentos"
+    }
+  ],
+  "image": "/images/products/kifix/kf-233-d-gr/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-233-d-gr/foto-1.png",
+    "/images/products/kifix/kf-233-d-gr/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "LANÇAMENTOS"
+    }
+  ],
+  "weight": "0,120 (0,27)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230354,
+      "sku": "KF-233 D GR",
+      "label": "KF-233 D GR",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "160 (6,29)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "14 (0,55)"
+        },
+        {
+          "name": "A (in)",
+          "value": "31 (1,22)"
+        },
+        {
+          "name": "B mín (in)",
+          "value": "112 (4,40)"
+        },
+        {
+          "name": "B máx (in)",
+          "value": "126 (4,97)"
+        },
+        {
+          "name": "C (in)",
+          "value": "10 (0,39)"
+        },
+        {
+          "name": "D (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "E (in)",
+          "value": "19 (0,74)"
+        },
+        {
+          "name": "F (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "G (in)",
+          "value": "28 (1,10)"
+        },
+        {
+          "name": "H (in)",
+          "value": "20 (0,78)"
+        },
+        {
+          "name": "J (in)",
+          "value": "4,3 (0,16)"
+        },
+        {
+          "name": "L (in)",
+          "value": "13 (0,51)"
+        },
+        {
+          "name": "M (in)",
+          "value": "19 (0,74)"
+        },
+        {
+          "name": "N (in)",
+          "value": "4 (0,15)"
+        },
+        {
+          "name": "O (in)",
+          "value": "40 (1,57)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "65 (2,55)"
+        },
+        {
+          "name": "ROSCA",
+          "value": "M4"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,120 (0,27)"
+        }
+      ],
+      "weight": "0,120 (0,27)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "CURSO (in)",
+        "A (in)",
+        "B mín (in)",
+        "B máx (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "L (in)",
+        "M (in)",
+        "N (in)",
+        "O (in)",
+        "Q (in)",
+        "ROSCA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-233 D GR",
+          "160 (6,29)",
+          "14 (0,55)",
+          "31 (1,22)",
+          "112 (4,40)",
+          "126 (4,97)",
+          "10 (0,39)",
+          "16 (0,62)",
+          "19 (0,74)",
+          "26 (1,02)",
+          "28 (1,10)",
+          "20 (0,78)",
+          "4,3 (0,16)",
+          "13 (0,51)",
+          "19 (0,74)",
+          "4 (0,15)",
+          "40 (1,57)",
+          "65 (2,55)",
+          "M4",
+          "0,120 (0,27)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-233-d-gr/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

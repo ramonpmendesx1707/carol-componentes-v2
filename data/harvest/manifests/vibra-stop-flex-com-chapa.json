@@ -1,0 +1,792 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-flex?model=flex-com-chapa&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:47:43.516Z",
+  "product": {
+    "id": 200023,
+    "slug": "vibra-stop-flex-com-chapa",
+    "name": "Vibra-Stop Mola Flex Com Chapa",
+    "sku": "Flex Com Chapa",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-flex?model=flex-com-chapa&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.",
+    "description": "<p>Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/flex-com-chapa/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/flex-com-chapa/foto-1.png",
+      "/images/products/vibra-stop/flex-com-chapa/foto-2.png",
+      "/images/products/vibra-stop/flex-com-chapa/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Aço Carbono Zincado e Borracha Natural."
+      },
+      {
+        "name": "Materiais informados",
+        "value": "Aço Inox Ferro Nodular"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 210106,
+        "sku": "MFCC30",
+        "label": "MFCC30",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "30"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "8,75/30"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "71"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "54"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "5,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210107,
+        "sku": "MFCC50",
+        "label": "MFCC50",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "50"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,58/50"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "71"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "55"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "6"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210108,
+        "sku": "MFCC100",
+        "label": "MFCC100",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "100"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "4,95/100"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "71"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "58"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "7,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210109,
+        "sku": "MFCC200",
+        "label": "MFCC200",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "8,10/200"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "71"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "62"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "9,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210110,
+        "sku": "MFCC300",
+        "label": "MFCC300",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "300"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,12/300"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "71"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "63"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "10"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210111,
+        "sku": "MFCC400",
+        "label": "MFCC400",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "400"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,62/400"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "71"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "11"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210112,
+        "sku": "MFCC500",
+        "label": "MFCC500",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,60/500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "91"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "68,4"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "12,7"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210113,
+        "sku": "MFCC700",
+        "label": "MFCC700",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "700"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "5,72/700"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "91"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "72"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "14,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210114,
+        "sku": "MFCC1000",
+        "label": "MFCC1000",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "1000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "8,71/1.000"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "91"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "75"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "16"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210115,
+        "sku": "MFCC1500",
+        "label": "MFCC1500",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "1500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "9,82/1.500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "91"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "79"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "17,8"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 120"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210116,
+        "sku": "MFCC2000",
+        "label": "MFCC2000",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "2000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "9,58/2.000"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "91"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "78"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "17,8"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 120"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210117,
+        "sku": "MFCC2500",
+        "label": "MFCC2500",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "2500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "10,02/2.500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "91"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "82"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "19,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 120"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/flex-com-chapa/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Flex%20Com%20Chapa.pdf",
+        "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Altura Total ((H) mm)",
+          "Diâmetro Externo Batente ((D) mm)",
+          "Diâmetro Externo Mola ((De) mm)",
+          "Diâmetro do Arame da Mola ((a) mm)",
+          "Diâm. do Furo/Dist. entre Furos ((f x t) mm)"
+        ],
+        "rows": [
+          [
+            "MFCC30",
+            "30",
+            "8,75/30",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "71",
+            "60",
+            "54",
+            "5,5",
+            "10 x 100"
+          ],
+          [
+            "MFCC50",
+            "50",
+            "6,58/50",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "71",
+            "60",
+            "55",
+            "6",
+            "10 x 100"
+          ],
+          [
+            "MFCC100",
+            "100",
+            "4,95/100",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "71",
+            "60",
+            "58",
+            "7,5",
+            "10 x 100"
+          ],
+          [
+            "MFCC200",
+            "200",
+            "8,10/200",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "71",
+            "60",
+            "62",
+            "9,5",
+            "10 x 100"
+          ],
+          [
+            "MFCC300",
+            "300",
+            "6,12/300",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "71",
+            "60",
+            "63",
+            "10",
+            "10 x 100"
+          ],
+          [
+            "MFCC400",
+            "400",
+            "6,62/400",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "71",
+            "60",
+            "65",
+            "11",
+            "10 x 100"
+          ],
+          [
+            "MFCC500",
+            "500",
+            "6,60/500",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "91",
+            "60",
+            "68,4",
+            "12,7",
+            "10 x 100"
+          ],
+          [
+            "MFCC700",
+            "700",
+            "5,72/700",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "91",
+            "60",
+            "72",
+            "14,5",
+            "10 x 100"
+          ],
+          [
+            "MFCC1000",
+            "1000",
+            "8,71/1.000",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "91",
+            "60",
+            "75",
+            "16",
+            "10 x 100"
+          ],
+          [
+            "MFCC1500",
+            "1500",
+            "9,82/1.500",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "91",
+            "60",
+            "79",
+            "17,8",
+            "10 x 120"
+          ],
+          [
+            "MFCC2000",
+            "2000",
+            "9,58/2.000",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "91",
+            "60",
+            "78",
+            "17,8",
+            "10 x 120"
+          ],
+          [
+            "MFCC2500",
+            "2500",
+            "10,02/2.500",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "91",
+            "60",
+            "82",
+            "19,5",
+            "10 x 120"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/flex-com-chapa/aplicacao-4.png",
+          "/images/products/vibra-stop/flex-com-chapa/aplicacao-5.png",
+          "/images/products/vibra-stop/flex-com-chapa/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/flex-com-chapa/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20FLEX/COM%20CHAPA/MFCC%201.1.png",
+      "bytes": 132004,
+      "sha256": "c7749811014740bdb873f475d52f350ceb187971cdffd0b1a59b4fad901bff37",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/flex-com-chapa/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20FLEX/COM%20CHAPA/MFCC%201.2.png",
+      "bytes": 126364,
+      "sha256": "74085f34c26f4bf66b8754798ee885a619fa6bdda49efd470ec68a84ca7ed09a",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/flex-com-chapa/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20FLEX/COM%20CHAPA/MFCC%201.0.png",
+      "bytes": 119178,
+      "sha256": "f0317322cfc6781f59b30bf524022c9ae42773a154eac8520b297a88f7b1a124",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/flex-com-chapa/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20FLEX/MF%201.0.png",
+      "bytes": 179709,
+      "sha256": "bb2505e89cefc8f808c643377e0e549d2ce5899f4e91901b3eb7622789f7fc32",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/flex-com-chapa/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20FLEX/MF%201.1.png",
+      "bytes": 245278,
+      "sha256": "b049b754f0b7a9e3909759314973a8060736e5c602f940794ee9ce875e7de660",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/flex-com-chapa/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20FLEX/COM%20CHAPA/Manual%20de%20Instalacao%20-%20MFCC.png",
+      "bytes": 187346,
+      "sha256": "f4bd36519258b63b137ef434342a4015e8399fb25bf274d1cc844f4d2e47391b",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/flex-com-chapa/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Flex%20Com%20Chapa.pdf",
+      "bytes": 796438,
+      "sha256": "e91259ef6ca5fcf201d64f166d9b483dd199d39f912d52dc9b4898a3946adb79",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "flex-com-chapa",
+    "tableRows": 12,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T11:00:41.780Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 14,
+    "pdfReconciled2026": true
+  }
+}

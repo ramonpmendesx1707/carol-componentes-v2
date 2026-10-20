@@ -1,0 +1,477 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/alicates/",
+  "fetchedAt": "2026-10-20T12:55:42.449Z",
+  "product": {
+    "id": 202002,
+    "slug": "kifix-alicates",
+    "name": "Alicates",
+    "sku": "Alicates",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/alicates/",
+    "type": "product",
+    "summary": "Linha Adaptadores para mesas de solda Kifix modelo Alicates, com 6 referências dimensionais.",
+    "description": "<p>Linha Adaptadores para mesas de solda Kifix modelo Alicates, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Adaptadores para mesas de solda",
+        "slug": "adaptadores-para-mesas-de-solda"
+      }
+    ],
+    "image": "/images/products/kifix/alicates/foto-1.png",
+    "images": [
+      "/images/products/kifix/alicates/foto-1.png",
+      "/images/products/kifix/alicates/foto-2.png",
+      "/images/products/kifix/alicates/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Adaptadores para mesas de solda"
+      }
+    ],
+    "weight": "0,945 (2,08)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230004,
+        "sku": "KFA-200 MS Ø 16",
+        "label": "KFA-200 MS Ø 16",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "B (in)",
+            "value": "212 (8,34)"
+          },
+          {
+            "name": "C (in)",
+            "value": "107,52 (4,23)"
+          },
+          {
+            "name": "D (in)",
+            "value": "79,5 (3,12)"
+          },
+          {
+            "name": "E (in)",
+            "value": "27 (1,06)"
+          },
+          {
+            "name": "F (in)",
+            "value": "32,3 (1,27)"
+          },
+          {
+            "name": "G (in)",
+            "value": "16 (0,62)"
+          },
+          {
+            "name": "H (in)",
+            "value": "27 (1,06)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,945 (2,08)"
+          }
+        ],
+        "weight": "0,945 (2,08)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230005,
+        "sku": "KFA-200 MS Ø 22",
+        "label": "KFA-200 MS Ø 22",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "B (in)",
+            "value": "212 (8,34)"
+          },
+          {
+            "name": "C (in)",
+            "value": "107,52 (4,23)"
+          },
+          {
+            "name": "D (in)",
+            "value": "79,5 (3,12)"
+          },
+          {
+            "name": "E (in)",
+            "value": "27 (1,06)"
+          },
+          {
+            "name": "F (in)",
+            "value": "32,3 (1,27)"
+          },
+          {
+            "name": "G (in)",
+            "value": "16 (0,62)"
+          },
+          {
+            "name": "H (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,007 (2,22)"
+          }
+        ],
+        "weight": "1,007 (2,22)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230006,
+        "sku": "KFA-200 MS Ø 28",
+        "label": "KFA-200 MS Ø 28",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "B (in)",
+            "value": "212 (8,34)"
+          },
+          {
+            "name": "C (in)",
+            "value": "107,52 (4,23)"
+          },
+          {
+            "name": "D (in)",
+            "value": "79,5 (3,12)"
+          },
+          {
+            "name": "E (in)",
+            "value": "27 (1,06)"
+          },
+          {
+            "name": "F (in)",
+            "value": "32,3 (1,27)"
+          },
+          {
+            "name": "G (in)",
+            "value": "16 (0,62)"
+          },
+          {
+            "name": "H (in)",
+            "value": "35 (1,37)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,094 (2,41)"
+          }
+        ],
+        "weight": "1,094 (2,41)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230007,
+        "sku": "KFA-200 L MS Ø 16",
+        "label": "KFA-200 L MS Ø 16",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "B (in)",
+            "value": "307 (12,08)"
+          },
+          {
+            "name": "C (in)",
+            "value": "107,52 (4,23)"
+          },
+          {
+            "name": "D (in)",
+            "value": "179,79 (7,07)"
+          },
+          {
+            "name": "E (in)",
+            "value": "27 (1,06)"
+          },
+          {
+            "name": "F (in)",
+            "value": "32,3 (1,27)"
+          },
+          {
+            "name": "G (in)",
+            "value": "16 (0,62)"
+          },
+          {
+            "name": "H (in)",
+            "value": "27 (1,06)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,18 (2,60)"
+          }
+        ],
+        "weight": "1,18 (2,60)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230008,
+        "sku": "KFA-200 L MS Ø 22",
+        "label": "KFA-200 L MS Ø 22",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "B (in)",
+            "value": "307 (12,08)"
+          },
+          {
+            "name": "C (in)",
+            "value": "107,52 (4,23)"
+          },
+          {
+            "name": "D (in)",
+            "value": "179,79 (7,07)"
+          },
+          {
+            "name": "E (in)",
+            "value": "27 (1,06)"
+          },
+          {
+            "name": "F (in)",
+            "value": "32,3 (1,27)"
+          },
+          {
+            "name": "G (in)",
+            "value": "16 (0,62)"
+          },
+          {
+            "name": "H (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,129 (2,48)"
+          }
+        ],
+        "weight": "1,129 (2,48)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230009,
+        "sku": "KFA-200 L MS Ø 28",
+        "label": "KFA-200 L MS Ø 28",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "B (in)",
+            "value": "307 (12,08)"
+          },
+          {
+            "name": "C (in)",
+            "value": "107,52 (4,23)"
+          },
+          {
+            "name": "D (in)",
+            "value": "179,79 (7,07)"
+          },
+          {
+            "name": "E (in)",
+            "value": "27 (1,06)"
+          },
+          {
+            "name": "F (in)",
+            "value": "32,3 (1,27)"
+          },
+          {
+            "name": "G (in)",
+            "value": "16 (0,62)"
+          },
+          {
+            "name": "H (in)",
+            "value": "35 (1,37)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,266 (2,79)"
+          }
+        ],
+        "weight": "1,266 (2,79)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KFA-200 MS Ø 16",
+            "30 (1,18)",
+            "212 (8,34)",
+            "107,52 (4,23)",
+            "79,5 (3,12)",
+            "27 (1,06)",
+            "32,3 (1,27)",
+            "16 (0,62)",
+            "27 (1,06)",
+            "M10",
+            "0,945 (2,08)"
+          ],
+          [
+            "KFA-200 MS Ø 22",
+            "30 (1,18)",
+            "212 (8,34)",
+            "107,52 (4,23)",
+            "79,5 (3,12)",
+            "27 (1,06)",
+            "32,3 (1,27)",
+            "16 (0,62)",
+            "30 (1,18)",
+            "M10",
+            "1,007 (2,22)"
+          ],
+          [
+            "KFA-200 MS Ø 28",
+            "30 (1,18)",
+            "212 (8,34)",
+            "107,52 (4,23)",
+            "79,5 (3,12)",
+            "27 (1,06)",
+            "32,3 (1,27)",
+            "16 (0,62)",
+            "35 (1,37)",
+            "M10",
+            "1,094 (2,41)"
+          ],
+          [
+            "KFA-200 L MS Ø 16",
+            "30 (1,18)",
+            "307 (12,08)",
+            "107,52 (4,23)",
+            "179,79 (7,07)",
+            "27 (1,06)",
+            "32,3 (1,27)",
+            "16 (0,62)",
+            "27 (1,06)",
+            "M10",
+            "1,18 (2,60)"
+          ],
+          [
+            "KFA-200 L MS Ø 22",
+            "30 (1,18)",
+            "307 (12,08)",
+            "107,52 (4,23)",
+            "179,79 (7,07)",
+            "27 (1,06)",
+            "32,3 (1,27)",
+            "16 (0,62)",
+            "30 (1,18)",
+            "M10",
+            "1,129 (2,48)"
+          ],
+          [
+            "KFA-200 L MS Ø 28",
+            "30 (1,18)",
+            "307 (12,08)",
+            "107,52 (4,23)",
+            "179,79 (7,07)",
+            "27 (1,06)",
+            "32,3 (1,27)",
+            "16 (0,62)",
+            "35 (1,37)",
+            "M10",
+            "1,266 (2,79)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/alicates/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/alicates/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/794_alicate_200.png",
+      "bytes": 212938,
+      "sha256": "3e1797daa43fcb01ec05c7904cc19c6151333bc0f22425c5b1bbc8f8a20b65b7"
+    },
+    {
+      "path": "/images/products/kifix/alicates/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/795_KFA_200132.png",
+      "bytes": 262303,
+      "sha256": "c312be2f73659913216b8b419540894e15145c10dbc4f09a6d470de3c0533e95"
+    },
+    {
+      "path": "/images/products/kifix/alicates/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/408_desenho_tec_Prancheta_1.jpg",
+      "bytes": 1178886,
+      "sha256": "99a95036a4bcc7afed30579404f0c3f1a2d7c5fcfa605b7d71f583cae719f846"
+    }
+  ],
+  "checks": {
+    "variants": 6,
+    "photos": 2,
+    "drawings": 1,
+    "tableRows": 6
+  }
+}

@@ -2,7 +2,7 @@
   "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim-xt?model=coxim-xt&language=pt-BR",
   "fetchedAt": "2026-10-20T10:30:33.634Z",
   "product": {
-    "id": 200025,
+    "id": 200020,
     "slug": "vibra-stop-coxim-xt",
     "name": "Vibra-Stop Coxim XT",
     "sku": "Coxim XT",
@@ -35,7 +35,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240096,
+        "id": 210081,
         "sku": "XT2000",
         "label": "XT2000",
         "attributes": [
@@ -81,7 +81,7 @@
         "image": null
       },
       {
-        "id": 240097,
+        "id": 210082,
         "sku": "XT4000",
         "label": "XT4000",
         "attributes": [
@@ -127,7 +127,7 @@
         "image": null
       },
       {
-        "id": 240098,
+        "id": 210083,
         "sku": "XT6000",
         "label": "XT6000",
         "attributes": [
@@ -179,6 +179,12 @@
         "url": "/downloads/products/vibra-stop/coxim-xt/ficha-tecnica.pdf",
         "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Coxim%20XT.pdf",
         "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [
@@ -313,6 +319,18 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 1,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:57:44.365Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Vídeo",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 5,
+    "pdfReconciled2026": true
   }
 }

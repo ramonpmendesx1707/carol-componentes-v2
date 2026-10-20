@@ -74,5 +74,51 @@
   "videos": [],
   "headings": [
     "Vibra-Stop Batente de Borracha"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/BATENTE/Batente%20de%20Borracha%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/BATENTE/Batente%20de%20Borracha%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade de Carga\tCapacidade à Tração\tDeflexão\tDiâmetro\tCapacidade ao Cisalhamento\tDistância entre Furos x Diâmetro do Furo\tMaterial elastômero\tChumbadores\nMedidas\tKgf\tKgf\tmm/Kgf\t(D x H) mm\tKgf\t(t x d) mm\t\tCBA\nP\t300 a 2.200\t\t9,72/2400\t125 x 56\t\t125 x 10\tBorracha Natural\t3/8” x 2,5“\nG\t500 a 2.600\t\t19,72/3200\t125 x 110\t\t125 x 13\tBorracha Natural\t3/8” x 2,5“\nK\t200 a 2.400\t400\t24,63/2600\t\t400\t\tBorracha Natural",
+      "images": [],
+      "videos": [],
+      "tables": [
+        5
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/BATENTE/MACHO/Manual%20de%20Instalacao%20-%20BATENTE%20MACHO.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:56:46.607Z"
 }

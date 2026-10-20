@@ -2,7 +2,7 @@
   "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=sem-chapa&language=pt-BR",
   "fetchedAt": "2026-10-20T10:40:38.066Z",
   "product": {
-    "id": 200052,
+    "id": 200036,
     "slug": "vibra-stop-mola-simples-sem-chapa",
     "name": "Vibra-Stop Mola Simples Sem Chapa",
     "sku": "Sem Chapa",
@@ -39,7 +39,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240298,
+        "id": 210210,
         "sku": "MSSC30",
         "label": "MSSC30",
         "attributes": [
@@ -77,7 +77,7 @@
         "image": null
       },
       {
-        "id": 240299,
+        "id": 210211,
         "sku": "MSSC50",
         "label": "MSSC50",
         "attributes": [
@@ -115,7 +115,7 @@
         "image": null
       },
       {
-        "id": 240300,
+        "id": 210212,
         "sku": "MSSC100",
         "label": "MSSC100",
         "attributes": [
@@ -153,7 +153,7 @@
         "image": null
       },
       {
-        "id": 240301,
+        "id": 210213,
         "sku": "MSSC200",
         "label": "MSSC200",
         "attributes": [
@@ -191,7 +191,7 @@
         "image": null
       },
       {
-        "id": 240302,
+        "id": 210214,
         "sku": "MSSC300",
         "label": "MSSC300",
         "attributes": [
@@ -229,7 +229,7 @@
         "image": null
       },
       {
-        "id": 240303,
+        "id": 210215,
         "sku": "MSSC400",
         "label": "MSSC400",
         "attributes": [
@@ -267,7 +267,7 @@
         "image": null
       },
       {
-        "id": 240304,
+        "id": 210216,
         "sku": "MSSC500",
         "label": "MSSC500",
         "attributes": [
@@ -305,7 +305,7 @@
         "image": null
       },
       {
-        "id": 240305,
+        "id": 210217,
         "sku": "MSSC700",
         "label": "MSSC700",
         "attributes": [
@@ -343,7 +343,7 @@
         "image": null
       },
       {
-        "id": 240306,
+        "id": 210218,
         "sku": "MSSC1000",
         "label": "MSSC1000",
         "attributes": [
@@ -381,7 +381,7 @@
         "image": null
       },
       {
-        "id": 240307,
+        "id": 210219,
         "sku": "MSSC1500",
         "label": "MSSC1500",
         "attributes": [
@@ -419,7 +419,7 @@
         "image": null
       },
       {
-        "id": 240308,
+        "id": 210220,
         "sku": "MSSC2000",
         "label": "MSSC2000",
         "attributes": [
@@ -457,7 +457,7 @@
         "image": null
       },
       {
-        "id": 240309,
+        "id": 210221,
         "sku": "MSSC2500",
         "label": "MSSC2500",
         "attributes": [
@@ -501,6 +501,12 @@
         "url": "/downloads/products/vibra-stop/mola-simples-sem-chapa/ficha-tecnica.pdf",
         "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Simples%20Sem%20Chapa.pdf",
         "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Linha Mola (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-molas-site-ago-2026.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [],
@@ -709,6 +715,17 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 0,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:59:46.318Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 14,
+    "pdfReconciled2026": true
   }
 }

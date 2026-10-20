@@ -1,0 +1,424 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/knob-termoplastico-macho/",
+  "fetchedAt": "2026-10-20T12:48:46.501Z",
+  "product": {
+    "id": 201029,
+    "slug": "merkbak-ktm-knob-termoplastico-macho",
+    "name": "KTM – Knob Termoplástico Macho",
+    "sku": "KTM",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/knob-termoplastico-macho/",
+    "type": "product",
+    "summary": "Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral.",
+    "description": "<p>Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral.</p><p><strong>Material:</strong> Polipropileno + rosca aço carbono zincado</p><p><strong>Informações adicionais:</strong> Média resistência</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Knobs",
+        "slug": "knobs"
+      }
+    ],
+    "image": "/images/products/merkbak/ktm-knob-termoplastico-macho/1.png",
+    "images": [
+      "/images/products/merkbak/ktm-knob-termoplastico-macho/1.png",
+      "/images/products/merkbak/ktm-knob-termoplastico-macho/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Polipropileno + rosca aço carbono zincado"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral."
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Média resistência"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220145,
+        "sku": "KTM 1508 M3X15",
+        "label": "KTM 1508 M3X15",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 1508 M3X15"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220146,
+        "sku": "KTM 1508 M4X9",
+        "label": "KTM 1508 M4X9",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 1508 M4X9"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220147,
+        "sku": "KTM 1508 M4X16",
+        "label": "KTM 1508 M4X16",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 1508 M4X16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220148,
+        "sku": "KTM 1508 M4X25",
+        "label": "KTM 1508 M4X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 1508 M4X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220149,
+        "sku": "KTM 2013 M5X15",
+        "label": "KTM 2013 M5X15",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 2013 M5X15"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220150,
+        "sku": "KTM 2013 M5X20",
+        "label": "KTM 2013 M5X20",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 2013 M5X20"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220151,
+        "sku": "KTM 2013 M6X13",
+        "label": "KTM 2013 M6X13",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 2013 M6X13"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220152,
+        "sku": "KTM 2013 M6X23",
+        "label": "KTM 2013 M6X23",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 2013 M6X23"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220153,
+        "sku": "KTM 2013 M6X53",
+        "label": "KTM 2013 M6X53",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 2013 M6X53"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220154,
+        "sku": "KTM 2013 1/4X6",
+        "label": "KTM 2013 1/4X6",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 2013 1/4X6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220155,
+        "sku": "KTM 2013 1/4X12",
+        "label": "KTM 2013 1/4X12",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 2013 1/4X12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220156,
+        "sku": "KTM 2013 1/4X18",
+        "label": "KTM 2013 1/4X18",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 2013 1/4X18"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220157,
+        "sku": "KTM 2013 1/4X25",
+        "label": "KTM 2013 1/4X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 2013 1/4X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220158,
+        "sku": "KTM 2013 1/4X50",
+        "label": "KTM 2013 1/4X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 2013 1/4X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220159,
+        "sku": "KTM 2514 5/16X25",
+        "label": "KTM 2514 5/16X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 2514 5/16X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220160,
+        "sku": "KTM 2514 M8X50",
+        "label": "KTM 2514 M8X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 2514 M8X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220161,
+        "sku": "KTM 2514 5/16X50",
+        "label": "KTM 2514 5/16X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 2514 5/16X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220162,
+        "sku": "KTM 3618 1/4X47",
+        "label": "KTM 3618 1/4X47",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "KTM 3618 1/4X47"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Polipropileno + rosca aço carbono zincado"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral."
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Média resistência"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "KTM 1508 M3X15"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 1508 M4X9"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 1508 M4X16"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 1508 M4X25"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 2013 M5X15"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 2013 M5X20"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 2013 M6X13"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 2013 M6X23"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 2013 M6X53"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 2013 1/4X6"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 2013 1/4X12"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 2013 1/4X18"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 2013 1/4X25"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 2013 1/4X50"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 2514 5/16X25"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 2514 M8X50"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 2514 5/16X50"
+          },
+          {
+            "name": "Medida",
+            "value": "KTM 3618 1/4X47"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/ktm-knob-termoplastico-macho/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/029-ktm-copiar-e1779739061343.png",
+      "bytes": 209269,
+      "sha256": "31eb33e93e802f1298d9258b2303f403ca2b3989fa4b9edec4bc61f2dc1b6c3a"
+    },
+    {
+      "path": "/images/products/merkbak/ktm-knob-termoplastico-macho/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/KTM_tab.png",
+      "bytes": 125164,
+      "sha256": "f1df77cbc8758925b54c6377259ac6d46c0a46029220431add05d23491cf9092"
+    }
+  ],
+  "checks": {
+    "variants": 18,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

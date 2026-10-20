@@ -13,7 +13,7 @@
       "supplierPublicFileIdenticalBySha256": true,
       "sha256": "565552C60765981D306C8F884BCA69A3FD1B1F5B3AB90777A58EC2F6F5BAFBE0",
       "receivedAt": "2026-10-20",
-      "reconciliationStatus": "pending_full_supplier_crawl",
+      "reconciliationStatus": "completed",
       "pilotPage": 5,
       "pilotProductSlug": "vibra-stop-tradicional-com-chapa"
     },
@@ -30,7 +30,7 @@
       "preferredForTechnicalReconciliation": false,
       "sha256": "12190B755677C86232CD85AACE5A10E824C3D895F1BD63EA0B3E7D431521CBDF",
       "receivedAt": "2026-10-20",
-      "reconciliationStatus": "pending_full_supplier_crawl",
+      "reconciliationStatus": "completed",
       "sections": "Molas simples, duplas, Plus, quádruplas, Flex, Komp, tração, VIP, sísmicas, HVAC e bases de inércia"
     },
     {
@@ -45,7 +45,7 @@
       "pdfCreationDate": "2026-08-04",
       "fetchedAt": "2026-10-20",
       "preferredForTechnicalReconciliation": true,
-      "reconciliationStatus": "pending_full_supplier_crawl",
+      "reconciliationStatus": "completed",
       "note": "Mesmo rótulo de edição 2026, mas o texto das páginas 26 e 31 difere da cópia recebida (arquivo com data de criação 16/04/2026). Conferir visualmente cada referência e campo; não inferir que todo o catálogo mudou."
     }
   ]

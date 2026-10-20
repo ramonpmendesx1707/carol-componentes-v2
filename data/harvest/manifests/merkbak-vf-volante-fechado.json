@@ -1,0 +1,172 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/volante-fechado/",
+  "fetchedAt": "2026-10-20T12:45:52.310Z",
+  "product": {
+    "id": 201047,
+    "slug": "merkbak-vf-volante-fechado",
+    "name": "VF – Volante Fechado",
+    "sku": "VF",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/volante-fechado/",
+    "type": "product",
+    "summary": "Máquinas e equipamentos que exigem regulagens precisas.",
+    "description": "<p>Máquinas e equipamentos que exigem regulagens precisas.</p><p><strong>Material:</strong> Baquelite + cubo de ferro fundido</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Isolante térmico / Para opção com cabo, consultar distribuidor</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Volantes",
+        "slug": "volantes"
+      }
+    ],
+    "image": "/images/products/merkbak/vf-volante-fechado/1.png",
+    "images": [
+      "/images/products/merkbak/vf-volante-fechado/1.png",
+      "/images/products/merkbak/vf-volante-fechado/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Baquelite + cubo de ferro fundido"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial polido na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Máquinas e equipamentos que exigem regulagens precisas."
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Alta resistência / Higienização eficiente / Isolante térmico / Para opção com cabo, consultar distribuidor"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220292,
+        "sku": "VF 100",
+        "label": "VF 100",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "VF 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220293,
+        "sku": "VF 125",
+        "label": "VF 125",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "VF 125"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220294,
+        "sku": "VF 150",
+        "label": "VF 150",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "VF 150"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220295,
+        "sku": "VF 175",
+        "label": "VF 175",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "VF 175"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Baquelite + cubo de ferro fundido"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial polido na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Máquinas e equipamentos que exigem regulagens precisas."
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Alta resistência / Higienização eficiente / Isolante térmico / Para opção com cabo, consultar distribuidor"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "VF 100"
+          },
+          {
+            "name": "Medida",
+            "value": "VF 125"
+          },
+          {
+            "name": "Medida",
+            "value": "VF 150"
+          },
+          {
+            "name": "Medida",
+            "value": "VF 175"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/vf-volante-fechado/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/10/MB-VF-150-02-scaled.png",
+      "bytes": 2640712,
+      "sha256": "cadecaf3b541032c94efaee70472a2b79a1535b6e22ef0abdf6679aba86ef07e"
+    },
+    {
+      "path": "/images/products/merkbak/vf-volante-fechado/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/10/VF_tab.png",
+      "bytes": 137313,
+      "sha256": "5f6cc3a90ca0da9087c881ea1265adc53c178126acb425ab9fe66e356c3a53ab"
+    }
+  ],
+  "checks": {
+    "variants": 4,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

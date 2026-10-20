@@ -1,0 +1,611 @@
+{
+  "id": 200024,
+  "slug": "vibra-stop-flex-dupla",
+  "name": "Vibra-Stop Mola Flex Dupla",
+  "sku": "Flex Dupla",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-flex?model=flex-dupla&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.",
+  "description": "<p>Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/flex-dupla/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/flex-dupla/foto-1.png",
+    "/images/products/vibra-stop/flex-dupla/foto-2.png",
+    "/images/products/vibra-stop/flex-dupla/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Aço Carbono Zincado e Borracha Natural."
+    },
+    {
+      "name": "Materiais informados",
+      "value": "Aço Inox Ferro Nodular"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 210118,
+      "sku": "MFD200",
+      "label": "MFD200",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "200"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "4,95/200"
+        },
+        {
+          "name": "Parafuso Central ((f))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "58"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "7,5"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "73"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 200"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 210119,
+      "sku": "MFD400",
+      "label": "MFD400",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "400"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "8,10/400"
+        },
+        {
+          "name": "Parafuso Central ((f))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "62"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "9,5"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "73"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 200"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 210120,
+      "sku": "MFD600",
+      "label": "MFD600",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "600"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,12/600"
+        },
+        {
+          "name": "Parafuso Central ((f))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "63"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "10"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "73"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 200"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 210121,
+      "sku": "MFD800",
+      "label": "MFD800",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "800"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,62/800"
+        },
+        {
+          "name": "Parafuso Central ((f))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "65"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "11"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "73"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 200"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 210122,
+      "sku": "MFD1000",
+      "label": "MFD1000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "1000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,60/1.000"
+        },
+        {
+          "name": "Parafuso Central ((f))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "68,4"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "12,7"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "93"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 200"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 210123,
+      "sku": "MFD1400",
+      "label": "MFD1400",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "1400"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "5,72/1.400"
+        },
+        {
+          "name": "Parafuso Central ((f))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "72"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "14,5"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "93"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 200"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 210124,
+      "sku": "MFD2000",
+      "label": "MFD2000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "2000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "8,71/2.000"
+        },
+        {
+          "name": "Parafuso Central ((f))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "75"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "16"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "93"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 200"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 210125,
+      "sku": "MFD3000",
+      "label": "MFD3000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "3000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "9,82/3.000"
+        },
+        {
+          "name": "Parafuso Central ((f))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "79"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "17,8"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "93"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 220"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 210126,
+      "sku": "MFD4000",
+      "label": "MFD4000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "4000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "9,58/4.000"
+        },
+        {
+          "name": "Parafuso Central ((f))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "78"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "17,8"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "93"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 220"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 210127,
+      "sku": "MFD5000",
+      "label": "MFD5000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "5000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "10,02/5.000"
+        },
+        {
+          "name": "Parafuso Central ((f))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "82"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "19,5"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "93"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 220"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/flex-dupla/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Flex%20Dupla.pdf",
+      "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Parafuso Central ((f))",
+        "Diâmetro Externo Batente ((D) mm)",
+        "Diâmetro Externo Mola ((De) mm)",
+        "Diâmetro do Arame da Mola ((a) mm)",
+        "Altura Chapa a Chapa ((H) mm)",
+        "Diâm. do Furo/Dist. entre Furos ((f x t) mm)"
+      ],
+      "rows": [
+        [
+          "MFD200",
+          "200",
+          "4,95/200",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "70",
+          "58",
+          "7,5",
+          "73",
+          "10 x 200"
+        ],
+        [
+          "MFD400",
+          "400",
+          "8,10/400",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "70",
+          "62",
+          "9,5",
+          "73",
+          "10 x 200"
+        ],
+        [
+          "MFD600",
+          "600",
+          "6,12/600",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "70",
+          "63",
+          "10",
+          "73",
+          "10 x 200"
+        ],
+        [
+          "MFD800",
+          "800",
+          "6,62/800",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "70",
+          "65",
+          "11",
+          "73",
+          "10 x 200"
+        ],
+        [
+          "MFD1000",
+          "1000",
+          "6,60/1.000",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "70",
+          "68,4",
+          "12,7",
+          "93",
+          "10 x 200"
+        ],
+        [
+          "MFD1400",
+          "1400",
+          "5,72/1.400",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "70",
+          "72",
+          "14,5",
+          "93",
+          "10 x 200"
+        ],
+        [
+          "MFD2000",
+          "2000",
+          "8,71/2.000",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "70",
+          "75",
+          "16",
+          "93",
+          "10 x 200"
+        ],
+        [
+          "MFD3000",
+          "3000",
+          "9,82/3.000",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "70",
+          "79",
+          "17,8",
+          "93",
+          "10 x 220"
+        ],
+        [
+          "MFD4000",
+          "4000",
+          "9,58/4.000",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "70",
+          "78",
+          "17,8",
+          "93",
+          "10 x 220"
+        ],
+        [
+          "MFD5000",
+          "5000",
+          "10,02/5.000",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "70",
+          "82",
+          "19,5",
+          "93",
+          "10 x 220"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/flex-dupla/aplicacao-4.png",
+        "/images/products/vibra-stop/flex-dupla/aplicacao-5.png",
+        "/images/products/vibra-stop/flex-dupla/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

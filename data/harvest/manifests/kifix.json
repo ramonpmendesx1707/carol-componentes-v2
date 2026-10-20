@@ -2,7 +2,7 @@
   "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-elevada/",
   "fetchedAt": "2026-10-20T02:37:37.059Z",
   "product": {
-    "id": 200003,
+    "id": 202098,
     "slug": "kifix-base-elevada",
     "name": "Base Elevada para Mesa de Solda",
     "sku": "MS BE / KF-532/528",
@@ -31,7 +31,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 230001,
+        "id": 230621,
         "sku": "MS BE Ø 16 H50 - KF-532/528",
         "label": "MS BE Ø 16 H50 - KF-532/528",
         "attributes": [
@@ -93,7 +93,7 @@
         "image": null
       },
       {
-        "id": 230002,
+        "id": 230622,
         "sku": "MS BE Ø 22 H50 - KF-532/528",
         "label": "MS BE Ø 22 H50 - KF-532/528",
         "attributes": [
@@ -155,7 +155,7 @@
         "image": null
       },
       {
-        "id": 230003,
+        "id": 230623,
         "sku": "MS BE Ø 28 H50 - KF-532/528",
         "label": "MS BE Ø 28 H50 - KF-532/528",
         "attributes": [
@@ -217,7 +217,7 @@
         "image": null
       },
       {
-        "id": 230004,
+        "id": 230624,
         "sku": "MS BE Ø 16 H75 - KF-532/528",
         "label": "MS BE Ø 16 H75 - KF-532/528",
         "attributes": [
@@ -279,7 +279,7 @@
         "image": null
       },
       {
-        "id": 230005,
+        "id": 230625,
         "sku": "MS BE Ø 22 H75 - KF-532/528",
         "label": "MS BE Ø 22 H75 - KF-532/528",
         "attributes": [
@@ -341,7 +341,7 @@
         "image": null
       },
       {
-        "id": 230006,
+        "id": 230626,
         "sku": "MS BE Ø 28 H75 - KF-532/528",
         "label": "MS BE Ø 28 H75 - KF-532/528",
         "attributes": [
@@ -403,7 +403,7 @@
         "image": null
       },
       {
-        "id": 230007,
+        "id": 230627,
         "sku": "MS BE Ø 16 H100 - KF-532/528",
         "label": "MS BE Ø 16 H100 - KF-532/528",
         "attributes": [
@@ -465,7 +465,7 @@
         "image": null
       },
       {
-        "id": 230008,
+        "id": 230628,
         "sku": "MS BE Ø 22 H100 - KF-532/528",
         "label": "MS BE Ø 22 H100 - KF-532/528",
         "attributes": [
@@ -527,7 +527,7 @@
         "image": null
       },
       {
-        "id": 230009,
+        "id": 230629,
         "sku": "MS BE Ø 28 H100 - KF-532/528",
         "label": "MS BE Ø 28 H100 - KF-532/528",
         "attributes": [

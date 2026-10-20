@@ -81,5 +81,62 @@
   ],
   "headings": [
     "Vibra-Stop Coxim XT"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-videos",
+      "label": "Vídeo",
+      "text": "play_arrow\nvolume_up\n0:00 / 2:49\nfullscreen",
+      "images": [],
+      "videos": [
+        "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-coxim.mp4"
+      ],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/COXIM/XT/AP%201.0%20XT.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/COXIM/XT/AP%201.1%20XT.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade à Compressão\tCapacidade à Tração\tDeflexão\tAltura\tAltura\tDiâmetro\tCapacidade ao Cisalhamento\tFuro Roscado\tDiâmetro Externo\nMedidas\tKgf\tKgf\tmm/Kgf\t(H) mm\t(h) mm\t(d) mm\tKgf\t(R)\t(D) mm\nXT2000\t100 a 700\t20 a 140\t7,51/700\t67\t62\t36\t20 a 140\tM12, M16\t83\nXT4000\t700 a 1000\t140 a 200\t5,55/1000\t66\t55\t40\t140 a 200\tM12, M16\t105\nXT6000\t1000 a 4000\t200 a 800\t17,61/4000\t83\t83\t50\t200 a 800\tM12, M16, M20\t130",
+      "images": [],
+      "videos": [],
+      "tables": [
+        5
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/COXIM/XT/Manual%20de%20Instalacao%20-%20COXIM%20XT.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:57:44.365Z"
 }

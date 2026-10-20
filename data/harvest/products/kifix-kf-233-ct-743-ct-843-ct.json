@@ -1,0 +1,591 @@
+{
+  "id": 202042,
+  "slug": "kifix-kf-233-ct-743-ct-843-ct",
+  "name": "KF 233 CT/ 743 CT/ 843 CT",
+  "sku": "KF 233 CT/ 743 CT/ 843 CT",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor-com-cinta/kf-233-ct-743-ct-843-ct/",
+  "type": "product",
+  "summary": "Linha Grampo tensor com cinta Kifix modelo KF 233 CT/ 743 CT/ 843 CT, com 7 referências dimensionais.",
+  "description": "<p>Linha Grampo tensor com cinta Kifix modelo KF 233 CT/ 743 CT/ 843 CT, com 7 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo tensor com cinta",
+      "slug": "grampo-tensor-com-cinta"
+    }
+  ],
+  "image": "/images/products/kifix/kf-233-ct-743-ct-843-ct/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-233-ct-743-ct-843-ct/foto-1.png",
+    "/images/products/kifix/kf-233-ct-743-ct-843-ct/foto-2.png",
+    "/images/products/kifix/kf-233-ct-743-ct-843-ct/foto-3.png",
+    "/images/products/kifix/kf-233-ct-743-ct-843-ct/foto-4.png",
+    "/images/products/kifix/kf-233-ct-743-ct-843-ct/foto-5.png",
+    "/images/products/kifix/kf-233-ct-743-ct-843-ct/foto-6.png",
+    "/images/products/kifix/kf-233-ct-743-ct-843-ct/foto-7.png",
+    "/images/products/kifix/kf-233-ct-743-ct-843-ct/foto-8.png",
+    "/images/products/kifix/kf-233-ct-743-ct-843-ct/foto-9.png",
+    "/images/products/kifix/kf-233-ct-743-ct-843-ct/desenho-1.jpg",
+    "/images/products/kifix/kf-233-ct-743-ct-843-ct/desenho-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo tensor com cinta"
+    }
+  ],
+  "weight": "0,153 (0,337)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230347,
+      "sku": "KF-233 CT50",
+      "label": "KF-233 CT50",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "160 (352)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "14 (0,55)"
+        },
+        {
+          "name": "A (in)",
+          "value": "100 (3,93)"
+        },
+        {
+          "name": "B (in)",
+          "value": "50 (1,96)"
+        },
+        {
+          "name": "C (in)",
+          "value": "1,5 (0,05)"
+        },
+        {
+          "name": "E (in)",
+          "value": "25 (0,98)"
+        },
+        {
+          "name": "L (in)",
+          "value": "4,3 (0,17)"
+        },
+        {
+          "name": "M (in)",
+          "value": "28 (1,10)"
+        },
+        {
+          "name": "N (in)",
+          "value": "4 (0,15)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "53 (2,08)"
+        },
+        {
+          "name": "BITOLA DA HASTE",
+          "value": "M4"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,153 (0,337)"
+        }
+      ],
+      "weight": "0,153 (0,337)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230348,
+      "sku": "KF-743 CT100",
+      "label": "KF-743 CT100",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "200 (440)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "A (in)",
+          "value": "99 (3,90)"
+        },
+        {
+          "name": "B (in)",
+          "value": "100 (3,93)"
+        },
+        {
+          "name": "C (in)",
+          "value": "1,5 (0,05)"
+        },
+        {
+          "name": "E (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "L (in)",
+          "value": "6,3 (0,25)"
+        },
+        {
+          "name": "M (in)",
+          "value": "33 (1.30)"
+        },
+        {
+          "name": "N (in)",
+          "value": "5 (0,20)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "71 (2,79)"
+        },
+        {
+          "name": "BITOLA DA HASTE",
+          "value": "M5"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,270 (0,595)"
+        }
+      ],
+      "weight": "0,270 (0,595)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230349,
+      "sku": "KF-743 CT150",
+      "label": "KF-743 CT150",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "200 (440)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "A (in)",
+          "value": "123 (4,84)"
+        },
+        {
+          "name": "B (in)",
+          "value": "150 (5,90)"
+        },
+        {
+          "name": "C (in)",
+          "value": "1,5 (0,05)"
+        },
+        {
+          "name": "E (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "L (in)",
+          "value": "6,3 (0,25)"
+        },
+        {
+          "name": "M (in)",
+          "value": "33 (1.30)"
+        },
+        {
+          "name": "N (in)",
+          "value": "5 (0,20)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "70 (2,75)"
+        },
+        {
+          "name": "BITOLA DA HASTE",
+          "value": "M5"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,325 (0,716)"
+        }
+      ],
+      "weight": "0,325 (0,716)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230350,
+      "sku": "KF-743 CT200",
+      "label": "KF-743 CT200",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "200 (440)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "A (in)",
+          "value": "236 (9,29)"
+        },
+        {
+          "name": "B (in)",
+          "value": "200 (7,87)"
+        },
+        {
+          "name": "C (in)",
+          "value": "1,5 (0,05)"
+        },
+        {
+          "name": "E (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "L (in)",
+          "value": "6,35 (0,25)"
+        },
+        {
+          "name": "M (in)",
+          "value": "33 (1.30)"
+        },
+        {
+          "name": "N (in)",
+          "value": "5 (0,20)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "65 (2,55)"
+        },
+        {
+          "name": "BITOLA DA HASTE",
+          "value": "M5"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,390 (0,859)"
+        }
+      ],
+      "weight": "0,390 (0,859)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230351,
+      "sku": "KF-743 CT250",
+      "label": "KF-743 CT250",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "200 (440)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "A (in)",
+          "value": "283 (11,14)"
+        },
+        {
+          "name": "B (in)",
+          "value": "250 (9,84)"
+        },
+        {
+          "name": "C (in)",
+          "value": "1,5 (0,05)"
+        },
+        {
+          "name": "E (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "L (in)",
+          "value": "6,3 (0,25)"
+        },
+        {
+          "name": "M (in)",
+          "value": "33 (1.30)"
+        },
+        {
+          "name": "N (in)",
+          "value": "5 (0,20)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "70 (2,75)"
+        },
+        {
+          "name": "BITOLA DA HASTE",
+          "value": "M5"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,440 (0,970)"
+        }
+      ],
+      "weight": "0,440 (0,970)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230352,
+      "sku": "KF-743 CT250",
+      "label": "KF-743 CT250",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "200 (440)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "A (in)",
+          "value": "283 (11,14)"
+        },
+        {
+          "name": "B (in)",
+          "value": "250 (9,84)"
+        },
+        {
+          "name": "C (in)",
+          "value": "1,5 (0,05)"
+        },
+        {
+          "name": "E (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "L (in)",
+          "value": "6,3 (0,25)"
+        },
+        {
+          "name": "M (in)",
+          "value": "33 (1.30)"
+        },
+        {
+          "name": "N (in)",
+          "value": "5 (0,20)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "70 (2,75)"
+        },
+        {
+          "name": "BITOLA DA HASTE",
+          "value": "M5"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,440 (0,970)"
+        }
+      ],
+      "weight": "0,440 (0,970)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230353,
+      "sku": "KF-843 CT300",
+      "label": "KF-843 CT300",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "200 (440)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "A (in)",
+          "value": "365 (14,37)"
+        },
+        {
+          "name": "B (in)",
+          "value": "200 (7,87))"
+        },
+        {
+          "name": "C (in)",
+          "value": "1,5 (0,05)"
+        },
+        {
+          "name": "E (in)",
+          "value": "50 (1.97)"
+        },
+        {
+          "name": "L (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "M (in)",
+          "value": "45 (1.77)"
+        },
+        {
+          "name": "N (in)",
+          "value": "6 (0,24)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "90 (3,54)"
+        },
+        {
+          "name": "BITOLA DA HASTE",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,145 (2,524)"
+        }
+      ],
+      "weight": "1,145 (2,524)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "CURSO (in)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "E (in)",
+        "L (in)",
+        "M (in)",
+        "N (in)",
+        "Q (in)",
+        "BITOLA DA HASTE",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-233 CT50",
+          "160 (352)",
+          "14 (0,55)",
+          "100 (3,93)",
+          "50 (1,96)",
+          "1,5 (0,05)",
+          "25 (0,98)",
+          "4,3 (0,17)",
+          "28 (1,10)",
+          "4 (0,15)",
+          "53 (2,08)",
+          "M4",
+          "0,153 (0,337)"
+        ],
+        [
+          "KF-743 CT100",
+          "200 (440)",
+          "16 (0,63)",
+          "99 (3,90)",
+          "100 (3,93)",
+          "1,5 (0,05)",
+          "30 (1,18)",
+          "6,3 (0,25)",
+          "33 (1.30)",
+          "5 (0,20)",
+          "71 (2,79)",
+          "M5",
+          "0,270 (0,595)"
+        ],
+        [
+          "KF-743 CT150",
+          "200 (440)",
+          "16 (0,63)",
+          "123 (4,84)",
+          "150 (5,90)",
+          "1,5 (0,05)",
+          "30 (1,18)",
+          "6,3 (0,25)",
+          "33 (1.30)",
+          "5 (0,20)",
+          "70 (2,75)",
+          "M5",
+          "0,325 (0,716)"
+        ],
+        [
+          "KF-743 CT200",
+          "200 (440)",
+          "16 (0,63)",
+          "236 (9,29)",
+          "200 (7,87)",
+          "1,5 (0,05)",
+          "30 (1,18)",
+          "6,35 (0,25)",
+          "33 (1.30)",
+          "5 (0,20)",
+          "65 (2,55)",
+          "M5",
+          "0,390 (0,859)"
+        ],
+        [
+          "KF-743 CT250",
+          "200 (440)",
+          "16 (0,63)",
+          "283 (11,14)",
+          "250 (9,84)",
+          "1,5 (0,05)",
+          "30 (1,18)",
+          "6,3 (0,25)",
+          "33 (1.30)",
+          "5 (0,20)",
+          "70 (2,75)",
+          "M5",
+          "0,440 (0,970)"
+        ],
+        [
+          "KF-743 CT250",
+          "200 (440)",
+          "16 (0,63)",
+          "283 (11,14)",
+          "250 (9,84)",
+          "1,5 (0,05)",
+          "30 (1,18)",
+          "6,3 (0,25)",
+          "33 (1.30)",
+          "5 (0,20)",
+          "70 (2,75)",
+          "M5",
+          "0,440 (0,970)"
+        ],
+        [
+          "KF-843 CT300",
+          "200 (440)",
+          "16 (0,63)",
+          "365 (14,37)",
+          "200 (7,87))",
+          "1,5 (0,05)",
+          "50 (1.97)",
+          "19 (0,75)",
+          "45 (1.77)",
+          "6 (0,24)",
+          "90 (3,54)",
+          "M6",
+          "1,145 (2,524)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-233-ct-743-ct-843-ct/desenho-1.jpg",
+        "/images/products/kifix/kf-233-ct-743-ct-843-ct/desenho-2.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

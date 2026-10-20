@@ -1,0 +1,104 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/volante-com-cabo-basculante/",
+  "fetchedAt": "2026-10-20T12:45:44.420Z",
+  "product": {
+    "id": 201046,
+    "slug": "merkbak-vcb-150-volante-com-cabo-basculante",
+    "name": "VCB 150 – Volante com cabo basculante",
+    "sku": "VCB 150",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/volante-com-cabo-basculante/",
+    "type": "product",
+    "summary": "Máquinas e equipamentos que exigem regulagens precisas.",
+    "description": "<p>Máquinas e equipamentos que exigem regulagens precisas.</p><p><strong>Material:</strong> Baquelite + cubo de ferro fundido + cabo de baquelite em aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Isolante térmico / Com cabo retrátil para facilitar a regulagem.</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Volantes",
+        "slug": "volantes"
+      }
+    ],
+    "image": "/images/products/merkbak/vcb-150-volante-com-cabo-basculante/1.png",
+    "images": [
+      "/images/products/merkbak/vcb-150-volante-com-cabo-basculante/1.png",
+      "/images/products/merkbak/vcb-150-volante-com-cabo-basculante/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Baquelite + cubo de ferro fundido + cabo de baquelite em aço carbono zincado"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial polido na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Máquinas e equipamentos que exigem regulagens precisas."
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Alta resistência / Higienização eficiente / Isolante térmico / Com cabo retrátil para facilitar a regulagem."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220291,
+        "sku": "VCB 150 – Volante com cabo basculante",
+        "label": "Padrão",
+        "attributes": [],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Baquelite + cubo de ferro fundido + cabo de baquelite em aço carbono zincado"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial polido na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Máquinas e equipamentos que exigem regulagens precisas."
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Alta resistência / Higienização eficiente / Isolante térmico / Com cabo retrátil para facilitar a regulagem."
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/vcb-150-volante-com-cabo-basculante/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/064-vcb-copiar.png",
+      "bytes": 562747,
+      "sha256": "16c09c195f7efdc9dd03e870418cd278a884e02934eea674d9c0814cdaae06c7"
+    },
+    {
+      "path": "/images/products/merkbak/vcb-150-volante-com-cabo-basculante/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/10/VCB150_tab.png",
+      "bytes": 184084,
+      "sha256": "7a940aa1ff527fc95266063daf0291d182f67ea9cd1bb9c751841d615f0c29c7"
+    }
+  ],
+  "checks": {
+    "variants": 1,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

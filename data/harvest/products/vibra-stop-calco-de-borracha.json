@@ -1,5 +1,5 @@
 {
-  "id": 200018,
+  "id": 200011,
   "slug": "vibra-stop-calco-de-borracha",
   "name": "Vibra-Stop Calço de Borracha",
   "sku": "Calço de Borracha",
@@ -32,7 +32,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240074,
+      "id": 210036,
       "sku": "PP",
       "label": "PP",
       "attributes": [
@@ -62,7 +62,7 @@
       "image": null
     },
     {
-      "id": 240075,
+      "id": 210037,
       "sku": "P",
       "label": "P",
       "attributes": [
@@ -92,7 +92,7 @@
       "image": null
     },
     {
-      "id": 240076,
+      "id": 210038,
       "sku": "M",
       "label": "M",
       "attributes": [
@@ -122,7 +122,7 @@
       "image": null
     },
     {
-      "id": 240077,
+      "id": 210039,
       "sku": "G",
       "label": "G",
       "attributes": [
@@ -152,7 +152,7 @@
       "image": null
     },
     {
-      "id": 240078,
+      "id": 210040,
       "sku": "GG",
       "label": "GG",
       "attributes": [
@@ -188,6 +188,12 @@
       "url": "/downloads/products/vibra-stop/calco-de-borracha/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Calco%20de%20Borracha.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [

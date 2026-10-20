@@ -1,0 +1,81 @@
+{
+  "id": 201010,
+  "slug": "merkbak-cb-26100-cabo-basculante",
+  "name": "CB 26100 – Cabo Basculante",
+  "sku": "CB 26100",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-basculante/",
+  "type": "product",
+  "summary": "As principais características deste cabo são a capacidade da empunhadura girar enquanto o inserto metálico permanece fixo e a retração de 90° na empunhadura, evitando colisões acidentais que possam desregular a ajustagem feita. Utilizado em manivelas e volantes.",
+  "description": "<p>As principais características deste cabo são a capacidade da empunhadura girar enquanto o inserto metálico permanece fixo e a retração de 90° na empunhadura, evitando colisões acidentais que possam desregular a ajustagem feita. Utilizado em manivelas e volantes.</p><p><strong>Material:</strong> Baquelite + inserto aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Isolante térmico</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Baquelite",
+      "slug": "baquelite"
+    }
+  ],
+  "image": "/images/products/merkbak/cb-26100-cabo-basculante/1.png",
+  "images": [
+    "/images/products/merkbak/cb-26100-cabo-basculante/1.png",
+    "/images/products/merkbak/cb-26100-cabo-basculante/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Baquelite + inserto aço carbono zincado"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polida na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "As principais características deste cabo são a capacidade da empunhadura girar enquanto o inserto metálico permanece fixo e a retração de 90° na empunhadura, evitando colisões acidentais que possam desregular a ajustagem feita. Utilizado em manivelas e volantes."
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Higienização eficiente / Isolante térmico"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220045,
+      "sku": "CB 26100 – Cabo Basculante",
+      "label": "Padrão",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Baquelite + inserto aço carbono zincado"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polida na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "As principais características deste cabo são a capacidade da empunhadura girar enquanto o inserto metálico permanece fixo e a retração de 90° na empunhadura, evitando colisões acidentais que possam desregular a ajustagem feita. Utilizado em manivelas e volantes."
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Higienização eficiente / Isolante térmico"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

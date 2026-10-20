@@ -1,0 +1,173 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-pneumatico/kf-066-p-consultar-marcas-de-c/",
+  "fetchedAt": "2026-10-20T13:04:02.116Z",
+  "product": {
+    "id": 202034,
+    "slug": "kifix-kf-066-p-consultar-marcas-de-cilindro-disponiveis",
+    "name": "KF-066_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS",
+    "sku": "KF-066_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-pneumatico/kf-066-p-consultar-marcas-de-c/",
+    "type": "product",
+    "summary": "Linha Grampo pneumático Kifix modelo KF-066_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS, com 1 referências dimensionais.",
+    "description": "<p>Linha Grampo pneumático Kifix modelo KF-066_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo pneumático",
+        "slug": "grampo-pneumatico"
+      }
+    ],
+    "image": "/images/products/kifix/kf-066-p-consultar-marcas-de-cilindro-disponiveis/foto-1.png",
+    "images": [
+      "/images/products/kifix/kf-066-p-consultar-marcas-de-cilindro-disponiveis/foto-1.png",
+      "/images/products/kifix/kf-066-p-consultar-marcas-de-cilindro-disponiveis/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo pneumático"
+      }
+    ],
+    "weight": "7,700 (16,940)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230271,
+        "sku": "KF-066 TS P",
+        "label": "KF-066 TS P",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "1400 (3080)"
+          },
+          {
+            "name": "A (in)",
+            "value": "200 (7,87)"
+          },
+          {
+            "name": "B (in)",
+            "value": "521 (20,51)"
+          },
+          {
+            "name": "C (in)",
+            "value": "108 (4,25)"
+          },
+          {
+            "name": "D (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "E (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "G (in)",
+            "value": "95,5 (3,76)"
+          },
+          {
+            "name": "H (in)",
+            "value": "87 (3,43)"
+          },
+          {
+            "name": "J (in)",
+            "value": "10,5 (0,41)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M12"
+          },
+          {
+            "name": "ROSCA CIL",
+            "value": "1/8 in NPT"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "55"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "7,700 (16,940)"
+          }
+        ],
+        "weight": "7,700 (16,940)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "PONTEIRA",
+          "ROSCA CIL",
+          "ÂNGULO DE ABERTURA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-066 TS P",
+            "1400 (3080)",
+            "200 (7,87)",
+            "521 (20,51)",
+            "108 (4,25)",
+            "30 (1,18)",
+            "55 (2,17)",
+            "95,5 (3,76)",
+            "87 (3,43)",
+            "10,5 (0,41)",
+            "M12",
+            "1/8 in NPT",
+            "55",
+            "7,700 (16,940)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kf-066-p-consultar-marcas-de-cilindro-disponiveis/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kf-066-p-consultar-marcas-de-cilindro-disponiveis/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/727_KF_066_TS_P.png",
+      "bytes": 389464,
+      "sha256": "dc1d7fe7bd34f5ce79fc4b7ae98a9204c89756b5f9a139ae7b1239e787721059"
+    },
+    {
+      "path": "/images/products/kifix/kf-066-p-consultar-marcas-de-cilindro-disponiveis/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/303_KF066_P.JPG",
+      "bytes": 96618,
+      "sha256": "57a3d581f760a795213cb711369e6c5efd8e2439f6256d19259601fff0b8eb10"
+    }
+  ],
+  "checks": {
+    "variants": 1,
+    "photos": 1,
+    "drawings": 1,
+    "tableRows": 1
+  }
+}

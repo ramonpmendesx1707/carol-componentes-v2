@@ -1,0 +1,280 @@
+{
+  "id": 202082,
+  "slug": "kifix-kftb",
+  "name": "KFTB",
+  "sku": "KFTB",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kftb/",
+  "type": "product",
+  "summary": "Linha LANÇAMENTOS Kifix modelo KFTB, com 3 referências dimensionais.",
+  "description": "<p>Linha LANÇAMENTOS Kifix modelo KFTB, com 3 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "LANÇAMENTOS",
+      "slug": "lancamentos"
+    }
+  ],
+  "image": "/images/products/kifix/kftb/foto-1.png",
+  "images": [
+    "/images/products/kifix/kftb/foto-1.png",
+    "/images/products/kifix/kftb/foto-2.png",
+    "/images/products/kifix/kftb/foto-3.png",
+    "/images/products/kifix/kftb/foto-4.png",
+    "/images/products/kifix/kftb/desenho-1.png",
+    "/images/products/kifix/kftb/desenho-2.png",
+    "/images/products/kifix/kftb/desenho-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "LANÇAMENTOS"
+    }
+  ],
+  "weight": "0,29 (0,64)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230529,
+      "sku": "KFTB-06",
+      "label": "KFTB-06",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "500 (1102,31)"
+        },
+        {
+          "name": "A (in)",
+          "value": "38 (1,50)"
+        },
+        {
+          "name": "C (in)",
+          "value": "-"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "50 (1,97)"
+        },
+        {
+          "name": "E (in)",
+          "value": "8,5 (0,33)"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "76 (2,99)"
+        },
+        {
+          "name": "G (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "H (in)",
+          "value": "48 (1,89)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "R1 (in)",
+          "value": "M8X1,25"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,29 (0,64)"
+        }
+      ],
+      "weight": "0,29 (0,64)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230530,
+      "sku": "KFTB-01",
+      "label": "KFTB-01",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1500 (3306,9)"
+        },
+        {
+          "name": "A (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "C (in)",
+          "value": "33,5 (1,32)"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "100 (3,94)"
+        },
+        {
+          "name": "E (in)",
+          "value": "-"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "144,5 (5,69)"
+        },
+        {
+          "name": "G (in)",
+          "value": "50 (1,97)"
+        },
+        {
+          "name": "H (in)",
+          "value": "70 (2,76)"
+        },
+        {
+          "name": "J (in)",
+          "value": "-"
+        },
+        {
+          "name": "R1 (in)",
+          "value": "-"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,206 (2,66)"
+        }
+      ],
+      "weight": "1,206 (2,66)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230531,
+      "sku": "KFTB-02",
+      "label": "KFTB-02",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1500 (3306,9)"
+        },
+        {
+          "name": "A (in)",
+          "value": "47 (1,85)"
+        },
+        {
+          "name": "C (in)",
+          "value": "33,5 (1,32)"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "100 (3,94)"
+        },
+        {
+          "name": "E (in)",
+          "value": "-"
+        },
+        {
+          "name": "F1 (in)",
+          "value": "135 (5,31)"
+        },
+        {
+          "name": "G (in)",
+          "value": "50 (1,97)"
+        },
+        {
+          "name": "H (in)",
+          "value": "70 (2,76)"
+        },
+        {
+          "name": "J (in)",
+          "value": "-"
+        },
+        {
+          "name": "R1 (in)",
+          "value": "-"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,716 (3,78)"
+        }
+      ],
+      "weight": "1,716 (3,78)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "A (in)",
+        "C (in)",
+        "D1 (in)",
+        "E (in)",
+        "F1 (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "R1 (in)",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KFTB-06",
+          "500 (1102,31)",
+          "38 (1,50)",
+          "-",
+          "50 (1,97)",
+          "8,5 (0,33)",
+          "76 (2,99)",
+          "32 (1,26)",
+          "48 (1,89)",
+          "8 (0,31)",
+          "M8X1,25",
+          "0,29 (0,64)"
+        ],
+        [
+          "KFTB-01",
+          "1500 (3306,9)",
+          "58 (2,28)",
+          "33,5 (1,32)",
+          "100 (3,94)",
+          "-",
+          "144,5 (5,69)",
+          "50 (1,97)",
+          "70 (2,76)",
+          "-",
+          "-",
+          "1,206 (2,66)"
+        ],
+        [
+          "KFTB-02",
+          "1500 (3306,9)",
+          "47 (1,85)",
+          "33,5 (1,32)",
+          "100 (3,94)",
+          "-",
+          "135 (5,31)",
+          "50 (1,97)",
+          "70 (2,76)",
+          "-",
+          "-",
+          "1,716 (3,78)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kftb/desenho-1.png",
+        "/images/products/kifix/kftb/desenho-2.png",
+        "/images/products/kifix/kftb/desenho-3.png"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

@@ -1,0 +1,173 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kf-05-jd-h182/",
+  "fetchedAt": "2026-10-20T12:54:33.797Z",
+  "product": {
+    "id": 202027,
+    "slug": "kifix-kf-05-jd-h182",
+    "name": "KF-05 JD H182",
+    "sku": "KF-05 JD H182",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/kf-05-jd-h182/",
+    "type": "product",
+    "summary": "Linha LANÇAMENTOS Kifix modelo KF-05 JD H182, com 1 referências dimensionais.",
+    "description": "<p>Linha LANÇAMENTOS Kifix modelo KF-05 JD H182, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "LANÇAMENTOS",
+        "slug": "lancamentos"
+      }
+    ],
+    "image": "/images/products/kifix/kf-05-jd-h182/foto-1.png",
+    "images": [
+      "/images/products/kifix/kf-05-jd-h182/foto-1.png",
+      "/images/products/kifix/kf-05-jd-h182/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "LANÇAMENTOS"
+      }
+    ],
+    "weight": "2,500 (5,51)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230227,
+        "sku": "KF-05 JD H182",
+        "label": "KF-05 JD H182",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "500 (1100)"
+          },
+          {
+            "name": "A (in)",
+            "value": "2,500 (5,51)"
+          },
+          {
+            "name": "B (in)",
+            "value": "228 (8,98)"
+          },
+          {
+            "name": "C (in)",
+            "value": "80 (3,15)"
+          },
+          {
+            "name": "D (in)",
+            "value": "19,1 (0,75)"
+          },
+          {
+            "name": "E (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "F (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "G (in)",
+            "value": "63,5 (2,50)"
+          },
+          {
+            "name": "H (in)",
+            "value": "80 (3,15)"
+          },
+          {
+            "name": "J (in)",
+            "value": "10,5 (0,41)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "120"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "2,500 (5,51)"
+          }
+        ],
+        "weight": "2,500 (5,51)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "PONTEIRA",
+          "ÂNGULO DE ABERTURA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-05 JD H182",
+            "500 (1100)",
+            "2,500 (5,51)",
+            "228 (8,98)",
+            "80 (3,15)",
+            "19,1 (0,75)",
+            "30 (1,18)",
+            "55 (2,17)",
+            "63,5 (2,50)",
+            "80 (3,15)",
+            "10,5 (0,41)",
+            "M10",
+            "120",
+            "2,500 (5,51)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kf-05-jd-h182/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kf-05-jd-h182/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/984_KF05_JD_H182.png",
+      "bytes": 977162,
+      "sha256": "aa916d96e838a72a8bac1be76f30d882c42ad914acb7377f20f3647023d9fcf7"
+    },
+    {
+      "path": "/images/products/kifix/kf-05-jd-h182/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/465_KF05_JD_MAIOR01.jpg",
+      "bytes": 198266,
+      "sha256": "064db31702809c74ce5f87f117f150b49b22ee792acd907e8e4101b5de3ca88d"
+    }
+  ],
+  "checks": {
+    "variants": 1,
+    "photos": 1,
+    "drawings": 1,
+    "tableRows": 1
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/botao-trava/",
+  "fetchedAt": "2026-10-20T12:43:51.148Z",
+  "product": {
+    "id": 201005,
+    "slug": "merkbak-btm-2613-m6x14",
+    "name": "BTM 2613 M6X14",
+    "sku": "BTM 2613 M6X14",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/botao-trava/",
+    "type": "product",
+    "summary": "Botões são utilizados em ajustes/apertos/regulagens manuais",
+    "description": "<p>Botões são utilizados em ajustes/apertos/regulagens manuais</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro + rosca aço carbono zincada amarela</p><p><strong>Informações adicionais:</strong> Alta resistência / Em casos de medida de rosca específica, consultar fábrica</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Plásticos",
+        "slug": "plasticos"
+      }
+    ],
+    "image": "/images/products/merkbak/btm-2613-m6x14/1.png",
+    "images": [
+      "/images/products/merkbak/btm-2613-m6x14/1.png",
+      "/images/products/merkbak/btm-2613-m6x14/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Nylon reforçado com fibra de vidro + rosca aço carbono zincada amarela"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Botões são utilizados em ajustes/apertos/regulagens manuais"
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Alta resistência / Em casos de medida de rosca específica, consultar fábrica"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220025,
+        "sku": "BTM 2613 M6X14",
+        "label": "Padrão",
+        "attributes": [],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Nylon reforçado com fibra de vidro + rosca aço carbono zincada amarela"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Botões são utilizados em ajustes/apertos/regulagens manuais"
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Alta resistência / Em casos de medida de rosca específica, consultar fábrica"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/btm-2613-m6x14/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/MB-BTM-2613-M5X14-scaled.png",
+      "bytes": 2612343,
+      "sha256": "5f5f47922e7ae66826d5b8a81e0275debeb8ac8da17b1fa318d86767c0646deb"
+    },
+    {
+      "path": "/images/products/merkbak/btm-2613-m6x14/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/BTM_tab.png",
+      "bytes": 102410,
+      "sha256": "86e4ae94f11dcd1247b7b21131d4129be32fabe47cba0396c9dd369046cff35f"
+    }
+  ],
+  "checks": {
+    "variants": 1,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

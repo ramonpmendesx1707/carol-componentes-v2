@@ -1,0 +1,491 @@
+{
+  "id": 202051,
+  "slug": "kifix-kf-423-433-443",
+  "name": "KF-423/433/443",
+  "sku": "KF-423/433/443",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kf-423-433-443/",
+  "type": "product",
+  "summary": "Linha Grampo tensor Kifix modelo KF-423/433/443, com 4 referências dimensionais.",
+  "description": "<p>Linha Grampo tensor Kifix modelo KF-423/433/443, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo tensor",
+      "slug": "grampo-tensor"
+    }
+  ],
+  "image": "/images/products/kifix/kf-423-433-443/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-423-433-443/foto-1.png",
+    "/images/products/kifix/kf-423-433-443/foto-2.png",
+    "/images/products/kifix/kf-423-433-443/foto-3.png",
+    "/images/products/kifix/kf-423-433-443/foto-4.png",
+    "/images/products/kifix/kf-423-433-443/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo tensor"
+    }
+  ],
+  "weight": "0,230 (0,507)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230389,
+      "sku": "KF-423",
+      "label": "KF-423",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "220 (485)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "67 (2,64)"
+        },
+        {
+          "name": "A (in)",
+          "value": "77 (3,03)"
+        },
+        {
+          "name": "B (in)",
+          "value": "122 (4,80)"
+        },
+        {
+          "name": "C máx (in)",
+          "value": "83 (3,27)"
+        },
+        {
+          "name": "D (in)",
+          "value": "13 (0,51)"
+        },
+        {
+          "name": "D2 (in)",
+          "value": "142 (5,59)"
+        },
+        {
+          "name": "E (in)",
+          "value": "22,4 (0,88)"
+        },
+        {
+          "name": "F (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "G (in)",
+          "value": "35,1 (1,38)"
+        },
+        {
+          "name": "H (in)",
+          "value": "25 (0,98)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "5,1 (0,20)"
+        },
+        {
+          "name": "J2 (in)",
+          "value": "4,3 (0,17)"
+        },
+        {
+          "name": "N (in)",
+          "value": "5 (0,20)"
+        },
+        {
+          "name": "O (in)",
+          "value": "14 (0,55)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "123 (4,84)"
+        },
+        {
+          "name": "ROSCA",
+          "value": "M5"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,230 (0,507)"
+        }
+      ],
+      "weight": "0,230 (0,507)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230390,
+      "sku": "KF-423 D TR",
+      "label": "KF-423 D TR",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "220 (485)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "67 (2,64)"
+        },
+        {
+          "name": "A (in)",
+          "value": "77 (3,03)"
+        },
+        {
+          "name": "B (in)",
+          "value": "122 (4,80)"
+        },
+        {
+          "name": "C máx (in)",
+          "value": "83 (3,27)"
+        },
+        {
+          "name": "D (in)",
+          "value": "13 (0,51)"
+        },
+        {
+          "name": "D2 (in)",
+          "value": "142 (5,59)"
+        },
+        {
+          "name": "E (in)",
+          "value": "22,4 (0,88)"
+        },
+        {
+          "name": "F (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "G (in)",
+          "value": "35,1 (1,38)"
+        },
+        {
+          "name": "H (in)",
+          "value": "25 (0,98)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "5,1 (0,20)"
+        },
+        {
+          "name": "J2 (in)",
+          "value": "4,3 (0,17)"
+        },
+        {
+          "name": "N (in)",
+          "value": "5 (0,20)"
+        },
+        {
+          "name": "O (in)",
+          "value": "14 (0,55)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "123 (4,84"
+        },
+        {
+          "name": "ROSCA",
+          "value": "M5"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,231 (0,509)"
+        }
+      ],
+      "weight": "0,231 (0,509)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230391,
+      "sku": "KF-433",
+      "label": "KF-433",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "450 (992)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "A (in)",
+          "value": "84 (3,31)"
+        },
+        {
+          "name": "B (in)",
+          "value": "162 (6,38)"
+        },
+        {
+          "name": "C máx (in)",
+          "value": "80 (3,15)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "D2 (in)",
+          "value": "20,6 (0,81)"
+        },
+        {
+          "name": "E (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "F (in)",
+          "value": "33,3 (1,31)"
+        },
+        {
+          "name": "G (in)",
+          "value": "39,6 (1,56)"
+        },
+        {
+          "name": "H (in)",
+          "value": "32 (1,26)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "7,1 (0,28)"
+        },
+        {
+          "name": "J2 (in)",
+          "value": "5,6 (0,22)"
+        },
+        {
+          "name": "N (in)",
+          "value": "6 (0,24)"
+        },
+        {
+          "name": "O (in)",
+          "value": "17 (0,67)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "135 (5,31)"
+        },
+        {
+          "name": "ROSCA",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,400 (0,882)"
+        }
+      ],
+      "weight": "0,400 (0,882)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230392,
+      "sku": "KF-443",
+      "label": "KF-443",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "890 (1958)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "A (in)",
+          "value": "93 (3,66)"
+        },
+        {
+          "name": "B (in)",
+          "value": "194 (7,64)"
+        },
+        {
+          "name": "C máx (in)",
+          "value": "88 (3,46)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (0,75)"
+        },
+        {
+          "name": "D2 (in)",
+          "value": "27 (1,06)"
+        },
+        {
+          "name": "E (in)",
+          "value": "36,6 (1,44)"
+        },
+        {
+          "name": "F (in)",
+          "value": "49,3 (1,94)"
+        },
+        {
+          "name": "G (in)",
+          "value": "53,8 (2,12)"
+        },
+        {
+          "name": "H (in)",
+          "value": "38 (1,50)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "8,6 (0,34)"
+        },
+        {
+          "name": "J2 (in)",
+          "value": "8,6 (0,34)"
+        },
+        {
+          "name": "N (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "O (in)",
+          "value": "21 (0,83)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "135 (5,31)"
+        },
+        {
+          "name": "ROSCA",
+          "value": "M8"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,890 (1,962)"
+        }
+      ],
+      "weight": "0,890 (1,962)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "CURSO (in)",
+        "A (in)",
+        "B (in)",
+        "C máx (in)",
+        "D (in)",
+        "D2 (in)",
+        "E (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "J1 (in)",
+        "J2 (in)",
+        "N (in)",
+        "O (in)",
+        "Q (in)",
+        "ROSCA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-423",
+          "220 (485)",
+          "67 (2,64)",
+          "77 (3,03)",
+          "122 (4,80)",
+          "83 (3,27)",
+          "13 (0,51)",
+          "142 (5,59)",
+          "22,4 (0,88)",
+          "25,4 (1,00)",
+          "35,1 (1,38)",
+          "25 (0,98)",
+          "5,1 (0,20)",
+          "4,3 (0,17)",
+          "5 (0,20)",
+          "14 (0,55)",
+          "123 (4,84)",
+          "M5",
+          "0,230 (0,507)"
+        ],
+        [
+          "KF-423 D TR",
+          "220 (485)",
+          "67 (2,64)",
+          "77 (3,03)",
+          "122 (4,80)",
+          "83 (3,27)",
+          "13 (0,51)",
+          "142 (5,59)",
+          "22,4 (0,88)",
+          "25,4 (1,00)",
+          "35,1 (1,38)",
+          "25 (0,98)",
+          "5,1 (0,20)",
+          "4,3 (0,17)",
+          "5 (0,20)",
+          "14 (0,55)",
+          "123 (4,84",
+          "M5",
+          "0,231 (0,509)"
+        ],
+        [
+          "KF-433",
+          "450 (992)",
+          "57 (2,24)",
+          "84 (3,31)",
+          "162 (6,38)",
+          "80 (3,15)",
+          "19 (0,75)",
+          "20,6 (0,81)",
+          "25,4 (1,00)",
+          "33,3 (1,31)",
+          "39,6 (1,56)",
+          "32 (1,26)",
+          "7,1 (0,28)",
+          "5,6 (0,22)",
+          "6 (0,24)",
+          "17 (0,67)",
+          "135 (5,31)",
+          "M6",
+          "0,400 (0,882)"
+        ],
+        [
+          "KF-443",
+          "890 (1958)",
+          "57 (2,24)",
+          "93 (3,66)",
+          "194 (7,64)",
+          "88 (3,46)",
+          "32 (0,75)",
+          "27 (1,06)",
+          "36,6 (1,44)",
+          "49,3 (1,94)",
+          "53,8 (2,12)",
+          "38 (1,50)",
+          "8,6 (0,34)",
+          "8,6 (0,34)",
+          "8 (0,31)",
+          "21 (0,83)",
+          "135 (5,31)",
+          "M8",
+          "0,890 (1,962)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-423-433-443/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

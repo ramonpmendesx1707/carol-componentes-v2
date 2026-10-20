@@ -1,5 +1,5 @@
 {
-  "id": 200046,
+  "id": 200015,
   "slug": "vibra-stop-com-chapa",
   "name": "Vibra-Stop Mola Simples Com Chapa",
   "sku": "Com Chapa",
@@ -36,7 +36,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240238,
+      "id": 210057,
       "sku": "MSCC30",
       "label": "MSCC30",
       "attributes": [
@@ -78,7 +78,7 @@
       "image": null
     },
     {
-      "id": 240239,
+      "id": 210058,
       "sku": "MSCC50",
       "label": "MSCC50",
       "attributes": [
@@ -120,7 +120,7 @@
       "image": null
     },
     {
-      "id": 240240,
+      "id": 210059,
       "sku": "MSCC100",
       "label": "MSCC100",
       "attributes": [
@@ -162,7 +162,7 @@
       "image": null
     },
     {
-      "id": 240241,
+      "id": 210060,
       "sku": "MSCC200",
       "label": "MSCC200",
       "attributes": [
@@ -204,7 +204,7 @@
       "image": null
     },
     {
-      "id": 240242,
+      "id": 210061,
       "sku": "MSCC300",
       "label": "MSCC300",
       "attributes": [
@@ -246,7 +246,7 @@
       "image": null
     },
     {
-      "id": 240243,
+      "id": 210062,
       "sku": "MSCC400",
       "label": "MSCC400",
       "attributes": [
@@ -288,7 +288,7 @@
       "image": null
     },
     {
-      "id": 240244,
+      "id": 210063,
       "sku": "MSCC500",
       "label": "MSCC500",
       "attributes": [
@@ -330,7 +330,7 @@
       "image": null
     },
     {
-      "id": 240245,
+      "id": 210064,
       "sku": "MSCC700",
       "label": "MSCC700",
       "attributes": [
@@ -372,7 +372,7 @@
       "image": null
     },
     {
-      "id": 240246,
+      "id": 210065,
       "sku": "MSCC1000",
       "label": "MSCC1000",
       "attributes": [
@@ -414,7 +414,7 @@
       "image": null
     },
     {
-      "id": 240247,
+      "id": 210066,
       "sku": "MSCC1500",
       "label": "MSCC1500",
       "attributes": [
@@ -456,7 +456,7 @@
       "image": null
     },
     {
-      "id": 240248,
+      "id": 210067,
       "sku": "MSCC2000",
       "label": "MSCC2000",
       "attributes": [
@@ -498,7 +498,7 @@
       "image": null
     },
     {
-      "id": 240249,
+      "id": 210068,
       "sku": "MSCC2500",
       "label": "MSCC2500",
       "attributes": [
@@ -546,6 +546,12 @@
       "url": "/downloads/products/vibra-stop/com-chapa/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Simples%20Com%20Chapa.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [],

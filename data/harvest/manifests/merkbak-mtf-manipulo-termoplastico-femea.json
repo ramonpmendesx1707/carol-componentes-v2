@@ -1,0 +1,424 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/manipulo-termoplastico-femea/",
+  "fetchedAt": "2026-10-20T12:49:11.134Z",
+  "product": {
+    "id": 201036,
+    "slug": "merkbak-mtf-manipulo-termoplastico-femea",
+    "name": "MTF – Manípulo Termoplástico Fêmea",
+    "sku": "MTF",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/manipulo-termoplastico-femea/",
+    "type": "product",
+    "summary": "Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais.",
+    "description": "<p>Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais.</p><p><strong>Material:</strong> Polipropileno + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Média resistência</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Manípulos",
+        "slug": "manipulos"
+      }
+    ],
+    "image": "/images/products/merkbak/mtf-manipulo-termoplastico-femea/1.png",
+    "images": [
+      "/images/products/merkbak/mtf-manipulo-termoplastico-femea/1.png",
+      "/images/products/merkbak/mtf-manipulo-termoplastico-femea/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Polipropileno + inserto rosca latão"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais."
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Média resistência"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220205,
+        "sku": "MTF 3522 M6",
+        "label": "MTF 3522 M6",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 3522 M6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220206,
+        "sku": "MTF 3522 1/4",
+        "label": "MTF 3522 1/4",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 3522 1/4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220207,
+        "sku": "MTF 3522 5/16",
+        "label": "MTF 3522 5/16",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 3522 5/16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220208,
+        "sku": "MTF 3522 M8",
+        "label": "MTF 3522 M8",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 3522 M8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220209,
+        "sku": "MTF 4526 M6",
+        "label": "MTF 4526 M6",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 4526 M6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220210,
+        "sku": "MTF 4526 1/4",
+        "label": "MTF 4526 1/4",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 4526 1/4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220211,
+        "sku": "MTF 4526 5/16",
+        "label": "MTF 4526 5/16",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 4526 5/16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220212,
+        "sku": "MTF 4526 M8",
+        "label": "MTF 4526 M8",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 4526 M8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220213,
+        "sku": "MTF 4526 3/8",
+        "label": "MTF 4526 3/8",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 4526 3/8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220214,
+        "sku": "MTF 4526 M10",
+        "label": "MTF 4526 M10",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 4526 M10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220215,
+        "sku": "MTF 6040 5/16",
+        "label": "MTF 6040 5/16",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 6040 5/16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220216,
+        "sku": "MTF 6040 M8",
+        "label": "MTF 6040 M8",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 6040 M8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220217,
+        "sku": "MTF 6040 3/8",
+        "label": "MTF 6040 3/8",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 6040 3/8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220218,
+        "sku": "MTF 6040 M10",
+        "label": "MTF 6040 M10",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 6040 M10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220219,
+        "sku": "MTF 6040 M12",
+        "label": "MTF 6040 M12",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 6040 M12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220220,
+        "sku": "MTF 6040 1/2",
+        "label": "MTF 6040 1/2",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 6040 1/2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220221,
+        "sku": "MTF 7035 3/8",
+        "label": "MTF 7035 3/8",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 7035 3/8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220222,
+        "sku": "MTF 7035 1/2",
+        "label": "MTF 7035 1/2",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "MTF 7035 1/2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Polipropileno + inserto rosca latão"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Manípulos são a solução para máquinas e equipamentos que exigem manipulação para ajustes, apertos e fixações manuais."
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Média resistência"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "MTF 3522 M6"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 3522 1/4"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 3522 5/16"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 3522 M8"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 4526 M6"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 4526 1/4"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 4526 5/16"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 4526 M8"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 4526 3/8"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 4526 M10"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 6040 5/16"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 6040 M8"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 6040 3/8"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 6040 M10"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 6040 M12"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 6040 1/2"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 7035 3/8"
+          },
+          {
+            "name": "Medida",
+            "value": "MTF 7035 1/2"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/mtf-manipulo-termoplastico-femea/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/036-mtf-copiar-e1779476775590.png",
+      "bytes": 45108,
+      "sha256": "d951115650a89a612ee337364fb1612a493a5a1f587d1b66f03bc313bb707a29"
+    },
+    {
+      "path": "/images/products/merkbak/mtf-manipulo-termoplastico-femea/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/MTF_tab.png",
+      "bytes": 119922,
+      "sha256": "b21476c356802037e6e464f62d41aba63b6e6edc41e715246f8b46ba3b55d21b"
+    }
+  ],
+  "checks": {
+    "variants": 18,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

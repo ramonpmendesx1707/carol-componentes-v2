@@ -77,5 +77,62 @@
   ],
   "headings": [
     "Vibra-Stop Calço de Borracha"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-videos",
+      "label": "Vídeo",
+      "text": "play_arrow\nvolume_up\n0:00 / 0:52\nfullscreen",
+      "images": [],
+      "videos": [
+        "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-calco-de-borracha.mp4"
+      ],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/CALCO%20BORRACHA/Calco%20Borracha%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/CALCO%20BORRACHA/Calco%20Borracha%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade de Carga\tDeflexão\tAltura\tLargura\tDureza\nMedidas\tKgf\tmm/Kgf\t(e) mm\t(L) mm\tShore A\nPP\t5 a 100\t2,9/100\t15\t50\t60\nP\t50 a 700\t3,8/700\t25\t100\t60\nM\t100 a 1.500\t6,2/1.500\t50\t100\t70\nG\t200 a 1.500\t4,6/1.500\t30\t150\t70\nGG\t300 a 7.000\t6,9/7.000\t50\t200\t70",
+      "images": [],
+      "videos": [],
+      "tables": [
+        7
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/CALCO%20BORRACHA/Manual%20de%20Instalacao%20-%20CALCO%20BORRACHA.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:57:06.879Z"
 }

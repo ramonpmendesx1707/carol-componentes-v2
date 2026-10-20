@@ -1,5 +1,5 @@
 {
-  "id": 200033,
+  "id": 200060,
   "slug": "vibra-stop-ventosa",
   "name": "Vibra-Stop Ventosa",
   "sku": "Ventosa",
@@ -32,7 +32,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240133,
+      "id": 210383,
       "sku": "VT I",
       "label": "VT I",
       "attributes": [
@@ -66,7 +66,7 @@
       "image": null
     },
     {
-      "id": 240134,
+      "id": 210384,
       "sku": "VT II",
       "label": "VT II",
       "attributes": [
@@ -100,7 +100,7 @@
       "image": null
     },
     {
-      "id": 240135,
+      "id": 210385,
       "sku": "VT III",
       "label": "VT III",
       "attributes": [
@@ -134,7 +134,7 @@
       "image": null
     },
     {
-      "id": 240136,
+      "id": 210386,
       "sku": "VT IV",
       "label": "VT IV",
       "attributes": [
@@ -174,6 +174,12 @@
       "url": "/downloads/products/vibra-stop/ventosa/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Ventosa.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [

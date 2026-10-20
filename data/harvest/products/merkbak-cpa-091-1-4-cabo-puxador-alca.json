@@ -1,0 +1,81 @@
+{
+  "id": 201018,
+  "slug": "merkbak-cpa-091-1-4-cabo-puxador-alca",
+  "name": "CPA 091 1/4 – Cabo Puxador Alça",
+  "sku": "CPA 091 1/4",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-puxador-alca/",
+  "type": "product",
+  "summary": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação",
+  "description": "<p>Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Isolante térmico / Rosca direto no baquelite 1/4</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Baquelite",
+      "slug": "baquelite"
+    }
+  ],
+  "image": "/images/products/merkbak/cpa-091-1-4-cabo-puxador-alca/1.png",
+  "images": [
+    "/images/products/merkbak/cpa-091-1-4-cabo-puxador-alca/1.png",
+    "/images/products/merkbak/cpa-091-1-4-cabo-puxador-alca/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Baquelite"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Higienização eficiente / Isolante térmico / Rosca direto no baquelite 1/4"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220069,
+      "sku": "CPA 091 1/4 – Cabo Puxador Alça",
+      "label": "Padrão",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Baquelite"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Higienização eficiente / Isolante térmico / Rosca direto no baquelite 1/4"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

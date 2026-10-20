@@ -93,5 +93,62 @@
   ],
   "headings": [
     "Vibra-Stop Tradicional Sem Chapa"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-videos",
+      "label": "Vídeo",
+      "text": "play_arrow\nvolume_up\nfullscreen",
+      "images": [],
+      "videos": [
+        "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tradicional.mp4"
+      ],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TRADICIONAL/SEM%20CHAPA/Tradicional%20SC%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TRADICIONAL/SEM%20CHAPA/Tradicional%20SC%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCarga Estática\tCarga Dinâmica\tDeflexão\tParafuso\tAltura Regulável\tDiâmetro\nMedidas\tKgf\tKgf\tmm/Kgf\t(d)\t(H) mm\t(D) mm\nMac\t50 a 200\t200 a 800\t3,13/200\t1/4”, 5/16”, 3/8”\t25~30\t62\nMini\t200 a 500\t800 a 2.000\t3,35/500\t3/8”, 1/2\", 5/8”\t35~50\t90\nStandard\t500 a 1.500\t2.000 a 6.000\t4,25/1500\t1/2\", 5/8”, 3/4\"\t45~60\t115\nIntermediário\t1.500 a 5.000\t6.000 a 20.000\t6,21/5000\t5/8”, 3/4\", 1”\t55~75\t150\nSuper\t5.000 a 10.000\t20.000 a 40.000\t7,7/10000\t5/8\", 3/4”, 1\"\t55~75\t190\nMega\t10.000 a 20.000\t40.000 a 80.000\t9,07/20000\t3/4\", 1”, 1 ½ \"\t70~90\t230",
+      "images": [],
+      "videos": [],
+      "tables": [
+        8
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/TRADICIONAL/SEM%20CHAPA/Manual%20de%20Instalacao%20-%20TRADICIONAL.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:55:59.897Z"
 }

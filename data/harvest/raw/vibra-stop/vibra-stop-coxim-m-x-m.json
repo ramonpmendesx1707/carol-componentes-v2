@@ -81,5 +81,62 @@
   ],
   "headings": [
     "Vibra-Stop Coxim M x M"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-videos",
+      "label": "Vídeo",
+      "text": "play_arrow\nvolume_up\n0:00 / 2:49\nfullscreen",
+      "images": [],
+      "videos": [
+        "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-coxim.mp4"
+      ],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/COXIM/MxM%20-%20FxF%20-%20MxF/Coxim%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/COXIM/MxM%20-%20FxF%20-%20MxF/Coxim%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade à Compressão\tCapacidade à Tração\tDeflexão\tParafuso\tAltura\tAltura da borracha\tDiâmetro\tCapacidade ao Cisalhamento\tDiâmetro da Cintura\nMedidas\tKgf\tKgf\tmm/Kgf\t(d) mm\t(H) mm\t(h) mm\t(D) mm\tKgf\t(c) mm\nCX1\t10 a 70\t2 a 14\t1,11/70\t1/4”, 5/16”, M6, M8\t90\t30\t30\t5 a 14\t23\nCX2\t70 a 150\t14 a 30\t7,7/100\t5/16”, 3/8”, M8, M10\t130\t50\t50\t14 a 30\t39\nCX3\t150 a 250\t30 a 50\t10,33/250\t3/8”, 1/2\", M10, M12\t170\t70\t70\t30 a 50\t52",
+      "images": [],
+      "videos": [],
+      "tables": [
+        5
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/COXIM/MxM/Manual%20de%20Instalacao%20-%20COXIM%20MxM.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:57:27.870Z"
 }

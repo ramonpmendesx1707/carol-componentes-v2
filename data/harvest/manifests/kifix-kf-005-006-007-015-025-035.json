@@ -1,0 +1,1520 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo-frontal/kf-005-006-007-015-025-035/",
+  "fetchedAt": "2026-10-20T13:02:27.968Z",
+  "product": {
+    "id": 202015,
+    "slug": "kifix-kf-005-006-007-015-025-035",
+    "name": "KF-005/006/007/015/025/035",
+    "sku": "KF-005/006/007/015/025/035",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo-frontal/kf-005-006-007-015-025-035/",
+    "type": "product",
+    "summary": "Linha Grampo Torpedo frontal Kifix modelo KF-005/006/007/015/025/035, com 17 referências dimensionais.",
+    "description": "<p>Linha Grampo Torpedo frontal Kifix modelo KF-005/006/007/015/025/035, com 17 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo Torpedo frontal",
+        "slug": "grampo-torpedo-frontal"
+      }
+    ],
+    "image": "/images/products/kifix/kf-005-006-007-015-025-035/foto-1.png",
+    "images": [
+      "/images/products/kifix/kf-005-006-007-015-025-035/foto-1.png",
+      "/images/products/kifix/kf-005-006-007-015-025-035/foto-2.png",
+      "/images/products/kifix/kf-005-006-007-015-025-035/foto-3.png",
+      "/images/products/kifix/kf-005-006-007-015-025-035/foto-4.png",
+      "/images/products/kifix/kf-005-006-007-015-025-035/foto-5.png",
+      "/images/products/kifix/kf-005-006-007-015-025-035/foto-6.png",
+      "/images/products/kifix/kf-005-006-007-015-025-035/foto-7.png",
+      "/images/products/kifix/kf-005-006-007-015-025-035/foto-8.png",
+      "/images/products/kifix/kf-005-006-007-015-025-035/foto-9.png",
+      "/images/products/kifix/kf-005-006-007-015-025-035/foto-10.png",
+      "/images/products/kifix/kf-005-006-007-015-025-035/foto-11.png",
+      "/images/products/kifix/kf-005-006-007-015-025-035/foto-12.png",
+      "/images/products/kifix/kf-005-006-007-015-025-035/foto-13.png",
+      "/images/products/kifix/kf-005-006-007-015-025-035/foto-14.png",
+      "/images/products/kifix/kf-005-006-007-015-025-035/desenho-1.jpg",
+      "/images/products/kifix/kf-005-006-007-015-025-035/desenho-2.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo Torpedo frontal"
+      }
+    ],
+    "weight": "0,190 (0,418)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230092,
+        "sku": "KF-005",
+        "label": "KF-005",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "150 (330)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "A (in)",
+            "value": "79 (3,11)"
+          },
+          {
+            "name": "B (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "C (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "D (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "E (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "H (in)",
+            "value": "21 (0,83)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M16X1,50"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M6X1,00"
+          },
+          {
+            "name": "N (in)",
+            "value": "9,5 (0,37)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M6"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,190 (0,418)"
+          }
+        ],
+        "weight": "0,190 (0,418)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230093,
+        "sku": "KF-005 TR",
+        "label": "KF-005 TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "150 (330)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "A (in)",
+            "value": "79 (3,11)"
+          },
+          {
+            "name": "B (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "C (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "D (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "E (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "H (in)",
+            "value": "21 (0,83)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M16X1,50"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M6X1,00"
+          },
+          {
+            "name": "N (in)",
+            "value": "9,5 (0,37)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M6"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,190 (0,418)"
+          }
+        ],
+        "weight": "0,190 (0,418)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230094,
+        "sku": "KF-006",
+        "label": "KF-006",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "39 (1,54)"
+          },
+          {
+            "name": "A (in)",
+            "value": "107 (4,21)"
+          },
+          {
+            "name": "B (in)",
+            "value": "105 (4,13)"
+          },
+          {
+            "name": "C (in)",
+            "value": "16,5 (0,65)"
+          },
+          {
+            "name": "D (in)",
+            "value": "31 (1,22)"
+          },
+          {
+            "name": "E (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "H (in)",
+            "value": "39 (1,54)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M20X1,50"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M8X1,25"
+          },
+          {
+            "name": "N (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,420 (0,924)"
+          }
+        ],
+        "weight": "0,420 (0,924)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230095,
+        "sku": "KF-006 TR",
+        "label": "KF-006 TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "39 (1,54)"
+          },
+          {
+            "name": "A (in)",
+            "value": "107 (4,21)"
+          },
+          {
+            "name": "B (in)",
+            "value": "105 (4,13)"
+          },
+          {
+            "name": "C (in)",
+            "value": "16,5 (0,65)"
+          },
+          {
+            "name": "D (in)",
+            "value": "31 (1,22)"
+          },
+          {
+            "name": "E (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "H (in)",
+            "value": "39 (1,54)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M20X1,50"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M8X1,25"
+          },
+          {
+            "name": "N (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,420 (0,924)"
+          }
+        ],
+        "weight": "0,420 (0,924)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230096,
+        "sku": "KF-007",
+        "label": "KF-007",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "41 (1,61)"
+          },
+          {
+            "name": "A (in)",
+            "value": "125 (4,92)"
+          },
+          {
+            "name": "B (in)",
+            "value": "125 (4,92)"
+          },
+          {
+            "name": "C (in)",
+            "value": "18 (0,71)"
+          },
+          {
+            "name": "D (in)",
+            "value": "25,4 (1,00)"
+          },
+          {
+            "name": "E (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "H (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M20X1,50"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M8X1,25"
+          },
+          {
+            "name": "N (in)",
+            "value": "12,7 (0,50)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,490 (1,078)"
+          }
+        ],
+        "weight": "0,490 (1,078)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230097,
+        "sku": "KF-007 TR",
+        "label": "KF-007 TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "41 (1,61)"
+          },
+          {
+            "name": "A (in)",
+            "value": "135 (5,31)"
+          },
+          {
+            "name": "B (in)",
+            "value": "125 (4,92)"
+          },
+          {
+            "name": "C (in)",
+            "value": "18 (0,71)"
+          },
+          {
+            "name": "D (in)",
+            "value": "25,4 (1,00)"
+          },
+          {
+            "name": "E (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "H (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M20X1,50"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M8X1,25"
+          },
+          {
+            "name": "N (in)",
+            "value": "12,7 (0,50)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,515 (1,133)"
+          }
+        ],
+        "weight": "0,515 (1,133)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230098,
+        "sku": "KF-007 TR A",
+        "label": "KF-007 TR A",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "41 (1,61)"
+          },
+          {
+            "name": "A (in)",
+            "value": "135 (5,31)"
+          },
+          {
+            "name": "B (in)",
+            "value": "125 (4,92)"
+          },
+          {
+            "name": "C (in)",
+            "value": "18 (0,71)"
+          },
+          {
+            "name": "D (in)",
+            "value": "25,4 (1,00)"
+          },
+          {
+            "name": "E (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "H (in)",
+            "value": "43 (1,69)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M20X1,50"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M8X1,25"
+          },
+          {
+            "name": "N (in)",
+            "value": "12,7 (0,50)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,508 (1,12)"
+          }
+        ],
+        "weight": "0,508 (1,12)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230099,
+        "sku": "KF-009",
+        "label": "KF-009",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "150 (330)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "A (in)",
+            "value": "109 (4,29)"
+          },
+          {
+            "name": "B (in)",
+            "value": "138 (5,43)"
+          },
+          {
+            "name": "C (in)",
+            "value": "16,5 (0,65)"
+          },
+          {
+            "name": "D (in)",
+            "value": "31 (1,22)"
+          },
+          {
+            "name": "E (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "H (in)",
+            "value": "62 (2,44)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M20X1,50"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M8X1,25"
+          },
+          {
+            "name": "N (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,460 (1,01)"
+          }
+        ],
+        "weight": "0,460 (1,01)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230100,
+        "sku": "KF-015",
+        "label": "KF-015",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "250 (550)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "34 (1,33)"
+          },
+          {
+            "name": "A (in)",
+            "value": "115 (4,53)"
+          },
+          {
+            "name": "B (in)",
+            "value": "137 (5,39)"
+          },
+          {
+            "name": "C (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "D (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "E (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "H (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M20X1,50"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M8X1,25"
+          },
+          {
+            "name": "N (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,470 (1,034)"
+          }
+        ],
+        "weight": "0,470 (1,034)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230101,
+        "sku": "KF-015 IV",
+        "label": "KF-015 IV",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "250 (550)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "34 (1,34)"
+          },
+          {
+            "name": "A (in)",
+            "value": "125 (4,92)"
+          },
+          {
+            "name": "B (in)",
+            "value": "142 (5,59)"
+          },
+          {
+            "name": "C (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "D (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "E (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "H (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M20X1,50"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M8X1,25"
+          },
+          {
+            "name": "N (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,470 (1,034)"
+          }
+        ],
+        "weight": "0,470 (1,034)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230102,
+        "sku": "KF-015 F 90",
+        "label": "KF-015 F 90",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "250 (550)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "34 (1,33)"
+          },
+          {
+            "name": "A (in)",
+            "value": "180 (7,08)"
+          },
+          {
+            "name": "B (in)",
+            "value": "142 (5,59)"
+          },
+          {
+            "name": "C (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "D (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "E (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "H (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M20X1,50"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M8X1,25"
+          },
+          {
+            "name": "N (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,570 (1,256)"
+          }
+        ],
+        "weight": "0,570 (1,256)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230103,
+        "sku": "KF-015 TR",
+        "label": "KF-015 TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "250 (550)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "34 (1,34)"
+          },
+          {
+            "name": "A (in)",
+            "value": "142 (5,59)"
+          },
+          {
+            "name": "B (in)",
+            "value": "137 (5,39)"
+          },
+          {
+            "name": "C (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "D (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "E (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "H (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M20X1,50"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M8X1,25"
+          },
+          {
+            "name": "N (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,540 (1,188)"
+          }
+        ],
+        "weight": "0,540 (1,188)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230104,
+        "sku": "KF-025",
+        "label": "KF-025",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "500 (1100)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "A (in)",
+            "value": "132 (5,20)"
+          },
+          {
+            "name": "B (in)",
+            "value": "180 (7,09)"
+          },
+          {
+            "name": "C (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "H (in)",
+            "value": "47 (1,85)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M24X2,00"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "N (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,990 (2,178)"
+          }
+        ],
+        "weight": "0,990 (2,178)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230105,
+        "sku": "KF-025 TR",
+        "label": "KF-025 TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "500 (1100)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "A (in)",
+            "value": "132 (5,20)"
+          },
+          {
+            "name": "B (in)",
+            "value": "180 (7,09)"
+          },
+          {
+            "name": "C (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "H (in)",
+            "value": "47 (1,85)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M24X2,00"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "N (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,020 (2,244)"
+          }
+        ],
+        "weight": "1,020 (2,244)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230106,
+        "sku": "KF-025 L",
+        "label": "KF-025 L",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "99 (3,90)"
+          },
+          {
+            "name": "A (in)",
+            "value": "151 (5,94)"
+          },
+          {
+            "name": "B (in)",
+            "value": "316 (12,44)"
+          },
+          {
+            "name": "C (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "H (in)",
+            "value": "102 (4,02)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M24X2,00"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "N (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,400 (3,080)"
+          }
+        ],
+        "weight": "1,400 (3,080)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230107,
+        "sku": "KF-035",
+        "label": "KF-035",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "320 (704)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "66 (2,60)"
+          },
+          {
+            "name": "A (in)",
+            "value": "143 (5,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "175 (6,89)"
+          },
+          {
+            "name": "C (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "D (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "E (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "H (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M24X2,00"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "N (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,920 (2,024)"
+          }
+        ],
+        "weight": "0,920 (2,024)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230108,
+        "sku": "KF-035 TR",
+        "label": "KF-035 TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "320 (704)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "66 (2,60)"
+          },
+          {
+            "name": "A (in)",
+            "value": "143 (5,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "175 (6,89)"
+          },
+          {
+            "name": "C (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "D (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "E (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "H (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M24X2,00"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M10X1,50"
+          },
+          {
+            "name": "N (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,980 (2,156)"
+          }
+        ],
+        "weight": "0,980 (2,156)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "CURSO (in)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "H (in)",
+          "J (in)",
+          "J1 (in)",
+          "N (in)",
+          "PONTEIRA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-005",
+            "150 (330)",
+            "20 (0,79)",
+            "79 (3,11)",
+            "60 (2,36)",
+            "12 (0,47)",
+            "26 (1,02)",
+            "8 (0,31)",
+            "21 (0,83)",
+            "M16X1,50",
+            "M6X1,00",
+            "9,5 (0,37)",
+            "M6",
+            "0,190 (0,418)"
+          ],
+          [
+            "KF-005 TR",
+            "150 (330)",
+            "20 (0,79)",
+            "79 (3,11)",
+            "60 (2,36)",
+            "12 (0,47)",
+            "26 (1,02)",
+            "8 (0,31)",
+            "21 (0,83)",
+            "M16X1,50",
+            "M6X1,00",
+            "9,5 (0,37)",
+            "M6",
+            "0,190 (0,418)"
+          ],
+          [
+            "KF-006",
+            "200 (440)",
+            "39 (1,54)",
+            "107 (4,21)",
+            "105 (4,13)",
+            "16,5 (0,65)",
+            "31 (1,22)",
+            "9 (0,35)",
+            "39 (1,54)",
+            "M20X1,50",
+            "M8X1,25",
+            "12 (0,47)",
+            "M8",
+            "0,420 (0,924)"
+          ],
+          [
+            "KF-006 TR",
+            "200 (440)",
+            "39 (1,54)",
+            "107 (4,21)",
+            "105 (4,13)",
+            "16,5 (0,65)",
+            "31 (1,22)",
+            "9 (0,35)",
+            "39 (1,54)",
+            "M20X1,50",
+            "M8X1,25",
+            "12 (0,47)",
+            "M8",
+            "0,420 (0,924)"
+          ],
+          [
+            "KF-007",
+            "200 (440)",
+            "41 (1,61)",
+            "125 (4,92)",
+            "125 (4,92)",
+            "18 (0,71)",
+            "25,4 (1,00)",
+            "9 (0,35)",
+            "42 (1,65)",
+            "M20X1,50",
+            "M8X1,25",
+            "12,7 (0,50)",
+            "M8",
+            "0,490 (1,078)"
+          ],
+          [
+            "KF-007 TR",
+            "200 (440)",
+            "41 (1,61)",
+            "135 (5,31)",
+            "125 (4,92)",
+            "18 (0,71)",
+            "25,4 (1,00)",
+            "9 (0,35)",
+            "42 (1,65)",
+            "M20X1,50",
+            "M8X1,25",
+            "12,7 (0,50)",
+            "M8",
+            "0,515 (1,133)"
+          ],
+          [
+            "KF-007 TR A",
+            "200 (440)",
+            "41 (1,61)",
+            "135 (5,31)",
+            "125 (4,92)",
+            "18 (0,71)",
+            "25,4 (1,00)",
+            "9 (0,35)",
+            "43 (1,69)",
+            "M20X1,50",
+            "M8X1,25",
+            "12,7 (0,50)",
+            "M8",
+            "0,508 (1,12)"
+          ],
+          [
+            "KF-009",
+            "150 (330)",
+            "60 (2,36)",
+            "109 (4,29)",
+            "138 (5,43)",
+            "16,5 (0,65)",
+            "31 (1,22)",
+            "9 (0,35)",
+            "62 (2,44)",
+            "M20X1,50",
+            "M8X1,25",
+            "12 (0,47)",
+            "M8",
+            "0,460 (1,01)"
+          ],
+          [
+            "KF-015",
+            "250 (550)",
+            "34 (1,33)",
+            "115 (4,53)",
+            "137 (5,39)",
+            "20 (0,79)",
+            "25 (0,98)",
+            "9 (0,35)",
+            "35 (1,38)",
+            "M20X1,50",
+            "M8X1,25",
+            "12 (0,47)",
+            "M8",
+            "0,470 (1,034)"
+          ],
+          [
+            "KF-015 IV",
+            "250 (550)",
+            "34 (1,34)",
+            "125 (4,92)",
+            "142 (5,59)",
+            "20 (0,79)",
+            "25 (0,98)",
+            "9 (0,35)",
+            "35 (1,38)",
+            "M20X1,50",
+            "M8X1,25",
+            "12 (0,47)",
+            "M8",
+            "0,470 (1,034)"
+          ],
+          [
+            "KF-015 F 90",
+            "250 (550)",
+            "34 (1,33)",
+            "180 (7,08)",
+            "142 (5,59)",
+            "20 (0,79)",
+            "25 (0,98)",
+            "9 (0,35)",
+            "35 (1,38)",
+            "M20X1,50",
+            "M8X1,25",
+            "12 (0,47)",
+            "M8",
+            "0,570 (1,256)"
+          ],
+          [
+            "KF-015 TR",
+            "250 (550)",
+            "34 (1,34)",
+            "142 (5,59)",
+            "137 (5,39)",
+            "20 (0,79)",
+            "25 (0,98)",
+            "9 (0,35)",
+            "35 (1,38)",
+            "M20X1,50",
+            "M8X1,25",
+            "12 (0,47)",
+            "M8",
+            "0,540 (1,188)"
+          ],
+          [
+            "KF-025",
+            "500 (1100)",
+            "40 (1,57)",
+            "132 (5,20)",
+            "180 (7,09)",
+            "25 (0,98)",
+            "32 (1,26)",
+            "10 (0,39)",
+            "47 (1,85)",
+            "M24X2,00",
+            "M10X1,50",
+            "16 (0,63)",
+            "M10",
+            "0,990 (2,178)"
+          ],
+          [
+            "KF-025 TR",
+            "500 (1100)",
+            "40 (1,57)",
+            "132 (5,20)",
+            "180 (7,09)",
+            "25 (0,98)",
+            "32 (1,26)",
+            "10 (0,39)",
+            "47 (1,85)",
+            "M24X2,00",
+            "M10X1,50",
+            "16 (0,63)",
+            "M10",
+            "1,020 (2,244)"
+          ],
+          [
+            "KF-025 L",
+            "300 (660)",
+            "99 (3,90)",
+            "151 (5,94)",
+            "316 (12,44)",
+            "25 (0,98)",
+            "32 (1,26)",
+            "10 (0,39)",
+            "102 (4,02)",
+            "M24X2,00",
+            "M10X1,50",
+            "16 (0,63)",
+            "M10",
+            "1,400 (3,080)"
+          ],
+          [
+            "KF-035",
+            "320 (704)",
+            "66 (2,60)",
+            "143 (5,63)",
+            "175 (6,89)",
+            "25 (0,98)",
+            "40 (1,57)",
+            "10 (0,39)",
+            "70 (2,76)",
+            "M24X2,00",
+            "M10X1,50",
+            "16 (0,63)",
+            "M10",
+            "0,920 (2,024)"
+          ],
+          [
+            "KF-035 TR",
+            "320 (704)",
+            "66 (2,60)",
+            "143 (5,63)",
+            "175 (6,89)",
+            "25 (0,98)",
+            "40 (1,57)",
+            "10 (0,39)",
+            "70 (2,76)",
+            "M24X2,00",
+            "M10X1,50",
+            "16 (0,63)",
+            "M10",
+            "0,980 (2,156)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kf-005-006-007-015-025-035/desenho-1.jpg",
+          "/images/products/kifix/kf-005-006-007-015-025-035/desenho-2.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/884_KF_005.png",
+      "bytes": 286669,
+      "sha256": "ef0d656c2bb571acc107fedd371b16fb9562c28d6a1d33d155bdf9345cc862ac"
+    },
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/920_KF005.png",
+      "bytes": 1607553,
+      "sha256": "59138992962469a824f5405d94e17f08811e417afce2cefb39f391d13ad3f189"
+    },
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/885_KF_006.png",
+      "bytes": 1073228,
+      "sha256": "8563c6736c291fd9fcb00a561d5211adfa1325468f57574935d0a4bf4961333e"
+    },
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/foto-4.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/921_KF006_TR.png",
+      "bytes": 1507849,
+      "sha256": "f53bb3bf8bc807520a3eb3ab21b0ff70c4f9de7996c0a19c90d870762f259879"
+    },
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/foto-5.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/768_KF0076.png",
+      "bytes": 242348,
+      "sha256": "7f112e3b2fa27d053e91a820c4b6fad48eaf00aaec3c4833fea7cdd29f52249b"
+    },
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/foto-6.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/713_KF007_TR123.png",
+      "bytes": 261345,
+      "sha256": "6830499d8030b8dd78216cd02c5b66be755033e1a88ef4eec47d927bab4b534c"
+    },
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/foto-7.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/714_KF_007_TR_A214.png",
+      "bytes": 209720,
+      "sha256": "14c355e3c06db1829c5df628ae9859d3dfb8de462f695a542b67b24eca164f90"
+    },
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/foto-8.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/476_KF_009.png",
+      "bytes": 205506,
+      "sha256": "dbf1792fbf7f760266fa8334e9f892a0253e25719fb50c523b319543b63a4692"
+    },
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/foto-9.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/886_KF015_TR.png",
+      "bytes": 1307298,
+      "sha256": "934521d0a87f9864f2c7eca4163f701b29351899d3511ac5f68f1aefa8beb51b"
+    },
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/foto-10.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/475_KF_015_IV.png",
+      "bytes": 192923,
+      "sha256": "8edead1d4f99750cd9696e32d2a642b8ca298552e56ca9aae71dd74d53c8b338"
+    },
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/foto-11.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/809_KF_025194.png",
+      "bytes": 281071,
+      "sha256": "2fa334456157dbd96e05d8f6046c1e54f8fa26a82ca058245125d30108d5cda1"
+    },
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/foto-12.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/820_KF_025tr.png",
+      "bytes": 320492,
+      "sha256": "028278270333e8bbec11a6221f377febe3fa14a7d189775210d340b85e84a7f8"
+    },
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/foto-13.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/887_KF025_L.png",
+      "bytes": 1530828,
+      "sha256": "76db3606b21d0ba2e3cd49c9d1b3a2fdb624c50edc46c8ab05c773f9ccd7235e"
+    },
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/foto-14.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/888_KF035_2.png",
+      "bytes": 108294,
+      "sha256": "12cb404644ef1c4d7424e1125ca4d2ac0d2db91c69c2b25bc9d5a7c1dce76308"
+    },
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/278_KF005_006_007_015_025_035.JPG",
+      "bytes": 94912,
+      "sha256": "ec699b23e52ff00c1866604cdac942ebe3ada1c0cccd2349c52baed62c892127"
+    },
+    {
+      "path": "/images/products/kifix/kf-005-006-007-015-025-035/desenho-2.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/363_KF015_IV_2D.JPG",
+      "bytes": 79735,
+      "sha256": "63366ef2a93de305d6697a5107f46699141c03d037acba15d459ea0108ef48f3"
+    }
+  ],
+  "checks": {
+    "variants": 17,
+    "photos": 14,
+    "drawings": 2,
+    "tableRows": 17
+  }
+}

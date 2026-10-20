@@ -2,7 +2,7 @@
   "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica-vip&language=pt-BR",
   "fetchedAt": "2026-10-20T10:39:27.654Z",
   "product": {
-    "id": 200050,
+    "id": 200048,
     "slug": "vibra-stop-sismica-vip",
     "name": "Vibra-Stop Mola Sísmica Vip",
     "sku": "Sísmica Vip",
@@ -35,7 +35,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240284,
+        "id": 210302,
         "sku": "MSISV3",
         "label": "MSISV3",
         "attributes": [
@@ -85,7 +85,7 @@
         "image": null
       },
       {
-        "id": 240285,
+        "id": 210303,
         "sku": "MSISV10",
         "label": "MSISV10",
         "attributes": [
@@ -135,7 +135,7 @@
         "image": null
       },
       {
-        "id": 240286,
+        "id": 210304,
         "sku": "MSISV20",
         "label": "MSISV20",
         "attributes": [
@@ -185,7 +185,7 @@
         "image": null
       },
       {
-        "id": 240287,
+        "id": 210305,
         "sku": "MSISV30",
         "label": "MSISV30",
         "attributes": [
@@ -241,6 +241,12 @@
         "url": "/downloads/products/vibra-stop/sismica-vip/ficha-tecnica.pdf",
         "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Sismica%20VIP.pdf",
         "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [],
@@ -384,6 +390,17 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 0,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T11:00:02.228Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 6,
+    "pdfReconciled2026": true
   }
 }

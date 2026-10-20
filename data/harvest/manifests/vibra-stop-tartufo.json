@@ -2,7 +2,7 @@
   "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tartufo?model=tartufo&language=pt-BR",
   "fetchedAt": "2026-10-20T10:33:57.674Z",
   "product": {
-    "id": 200031,
+    "id": 200051,
     "slug": "vibra-stop-tartufo",
     "name": "Vibra-Stop Tartufo",
     "sku": "Tartufo",
@@ -35,7 +35,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240122,
+        "id": 210324,
         "sku": "TARTUFO",
         "label": "TARTUFO",
         "attributes": [
@@ -67,6 +67,12 @@
         "url": "/downloads/products/vibra-stop/tartufo/ficha-tecnica.pdf",
         "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Tartufo.pdf",
         "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [],
@@ -159,6 +165,17 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 0,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:58:17.710Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 3,
+    "pdfReconciled2026": true
   }
 }

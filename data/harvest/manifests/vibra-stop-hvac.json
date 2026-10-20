@@ -1,0 +1,226 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-hvac?model=hvac&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:50:13.423Z",
+  "product": {
+    "id": 200030,
+    "slug": "vibra-stop-hvac",
+    "name": "Vibra-Stop Mola HVAC",
+    "sku": "Mola HVAC",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-hvac?model=hvac&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para equipamentos, instalados sobre mão-francesa, como unidades condensadoras de ar-condicionado.",
+    "description": "<p>Ideais para equipamentos, instalados sobre mão-francesa, como unidades condensadoras de ar-condicionado.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/hvac/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/hvac/foto-1.png",
+      "/images/products/vibra-stop/hvac/foto-2.png",
+      "/images/products/vibra-stop/hvac/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Aço Carbono Zincado e Borracha Natural."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 210178,
+        "sku": "HVAC",
+        "label": "HVAC",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "10 a 40"
+          },
+          {
+            "name": "Altura Total entre parafusos ((H) mm)",
+            "value": "87"
+          },
+          {
+            "name": "Altura Total entre Batentes ((h) mm)",
+            "value": "54"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "M8 x 16 mm"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "14,85/40"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "48"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "43"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "4,5"
+          },
+          {
+            "name": "Material da Mola (SAE ABNT)",
+            "value": "1070"
+          },
+          {
+            "name": "Frequência Natural (Hz)",
+            "value": "4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/hvac/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20HVAC.pdf",
+        "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Linha Mola (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-molas-site-ago-2026.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vídeo apresentado pelo fabricante",
+        "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-hvac.mp4",
+        "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-hvac.mp4",
+        "hosted": false,
+        "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+      }
+    ],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Altura Total entre parafusos ((H) mm)",
+          "Altura Total entre Batentes ((h) mm)",
+          "Parafuso ((d))",
+          "Deflexão (mm/Kgf)",
+          "Diâmetro Externo Batente ((D) mm)",
+          "Diâmetro Externo Mola ((De) mm)",
+          "Diâmetro do Arame da Mola ((a) mm)",
+          "Material da Mola (SAE ABNT)",
+          "Frequência Natural (Hz)"
+        ],
+        "rows": [
+          [
+            "HVAC",
+            "10 a 40",
+            "87",
+            "54",
+            "M8 x 16 mm",
+            "14,85/40",
+            "48",
+            "43",
+            "4,5",
+            "1070",
+            "4"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/hvac/aplicacao-4.png",
+          "/images/products/vibra-stop/hvac/aplicacao-5.png",
+          "/images/products/vibra-stop/hvac/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/hvac/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/HVAC/HVAC%201.1.png",
+      "bytes": 237871,
+      "sha256": "b1879a3a3f059c1887ed03516fbe989435c08f8246309353a7090f07ca40b675",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/hvac/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/HVAC/HVAC%201.2.png",
+      "bytes": 237692,
+      "sha256": "1b1c34fa14ac2b1bc1fca67ef6a2802071947cb75cebe99c2b47e818edc035a8",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/hvac/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/HVAC/HVAC%201.0.png",
+      "bytes": 229423,
+      "sha256": "9a8d6a6162783657a97a00da63aa2df42245c4dd68ccd55f731eba9493cc6314",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/hvac/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/HVAC/HVAC%201.0.png",
+      "bytes": 501030,
+      "sha256": "0be2c71e3acd1164e0ad57f55be48eaa148e07e3840668c4105f017225023d33",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/hvac/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/HVAC/HVAC%201.1.png",
+      "bytes": 201403,
+      "sha256": "9f5202d2488164196f51b9641b8f26d9371ed5154739e352405056dbe9c0c55b",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/hvac/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/HVAC/Manual%20de%20Instalacao%20-%20HVAC.png",
+      "bytes": 189513,
+      "sha256": "8ff1b2e49eaec035dce5002be736b29e2381ef5a1418e07fd7cbb3b0df1a0a7f",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/hvac/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20HVAC.pdf",
+      "bytes": 736147,
+      "sha256": "bffbda884edb98e45a05f54d2e40dea25b3122fbbea42ff554305b773eb09a23",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "hvac",
+    "tableRows": 1,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 1,
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T11:01:34.076Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Vídeo",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 3,
+    "pdfReconciled2026": true
+  }
+}

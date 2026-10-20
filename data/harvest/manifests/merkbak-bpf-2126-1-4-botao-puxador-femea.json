@@ -1,0 +1,104 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/botao-puxador-femea/",
+  "fetchedAt": "2026-10-20T12:43:37.588Z",
+  "product": {
+    "id": 201003,
+    "slug": "merkbak-bpf-2126-1-4-botao-puxador-femea",
+    "name": "BPF 2126 1/4 – Botão Puxador Fêmea",
+    "sku": "BPF 2126 1/4",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/botao-puxador-femea/",
+    "type": "product",
+    "summary": "Botão utilizado para apertos/ajustes manuais de máquinas e equipamentos em geral. Mobília, médico/hospitalar, equipamentos gastronômicos, aparelhos musicais, de ginástica, etc",
+    "description": "<p>Botão utilizado para apertos/ajustes manuais de máquinas e equipamentos em geral. Mobília, médico/hospitalar, equipamentos gastronômicos, aparelhos musicais, de ginástica, etc</p><p><strong>Material:</strong> Polipropileno + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Média resistência / Em casos de medida de rosca específica, consultar fábrica</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Plásticos",
+        "slug": "plasticos"
+      }
+    ],
+    "image": "/images/products/merkbak/bpf-2126-1-4-botao-puxador-femea/1.png",
+    "images": [
+      "/images/products/merkbak/bpf-2126-1-4-botao-puxador-femea/1.png",
+      "/images/products/merkbak/bpf-2126-1-4-botao-puxador-femea/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Polipropileno + inserto rosca latão"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Botão utilizado para apertos/ajustes manuais de máquinas e equipamentos em geral. Mobília, médico/hospitalar, equipamentos gastronômicos, aparelhos musicais, de ginástica, etc"
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Média resistência / Em casos de medida de rosca específica, consultar fábrica"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220020,
+        "sku": "BPF 2126 1/4 – Botão Puxador Fêmea",
+        "label": "Padrão",
+        "attributes": [],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Polipropileno + inserto rosca latão"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Botão utilizado para apertos/ajustes manuais de máquinas e equipamentos em geral. Mobília, médico/hospitalar, equipamentos gastronômicos, aparelhos musicais, de ginástica, etc"
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Média resistência / Em casos de medida de rosca específica, consultar fábrica"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/bpf-2126-1-4-botao-puxador-femea/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/fundo-BPF-e1779742012687.png",
+      "bytes": 398670,
+      "sha256": "dd311b67dcfc4546ad3a8a12d4dd5e9a9c06d64c456cdda20cbdc1ff3fcaa0ae"
+    },
+    {
+      "path": "/images/products/merkbak/bpf-2126-1-4-botao-puxador-femea/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/BPF_tab.png",
+      "bytes": 143276,
+      "sha256": "44454fdb11a6f451463cdd90e748179ecdb44c8882ec6884fb62d34ff4bfc3ec"
+    }
+  ],
+  "checks": {
+    "variants": 1,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

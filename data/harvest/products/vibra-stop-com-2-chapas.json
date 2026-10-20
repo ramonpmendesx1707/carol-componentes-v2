@@ -1,5 +1,5 @@
 {
-  "id": 200045,
+  "id": 200014,
   "slug": "vibra-stop-com-2-chapas",
   "name": "Vibra-Stop Mola Simples Com 2 Chapas",
   "sku": "Com 2 Chapas",
@@ -36,7 +36,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240226,
+      "id": 210045,
       "sku": "MSC2C30",
       "label": "MSC2C30",
       "attributes": [
@@ -74,7 +74,7 @@
       "image": null
     },
     {
-      "id": 240227,
+      "id": 210046,
       "sku": "MSC2C50",
       "label": "MSC2C50",
       "attributes": [
@@ -112,7 +112,7 @@
       "image": null
     },
     {
-      "id": 240228,
+      "id": 210047,
       "sku": "MSC2C100",
       "label": "MSC2C100",
       "attributes": [
@@ -150,7 +150,7 @@
       "image": null
     },
     {
-      "id": 240229,
+      "id": 210048,
       "sku": "MSC2C200",
       "label": "MSC2C200",
       "attributes": [
@@ -188,7 +188,7 @@
       "image": null
     },
     {
-      "id": 240230,
+      "id": 210049,
       "sku": "MSC2C300",
       "label": "MSC2C300",
       "attributes": [
@@ -226,7 +226,7 @@
       "image": null
     },
     {
-      "id": 240231,
+      "id": 210050,
       "sku": "MSC2C400",
       "label": "MSC2C400",
       "attributes": [
@@ -264,7 +264,7 @@
       "image": null
     },
     {
-      "id": 240232,
+      "id": 210051,
       "sku": "MSC2C500",
       "label": "MSC2C500",
       "attributes": [
@@ -302,7 +302,7 @@
       "image": null
     },
     {
-      "id": 240233,
+      "id": 210052,
       "sku": "MSC2C700",
       "label": "MSC2C700",
       "attributes": [
@@ -340,7 +340,7 @@
       "image": null
     },
     {
-      "id": 240234,
+      "id": 210053,
       "sku": "MSC2C1000",
       "label": "MSC2C1000",
       "attributes": [
@@ -378,7 +378,7 @@
       "image": null
     },
     {
-      "id": 240235,
+      "id": 210054,
       "sku": "MSC2C1500",
       "label": "MSC2C1500",
       "attributes": [
@@ -416,7 +416,7 @@
       "image": null
     },
     {
-      "id": 240236,
+      "id": 210055,
       "sku": "MSC2C2000",
       "label": "MSC2C2000",
       "attributes": [
@@ -454,7 +454,7 @@
       "image": null
     },
     {
-      "id": 240237,
+      "id": 210056,
       "sku": "MSC2C2500",
       "label": "MSC2C2500",
       "attributes": [
@@ -498,6 +498,12 @@
       "url": "/downloads/products/vibra-stop/com-2-chapas/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Simples%20Com%202%20Chapas.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [],

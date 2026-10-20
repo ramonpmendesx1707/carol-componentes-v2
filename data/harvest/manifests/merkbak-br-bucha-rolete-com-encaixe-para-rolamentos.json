@@ -1,0 +1,172 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/bucha-rolete-com-encaixe-para-rolamentos/",
+  "fetchedAt": "2026-10-20T12:43:44.503Z",
+  "product": {
+    "id": 201004,
+    "slug": "merkbak-br-bucha-rolete-com-encaixe-para-rolamentos",
+    "name": "BR – Bucha Rolete com Encaixe para Rolamentos",
+    "sku": "BR",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/bucha-rolete-com-encaixe-para-rolamentos/",
+    "type": "product",
+    "summary": "Roletes de esteiras",
+    "description": "<p>Roletes de esteiras</p><p><strong>Material:</strong> Polipropileno</p><p><strong>Informações adicionais:</strong> Alta resistência / Encaixe para rolamento</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Plásticos",
+        "slug": "plasticos"
+      }
+    ],
+    "image": "/images/products/merkbak/br-bucha-rolete-com-encaixe-para-rolamentos/1.png",
+    "images": [
+      "/images/products/merkbak/br-bucha-rolete-com-encaixe-para-rolamentos/1.png",
+      "/images/products/merkbak/br-bucha-rolete-com-encaixe-para-rolamentos/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Polipropileno"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial polido na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Roletes de esteiras"
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Alta resistência / Encaixe para rolamento"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220021,
+        "sku": "BR 6201 53 MM",
+        "label": "BR 6201 53 MM",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "BR 6201 53 MM"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220022,
+        "sku": "BR 6202 60 MM",
+        "label": "BR 6202 60 MM",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "BR 6202 60 MM"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220023,
+        "sku": "BR 6202 66,6 MM",
+        "label": "BR 6202 66,6 MM",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "BR 6202 66,6 MM"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220024,
+        "sku": "BR 6203 66,6 MM",
+        "label": "BR 6203 66,6 MM",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "BR 6203 66,6 MM"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Polipropileno"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial polido na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Roletes de esteiras"
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Alta resistência / Encaixe para rolamento"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "BR 6201 53 MM"
+          },
+          {
+            "name": "Medida",
+            "value": "BR 6202 60 MM"
+          },
+          {
+            "name": "Medida",
+            "value": "BR 6202 66,6 MM"
+          },
+          {
+            "name": "Medida",
+            "value": "BR 6203 66,6 MM"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/br-bucha-rolete-com-encaixe-para-rolamentos/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/050-br-copiar-e1779986013390.png",
+      "bytes": 178977,
+      "sha256": "68504419270dba40c38cfc2cbaa1682205e898c897fdcdbc448ba3d1b988a936"
+    },
+    {
+      "path": "/images/products/merkbak/br-bucha-rolete-com-encaixe-para-rolamentos/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/10/BR_tab.png",
+      "bytes": 151667,
+      "sha256": "e3762309203d92e851333cf468b355db28a2673e69d484a09a82a5c1dbe1d432"
+    }
+  ],
+  "checks": {
+    "variants": 4,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

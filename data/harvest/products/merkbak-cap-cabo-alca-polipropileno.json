@@ -1,0 +1,131 @@
+{
+  "id": 201008,
+  "slug": "merkbak-cap-cabo-alca-polipropileno",
+  "name": "CAP – Cabo Alça Polipropileno",
+  "sku": "CAP",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-alca-polipropileno/",
+  "type": "product",
+  "summary": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação",
+  "description": "<p>Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação</p><p><strong>Material:</strong> Polipropileno</p><p><strong>Informações adicionais:</strong> Média resistência / Furo liso</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Plásticos",
+      "slug": "plasticos"
+    }
+  ],
+  "image": "/images/products/merkbak/cap-cabo-alca-polipropileno/1.png",
+  "images": [
+    "/images/products/merkbak/cap-cabo-alca-polipropileno/1.png",
+    "/images/products/merkbak/cap-cabo-alca-polipropileno/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Polipropileno"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial texturizado na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Média resistência / Furo liso"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220041,
+      "sku": "CAP 107",
+      "label": "CAP 107",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CAP 107"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220042,
+      "sku": "CAP 133",
+      "label": "CAP 133",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CAP 133"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220043,
+      "sku": "CAP 196",
+      "label": "CAP 196",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CAP 196"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Polipropileno"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial texturizado na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Média resistência / Furo liso"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "CAP 107"
+        },
+        {
+          "name": "Medida",
+          "value": "CAP 133"
+        },
+        {
+          "name": "Medida",
+          "value": "CAP 196"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

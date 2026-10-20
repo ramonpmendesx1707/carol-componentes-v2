@@ -1,0 +1,731 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-flex?model=flex-com-2-chapas&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:47:57.220Z",
+  "product": {
+    "id": 200022,
+    "slug": "vibra-stop-flex-com-2-chapas",
+    "name": "Vibra-Stop Mola Flex Com 2 Chapas",
+    "sku": "Flex Com 2 Chapas",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-flex?model=flex-com-2-chapas&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.",
+    "description": "<p>Ideais para equipamentos que necessitam de amortecimento com frequência natural baixa de 3,0 hz, sistemas de climatização como chillers, torres de resfriamento, condensadoras, grupos geradores, ventiladores industriais, silos, estruturas metálicas, painéis elétricos, quadros de comando, sistemas de automação industrial, balanças dosadoras, panelas ou peneiras vibratórias e prensas que trabalham com movimentos repetitivos ou pulsantes, pisos flutuantes, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/flex-com-2-chapas/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/flex-com-2-chapas/foto-1.png",
+      "/images/products/vibra-stop/flex-com-2-chapas/foto-2.png",
+      "/images/products/vibra-stop/flex-com-2-chapas/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Aço Carbono Zincado e Borracha Natural."
+      },
+      {
+        "name": "Materiais informados",
+        "value": "Aço Inox Ferro Nodular"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 210094,
+        "sku": "MFC2C30",
+        "label": "MFC2C30",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "30"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "8,75/30"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "73"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "54"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "5,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210095,
+        "sku": "MFC2C50",
+        "label": "MFC2C50",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "50"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,58/50"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "73"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "55"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "6"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210096,
+        "sku": "MFC2C100",
+        "label": "MFC2C100",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "100"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "4,95/100"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "73"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "58"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "7,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210097,
+        "sku": "MFC2C200",
+        "label": "MFC2C200",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "8,10/200"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "73"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "62"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "9,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210098,
+        "sku": "MFC2C300",
+        "label": "MFC2C300",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "300"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,12/300"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "73"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "63"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "10"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210099,
+        "sku": "MFC2C400",
+        "label": "MFC2C400",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "400"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,62/400"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "73"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "11"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210100,
+        "sku": "MFC2C500",
+        "label": "MFC2C500",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,60/500"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "93"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "68,4"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "12,7"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210101,
+        "sku": "MFC2C700",
+        "label": "MFC2C700",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "700"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "5,72/700"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "93"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "72"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "14,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210102,
+        "sku": "MFC2C1000",
+        "label": "MFC2C1000",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "1000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "8,71/1.000"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "93"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "75"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "16"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210103,
+        "sku": "MFC2C1500",
+        "label": "MFC2C1500",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "1500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "9,82/1.500"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "93"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "79"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "17,8"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 120"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210104,
+        "sku": "MFC2C2000",
+        "label": "MFC2C2000",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "2000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "9,58/2.000"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "93"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "78"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "17,8"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 120"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210105,
+        "sku": "MFC2C2500",
+        "label": "MFC2C2500",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "2500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "10,02/2.500"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "93"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "82"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "19,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 120"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/flex-com-2-chapas/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Flex%20Com%202%20Chapas.pdf",
+        "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Altura Total ((H) mm)",
+          "Diâmetro Externo Batente ((D) mm)",
+          "Diâmetro Externo Mola ((De) mm)",
+          "Diâmetro do Arame da Mola ((a) mm)",
+          "Diâm. do Furo/Dist. entre Furos ((f x t) mm)"
+        ],
+        "rows": [
+          [
+            "MFC2C30",
+            "30",
+            "8,75/30",
+            "73",
+            "60",
+            "54",
+            "5,5",
+            "10 x 100"
+          ],
+          [
+            "MFC2C50",
+            "50",
+            "6,58/50",
+            "73",
+            "60",
+            "55",
+            "6",
+            "10 x 100"
+          ],
+          [
+            "MFC2C100",
+            "100",
+            "4,95/100",
+            "73",
+            "60",
+            "58",
+            "7,5",
+            "10 x 100"
+          ],
+          [
+            "MFC2C200",
+            "200",
+            "8,10/200",
+            "73",
+            "60",
+            "62",
+            "9,5",
+            "10 x 100"
+          ],
+          [
+            "MFC2C300",
+            "300",
+            "6,12/300",
+            "73",
+            "60",
+            "63",
+            "10",
+            "10 x 100"
+          ],
+          [
+            "MFC2C400",
+            "400",
+            "6,62/400",
+            "73",
+            "60",
+            "65",
+            "11",
+            "10 x 100"
+          ],
+          [
+            "MFC2C500",
+            "500",
+            "6,60/500",
+            "93",
+            "60",
+            "68,4",
+            "12,7",
+            "10 x 100"
+          ],
+          [
+            "MFC2C700",
+            "700",
+            "5,72/700",
+            "93",
+            "60",
+            "72",
+            "14,5",
+            "10 x 100"
+          ],
+          [
+            "MFC2C1000",
+            "1000",
+            "8,71/1.000",
+            "93",
+            "60",
+            "75",
+            "16",
+            "10 x 100"
+          ],
+          [
+            "MFC2C1500",
+            "1500",
+            "9,82/1.500",
+            "93",
+            "60",
+            "79",
+            "17,8",
+            "10 x 120"
+          ],
+          [
+            "MFC2C2000",
+            "2000",
+            "9,58/2.000",
+            "93",
+            "60",
+            "78",
+            "17,8",
+            "10 x 120"
+          ],
+          [
+            "MFC2C2500",
+            "2500",
+            "10,02/2.500",
+            "93",
+            "60",
+            "82",
+            "19,5",
+            "10 x 120"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/flex-com-2-chapas/aplicacao-4.png",
+          "/images/products/vibra-stop/flex-com-2-chapas/aplicacao-5.png",
+          "/images/products/vibra-stop/flex-com-2-chapas/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/flex-com-2-chapas/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20FLEX/COM%202%20CHAPAS/MFC2C%201.1.png",
+      "bytes": 136800,
+      "sha256": "9c440c9115c8898157e9f3f9ea5771d926959f3cbab9eaf3d391f0ff2922fcfd",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/flex-com-2-chapas/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20FLEX/COM%202%20CHAPAS/MFC2C%201.2.png",
+      "bytes": 136699,
+      "sha256": "b4331f17b009579dc31f7b6daff91827a28d15f1711e4a8b05b72e022c4b4d15",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/flex-com-2-chapas/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20FLEX/COM%202%20CHAPAS/MFC2C%201.0.png",
+      "bytes": 130875,
+      "sha256": "d4f5ddb39fd66661428d3a4b643bb4f6946355aec4aba3e1c6cb4535b38726c1",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/flex-com-2-chapas/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20FLEX/MF%201.0.png",
+      "bytes": 179709,
+      "sha256": "bb2505e89cefc8f808c643377e0e549d2ce5899f4e91901b3eb7622789f7fc32",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/flex-com-2-chapas/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20FLEX/MF%201.1.png",
+      "bytes": 245278,
+      "sha256": "b049b754f0b7a9e3909759314973a8060736e5c602f940794ee9ce875e7de660",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/flex-com-2-chapas/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20FLEX/COM%202%20CHAPAS/Manual%20de%20Instalacao%20-%20MFC2C.png",
+      "bytes": 208166,
+      "sha256": "bd07b2eb67643010b20fd62dea4f168abb0c028567c315922e3b1a27d9024a06",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/flex-com-2-chapas/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Flex%20Com%202%20Chapas.pdf",
+      "bytes": 793246,
+      "sha256": "191dcab20b707569b6a6a9df518036888d3e2634cc0a95443e55da552e79ba39",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "flex-com-2-chapas",
+    "tableRows": 12,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T11:00:48.489Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 14,
+    "pdfReconciled2026": true
+  }
+}

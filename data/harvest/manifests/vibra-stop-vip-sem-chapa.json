@@ -1,0 +1,389 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-vip?model=vip-sem-chapa&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:47:07.093Z",
+  "product": {
+    "id": 200063,
+    "slug": "vibra-stop-vip-sem-chapa",
+    "name": "Vibra-Stop Mola Vip Sem Chapa",
+    "sku": "Vip Sem Chapa",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-vip?model=vip-sem-chapa&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para aplicações em bombas de piscina, motores e equipamentos de pequena dimensão e peso.",
+    "description": "<p>Ideais para aplicações em bombas de piscina, motores e equipamentos de pequena dimensão e peso.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/vip-sem-chapa/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/vip-sem-chapa/foto-1.png",
+      "/images/products/vibra-stop/vip-sem-chapa/foto-2.png",
+      "/images/products/vibra-stop/vip-sem-chapa/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Aço Inox e Borracha Natural."
+      },
+      {
+        "name": "Materiais informados",
+        "value": "Ferro Nodular"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 210395,
+        "sku": "MVSC3",
+        "label": "MVSC3",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "3"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,61/ 3"
+          },
+          {
+            "name": "Parafuso ((d) UNC)",
+            "value": "5/16” x 2.1/2”"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "38"
+          },
+          {
+            "name": "Distância entre furos ((t) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "22"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "2"
+          },
+          {
+            "name": "Chumbador (CBA pol.)",
+            "value": "5/16”"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210396,
+        "sku": "MVSC10",
+        "label": "MVSC10",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "10"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,10 / 10"
+          },
+          {
+            "name": "Parafuso ((d) UNC)",
+            "value": "5/16” x 2.1/2”"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "38"
+          },
+          {
+            "name": "Distância entre furos ((t) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "24"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "3"
+          },
+          {
+            "name": "Chumbador (CBA pol.)",
+            "value": "5/16”"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210397,
+        "sku": "MVSC20",
+        "label": "MVSC20",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "20"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,71 / 20"
+          },
+          {
+            "name": "Parafuso ((d) UNC)",
+            "value": "5/16” x 2.1/2”"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "38"
+          },
+          {
+            "name": "Distância entre furos ((t) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "24"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "3"
+          },
+          {
+            "name": "Chumbador (CBA pol.)",
+            "value": "5/16”"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210398,
+        "sku": "MVSC30",
+        "label": "MVSC30",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "30"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,15 / 30"
+          },
+          {
+            "name": "Parafuso ((d) UNC)",
+            "value": "5/16” x 2.1/2”"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "38"
+          },
+          {
+            "name": "Distância entre furos ((t) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "25"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "3,5"
+          },
+          {
+            "name": "Chumbador (CBA pol.)",
+            "value": "5/16”"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/vip-sem-chapa/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Vip%20Sem%20Chapa.pdf",
+        "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d) UNC)",
+          "Altura ((H) mm)",
+          "Distância entre furos ((t) mm)",
+          "Diâmetro Externo Batente ((D) mm)",
+          "Diâmetro Externo Mola ((De) mm)",
+          "Diâmetro do Arame da Mola ((a) mm)",
+          "Chumbador (CBA pol.)"
+        ],
+        "rows": [
+          [
+            "MVSC3",
+            "3",
+            "6,61/ 3",
+            "5/16” x 2.1/2”",
+            "38",
+            "65",
+            "30",
+            "22",
+            "2",
+            "5/16”"
+          ],
+          [
+            "MVSC10",
+            "10",
+            "6,10 / 10",
+            "5/16” x 2.1/2”",
+            "38",
+            "65",
+            "30",
+            "24",
+            "3",
+            "5/16”"
+          ],
+          [
+            "MVSC20",
+            "20",
+            "6,71 / 20",
+            "5/16” x 2.1/2”",
+            "38",
+            "65",
+            "30",
+            "24",
+            "3",
+            "5/16”"
+          ],
+          [
+            "MVSC30",
+            "30",
+            "6,15 / 30",
+            "5/16” x 2.1/2”",
+            "38",
+            "65",
+            "30",
+            "25",
+            "3,5",
+            "5/16”"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/vip-sem-chapa/aplicacao-4.png",
+          "/images/products/vibra-stop/vip-sem-chapa/aplicacao-5.png",
+          "/images/products/vibra-stop/vip-sem-chapa/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/vip-sem-chapa/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20VIP/SEM%20CHAPA/MVSC%201.1.png",
+      "bytes": 83259,
+      "sha256": "a3fc0d4db4cb44aa65565c4e2136db983f0627fa916e820b99bb12f207cc4aad",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/vip-sem-chapa/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20VIP/SEM%20CHAPA/MVSC%201.2.png",
+      "bytes": 78179,
+      "sha256": "47c06005cf9a099bde925c781d6bc0ca07b0bb044ed58c16c1ea8a4f3f6019ed",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/vip-sem-chapa/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20VIP/SEM%20CHAPA/MVSC%201.0.png",
+      "bytes": 77427,
+      "sha256": "131c912e5c2fbac90bc2cd8b979668e138153267702d872197421ba173f984bd",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/vip-sem-chapa/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20VIP/MV%201.0.png",
+      "bytes": 134375,
+      "sha256": "333bc71ccc7624509b541efa172377b588b7dc201722efe9121d82582fead834",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/vip-sem-chapa/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20VIP/MV%201.1.png",
+      "bytes": 237266,
+      "sha256": "f83677f3cc74e239b015bcb52a82eed104412c940085d6e4d0e64739fdc47a4d",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/vip-sem-chapa/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20VIP/SEM%20CHAPA/Manual%20de%20Instalacao%20-%20Mola%20Vip%20Sem%20Chapa.png",
+      "bytes": 144990,
+      "sha256": "f383fc38f3601ecfeec6b0bac1868336e299ea631377342297ca34e9fff0f815",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/vip-sem-chapa/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Vip%20Sem%20Chapa.pdf",
+      "bytes": 772035,
+      "sha256": "eaa40947a3971d4c9cc5992852d47a562ca29c31e7b9a7ccf9ff0174c3fb72d7",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "vip-sem-chapa",
+    "tableRows": 4,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T11:00:32.042Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 6,
+    "pdfReconciled2026": true
+  }
+}

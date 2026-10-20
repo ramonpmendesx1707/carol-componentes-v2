@@ -1,0 +1,449 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/esfera-baquelite/",
+  "fetchedAt": "2026-10-20T12:47:04.310Z",
+  "product": {
+    "id": 201024,
+    "slug": "merkbak-ep-esfera-baquelite",
+    "name": "EP – Esfera Baquelite",
+    "sku": "EP",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/esfera-baquelite/",
+    "type": "product",
+    "summary": "Comandos de regulagem, acionamento em máquinas e equipamentos",
+    "description": "<p>Comandos de regulagem, acionamento em máquinas e equipamentos</p><p><strong>Material:</strong> Baquelite</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Isolante térmico / Rosca direto no baquelite</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Baquelite",
+        "slug": "baquelite"
+      }
+    ],
+    "image": "/images/products/merkbak/ep-esfera-baquelite/1.png",
+    "images": [
+      "/images/products/merkbak/ep-esfera-baquelite/1.png",
+      "/images/products/merkbak/ep-esfera-baquelite/2.png",
+      "/images/products/merkbak/ep-esfera-baquelite/3.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Baquelite"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial polido na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Comandos de regulagem, acionamento em máquinas e equipamentos"
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Alta resistência / Higienização eficiente / Isolante térmico / Rosca direto no baquelite"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220099,
+        "sku": "EP 20 M6",
+        "label": "EP 20 M6",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 20 M6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220100,
+        "sku": "EP 20 1/4",
+        "label": "EP 20 1/4",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 20 1/4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220101,
+        "sku": "EP 25 M6",
+        "label": "EP 25 M6",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 25 M6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220102,
+        "sku": "EP 25 1/4",
+        "label": "EP 25 1/4",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 25 1/4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220103,
+        "sku": "EP 25 5/16",
+        "label": "EP 25 5/16",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 25 5/16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220104,
+        "sku": "EP 25 M8",
+        "label": "EP 25 M8",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 25 M8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220105,
+        "sku": "EP 25 3/8",
+        "label": "EP 25 3/8",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 25 3/8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220106,
+        "sku": "EP 30 5/16",
+        "label": "EP 30 5/16",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 30 5/16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220107,
+        "sku": "EP 30 M8",
+        "label": "EP 30 M8",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 30 M8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220108,
+        "sku": "EP 32 5/16",
+        "label": "EP 32 5/16",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 32 5/16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220109,
+        "sku": "EP 32 M8",
+        "label": "EP 32 M8",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 32 M8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220110,
+        "sku": "EP 32 3/8",
+        "label": "EP 32 3/8",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 32 3/8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220111,
+        "sku": "EP 32 M10",
+        "label": "EP 32 M10",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 32 M10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220112,
+        "sku": "EP 38 3/8",
+        "label": "EP 38 3/8",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 38 3/8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220113,
+        "sku": "EP 38 M10",
+        "label": "EP 38 M10",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 38 M10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220114,
+        "sku": "EP 38 1/2",
+        "label": "EP 38 1/2",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 38 1/2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220115,
+        "sku": "EP 40 M12",
+        "label": "EP 40 M12",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 40 M12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220116,
+        "sku": "EP 50 M12",
+        "label": "EP 50 M12",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 50 M12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220117,
+        "sku": "EP 50 1/2",
+        "label": "EP 50 1/2",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "EP 50 1/2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Baquelite"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial polido na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Comandos de regulagem, acionamento em máquinas e equipamentos"
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Alta resistência / Higienização eficiente / Isolante térmico / Rosca direto no baquelite"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "EP 20 M6"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 20 1/4"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 25 M6"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 25 1/4"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 25 5/16"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 25 M8"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 25 3/8"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 30 5/16"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 30 M8"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 32 5/16"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 32 M8"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 32 3/8"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 32 M10"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 38 3/8"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 38 M10"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 38 1/2"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 40 M12"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 50 M12"
+          },
+          {
+            "name": "Medida",
+            "value": "EP 50 1/2"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/ep-esfera-baquelite/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/Esfera-2-e1779824052476.png",
+      "bytes": 130815,
+      "sha256": "914a131adcf1ccd6712839bc4ac247c01b077d68df784a6489cd8bcbd6dbabd3"
+    },
+    {
+      "path": "/images/products/merkbak/ep-esfera-baquelite/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/MB-EP-50-M10-02-scaled.png",
+      "bytes": 2512890,
+      "sha256": "176941c776ab3249af4203ef2e32888d39e94de583bfbed7231c352d6856cd31"
+    },
+    {
+      "path": "/images/products/merkbak/ep-esfera-baquelite/3.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/EP_tab.png",
+      "bytes": 144738,
+      "sha256": "7abcf5a477bffbba5444c4deb5fa7e2d295fb79be1e3161e2d8ef561a560a232"
+    }
+  ],
+  "checks": {
+    "variants": 19,
+    "photos": 3,
+    "attributesCount": 4
+  }
+}

@@ -1,0 +1,1394 @@
+{
+  "id": 202004,
+  "slug": "kifix-base-horizontal",
+  "name": "Base Horizontal",
+  "sku": "Base Horizontal",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-horizontal/",
+  "type": "product",
+  "summary": "Linha Adaptadores para mesas de solda Kifix modelo Base Horizontal, com 21 referências dimensionais.",
+  "description": "<p>Linha Adaptadores para mesas de solda Kifix modelo Base Horizontal, com 21 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Adaptadores para mesas de solda",
+      "slug": "adaptadores-para-mesas-de-solda"
+    }
+  ],
+  "image": "/images/products/kifix/base-horizontal/foto-1.png",
+  "images": [
+    "/images/products/kifix/base-horizontal/foto-1.png",
+    "/images/products/kifix/base-horizontal/foto-2.png",
+    "/images/products/kifix/base-horizontal/desenho-1.jpg",
+    "/images/products/kifix/base-horizontal/desenho-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Adaptadores para mesas de solda"
+    }
+  ],
+  "weight": "0,56 (1,23)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230013,
+      "sku": "MS BH Ø 16 - KF-052",
+      "label": "MS BH Ø 16 - KF-052",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "48,3 (1,90)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "32,3 (1,27)"
+        },
+        {
+          "name": "B (in)",
+          "value": "80 (3,14)"
+        },
+        {
+          "name": "C (in)",
+          "value": "27 (1,06)"
+        },
+        {
+          "name": "D (in)",
+          "value": "50 (1,96)"
+        },
+        {
+          "name": "E (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "F (in)",
+          "value": "70 (2,75)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,56 (1,23)"
+        }
+      ],
+      "weight": "0,56 (1,23)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230014,
+      "sku": "MS BH Ø 22 - KF-052",
+      "label": "MS BH Ø 22 - KF-052",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "55,4 (2,18)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "19 (0,74)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "36,4 (1,43)"
+        },
+        {
+          "name": "B (in)",
+          "value": "80 (3,14)"
+        },
+        {
+          "name": "C (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "D (in)",
+          "value": "50 (1,96)"
+        },
+        {
+          "name": "E (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "F (in)",
+          "value": "71 (2,75)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,713 (1,57)"
+        }
+      ],
+      "weight": "0,713 (1,57)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230015,
+      "sku": "MS BH Ø 28 - KF-052",
+      "label": "MS BH Ø 28 - KF-052",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "67,9 (2,67)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "42,5 (1,67)"
+        },
+        {
+          "name": "B (in)",
+          "value": "80 (3,14)"
+        },
+        {
+          "name": "C (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "D (in)",
+          "value": "50 (1,96)"
+        },
+        {
+          "name": "E (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "F (in)",
+          "value": "72 (2,75)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,997 (2,19)"
+        }
+      ],
+      "weight": "0,997 (2,19)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230016,
+      "sku": "MS BH Ø 16 - KF-057",
+      "label": "MS BH Ø 16 - KF-057",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "48,3 (1,90)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "32,3 (1,27)"
+        },
+        {
+          "name": "B (in)",
+          "value": "50 (1,96)"
+        },
+        {
+          "name": "C (in)",
+          "value": "27 (1,06)"
+        },
+        {
+          "name": "D (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "E (in)",
+          "value": "40 (1,57)"
+        },
+        {
+          "name": "F (in)",
+          "value": "55 (2,16)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,43 (0,94)"
+        }
+      ],
+      "weight": "0,43 (0,94)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230017,
+      "sku": "MS BH Ø 22 - KF-057",
+      "label": "MS BH Ø 22 - KF-057",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "55,4 (2,18)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "19 (0,74)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "36,4 (1,43)"
+        },
+        {
+          "name": "B (in)",
+          "value": "50 (1,96)"
+        },
+        {
+          "name": "C (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "D (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "E (in)",
+          "value": "40 (1,57)"
+        },
+        {
+          "name": "F (in)",
+          "value": "55 (2,16)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,43 (0,94)"
+        }
+      ],
+      "weight": "0,43 (0,94)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230018,
+      "sku": "MS BH Ø 28 - KF-057",
+      "label": "MS BH Ø 28 - KF-057",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "67,9 (2,67)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "42,5 (1,67)"
+        },
+        {
+          "name": "B (in)",
+          "value": "50 (1,96)"
+        },
+        {
+          "name": "C (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "D (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "E (in)",
+          "value": "40 (1,57)"
+        },
+        {
+          "name": "F (in)",
+          "value": "55 (2,16)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,62 (1,36)"
+        }
+      ],
+      "weight": "0,62 (1,36)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230019,
+      "sku": "MS BH Ø 16 - KF-511",
+      "label": "MS BH Ø 16 - KF-511",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "48,3 (1,90)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "32,3 (1,27)"
+        },
+        {
+          "name": "B (in)",
+          "value": "36 (1,41)"
+        },
+        {
+          "name": "C (in)",
+          "value": "27 (1,06)"
+        },
+        {
+          "name": "D (in)",
+          "value": "24 (0,94)"
+        },
+        {
+          "name": "E (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "F (in)",
+          "value": "37 (1,45)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,558 (1,23)"
+        }
+      ],
+      "weight": "0,558 (1,23)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230020,
+      "sku": "MS BH Ø 22 - KF-511",
+      "label": "MS BH Ø 22 - KF-511",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "55,4 (2,18)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "19 (0,74)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "36,4 (1,43)"
+        },
+        {
+          "name": "B (in)",
+          "value": "36 (1,41)"
+        },
+        {
+          "name": "C (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "D (in)",
+          "value": "24 (0,94)"
+        },
+        {
+          "name": "E (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "F (in)",
+          "value": "37 (1,45)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,296 (0,65)"
+        }
+      ],
+      "weight": "0,296 (0,65)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230021,
+      "sku": "MS BH Ø 28 - KF-511",
+      "label": "MS BH Ø 28 - KF-511",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "67,9 (2,67)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "42,5 (1,67)"
+        },
+        {
+          "name": "B (in)",
+          "value": "36 (1,41)"
+        },
+        {
+          "name": "C (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "D (in)",
+          "value": "24 (0,94)"
+        },
+        {
+          "name": "E (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "F (in)",
+          "value": "37 (1,45)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M6"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,44 (0,97)"
+        }
+      ],
+      "weight": "0,44 (0,97)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230022,
+      "sku": "MS BH Ø 16 - KF-521",
+      "label": "MS BH Ø 16 - KF-521",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "48,3 (1,90)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "32,3 (1,27)"
+        },
+        {
+          "name": "B (in)",
+          "value": "45 (1,77)"
+        },
+        {
+          "name": "C (in)",
+          "value": "27 (1,06)"
+        },
+        {
+          "name": "D (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "E (in)",
+          "value": "24 (0,944)"
+        },
+        {
+          "name": "F (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,278 (0,61)"
+        }
+      ],
+      "weight": "0,278 (0,61)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230023,
+      "sku": "MS BH Ø 22 - KF-521",
+      "label": "MS BH Ø 22 - KF-521",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "55,4 (2,18)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "19 (0,74)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "36,4 (1,43)"
+        },
+        {
+          "name": "B (in)",
+          "value": "46 (1,77)"
+        },
+        {
+          "name": "C (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "D (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "E (in)",
+          "value": "24 (0,944)"
+        },
+        {
+          "name": "F (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,38 (0,83)"
+        }
+      ],
+      "weight": "0,38 (0,83)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230024,
+      "sku": "MS BH Ø 28 - KF-521",
+      "label": "MS BH Ø 28 - KF-521",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "67,9 (2,67)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "42,5 (1,67)"
+        },
+        {
+          "name": "B (in)",
+          "value": "47 (1,77)"
+        },
+        {
+          "name": "C (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "D (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "E (in)",
+          "value": "24 (0,944)"
+        },
+        {
+          "name": "F (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,553 (1,21)"
+        }
+      ],
+      "weight": "0,553 (1,21)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230025,
+      "sku": "MS BH Ø 16 - KF-531",
+      "label": "MS BH Ø 16 - KF-531",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "48,3 (1,90)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "32,3 (1,27)"
+        },
+        {
+          "name": "B (in)",
+          "value": "50 (1,96)"
+        },
+        {
+          "name": "C (in)",
+          "value": "27 (1,06)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,25)"
+        },
+        {
+          "name": "E (in)",
+          "value": "37 (1,45)"
+        },
+        {
+          "name": "F (in)",
+          "value": "55 (2,16)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,363 (0,80)"
+        }
+      ],
+      "weight": "0,363 (0,80)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230026,
+      "sku": "MS BH Ø 22 - KF-531",
+      "label": "MS BH Ø 22 - KF-531",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "55,4 (2,18)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "19 (0,74)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "36,4 (1,43)"
+        },
+        {
+          "name": "B (in)",
+          "value": "50 (1,96)"
+        },
+        {
+          "name": "C (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,25)"
+        },
+        {
+          "name": "E (in)",
+          "value": "37 (1,45)"
+        },
+        {
+          "name": "F (in)",
+          "value": "55 (2,16)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,483 (1,06)"
+        }
+      ],
+      "weight": "0,483 (1,06)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230027,
+      "sku": "MS BH Ø 28 - KF-531",
+      "label": "MS BH Ø 28 - KF-531",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "67,9 (2,67)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "42,5 (1,67)"
+        },
+        {
+          "name": "B (in)",
+          "value": "50 (1,96)"
+        },
+        {
+          "name": "C (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "D (in)",
+          "value": "32 (1,25)"
+        },
+        {
+          "name": "E (in)",
+          "value": "37 (1,45)"
+        },
+        {
+          "name": "F (in)",
+          "value": "55 (2,16)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,691 (1,52)"
+        }
+      ],
+      "weight": "0,691 (1,52)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230028,
+      "sku": "MS BH Ø 16 - KF-532",
+      "label": "MS BH Ø 16 - KF-532",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "48,3 (1,90)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "32,3 (1,27)"
+        },
+        {
+          "name": "B (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "C (in)",
+          "value": "27 (1,06)"
+        },
+        {
+          "name": "D (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "E (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "F (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,442 (0,97)"
+        }
+      ],
+      "weight": "0,442 (0,97)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230029,
+      "sku": "MS BH Ø 22 - KF-532",
+      "label": "MS BH Ø 22 - KF-532",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "55,4 (2,18)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "19 (0,74)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "36,4 (1,43)"
+        },
+        {
+          "name": "B (in)",
+          "value": "58 (2,24)"
+        },
+        {
+          "name": "C (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "D (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "E (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "F (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,577 (1,27)"
+        }
+      ],
+      "weight": "0,577 (1,27)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230030,
+      "sku": "MS BH Ø 28 - KF-532",
+      "label": "MS BH Ø 28 - KF-532",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "67,9 (2,67)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "42,5 (1,67)"
+        },
+        {
+          "name": "B (in)",
+          "value": "59 (2,24)"
+        },
+        {
+          "name": "C (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "D (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "E (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "F (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M10"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,817 (1,80)"
+        }
+      ],
+      "weight": "0,817 (1,80)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230031,
+      "sku": "MS BH Ø 28 - KF-533",
+      "label": "MS BH Ø 28 - KF-533",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "48,3 (1,90)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "32,3 (1,27)"
+        },
+        {
+          "name": "B (in)",
+          "value": "49 (1,92)"
+        },
+        {
+          "name": "C (in)",
+          "value": "27 (1,06)"
+        },
+        {
+          "name": "D (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "E (in)",
+          "value": "36 (1,41)"
+        },
+        {
+          "name": "F (in)",
+          "value": "50 (1,96)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,448 (0,98)"
+        }
+      ],
+      "weight": "0,448 (0,98)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230032,
+      "sku": "MS BH Ø 22 - KF-533",
+      "label": "MS BH Ø 22 - KF-533",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "55,4 (2,18)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "19 (0,74)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "36,4 (1,43)"
+        },
+        {
+          "name": "B (in)",
+          "value": "49 (1,92)"
+        },
+        {
+          "name": "C (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "D (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "E (in)",
+          "value": "36 (1,41)"
+        },
+        {
+          "name": "F (in)",
+          "value": "50 (1,96)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,583 (1,28)"
+        }
+      ],
+      "weight": "0,583 (1,28)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230033,
+      "sku": "MS BH Ø 28 - KF-533",
+      "label": "MS BH Ø 28 - KF-533",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "67,9 (2,67)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "42,5 (1,67)"
+        },
+        {
+          "name": "B (in)",
+          "value": "49 (1,92)"
+        },
+        {
+          "name": "C (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "D (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "E (in)",
+          "value": "36 (1,41)"
+        },
+        {
+          "name": "F (in)",
+          "value": "50 (1,96)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,824 (1,81)"
+        }
+      ],
+      "weight": "0,824 (1,81)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "A (in)",
+        "A1 (in)",
+        "A2 (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "F (in)",
+        "J (in)",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "MS BH Ø 16 - KF-052",
+          "48,3 (1,90)",
+          "16 (0,62)",
+          "32,3 (1,27)",
+          "80 (3,14)",
+          "27 (1,06)",
+          "50 (1,96)",
+          "60 (2,36)",
+          "70 (2,75)",
+          "M10",
+          "0,56 (1,23)"
+        ],
+        [
+          "MS BH Ø 22 - KF-052",
+          "55,4 (2,18)",
+          "19 (0,74)",
+          "36,4 (1,43)",
+          "80 (3,14)",
+          "30 (1,18)",
+          "50 (1,96)",
+          "60 (2,36)",
+          "71 (2,75)",
+          "M10",
+          "0,713 (1,57)"
+        ],
+        [
+          "MS BH Ø 28 - KF-052",
+          "67,9 (2,67)",
+          "25,4 (1,00)",
+          "42,5 (1,67)",
+          "80 (3,14)",
+          "35 (1,37)",
+          "50 (1,96)",
+          "60 (2,36)",
+          "72 (2,75)",
+          "M10",
+          "0,997 (2,19)"
+        ],
+        [
+          "MS BH Ø 16 - KF-057",
+          "48,3 (1,90)",
+          "16 (0,62)",
+          "32,3 (1,27)",
+          "50 (1,96)",
+          "27 (1,06)",
+          "35 (1,37)",
+          "40 (1,57)",
+          "55 (2,16)",
+          "M6",
+          "0,43 (0,94)"
+        ],
+        [
+          "MS BH Ø 22 - KF-057",
+          "55,4 (2,18)",
+          "19 (0,74)",
+          "36,4 (1,43)",
+          "50 (1,96)",
+          "30 (1,18)",
+          "35 (1,37)",
+          "40 (1,57)",
+          "55 (2,16)",
+          "M6",
+          "0,43 (0,94)"
+        ],
+        [
+          "MS BH Ø 28 - KF-057",
+          "67,9 (2,67)",
+          "25,4 (1,00)",
+          "42,5 (1,67)",
+          "50 (1,96)",
+          "35 (1,37)",
+          "35 (1,37)",
+          "40 (1,57)",
+          "55 (2,16)",
+          "M6",
+          "0,62 (1,36)"
+        ],
+        [
+          "MS BH Ø 16 - KF-511",
+          "48,3 (1,90)",
+          "16 (0,62)",
+          "32,3 (1,27)",
+          "36 (1,41)",
+          "27 (1,06)",
+          "24 (0,94)",
+          "26 (1,02)",
+          "37 (1,45)",
+          "M6",
+          "0,558 (1,23)"
+        ],
+        [
+          "MS BH Ø 22 - KF-511",
+          "55,4 (2,18)",
+          "19 (0,74)",
+          "36,4 (1,43)",
+          "36 (1,41)",
+          "30 (1,18)",
+          "24 (0,94)",
+          "26 (1,02)",
+          "37 (1,45)",
+          "M6",
+          "0,296 (0,65)"
+        ],
+        [
+          "MS BH Ø 28 - KF-511",
+          "67,9 (2,67)",
+          "25,4 (1,00)",
+          "42,5 (1,67)",
+          "36 (1,41)",
+          "35 (1,37)",
+          "24 (0,94)",
+          "26 (1,02)",
+          "37 (1,45)",
+          "M6",
+          "0,44 (0,97)"
+        ],
+        [
+          "MS BH Ø 16 - KF-521",
+          "48,3 (1,90)",
+          "16 (0,62)",
+          "32,3 (1,27)",
+          "45 (1,77)",
+          "27 (1,06)",
+          "25,4 (1,00)",
+          "24 (0,944)",
+          "42 (1,65)",
+          "M8",
+          "0,278 (0,61)"
+        ],
+        [
+          "MS BH Ø 22 - KF-521",
+          "55,4 (2,18)",
+          "19 (0,74)",
+          "36,4 (1,43)",
+          "46 (1,77)",
+          "30 (1,18)",
+          "25,4 (1,00)",
+          "24 (0,944)",
+          "42 (1,65)",
+          "M8",
+          "0,38 (0,83)"
+        ],
+        [
+          "MS BH Ø 28 - KF-521",
+          "67,9 (2,67)",
+          "25,4 (1,00)",
+          "42,5 (1,67)",
+          "47 (1,77)",
+          "35 (1,37)",
+          "25,4 (1,00)",
+          "24 (0,944)",
+          "42 (1,65)",
+          "M8",
+          "0,553 (1,21)"
+        ],
+        [
+          "MS BH Ø 16 - KF-531",
+          "48,3 (1,90)",
+          "16 (0,62)",
+          "32,3 (1,27)",
+          "50 (1,96)",
+          "27 (1,06)",
+          "32 (1,25)",
+          "37 (1,45)",
+          "55 (2,16)",
+          "M10",
+          "0,363 (0,80)"
+        ],
+        [
+          "MS BH Ø 22 - KF-531",
+          "55,4 (2,18)",
+          "19 (0,74)",
+          "36,4 (1,43)",
+          "50 (1,96)",
+          "30 (1,18)",
+          "32 (1,25)",
+          "37 (1,45)",
+          "55 (2,16)",
+          "M10",
+          "0,483 (1,06)"
+        ],
+        [
+          "MS BH Ø 28 - KF-531",
+          "67,9 (2,67)",
+          "25,4 (1,00)",
+          "42,5 (1,67)",
+          "50 (1,96)",
+          "35 (1,37)",
+          "32 (1,25)",
+          "37 (1,45)",
+          "55 (2,16)",
+          "M10",
+          "0,691 (1,52)"
+        ],
+        [
+          "MS BH Ø 16 - KF-532",
+          "48,3 (1,90)",
+          "16 (0,62)",
+          "32,3 (1,27)",
+          "57 (2,24)",
+          "27 (1,06)",
+          "41 (1,61)",
+          "42 (1,65)",
+          "58 (2,28)",
+          "M10",
+          "0,442 (0,97)"
+        ],
+        [
+          "MS BH Ø 22 - KF-532",
+          "55,4 (2,18)",
+          "19 (0,74)",
+          "36,4 (1,43)",
+          "58 (2,24)",
+          "30 (1,18)",
+          "41 (1,61)",
+          "42 (1,65)",
+          "58 (2,28)",
+          "M10",
+          "0,577 (1,27)"
+        ],
+        [
+          "MS BH Ø 28 - KF-532",
+          "67,9 (2,67)",
+          "25,4 (1,00)",
+          "42,5 (1,67)",
+          "59 (2,24)",
+          "35 (1,37)",
+          "41 (1,61)",
+          "42 (1,65)",
+          "58 (2,28)",
+          "M10",
+          "0,817 (1,80)"
+        ],
+        [
+          "MS BH Ø 28 - KF-533",
+          "48,3 (1,90)",
+          "16 (0,62)",
+          "32,3 (1,27)",
+          "49 (1,92)",
+          "27 (1,06)",
+          "41 (1,61)",
+          "36 (1,41)",
+          "50 (1,96)",
+          "M8",
+          "0,448 (0,98)"
+        ],
+        [
+          "MS BH Ø 22 - KF-533",
+          "55,4 (2,18)",
+          "19 (0,74)",
+          "36,4 (1,43)",
+          "49 (1,92)",
+          "30 (1,18)",
+          "41 (1,61)",
+          "36 (1,41)",
+          "50 (1,96)",
+          "M8",
+          "0,583 (1,28)"
+        ],
+        [
+          "MS BH Ø 28 - KF-533",
+          "67,9 (2,67)",
+          "25,4 (1,00)",
+          "42,5 (1,67)",
+          "49 (1,92)",
+          "35 (1,37)",
+          "41 (1,61)",
+          "36 (1,41)",
+          "50 (1,96)",
+          "M8",
+          "0,824 (1,81)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/base-horizontal/desenho-1.jpg",
+        "/images/products/kifix/base-horizontal/desenho-2.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

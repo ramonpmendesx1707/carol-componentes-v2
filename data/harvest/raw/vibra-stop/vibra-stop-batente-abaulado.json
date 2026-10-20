@@ -66,5 +66,62 @@
   ],
   "headings": [
     "Vibra-Stop Batente Abaulado"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-videos",
+      "label": "Vídeo",
+      "text": "play_arrow\nvolume_up\n0:00 / 0:50\nfullscreen",
+      "images": [],
+      "videos": [
+        "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-abaulado.mp4"
+      ],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/ABAULADO/Abaulado%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/ABAULADO/Abaulado%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade de Carga\tDeflexão\tParafuso\tAltura\tAltura\tDiâmetro\nMedidas\tKgf\tmm/Kgf\t(d)\t(H) mm\t(h) mm\t(D) mm\nP\t5 a 30\t2,08/30\t3/16”, 1/4”\t30\t15\t20\nM\t30 a 100\t2,99/100\t1/4\", 5/16”\t50\t25\t40\nG\t100 a 200\t6,7/200\t5/16”, 3/8\"\t74\t44\t60",
+      "images": [],
+      "videos": [],
+      "tables": [
+        5
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/ABAULADO/Manual%20de%20Instalacao%20-%20ABAULADO.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:56:41.727Z"
 }

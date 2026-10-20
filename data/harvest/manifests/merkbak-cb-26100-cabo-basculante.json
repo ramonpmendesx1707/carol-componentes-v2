@@ -1,0 +1,104 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-basculante/",
+  "fetchedAt": "2026-10-20T12:46:19.013Z",
+  "product": {
+    "id": 201010,
+    "slug": "merkbak-cb-26100-cabo-basculante",
+    "name": "CB 26100 – Cabo Basculante",
+    "sku": "CB 26100",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/cabo-basculante/",
+    "type": "product",
+    "summary": "As principais características deste cabo são a capacidade da empunhadura girar enquanto o inserto metálico permanece fixo e a retração de 90° na empunhadura, evitando colisões acidentais que possam desregular a ajustagem feita. Utilizado em manivelas e volantes.",
+    "description": "<p>As principais características deste cabo são a capacidade da empunhadura girar enquanto o inserto metálico permanece fixo e a retração de 90° na empunhadura, evitando colisões acidentais que possam desregular a ajustagem feita. Utilizado em manivelas e volantes.</p><p><strong>Material:</strong> Baquelite + inserto aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Isolante térmico</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Baquelite",
+        "slug": "baquelite"
+      }
+    ],
+    "image": "/images/products/merkbak/cb-26100-cabo-basculante/1.png",
+    "images": [
+      "/images/products/merkbak/cb-26100-cabo-basculante/1.png",
+      "/images/products/merkbak/cb-26100-cabo-basculante/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Baquelite + inserto aço carbono zincado"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial polida na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "As principais características deste cabo são a capacidade da empunhadura girar enquanto o inserto metálico permanece fixo e a retração de 90° na empunhadura, evitando colisões acidentais que possam desregular a ajustagem feita. Utilizado em manivelas e volantes."
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Alta resistência / Higienização eficiente / Isolante térmico"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220045,
+        "sku": "CB 26100 – Cabo Basculante",
+        "label": "Padrão",
+        "attributes": [],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Baquelite + inserto aço carbono zincado"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial polida na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "As principais características deste cabo são a capacidade da empunhadura girar enquanto o inserto metálico permanece fixo e a retração de 90° na empunhadura, evitando colisões acidentais que possam desregular a ajustagem feita. Utilizado em manivelas e volantes."
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Alta resistência / Higienização eficiente / Isolante térmico"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/cb-26100-cabo-basculante/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/CB-e1779822576279.png",
+      "bytes": 73611,
+      "sha256": "93a07d455972a75f1a9ea8f2971e748699afe30b95700d4d4047c4766c0237dc"
+    },
+    {
+      "path": "/images/products/merkbak/cb-26100-cabo-basculante/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/CB_tab.png",
+      "bytes": 117088,
+      "sha256": "3b7e355e0aee2edbdeb89fb892de929634730a6c67ffc08be89a8c690af0b937"
+    }
+  ],
+  "checks": {
+    "variants": 1,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

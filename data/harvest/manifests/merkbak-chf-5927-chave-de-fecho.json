@@ -1,0 +1,104 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/chf-5927-chave-de-fecho-merkbak/",
+  "fetchedAt": "2026-10-20T12:44:37.560Z",
+  "product": {
+    "id": 201016,
+    "slug": "merkbak-chf-5927-chave-de-fecho",
+    "name": "CHF 5927 – Chave de fecho",
+    "sku": "CHF 5927",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/chf-5927-chave-de-fecho-merkbak/",
+    "type": "product",
+    "summary": "Portas de máquinas, equipamentos, painéis elétricos e de comando, etc",
+    "description": "<p>Portas de máquinas, equipamentos, painéis elétricos e de comando, etc</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro + corpo em aço carbono</p><p><strong>Informações adicionais:</strong> Alta resistência / Fácil instalação</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Plásticos",
+        "slug": "plasticos"
+      }
+    ],
+    "image": "/images/products/merkbak/chf-5927-chave-de-fecho/1.png",
+    "images": [
+      "/images/products/merkbak/chf-5927-chave-de-fecho/1.png",
+      "/images/products/merkbak/chf-5927-chave-de-fecho/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Nylon reforçado com fibra de vidro + corpo em aço carbono"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Portas de máquinas, equipamentos, painéis elétricos e de comando, etc"
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Alta resistência / Fácil instalação"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220065,
+        "sku": "CHF 5927 – Chave de fecho",
+        "label": "Padrão",
+        "attributes": [],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Nylon reforçado com fibra de vidro + corpo em aço carbono"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Portas de máquinas, equipamentos, painéis elétricos e de comando, etc"
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Alta resistência / Fácil instalação"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/chf-5927-chave-de-fecho/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/066-chf-copiar-e1779457914307.png",
+      "bytes": 74749,
+      "sha256": "5f2312ebe34b66940f54656484e635eb1f7bfa46d21bbba2b5aacee2c521f4c8"
+    },
+    {
+      "path": "/images/products/merkbak/chf-5927-chave-de-fecho/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2021/07/chf_tab.png",
+      "bytes": 70604,
+      "sha256": "593dd70f8ccc25de3244340851634a349d071b0f06db9d8a31ecaa0720121f3f"
+    }
+  ],
+  "checks": {
+    "variants": 1,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": 201038,
+  "slug": "merkbak-pbt-puxador-bola-termoplastico",
+  "name": "PBT – Puxador Bola Termoplástico",
+  "sku": "PBT",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/puxador-bola/",
+  "type": "product",
+  "summary": "Comandos e acionamentos manuais de regulagens de máquinas",
+  "description": "<p>Comandos e acionamentos manuais de regulagens de máquinas</p><p><strong>Material:</strong> Polipropileno + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Alta resistência</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Puxadores",
+      "slug": "puxadores"
+    }
+  ],
+  "image": "/images/products/merkbak/pbt-puxador-bola-termoplastico/1.png",
+  "images": [
+    "/images/products/merkbak/pbt-puxador-bola-termoplastico/1.png",
+    "/images/products/merkbak/pbt-puxador-bola-termoplastico/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Polipropileno + inserto rosca latão"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial texturizado na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Comandos e acionamentos manuais de regulagens de máquinas"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220245,
+      "sku": "PBT 4534 5/16",
+      "label": "PBT 4534 5/16",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "PBT 4534 5/16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220246,
+      "sku": "PBT 4534 M8",
+      "label": "PBT 4534 M8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "PBT 4534 M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220247,
+      "sku": "PBT 4534 3/8",
+      "label": "PBT 4534 3/8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "PBT 4534 3/8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Polipropileno + inserto rosca latão"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial texturizado na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Comandos e acionamentos manuais de regulagens de máquinas"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "PBT 4534 5/16"
+        },
+        {
+          "name": "Medida",
+          "value": "PBT 4534 M8"
+        },
+        {
+          "name": "Medida",
+          "value": "PBT 4534 3/8"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

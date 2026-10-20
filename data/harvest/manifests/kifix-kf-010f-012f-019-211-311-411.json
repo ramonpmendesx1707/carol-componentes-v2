@@ -1,0 +1,1618 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-010f-012f-019-211-311-411/",
+  "fetchedAt": "2026-10-20T12:57:03.105Z",
+  "product": {
+    "id": 202020,
+    "slug": "kifix-kf-010f-012f-019-211-311-411",
+    "name": "KF-010F/012F/019/211/311/411",
+    "sku": "KF-010F/012F/019/211/311/411",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-010f-012f-019-211-311-411/",
+    "type": "product",
+    "summary": "Linha Grampo vertical Kifix modelo KF-010F/012F/019/211/311/411, com 18 referências dimensionais.",
+    "description": "<p>Linha Grampo vertical Kifix modelo KF-010F/012F/019/211/311/411, com 18 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo vertical",
+        "slug": "grampo-vertical"
+      }
+    ],
+    "image": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-1.png",
+    "images": [
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-1.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-2.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-3.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-4.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-5.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-6.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-7.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-8.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-9.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-10.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-11.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-12.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-13.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-14.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-15.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-16.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-17.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-18.png",
+      "/images/products/kifix/kf-010f-012f-019-211-311-411/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo vertical"
+      }
+    ],
+    "weight": "0,100 (0,220)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230171,
+        "sku": "KF-010 F",
+        "label": "KF-010 F",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "32 (70)"
+          },
+          {
+            "name": "A (in)",
+            "value": "112 (4,41)"
+          },
+          {
+            "name": "B (in)",
+            "value": "51 (2,01)"
+          },
+          {
+            "name": "C (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "D (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "E (in)",
+            "value": "23,7 (0,93)"
+          },
+          {
+            "name": "F (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "G (in)",
+            "value": "33 (1,30)"
+          },
+          {
+            "name": "H (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "4,3 (0,17)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M6"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "100"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,100 (0,220)"
+          }
+        ],
+        "weight": "0,100 (0,220)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230172,
+        "sku": "KF-012 F",
+        "label": "KF-012 F",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "90 (198)"
+          },
+          {
+            "name": "A (in)",
+            "value": "149 (5,87)"
+          },
+          {
+            "name": "B (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "C (in)",
+            "value": "47 (1,85)"
+          },
+          {
+            "name": "D (in)",
+            "value": "12,7 (0,50)"
+          },
+          {
+            "name": "E (in)",
+            "value": "27 (1,06)"
+          },
+          {
+            "name": "F (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "G (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "H (in)",
+            "value": "41 (1,61)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,22)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M6"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "100"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,230 (0,507)"
+          }
+        ],
+        "weight": "0,230 (0,507)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230173,
+        "sku": "KF-019 DB",
+        "label": "KF-019 DB",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "250 (550)"
+          },
+          {
+            "name": "A (in)",
+            "value": "215 (8,46)"
+          },
+          {
+            "name": "B (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "C (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "D (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "E (in)",
+            "value": "33,5 (1,32)"
+          },
+          {
+            "name": "F (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "G (in)",
+            "value": "50,5 (1,99)"
+          },
+          {
+            "name": "H (in)",
+            "value": "76 (2,99)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "100"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,500 (1,100)"
+          }
+        ],
+        "weight": "0,500 (1,100)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230174,
+        "sku": "KF-019 DS",
+        "label": "KF-019 DS",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "250 (550)"
+          },
+          {
+            "name": "A (in)",
+            "value": "215 (8,46)"
+          },
+          {
+            "name": "B (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "C (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "D (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "E (in)",
+            "value": "33,5 (1,32)"
+          },
+          {
+            "name": "F (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "G (in)",
+            "value": "50,5 (1,99)"
+          },
+          {
+            "name": "H (in)",
+            "value": "76 (2,99)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "91"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,500 (1,100)"
+          }
+        ],
+        "weight": "0,500 (1,100)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230175,
+        "sku": "KF-019 RB",
+        "label": "KF-019 RB",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "250 (550)"
+          },
+          {
+            "name": "A (in)",
+            "value": "215 (8,46)"
+          },
+          {
+            "name": "B (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "C (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "D (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "91"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,500 (1,100)"
+          }
+        ],
+        "weight": "0,500 (1,100)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230176,
+        "sku": "KF-019 RS",
+        "label": "KF-019 RS",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "250 (550)"
+          },
+          {
+            "name": "A (in)",
+            "value": "215 (8,46)"
+          },
+          {
+            "name": "B (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "C (in)",
+            "value": "70 (2,76)"
+          },
+          {
+            "name": "D (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "57 (2,24)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "91"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,500 (1,100)"
+          }
+        ],
+        "weight": "0,500 (1,100)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230177,
+        "sku": "KF-211 DB",
+        "label": "KF-211 DB",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "150 (330)"
+          },
+          {
+            "name": "A (in)",
+            "value": "207 (8,15)"
+          },
+          {
+            "name": "B (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "C (in)",
+            "value": "65 (2,56)"
+          },
+          {
+            "name": "D (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "E (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "G (in)",
+            "value": "46,5 (1,83)"
+          },
+          {
+            "name": "H (in)",
+            "value": "79 (3,11)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "100"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,480 (1,058)"
+          }
+        ],
+        "weight": "0,480 (1,058)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230178,
+        "sku": "KF-211 DS",
+        "label": "KF-211 DS",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "A (in)",
+            "value": "207 (8,15)"
+          },
+          {
+            "name": "B (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "C (in)",
+            "value": "65 (2,56)"
+          },
+          {
+            "name": "D (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "E (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "G (in)",
+            "value": "46,5 (1,83)"
+          },
+          {
+            "name": "H (in)",
+            "value": "79 (3,11)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "100"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,480 (1,058)"
+          }
+        ],
+        "weight": "0,480 (1,058)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230179,
+        "sku": "KF-211 RB",
+        "label": "KF-211 RB",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "150 (330)"
+          },
+          {
+            "name": "A (in)",
+            "value": "207 (8,15)"
+          },
+          {
+            "name": "B (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "C (in)",
+            "value": "65 (2,56)"
+          },
+          {
+            "name": "D (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "69 (2,72)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "88"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,480 (1,058)"
+          }
+        ],
+        "weight": "0,480 (1,058)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230180,
+        "sku": "KF-211 RS",
+        "label": "KF-211 RS",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "A (in)",
+            "value": "207 (8,15)"
+          },
+          {
+            "name": "B (in)",
+            "value": "120 (4,72)"
+          },
+          {
+            "name": "C (in)",
+            "value": "65 (2,56)"
+          },
+          {
+            "name": "D (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "E (in)",
+            "value": "6,5 (0,26)"
+          },
+          {
+            "name": "F (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "69 (2,72)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7,0 (0,28)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "88"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,480 (1,058)"
+          }
+        ],
+        "weight": "0,480 (1,058)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230181,
+        "sku": "KF-311 DB",
+        "label": "KF-311 DB",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "250 (550)"
+          },
+          {
+            "name": "A (in)",
+            "value": "260 (10,24)"
+          },
+          {
+            "name": "B (in)",
+            "value": "166 (6,54)"
+          },
+          {
+            "name": "C (in)",
+            "value": "90 (3,54)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "44 (1,73)"
+          },
+          {
+            "name": "F (in)",
+            "value": "49 (1,93)"
+          },
+          {
+            "name": "G (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "H (in)",
+            "value": "106 (4,17)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "97"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,960 (2,116)"
+          }
+        ],
+        "weight": "0,960 (2,116)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230182,
+        "sku": "KF-311 DS",
+        "label": "KF-311 DS",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "260 (10,24)"
+          },
+          {
+            "name": "B (in)",
+            "value": "166 (6,54)"
+          },
+          {
+            "name": "C (in)",
+            "value": "90 (3,54)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "44 (1,73)"
+          },
+          {
+            "name": "F (in)",
+            "value": "49 (1,93)"
+          },
+          {
+            "name": "G (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "H (in)",
+            "value": "106 (4,17)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "97"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,930 (2,050)"
+          }
+        ],
+        "weight": "0,930 (2,050)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230183,
+        "sku": "KF-311 RB",
+        "label": "KF-311 RB",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "250 (550)"
+          },
+          {
+            "name": "A (in)",
+            "value": "260 (10,24)"
+          },
+          {
+            "name": "B (in)",
+            "value": "166 (6,54)"
+          },
+          {
+            "name": "C (in)",
+            "value": "90 (3,54)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "F (in)",
+            "value": "49 (1,93)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "97 (3,82)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "97"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,960 (2,116)"
+          }
+        ],
+        "weight": "0,960 (2,116)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230184,
+        "sku": "KF-311 RS",
+        "label": "KF-311 RS",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "300 (660)"
+          },
+          {
+            "name": "A (in)",
+            "value": "260 (10,24)"
+          },
+          {
+            "name": "B (in)",
+            "value": "166 (6,54)"
+          },
+          {
+            "name": "C (in)",
+            "value": "90 (3,54)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "F (in)",
+            "value": "49 (1,93)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "97 (3,82)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "97"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,930 (2,050)"
+          }
+        ],
+        "weight": "0,930 (2,050)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230185,
+        "sku": "KF-411 DB",
+        "label": "KF-411 DB",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "650 (1430)"
+          },
+          {
+            "name": "A (in)",
+            "value": "321 (12,64)"
+          },
+          {
+            "name": "B (in)",
+            "value": "200 (7,87)"
+          },
+          {
+            "name": "C (in)",
+            "value": "113 (4,45)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "45 (1,77)"
+          },
+          {
+            "name": "F (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "G (in)",
+            "value": "67 (2,64)"
+          },
+          {
+            "name": "H (in)",
+            "value": "134 (5,28)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "100"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,750 (3,858)"
+          }
+        ],
+        "weight": "1,750 (3,858)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230186,
+        "sku": "KF-411 DS",
+        "label": "KF-411 DS",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "700 (1540)"
+          },
+          {
+            "name": "A (in)",
+            "value": "321 (12,64)"
+          },
+          {
+            "name": "B (in)",
+            "value": "200 (7,87)"
+          },
+          {
+            "name": "C (in)",
+            "value": "113 (4,45)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "45 (1,77)"
+          },
+          {
+            "name": "F (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "G (in)",
+            "value": "67 (2,64)"
+          },
+          {
+            "name": "H (in)",
+            "value": "134 (5,28)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "100"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,700 (3,747)"
+          }
+        ],
+        "weight": "1,700 (3,747)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230187,
+        "sku": "KF-411 RB",
+        "label": "KF-411 RB",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "650 (1430)"
+          },
+          {
+            "name": "A (in)",
+            "value": "321 (12,64)"
+          },
+          {
+            "name": "B (in)",
+            "value": "200 (7,87)"
+          },
+          {
+            "name": "C (in)",
+            "value": "113 (4,45)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "F (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "126 (4,96)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "100"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,750 (3,858)"
+          }
+        ],
+        "weight": "1,750 (3,858)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230188,
+        "sku": "KF-411 RS",
+        "label": "KF-411 RS",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "700 (1540)"
+          },
+          {
+            "name": "A (in)",
+            "value": "321 (12,64)"
+          },
+          {
+            "name": "B (in)",
+            "value": "200 (7,87)"
+          },
+          {
+            "name": "C (in)",
+            "value": "113 (4,45)"
+          },
+          {
+            "name": "D (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "E (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "F (in)",
+            "value": "55 (2,17)"
+          },
+          {
+            "name": "G (in)",
+            "value": "-"
+          },
+          {
+            "name": "H (in)",
+            "value": "126 (4,96)"
+          },
+          {
+            "name": "J (in)",
+            "value": "8,5 (0,33)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M10"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "100"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,700 (3,747)"
+          }
+        ],
+        "weight": "1,700 (3,747)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "PONTEIRA",
+          "ÂNGULO DE ABERTURA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-010 F",
+            "32 (70)",
+            "112 (4,41)",
+            "51 (2,01)",
+            "42 (1,65)",
+            "16 (0,63)",
+            "23,7 (0,93)",
+            "25 (0,98)",
+            "33 (1,30)",
+            "24 (0,94)",
+            "4,3 (0,17)",
+            "M6",
+            "100",
+            "0,100 (0,220)"
+          ],
+          [
+            "KF-012 F",
+            "90 (198)",
+            "149 (5,87)",
+            "70 (2,76)",
+            "47 (1,85)",
+            "12,7 (0,50)",
+            "27 (1,06)",
+            "25 (0,98)",
+            "40 (1,57)",
+            "41 (1,61)",
+            "5,5 (0,22)",
+            "M6",
+            "100",
+            "0,230 (0,507)"
+          ],
+          [
+            "KF-019 DB",
+            "250 (550)",
+            "215 (8,46)",
+            "120 (4,72)",
+            "70 (2,76)",
+            "20 (0,79)",
+            "33,5 (1,32)",
+            "38 (1,50)",
+            "50,5 (1,99)",
+            "76 (2,99)",
+            "7,0 (0,28)",
+            "M8",
+            "100",
+            "0,500 (1,100)"
+          ],
+          [
+            "KF-019 DS",
+            "250 (550)",
+            "215 (8,46)",
+            "120 (4,72)",
+            "70 (2,76)",
+            "20 (0,79)",
+            "33,5 (1,32)",
+            "38 (1,50)",
+            "50,5 (1,99)",
+            "76 (2,99)",
+            "7,0 (0,28)",
+            "M8",
+            "91",
+            "0,500 (1,100)"
+          ],
+          [
+            "KF-019 RB",
+            "250 (550)",
+            "215 (8,46)",
+            "120 (4,72)",
+            "70 (2,76)",
+            "20 (0,79)",
+            "6,5 (0,26)",
+            "38 (1,50)",
+            "-",
+            "57 (2,24)",
+            "7,0 (0,28)",
+            "M8",
+            "91",
+            "0,500 (1,100)"
+          ],
+          [
+            "KF-019 RS",
+            "250 (550)",
+            "215 (8,46)",
+            "120 (4,72)",
+            "70 (2,76)",
+            "20 (0,79)",
+            "6,5 (0,26)",
+            "38 (1,50)",
+            "-",
+            "57 (2,24)",
+            "7,0 (0,28)",
+            "M8",
+            "91",
+            "0,500 (1,100)"
+          ],
+          [
+            "KF-211 DB",
+            "150 (330)",
+            "207 (8,15)",
+            "120 (4,72)",
+            "65 (2,56)",
+            "19 (0,75)",
+            "32 (1,26)",
+            "35 (1,38)",
+            "46,5 (1,83)",
+            "79 (3,11)",
+            "7,0 (0,28)",
+            "M8",
+            "100",
+            "0,480 (1,058)"
+          ],
+          [
+            "KF-211 DS",
+            "200 (440)",
+            "207 (8,15)",
+            "120 (4,72)",
+            "65 (2,56)",
+            "19 (0,75)",
+            "32 (1,26)",
+            "35 (1,38)",
+            "46,5 (1,83)",
+            "79 (3,11)",
+            "7,0 (0,28)",
+            "M8",
+            "100",
+            "0,480 (1,058)"
+          ],
+          [
+            "KF-211 RB",
+            "150 (330)",
+            "207 (8,15)",
+            "120 (4,72)",
+            "65 (2,56)",
+            "19 (0,75)",
+            "6,5 (0,26)",
+            "35 (1,38)",
+            "-",
+            "69 (2,72)",
+            "7,0 (0,28)",
+            "M8",
+            "88",
+            "0,480 (1,058)"
+          ],
+          [
+            "KF-211 RS",
+            "200 (440)",
+            "207 (8,15)",
+            "120 (4,72)",
+            "65 (2,56)",
+            "19 (0,75)",
+            "6,5 (0,26)",
+            "35 (1,38)",
+            "-",
+            "69 (2,72)",
+            "7,0 (0,28)",
+            "M8",
+            "88",
+            "0,480 (1,058)"
+          ],
+          [
+            "KF-311 DB",
+            "250 (550)",
+            "260 (10,24)",
+            "166 (6,54)",
+            "90 (3,54)",
+            "32 (1,26)",
+            "44 (1,73)",
+            "49 (1,93)",
+            "60 (2,36)",
+            "106 (4,17)",
+            "8,5 (0,33)",
+            "M10",
+            "97",
+            "0,960 (2,116)"
+          ],
+          [
+            "KF-311 DS",
+            "300 (660)",
+            "260 (10,24)",
+            "166 (6,54)",
+            "90 (3,54)",
+            "32 (1,26)",
+            "44 (1,73)",
+            "49 (1,93)",
+            "60 (2,36)",
+            "106 (4,17)",
+            "8,5 (0,33)",
+            "M10",
+            "97",
+            "0,930 (2,050)"
+          ],
+          [
+            "KF-311 RB",
+            "250 (550)",
+            "260 (10,24)",
+            "166 (6,54)",
+            "90 (3,54)",
+            "32 (1,26)",
+            "8 (0,31)",
+            "49 (1,93)",
+            "-",
+            "97 (3,82)",
+            "8,5 (0,33)",
+            "M10",
+            "97",
+            "0,960 (2,116)"
+          ],
+          [
+            "KF-311 RS",
+            "300 (660)",
+            "260 (10,24)",
+            "166 (6,54)",
+            "90 (3,54)",
+            "32 (1,26)",
+            "8 (0,31)",
+            "49 (1,93)",
+            "-",
+            "97 (3,82)",
+            "8,5 (0,33)",
+            "M10",
+            "97",
+            "0,930 (2,050)"
+          ],
+          [
+            "KF-411 DB",
+            "650 (1430)",
+            "321 (12,64)",
+            "200 (7,87)",
+            "113 (4,45)",
+            "32 (1,26)",
+            "45 (1,77)",
+            "55 (2,17)",
+            "67 (2,64)",
+            "134 (5,28)",
+            "8,5 (0,33)",
+            "M10",
+            "100",
+            "1,750 (3,858)"
+          ],
+          [
+            "KF-411 DS",
+            "700 (1540)",
+            "321 (12,64)",
+            "200 (7,87)",
+            "113 (4,45)",
+            "32 (1,26)",
+            "45 (1,77)",
+            "55 (2,17)",
+            "67 (2,64)",
+            "134 (5,28)",
+            "8,5 (0,33)",
+            "M10",
+            "100",
+            "1,700 (3,747)"
+          ],
+          [
+            "KF-411 RB",
+            "650 (1430)",
+            "321 (12,64)",
+            "200 (7,87)",
+            "113 (4,45)",
+            "32 (1,26)",
+            "10 (0,39)",
+            "55 (2,17)",
+            "-",
+            "126 (4,96)",
+            "8,5 (0,33)",
+            "M10",
+            "100",
+            "1,750 (3,858)"
+          ],
+          [
+            "KF-411 RS",
+            "700 (1540)",
+            "321 (12,64)",
+            "200 (7,87)",
+            "113 (4,45)",
+            "32 (1,26)",
+            "10 (0,39)",
+            "55 (2,17)",
+            "-",
+            "126 (4,96)",
+            "8,5 (0,33)",
+            "M10",
+            "100",
+            "1,700 (3,747)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kf-010f-012f-019-211-311-411/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1057_KF010F.png",
+      "bytes": 1409375,
+      "sha256": "144afe265babd5e6f32372e873914f36b8dc066f1690c75714aa37b6fbe53913"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1058_KF012F.png",
+      "bytes": 1477109,
+      "sha256": "3c6fa4c4eb2bdaf957cf0c0a801e98be28416226b352841c1236c67c43b9a1a2"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/615_KF_019_DB.png",
+      "bytes": 235920,
+      "sha256": "52fec8171a799b3f25e2d04fa67644ab507b9425cc1fefbf266b697d501e7d3a"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-4.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/867_KF_019_DS.png",
+      "bytes": 189879,
+      "sha256": "fc180216576f1188c6d6231b8be4676714a9639ac1ddd6436cd641e0bbdf3eb8"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-5.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1059_KF019RB.png",
+      "bytes": 1342647,
+      "sha256": "72d19ab67917632312ad37649f8c4ae4a33d5513476d7b67d05e1cdad9fef24b"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-6.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1060_KF019RS.png",
+      "bytes": 1322716,
+      "sha256": "e94f0b0413b28ea4403e9f40a52040a18db8f1d91ae0bf25d72a64d912851395"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-7.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1061_KF211DB.png",
+      "bytes": 1369171,
+      "sha256": "993d6a95001c3014ccf3f8d904eaa6f54194522e8f560bda930de0778bb05530"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-8.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/613_KF_211_DS63.png",
+      "bytes": 219440,
+      "sha256": "2acf645e7464d25b89d80f3d221f03761f09cb7fa9dadf590c28343e76cfa7c6"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-9.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1063_KF211RS.png",
+      "bytes": 1204204,
+      "sha256": "dd3d56144e9976529280d3b582707e61df714d7dcf0aacfe5425619c95b6f9ff"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-10.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1062_KF211RB.png",
+      "bytes": 1152182,
+      "sha256": "a6748e42cb48bfa1fc1ec191d7e0eb578216963b83939a807a2ab08dd275e428"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-11.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1064_KF311db.png",
+      "bytes": 1463139,
+      "sha256": "1c7f683ea0eebb05cdf777243ae4e93dd0e7ae5fe59ef351beb7257f7d291b04"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-12.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1065_KF311DS.png",
+      "bytes": 1417600,
+      "sha256": "452e4aee42e966872ed4a6dfc6e739c00fb74cac36c3b0015945070b113171f7"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-13.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/612_KF_311_RB.png",
+      "bytes": 266527,
+      "sha256": "549539119c6686686bf2b30de71def4de75a42905fbba896bd4f93ce814918dd"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-14.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1066_KF311RS.png",
+      "bytes": 1338489,
+      "sha256": "8c501d114b18f3459735cd2de33e065141e3659aa3907fa543593fe1ab5c8f71"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-15.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1067_KF411DB.png",
+      "bytes": 1300329,
+      "sha256": "64d6ad04a2dadccb9fd2ef7861bb20edf248e49fd8d273346b1cbca51e3ab278"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-16.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/572_KF_411_DS.png",
+      "bytes": 209675,
+      "sha256": "9a590c85c6b52b4e49f5ffdaa582bc809fd15843bb056de0902ea5329b614854"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-17.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1068_KF411RB.png",
+      "bytes": 1290751,
+      "sha256": "6336cbba39d43cc3bf41bb65f1876fbc4c13178e6bac0995fd78015ba557c240"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/foto-18.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/614_KF_41165.png",
+      "bytes": 216834,
+      "sha256": "cdd8ef34a0a995795fca94977128f41068e79e36362850c95bac36c1f5dee9f6"
+    },
+    {
+      "path": "/images/products/kifix/kf-010f-012f-019-211-311-411/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/222_KF010F_012F_019_211_311_411.JPG",
+      "bytes": 104447,
+      "sha256": "a0f25659550e69d3ae4f5b307d494512fa1d91a89700b71da47847d9ffe18ace"
+    }
+  ],
+  "checks": {
+    "variants": 18,
+    "photos": 18,
+    "drawings": 1,
+    "tableRows": 18
+  }
+}

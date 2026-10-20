@@ -1,0 +1,149 @@
+{
+  "id": 201027,
+  "slug": "merkbak-kr-knob-retratil",
+  "name": "KR – Knob Retrátil",
+  "sku": "KR",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/knob-retratil/",
+  "type": "product",
+  "summary": "Knob posicionador indexador com mola interna para avanço e recuo automático do pino interno. Utilizado para localizar, fechar, travar ou centralizar partes de máquinas e equipamentos em geral./td>",
+  "description": "<p>Knob posicionador indexador com mola interna para avanço e recuo automático do pino interno. Utilizado para localizar, fechar, travar ou centralizar partes de máquinas e equipamentos em geral./td&gt;</p><p><strong>Material:</strong> Polipropileno + rosca aço carbono zincado na cor preta</p><p><strong>Informações adicionais:</strong> Média resistência</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Plásticos",
+      "slug": "plasticos"
+    }
+  ],
+  "image": "/images/products/merkbak/kr-knob-retratil/1.png",
+  "images": [
+    "/images/products/merkbak/kr-knob-retratil/1.png",
+    "/images/products/merkbak/kr-knob-retratil/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Polipropileno + rosca aço carbono zincado na cor preta"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial texturizado na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Knob posicionador indexador com mola interna para avanço e recuo automático do pino interno. Utilizado para localizar, fechar, travar ou centralizar partes de máquinas e equipamentos em geral./td>"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Média resistência"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220133,
+      "sku": "KR 2426 M10",
+      "label": "KR 2426 M10",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KR 2426 M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220134,
+      "sku": "KR 2426 M12",
+      "label": "KR 2426 M12",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KR 2426 M12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220135,
+      "sku": "KR 3126 M16",
+      "label": "KR 3126 M16",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KR 3126 M16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220136,
+      "sku": "KR 3126 M20 PASSO 1,50",
+      "label": "KR 3126 M20 PASSO 1,50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KR 3126 M20 PASSO 1,50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Polipropileno + rosca aço carbono zincado na cor preta"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial texturizado na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Knob posicionador indexador com mola interna para avanço e recuo automático do pino interno. Utilizado para localizar, fechar, travar ou centralizar partes de máquinas e equipamentos em geral./td>"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Média resistência"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "KR 2426 M10"
+        },
+        {
+          "name": "Medida",
+          "value": "KR 2426 M12"
+        },
+        {
+          "name": "Medida",
+          "value": "KR 3126 M16"
+        },
+        {
+          "name": "Medida",
+          "value": "KR 3126 M20 PASSO 1,50"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

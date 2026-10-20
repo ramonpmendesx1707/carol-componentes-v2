@@ -1,0 +1,354 @@
+{
+  "id": 202017,
+  "slug": "kifix-kf-01-02-03-05-06-09-mp",
+  "name": "KF-01/02/03/05/06/09 MP",
+  "sku": "KF-01/02/03/05/06/09 MP",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-vertical/kf-01-02-03-05-06-09-mp/",
+  "type": "product",
+  "summary": "Linha Grampo vertical Kifix modelo KF-01/02/03/05/06/09 MP, com 6 referências dimensionais.",
+  "description": "<p>Linha Grampo vertical Kifix modelo KF-01/02/03/05/06/09 MP, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo vertical",
+      "slug": "grampo-vertical"
+    }
+  ],
+  "image": "/images/products/kifix/kf-01-02-03-05-06-09-mp/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-01-02-03-05-06-09-mp/foto-1.png",
+    "/images/products/kifix/kf-01-02-03-05-06-09-mp/foto-2.png",
+    "/images/products/kifix/kf-01-02-03-05-06-09-mp/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo vertical"
+    }
+  ],
+  "weight": "0,320 (0,705)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230111,
+      "sku": "KF-01 MP",
+      "label": "KF-01 MP",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "160 (352)"
+        },
+        {
+          "name": "A (in)",
+          "value": "125 (4,92)"
+        },
+        {
+          "name": "B (in)",
+          "value": "70 (2,76)"
+        },
+        {
+          "name": "C (in)",
+          "value": "15 (0,59)"
+        },
+        {
+          "name": "D (in)",
+          "value": "12,7 (0,50)"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "120"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,320 (0,705)"
+        }
+      ],
+      "weight": "0,320 (0,705)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230112,
+      "sku": "KF-02 MP",
+      "label": "KF-02 MP",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "300 (660)"
+        },
+        {
+          "name": "A (in)",
+          "value": "171 (6,73)"
+        },
+        {
+          "name": "B (in)",
+          "value": "92 (3,62)"
+        },
+        {
+          "name": "C (in)",
+          "value": "20 (0,79)"
+        },
+        {
+          "name": "D (in)",
+          "value": "14,3 (0,56)"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "120"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,580 (1,278)"
+        }
+      ],
+      "weight": "0,580 (1,278)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230113,
+      "sku": "KF-03 MP",
+      "label": "KF-03 MP",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "450 (990)"
+        },
+        {
+          "name": "A (in)",
+          "value": "191 (7,52)"
+        },
+        {
+          "name": "B (in)",
+          "value": "101 (3,98)"
+        },
+        {
+          "name": "C (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "D (in)",
+          "value": "15,8 (0,62)"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "120"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,350 (2,976)"
+        }
+      ],
+      "weight": "1,350 (2,976)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230114,
+      "sku": "KF-05 MP",
+      "label": "KF-05 MP",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "500 (1100)"
+        },
+        {
+          "name": "A (in)",
+          "value": "227 (8,94)"
+        },
+        {
+          "name": "B (in)",
+          "value": "150 (5,91)"
+        },
+        {
+          "name": "C (in)",
+          "value": "50 (1,97)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19,1 (0,75)"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "120"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "2,040 (4,497)"
+        }
+      ],
+      "weight": "2,040 (4,497)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230115,
+      "sku": "KF-06 MP",
+      "label": "KF-06 MP",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "500 (1100)"
+        },
+        {
+          "name": "A (in)",
+          "value": "247 (9,72)"
+        },
+        {
+          "name": "B (in)",
+          "value": "161 (6,34)"
+        },
+        {
+          "name": "C (in)",
+          "value": "60 (2,36)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19,1 (0,75)"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "120"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "2,135 (4,706)"
+        }
+      ],
+      "weight": "2,135 (4,706)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230116,
+      "sku": "KF-09 MP",
+      "label": "KF-09 MP",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "1800 (3960)"
+        },
+        {
+          "name": "A (in)",
+          "value": "324 (12,76)"
+        },
+        {
+          "name": "B (in)",
+          "value": "200 (7,87)"
+        },
+        {
+          "name": "C (in)",
+          "value": "90 (3,54)"
+        },
+        {
+          "name": "D (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "120"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "4,250 (9,369)"
+        }
+      ],
+      "weight": "4,250 (9,369)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "ÂNGULO DE ABERTURA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-01 MP",
+          "160 (352)",
+          "125 (4,92)",
+          "70 (2,76)",
+          "15 (0,59)",
+          "12,7 (0,50)",
+          "120",
+          "0,320 (0,705)"
+        ],
+        [
+          "KF-02 MP",
+          "300 (660)",
+          "171 (6,73)",
+          "92 (3,62)",
+          "20 (0,79)",
+          "14,3 (0,56)",
+          "120",
+          "0,580 (1,278)"
+        ],
+        [
+          "KF-03 MP",
+          "450 (990)",
+          "191 (7,52)",
+          "101 (3,98)",
+          "30 (1,18)",
+          "15,8 (0,62)",
+          "120",
+          "1,350 (2,976)"
+        ],
+        [
+          "KF-05 MP",
+          "500 (1100)",
+          "227 (8,94)",
+          "150 (5,91)",
+          "50 (1,97)",
+          "19,1 (0,75)",
+          "120",
+          "2,040 (4,497)"
+        ],
+        [
+          "KF-06 MP",
+          "500 (1100)",
+          "247 (9,72)",
+          "161 (6,34)",
+          "60 (2,36)",
+          "19,1 (0,75)",
+          "120",
+          "2,135 (4,706)"
+        ],
+        [
+          "KF-09 MP",
+          "1800 (3960)",
+          "324 (12,76)",
+          "200 (7,87)",
+          "90 (3,54)",
+          "25,4 (1,00)",
+          "120",
+          "4,250 (9,369)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-01-02-03-05-06-09-mp/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

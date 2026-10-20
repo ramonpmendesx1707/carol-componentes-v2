@@ -1,0 +1,631 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao?model=tracao-plus&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:49:40.007Z",
+  "product": {
+    "id": 200052,
+    "slug": "vibra-stop-tracao-plus",
+    "name": "Vibra-Stop Mola Tração Plus",
+    "sku": "Tração Plus",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao?model=tracao-plus&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.",
+    "description": "<p>Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/tracao-plus/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/tracao-plus/foto-1.png",
+      "/images/products/vibra-stop/tracao-plus/foto-2.png",
+      "/images/products/vibra-stop/tracao-plus/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Aço Carbono Zinacado e Borracha Natural."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 210325,
+        "sku": "MTP30",
+        "label": "MTP30",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "30"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "19,25/30"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "443"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "53"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "5,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210326,
+        "sku": "MTP50",
+        "label": "MTP50",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "50"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "37,72/50"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "443"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "55"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210327,
+        "sku": "MTP100",
+        "label": "MTP100",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "100"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "37,89/100"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "443"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "57"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "7"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210328,
+        "sku": "MTP200",
+        "label": "MTP200",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "32,25/200"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "443"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "61"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "8,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210329,
+        "sku": "MTP300",
+        "label": "MTP300",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "300"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "38,50/300"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "443"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "62"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "9,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210330,
+        "sku": "MTP400",
+        "label": "MTP400",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "400"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "37,81/400"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "443"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "63"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210331,
+        "sku": "MTP500",
+        "label": "MTP500",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "26,12/500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "443"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "10,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210332,
+        "sku": "MTP700",
+        "label": "MTP700",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "700"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "37,60/500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "443"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "67"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210333,
+        "sku": "MTP1000",
+        "label": "MTP1000",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "1000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "25,25/1.000"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "443"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "13,5"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 210334,
+        "sku": "MTP1500",
+        "label": "MTP1500",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "1500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "35,75/1.500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "443"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "71,4"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "14,2"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/tracao-plus/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Tracao%20Plus.pdf",
+        "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Altura Total ((H) mm)",
+          "Diâmetro Externo Batente ((D) mm)",
+          "Diâmetro Externo Mola ((De) mm)",
+          "Diâmetro do Arame da Mola ((a) mm)"
+        ],
+        "rows": [
+          [
+            "MTP30",
+            "30",
+            "19,25/30",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "443",
+            "70",
+            "53",
+            "5,5"
+          ],
+          [
+            "MTP50",
+            "50",
+            "37,72/50",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "443",
+            "70",
+            "55",
+            "6"
+          ],
+          [
+            "MTP100",
+            "100",
+            "37,89/100",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "443",
+            "70",
+            "57",
+            "7"
+          ],
+          [
+            "MTP200",
+            "200",
+            "32,25/200",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "443",
+            "70",
+            "61",
+            "8,5"
+          ],
+          [
+            "MTP300",
+            "300",
+            "38,50/300",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "443",
+            "70",
+            "62",
+            "9,5"
+          ],
+          [
+            "MTP400",
+            "400",
+            "37,81/400",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "443",
+            "70",
+            "63",
+            "10"
+          ],
+          [
+            "MTP500",
+            "500",
+            "26,12/500",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "443",
+            "70",
+            "65",
+            "10,5"
+          ],
+          [
+            "MTP700",
+            "700",
+            "37,60/500",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "443",
+            "70",
+            "67",
+            "12"
+          ],
+          [
+            "MTP1000",
+            "1000",
+            "25,25/1.000",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "443",
+            "70",
+            "70",
+            "13,5"
+          ],
+          [
+            "MTP1500",
+            "1500",
+            "35,75/1.500",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "443",
+            "70",
+            "71,4",
+            "14,2"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/tracao-plus/aplicacao-4.png",
+          "/images/products/vibra-stop/tracao-plus/aplicacao-5.png",
+          "/images/products/vibra-stop/tracao-plus/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/tracao-plus/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20TRACAO/TRACAO%20PLUS/MTP%201.1.png",
+      "bytes": 86367,
+      "sha256": "0d7b4c4e2c18f1ef619a7d62da4fa4ab83a1b7fcbb8537e9d9424db62997c08f",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao-plus/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20TRACAO/TRACAO%20PLUS/MTP%201.2.png",
+      "bytes": 115120,
+      "sha256": "5c1e71de111f130d3b7dfc0a9f9040552e517ff8cdc724dbcb5008a9ee55ee4d",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao-plus/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20TRACAO/TRACAO%20PLUS/MTP%201.0.png",
+      "bytes": 89376,
+      "sha256": "d79176dc77319f093951a040b550f662d9efdb6cecb94d7c8a59b99a65b9ea13",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao-plus/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20TRACAO/MT%201.0png.png",
+      "bytes": 189669,
+      "sha256": "b656ab6b5af80c196f2503d8eaf17a5eebd58b9886ee4d418645223d53e9cc81",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao-plus/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20TRACAO/MT%201.1.png",
+      "bytes": 139667,
+      "sha256": "ac9417bd6345e0c0a85db927cfea0de03ea1947524cfb354132d2c21aba4827e",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao-plus/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20TRACAO/PLUS/Manual%20de%20Instalacao%20-%20MTP.png",
+      "bytes": 156915,
+      "sha256": "2ee5c9b2f0c72398427a4e2edb96a4068ce18ba526301be4550b09a6466618f9",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/tracao-plus/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Tracao%20Plus.pdf",
+      "bytes": 957929,
+      "sha256": "0566e3d4e601b42952623451f38b144027ff96b2999d5cb6cb23d050907cebd3",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "tracao-plus",
+    "tableRows": 10,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T11:01:24.290Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 12,
+    "pdfReconciled2026": true
+  }
+}

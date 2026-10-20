@@ -1,0 +1,399 @@
+{
+  "id": 202095,
+  "slug": "kifix-ponteira-sextavada",
+  "name": "PONTEIRA SEXTAVADA",
+  "sku": "PONTEIRA SEXTAVADA",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-sextavada/",
+  "type": "product",
+  "summary": "Linha Ponteiras Kifix modelo PONTEIRA SEXTAVADA, com 12 referências dimensionais.",
+  "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA SEXTAVADA, com 12 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Ponteiras",
+      "slug": "ponteiras"
+    }
+  ],
+  "image": "/images/products/kifix/ponteira-sextavada/foto-1.png",
+  "images": [
+    "/images/products/kifix/ponteira-sextavada/foto-1.png",
+    "/images/products/kifix/ponteira-sextavada/foto-2.png",
+    "/images/products/kifix/ponteira-sextavada/foto-3.png",
+    "/images/products/kifix/ponteira-sextavada/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Ponteiras"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230603,
+      "sku": "PP-M6",
+      "label": "PP-M6",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "10 (0,39)"
+        },
+        {
+          "name": "B (in)",
+          "value": "49 (1,93)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230604,
+      "sku": "PP-M8",
+      "label": "PP-M8",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "13 (0,51)"
+        },
+        {
+          "name": "B (in)",
+          "value": "45 (1,77)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230605,
+      "sku": "PP-M10",
+      "label": "PP-M10",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "17 (0,67)"
+        },
+        {
+          "name": "B (in)",
+          "value": "51 (2,01)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230606,
+      "sku": "PP-M12",
+      "label": "PP-M12",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "B (in)",
+          "value": "47 (1,85)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230607,
+      "sku": "PP-M16",
+      "label": "PP-M16",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "24 (0,94)"
+        },
+        {
+          "name": "B (in)",
+          "value": "79 (3,11)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230608,
+      "sku": "PS-M6",
+      "label": "PS-M6",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "10 (0,39)"
+        },
+        {
+          "name": "B (in)",
+          "value": "64 (2,52)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230609,
+      "sku": "PS-M8",
+      "label": "PS-M8",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "13 (0,51)"
+        },
+        {
+          "name": "B (in)",
+          "value": "75 (2,95)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230610,
+      "sku": "PS-M10",
+      "label": "PS-M10",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "17 (0,67)"
+        },
+        {
+          "name": "B (in)",
+          "value": "77 (3,03)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230611,
+      "sku": "PSB-M6",
+      "label": "PSB-M6",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "10 (0,39)"
+        },
+        {
+          "name": "B (in)",
+          "value": "64 (2,52)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230612,
+      "sku": "PSB-M8",
+      "label": "PSB-M8",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "13 (0,51)"
+        },
+        {
+          "name": "B (in)",
+          "value": "75 (2,95)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230613,
+      "sku": "PSB-M10",
+      "label": "PSB-M10",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "17 (0,67)"
+        },
+        {
+          "name": "B (in)",
+          "value": "77 (3,03)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230614,
+      "sku": "PSB-M12",
+      "label": "PSB-M12",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "B (in)",
+          "value": "87 (3,43)"
+        },
+        {
+          "name": "M (in)",
+          "value": "M12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "A (in)",
+        "B (in)",
+        "M (in)"
+      ],
+      "rows": [
+        [
+          "PP-M6",
+          "10 (0,39)",
+          "49 (1,93)",
+          "M6"
+        ],
+        [
+          "PP-M8",
+          "13 (0,51)",
+          "45 (1,77)",
+          "M8"
+        ],
+        [
+          "PP-M10",
+          "17 (0,67)",
+          "51 (2,01)",
+          "M10"
+        ],
+        [
+          "PP-M12",
+          "19 (0,75)",
+          "47 (1,85)",
+          "M12"
+        ],
+        [
+          "PP-M16",
+          "24 (0,94)",
+          "79 (3,11)",
+          "M16"
+        ],
+        [
+          "PS-M6",
+          "10 (0,39)",
+          "64 (2,52)",
+          "M6"
+        ],
+        [
+          "PS-M8",
+          "13 (0,51)",
+          "75 (2,95)",
+          "M8"
+        ],
+        [
+          "PS-M10",
+          "17 (0,67)",
+          "77 (3,03)",
+          "M10"
+        ],
+        [
+          "PSB-M6",
+          "10 (0,39)",
+          "64 (2,52)",
+          "M6"
+        ],
+        [
+          "PSB-M8",
+          "13 (0,51)",
+          "75 (2,95)",
+          "M8"
+        ],
+        [
+          "PSB-M10",
+          "17 (0,67)",
+          "77 (3,03)",
+          "M10"
+        ],
+        [
+          "PSB-M12",
+          "19 (0,75)",
+          "87 (3,43)",
+          "M12"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/ponteira-sextavada/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

@@ -1,0 +1,113 @@
+{
+  "id": 201014,
+  "slug": "merkbak-cga-cabo-giratorio-anatomico",
+  "name": "CGA – Cabo Giratório Anatômico",
+  "sku": "CGA",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-giratorio-anatomico-3096/",
+  "type": "product",
+  "summary": "Máquinas, equipamentos e dispositivos que requerem regulagem manual",
+  "description": "<p>Máquinas, equipamentos e dispositivos que requerem regulagem manual</p><p><strong>Material:</strong> Polipropileno</p><p><strong>Informações adicionais:</strong> Média resistência / Ergonômico / Furo liso</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Plásticos",
+      "slug": "plasticos"
+    }
+  ],
+  "image": "/images/products/merkbak/cga-cabo-giratorio-anatomico/1.png",
+  "images": [
+    "/images/products/merkbak/cga-cabo-giratorio-anatomico/1.png",
+    "/images/products/merkbak/cga-cabo-giratorio-anatomico/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Polipropileno"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial texturizado na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Máquinas, equipamentos e dispositivos que requerem regulagem manual"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Média resistência / Ergonômico / Furo liso"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220057,
+      "sku": "CGA 2198 FURO LISO 10MM",
+      "label": "CGA 2198 FURO LISO 10MM",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CGA 2198 FURO LISO 10MM"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220058,
+      "sku": "CGA 3096 FURO LISO 1/2",
+      "label": "CGA 3096 FURO LISO 1/2",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CGA 3096 FURO LISO 1/2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Polipropileno"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial texturizado na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Máquinas, equipamentos e dispositivos que requerem regulagem manual"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Média resistência / Ergonômico / Furo liso"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "CGA 2198 FURO LISO 10MM"
+        },
+        {
+          "name": "Medida",
+          "value": "CGA 3096 FURO LISO 1/2"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

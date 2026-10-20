@@ -1,0 +1,190 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-recartilhado-plastico/",
+  "fetchedAt": "2026-10-20T12:44:43.428Z",
+  "product": {
+    "id": 201020,
+    "slug": "merkbak-crp-cabo-recartilhado-plastico",
+    "name": "CRP – Cabo Recartilhado Plástico",
+    "sku": "CRP",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/cabo-recartilhado-plastico/",
+    "type": "product",
+    "summary": "Indicado para pontas de haste, alavancas e uso em máquinas em geral",
+    "description": "<p>Indicado para pontas de haste, alavancas e uso em máquinas em geral</p><p><strong>Material:</strong> Polipropileno + rosca em nylon reforçado com fibra de vidro</p><p><strong>Informações adicionais:</strong> Média resistência / Ótima empunhadura</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Plásticos",
+        "slug": "plasticos"
+      }
+    ],
+    "image": "/images/products/merkbak/crp-cabo-recartilhado-plastico/1.png",
+    "images": [
+      "/images/products/merkbak/crp-cabo-recartilhado-plastico/1.png",
+      "/images/products/merkbak/crp-cabo-recartilhado-plastico/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Polipropileno + rosca em nylon reforçado com fibra de vidro"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Indicado para pontas de haste, alavancas e uso em máquinas em geral"
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Média resistência / Ótima empunhadura"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220074,
+        "sku": "CRP 3282 5/16",
+        "label": "CRP 3282 5/16",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "CRP 3282 5/16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220075,
+        "sku": "CRP 3282 M8",
+        "label": "CRP 3282 M8",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "CRP 3282 M8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220076,
+        "sku": "CRP 3282 M10",
+        "label": "CRP 3282 M10",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "CRP 3282 M10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220077,
+        "sku": "CRP 3282 M12",
+        "label": "CRP 3282 M12",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "CRP 3282 M12"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220078,
+        "sku": "CRP 3282 5/8 FURO LISO",
+        "label": "CRP 3282 5/8 FURO LISO",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "CRP 3282 5/8 FURO LISO"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Polipropileno + rosca em nylon reforçado com fibra de vidro"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Indicado para pontas de haste, alavancas e uso em máquinas em geral"
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Média resistência / Ótima empunhadura"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "CRP 3282 5/16"
+          },
+          {
+            "name": "Medida",
+            "value": "CRP 3282 M8"
+          },
+          {
+            "name": "Medida",
+            "value": "CRP 3282 M10"
+          },
+          {
+            "name": "Medida",
+            "value": "CRP 3282 M12"
+          },
+          {
+            "name": "Medida",
+            "value": "CRP 3282 5/8 FURO LISO"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/crp-cabo-recartilhado-plastico/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/022-crp-copiar-e1779820608772.png",
+      "bytes": 197093,
+      "sha256": "295373a053a3bef067ddb9facee7abe59c7ed086e9dde53d831df8193c2d6748"
+    },
+    {
+      "path": "/images/products/merkbak/crp-cabo-recartilhado-plastico/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/CRP_tab.png",
+      "bytes": 136003,
+      "sha256": "d6bd649bb08506f6f0bd6024d99faf24724d76c80e5e782b678bd1bbce603f2f"
+    }
+  ],
+  "checks": {
+    "variants": 5,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

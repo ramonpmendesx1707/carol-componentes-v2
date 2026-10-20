@@ -91,5 +91,51 @@
   "videos": [],
   "headings": [
     "Vibra-Stop Slim"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/SLIM/Slim%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/SLIM/Slim%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade à Compressão\tDeflexão\tParafuso\tEspessura da Chapa\tLargura\tEspessura\nMedidas\tKgf\tmm/Kgf\t(R x h) mm\t(t) mm\t(L) mm\t(e) mm\nSLIM1\t400\t3,44/400\tM10 x 51, M12 x 56\t4\t60\t29\nSLIM1SP\t600\t2,78/600\t\t\t60\t25\nSLIM2\t800\t3,07/800\tM10 x 51, M12 x 56\t4\t80\t39\nSLIM2SP\t1300\t4,87/1300\t\t\t80\t35\nSLIM3\t1600\t5,46/1600\tM10 x 51, M12 x 69, M16 x 69\t6\t110\t51\nSLIM3SP\t3000\t8,88/300\t\t\t110\t45",
+      "images": [],
+      "videos": [],
+      "tables": [
+        8
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/SLIM/Manual%20de%20Instalacao%20-%20SLIM.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:58:13.126Z"
 }

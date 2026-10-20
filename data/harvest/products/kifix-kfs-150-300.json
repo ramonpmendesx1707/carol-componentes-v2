@@ -1,0 +1,184 @@
+{
+  "id": 202078,
+  "slug": "kifix-kfs-150-300",
+  "name": "KFS-150/300",
+  "sku": "KFS-150/300",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-sargento/kfs-150-300/",
+  "type": "product",
+  "summary": "Linha Grampo sargento Kifix modelo KFS-150/300, com 2 referências dimensionais.",
+  "description": "<p>Linha Grampo sargento Kifix modelo KFS-150/300, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo sargento",
+      "slug": "grampo-sargento"
+    }
+  ],
+  "image": "/images/products/kifix/kfs-150-300/foto-1.png",
+  "images": [
+    "/images/products/kifix/kfs-150-300/foto-1.png",
+    "/images/products/kifix/kfs-150-300/foto-2.png",
+    "/images/products/kifix/kfs-150-300/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo sargento"
+    }
+  ],
+  "weight": "0,600 (1,320)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230520,
+      "sku": "KFS-150",
+      "label": "KFS-150",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "150 (5,91)"
+        },
+        {
+          "name": "B (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "C (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "D (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "E (in)",
+          "value": "9,5 (0,37)"
+        },
+        {
+          "name": "H (in)",
+          "value": "50 (1,97)"
+        },
+        {
+          "name": "L (in)",
+          "value": "233 (9,17)"
+        },
+        {
+          "name": "M (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,600 (1,320)"
+        }
+      ],
+      "weight": "0,600 (1,320)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230521,
+      "sku": "KFS-300",
+      "label": "KFS-300",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "320 (12,60)"
+        },
+        {
+          "name": "B (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "C (in)",
+          "value": "81 (3,19)"
+        },
+        {
+          "name": "D (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "E (in)",
+          "value": "9,5 (0,37)"
+        },
+        {
+          "name": "H (in)",
+          "value": "85 (3,35)"
+        },
+        {
+          "name": "L (in)",
+          "value": "472 (18,58)"
+        },
+        {
+          "name": "M (in)",
+          "value": "22 (0,87)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,900 (4,180)"
+        }
+      ],
+      "weight": "1,900 (4,180)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "H (in)",
+        "L (in)",
+        "M (in)",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KFS-150",
+          "150 (5,91)",
+          "19 (0,75)",
+          "42 (1,65)",
+          "16 (0,63)",
+          "9,5 (0,37)",
+          "50 (1,97)",
+          "233 (9,17)",
+          "16 (0,63)",
+          "0,600 (1,320)"
+        ],
+        [
+          "KFS-300",
+          "320 (12,60)",
+          "25,4 (1,00)",
+          "81 (3,19)",
+          "19 (0,75)",
+          "9,5 (0,37)",
+          "85 (3,35)",
+          "472 (18,58)",
+          "22 (0,87)",
+          "1,900 (4,180)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kfs-150-300/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

@@ -1,0 +1,314 @@
+{
+  "id": 200062,
+  "slug": "vibra-stop-vip-com-chapa",
+  "name": "Vibra-Stop Mola Vip Com Chapa",
+  "sku": "Vip Com Chapa",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-vip?model=vip-com-chapa&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para aplicações em bombas de piscina, motores e equipamentos de pequena dimensão e peso.",
+  "description": "<p>Ideais para aplicações em bombas de piscina, motores e equipamentos de pequena dimensão e peso.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/vip-com-chapa/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/vip-com-chapa/foto-1.png",
+    "/images/products/vibra-stop/vip-com-chapa/foto-2.png",
+    "/images/products/vibra-stop/vip-com-chapa/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Aço Inox e Borracha Natural."
+    },
+    {
+      "name": "Materiais informados",
+      "value": "Aço Inox Ferro Nodular"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 210391,
+      "sku": "MVCC3",
+      "label": "MVCC3",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "3"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,61/ 3"
+        },
+        {
+          "name": "Parafuso ((d) UNC)",
+          "value": "5/16” x 2.1/2”"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "42"
+        },
+        {
+          "name": "Distância entre furos ((t) mm)",
+          "value": "65"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "22"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "2"
+        },
+        {
+          "name": "Chumbador (CBA pol.)",
+          "value": "5/16”"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 210392,
+      "sku": "MVCC10",
+      "label": "MVCC10",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "10"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,10 / 10"
+        },
+        {
+          "name": "Parafuso ((d) UNC)",
+          "value": "5/16” x 2.1/2”"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "42"
+        },
+        {
+          "name": "Distância entre furos ((t) mm)",
+          "value": "65"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "24"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "3"
+        },
+        {
+          "name": "Chumbador (CBA pol.)",
+          "value": "5/16”"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 210393,
+      "sku": "MVCC20",
+      "label": "MVCC20",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "20"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,71 / 20"
+        },
+        {
+          "name": "Parafuso ((d) UNC)",
+          "value": "5/16” x 2.1/2”"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "42"
+        },
+        {
+          "name": "Distância entre furos ((t) mm)",
+          "value": "65"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "24"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "3"
+        },
+        {
+          "name": "Chumbador (CBA pol.)",
+          "value": "5/16”"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 210394,
+      "sku": "MVCC30",
+      "label": "MVCC30",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "30"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,15 / 30"
+        },
+        {
+          "name": "Parafuso ((d) UNC)",
+          "value": "5/16” x 2.1/2”"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "42"
+        },
+        {
+          "name": "Distância entre furos ((t) mm)",
+          "value": "65"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "25"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "3,5"
+        },
+        {
+          "name": "Chumbador (CBA pol.)",
+          "value": "5/16”"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/vip-com-chapa/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Vip%20Com%20Chapa.pdf",
+      "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Parafuso ((d) UNC)",
+        "Altura ((H) mm)",
+        "Distância entre furos ((t) mm)",
+        "Diâmetro Externo Batente ((D) mm)",
+        "Diâmetro Externo Mola ((De) mm)",
+        "Diâmetro do Arame da Mola ((a) mm)",
+        "Chumbador (CBA pol.)"
+      ],
+      "rows": [
+        [
+          "MVCC3",
+          "3",
+          "6,61/ 3",
+          "5/16” x 2.1/2”",
+          "42",
+          "65",
+          "30",
+          "22",
+          "2",
+          "5/16”"
+        ],
+        [
+          "MVCC10",
+          "10",
+          "6,10 / 10",
+          "5/16” x 2.1/2”",
+          "42",
+          "65",
+          "30",
+          "24",
+          "3",
+          "5/16”"
+        ],
+        [
+          "MVCC20",
+          "20",
+          "6,71 / 20",
+          "5/16” x 2.1/2”",
+          "42",
+          "65",
+          "30",
+          "24",
+          "3",
+          "5/16”"
+        ],
+        [
+          "MVCC30",
+          "30",
+          "6,15 / 30",
+          "5/16” x 2.1/2”",
+          "42",
+          "65",
+          "30",
+          "25",
+          "3,5",
+          "5/16”"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/vip-com-chapa/aplicacao-4.png",
+        "/images/products/vibra-stop/vip-com-chapa/aplicacao-5.png",
+        "/images/products/vibra-stop/vip-com-chapa/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

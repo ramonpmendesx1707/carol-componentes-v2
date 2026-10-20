@@ -1,0 +1,161 @@
+{
+  "id": 202086,
+  "slug": "kifix-morsa-de-aperto-rapido",
+  "name": "Morsa de aperto rápido",
+  "sku": "Morsa de aperto rápido",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/morsa-de-aperto-rapido/morsa-de-aperto-rapido/",
+  "type": "product",
+  "summary": "Linha Morsa de aperto rápido Kifix modelo Morsa de aperto rápido, com 1 referências dimensionais.",
+  "description": "<p>Linha Morsa de aperto rápido Kifix modelo Morsa de aperto rápido, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Morsa de aperto rápido",
+      "slug": "morsa-de-aperto-rapido"
+    }
+  ],
+  "image": "/images/products/kifix/morsa-de-aperto-rapido/foto-1.png",
+  "images": [
+    "/images/products/kifix/morsa-de-aperto-rapido/foto-1.png",
+    "/images/products/kifix/morsa-de-aperto-rapido/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Morsa de aperto rápido"
+    }
+  ],
+  "weight": "3,6(7,94)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230551,
+      "sku": "KF-MAR M12 H120",
+      "label": "KF-MAR M12 H120",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "300 (661,39)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "A (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "B (in)",
+          "value": "450 (17,72)"
+        },
+        {
+          "name": "B máx (in)",
+          "value": "120 (4,72)"
+        },
+        {
+          "name": "C (in)",
+          "value": "53 (2,09)"
+        },
+        {
+          "name": "D1 (in)",
+          "value": "100 (3,94)"
+        },
+        {
+          "name": "D2 (in)",
+          "value": "250 (9,84)"
+        },
+        {
+          "name": "E (in)",
+          "value": "100 (3,94)"
+        },
+        {
+          "name": "G (in)",
+          "value": "130 (5,12)"
+        },
+        {
+          "name": "J (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "N (in)",
+          "value": "12 (0,47)"
+        },
+        {
+          "name": "Q (in)",
+          "value": "279 (10,98)"
+        },
+        {
+          "name": "ROSCA",
+          "value": "M12"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "3,6(7,94)"
+        }
+      ],
+      "weight": "3,6(7,94)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "CURSO (in)",
+        "A (in)",
+        "B (in)",
+        "B máx (in)",
+        "C (in)",
+        "D1 (in)",
+        "D2 (in)",
+        "E (in)",
+        "G (in)",
+        "J (in)",
+        "N (in)",
+        "Q (in)",
+        "ROSCA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-MAR M12 H120",
+          "300 (661,39)",
+          "120 (4,72)",
+          "120 (4,72)",
+          "450 (17,72)",
+          "120 (4,72)",
+          "53 (2,09)",
+          "100 (3,94)",
+          "250 (9,84)",
+          "100 (3,94)",
+          "130 (5,12)",
+          "8 (0,31)",
+          "12 (0,47)",
+          "279 (10,98)",
+          "M12",
+          "3,6(7,94)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/morsa-de-aperto-rapido/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

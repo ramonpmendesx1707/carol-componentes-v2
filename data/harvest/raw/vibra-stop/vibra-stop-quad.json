@@ -85,5 +85,62 @@
   ],
   "headings": [
     "Vibra-Stop Quad"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-videos",
+      "label": "Vídeo",
+      "text": "play_arrow\nvolume_up\n0:00 / 1:04\nfullscreen",
+      "images": [],
+      "videos": [
+        "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tub-quad.mp4"
+      ],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/QUAD/QUAD%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/QUAD/QUAD%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCapacidade de Carga\tAltura\tLargura\tLargura\tProfundidade\nMedidas\tKgf\t(H) mm\t(L) mm\t(b) mm\t(p) mm\nQUAD I\t15\t19\t21\t16\t17\nQUAD II\t25\t21\t25\t20\t18\nQUAD III\t30\t28\t30\t25\t25\nQUAD IV\t35\t32\t35\t30\t28\nQUAD V\t40\t43\t45\t40\t40\nQUAD VI\t50\t53\t55\t50\t49",
+      "images": [],
+      "videos": [],
+      "tables": [
+        8
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/QUAD/Manual%20de%20Instalacao%20-%20QUAD.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:57:59.361Z"
 }

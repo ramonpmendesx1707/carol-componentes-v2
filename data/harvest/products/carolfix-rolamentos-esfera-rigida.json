@@ -1,0 +1,3221 @@
+{
+  "id": 203015,
+  "slug": "carolfix-rolamentos-esfera-rigida",
+  "name": "Rolamentos de Esfera Rígida",
+  "sku": "Série 6000 / 6200 / 6300",
+  "brand": "HCH",
+  "supplier": "HCH",
+  "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=7",
+  "type": "product",
+  "summary": "Rolamentos radiais de esferas de precisão, blindagem Z ou 2RS, para uso diário e industrial.",
+  "description": "<p>Rolamentos de esfera rígida de precisão conforme normas industriais DIN/ISO, com opções de blindagem Z ou vedação 2RS.</p>",
+  "categories": [
+    {
+      "id": 210,
+      "name": "Rolamentos e mancais",
+      "slug": "rolamentos-e-mancais"
+    }
+  ],
+  "image": "/images/products/carolfix/rolamentos-esfera-rigida/pagina-07.png",
+  "images": [
+    "/images/products/carolfix/rolamentos-esfera-rigida/pagina-07.png"
+  ],
+  "attributes": [
+    {
+      "name": "Norma / Padrão",
+      "value": "Série 6000 / 6200 / 6300"
+    },
+    {
+      "name": "Fonte documental",
+      "value": "Catálogo Técnico Carolfix, Página 7"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240867,
+      "sku": "604",
+      "label": "604",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "4"
+        },
+        {
+          "name": "",
+          "value": "12"
+        },
+        {
+          "name": "",
+          "value": "4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240868,
+      "sku": "605",
+      "label": "605",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "14"
+        },
+        {
+          "name": "",
+          "value": "5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240869,
+      "sku": "606",
+      "label": "606",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "17"
+        },
+        {
+          "name": "",
+          "value": "6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240870,
+      "sku": "607",
+      "label": "607",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "7"
+        },
+        {
+          "name": "",
+          "value": "19"
+        },
+        {
+          "name": "",
+          "value": "6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240871,
+      "sku": "608",
+      "label": "608",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "22"
+        },
+        {
+          "name": "",
+          "value": "7"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240872,
+      "sku": "609",
+      "label": "609",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "9"
+        },
+        {
+          "name": "",
+          "value": "24"
+        },
+        {
+          "name": "",
+          "value": "7"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240873,
+      "sku": "6000",
+      "label": "6000",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "26"
+        },
+        {
+          "name": "",
+          "value": "8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240874,
+      "sku": "6001",
+      "label": "6001",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "12"
+        },
+        {
+          "name": "",
+          "value": "28"
+        },
+        {
+          "name": "",
+          "value": "8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240875,
+      "sku": "6002",
+      "label": "6002",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "15"
+        },
+        {
+          "name": "",
+          "value": "32"
+        },
+        {
+          "name": "",
+          "value": "9"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240876,
+      "sku": "6003",
+      "label": "6003",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "17"
+        },
+        {
+          "name": "",
+          "value": "35"
+        },
+        {
+          "name": "",
+          "value": "10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240877,
+      "sku": "6004",
+      "label": "6004",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "20"
+        },
+        {
+          "name": "",
+          "value": "42"
+        },
+        {
+          "name": "",
+          "value": "12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240878,
+      "sku": "6005",
+      "label": "6005",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "25"
+        },
+        {
+          "name": "",
+          "value": "47"
+        },
+        {
+          "name": "",
+          "value": "12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240879,
+      "sku": "6006",
+      "label": "6006",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "30"
+        },
+        {
+          "name": "",
+          "value": "55"
+        },
+        {
+          "name": "",
+          "value": "13"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240880,
+      "sku": "6007",
+      "label": "6007",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "35"
+        },
+        {
+          "name": "",
+          "value": "62"
+        },
+        {
+          "name": "",
+          "value": "14"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240881,
+      "sku": "6008",
+      "label": "6008",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "40"
+        },
+        {
+          "name": "",
+          "value": "68"
+        },
+        {
+          "name": "",
+          "value": "15"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240882,
+      "sku": "6009",
+      "label": "6009",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "45"
+        },
+        {
+          "name": "",
+          "value": "75"
+        },
+        {
+          "name": "",
+          "value": "16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240883,
+      "sku": "6010",
+      "label": "6010",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "50"
+        },
+        {
+          "name": "",
+          "value": "80"
+        },
+        {
+          "name": "",
+          "value": "16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240884,
+      "sku": "6011",
+      "label": "6011",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "55"
+        },
+        {
+          "name": "",
+          "value": "90"
+        },
+        {
+          "name": "",
+          "value": "18"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240885,
+      "sku": "6012",
+      "label": "6012",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "60"
+        },
+        {
+          "name": "",
+          "value": "95"
+        },
+        {
+          "name": "",
+          "value": "18"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240886,
+      "sku": "6013",
+      "label": "6013",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "65"
+        },
+        {
+          "name": "",
+          "value": "100"
+        },
+        {
+          "name": "",
+          "value": "18"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240887,
+      "sku": "6014",
+      "label": "6014",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "70"
+        },
+        {
+          "name": "",
+          "value": "110"
+        },
+        {
+          "name": "",
+          "value": "20"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240888,
+      "sku": "6015",
+      "label": "6015",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "75"
+        },
+        {
+          "name": "",
+          "value": "115"
+        },
+        {
+          "name": "",
+          "value": "20"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240889,
+      "sku": "6016",
+      "label": "6016",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "80"
+        },
+        {
+          "name": "",
+          "value": "125"
+        },
+        {
+          "name": "",
+          "value": "22"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240890,
+      "sku": "6017",
+      "label": "6017",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "85"
+        },
+        {
+          "name": "",
+          "value": "130"
+        },
+        {
+          "name": "",
+          "value": "22"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240891,
+      "sku": "6018",
+      "label": "6018",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "90"
+        },
+        {
+          "name": "",
+          "value": "140"
+        },
+        {
+          "name": "",
+          "value": "22"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240892,
+      "sku": "624",
+      "label": "624",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "4"
+        },
+        {
+          "name": "",
+          "value": "13"
+        },
+        {
+          "name": "",
+          "value": "5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240893,
+      "sku": "625",
+      "label": "625",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "16"
+        },
+        {
+          "name": "",
+          "value": "5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240894,
+      "sku": "626",
+      "label": "626",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "19"
+        },
+        {
+          "name": "",
+          "value": "6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240895,
+      "sku": "627",
+      "label": "627",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "7"
+        },
+        {
+          "name": "",
+          "value": "22"
+        },
+        {
+          "name": "",
+          "value": "7"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240896,
+      "sku": "628",
+      "label": "628",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "24"
+        },
+        {
+          "name": "",
+          "value": "8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240897,
+      "sku": "629",
+      "label": "629",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "9"
+        },
+        {
+          "name": "",
+          "value": "26"
+        },
+        {
+          "name": "",
+          "value": "8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240898,
+      "sku": "6200",
+      "label": "6200",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "30"
+        },
+        {
+          "name": "",
+          "value": "9"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240899,
+      "sku": "6201",
+      "label": "6201",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "12"
+        },
+        {
+          "name": "",
+          "value": "32"
+        },
+        {
+          "name": "",
+          "value": "10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240900,
+      "sku": "6202",
+      "label": "6202",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "15"
+        },
+        {
+          "name": "",
+          "value": "35"
+        },
+        {
+          "name": "",
+          "value": "11"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240901,
+      "sku": "6203",
+      "label": "6203",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "17"
+        },
+        {
+          "name": "",
+          "value": "40"
+        },
+        {
+          "name": "",
+          "value": "12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240902,
+      "sku": "6204",
+      "label": "6204",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "20"
+        },
+        {
+          "name": "",
+          "value": "47"
+        },
+        {
+          "name": "",
+          "value": "14"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240903,
+      "sku": "6205",
+      "label": "6205",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "25"
+        },
+        {
+          "name": "",
+          "value": "52"
+        },
+        {
+          "name": "",
+          "value": "15"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240904,
+      "sku": "6206",
+      "label": "6206",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "30"
+        },
+        {
+          "name": "",
+          "value": "62"
+        },
+        {
+          "name": "",
+          "value": "16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240905,
+      "sku": "6207",
+      "label": "6207",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "35"
+        },
+        {
+          "name": "",
+          "value": "72"
+        },
+        {
+          "name": "",
+          "value": "17"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240906,
+      "sku": "6208",
+      "label": "6208",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "40"
+        },
+        {
+          "name": "",
+          "value": "80"
+        },
+        {
+          "name": "",
+          "value": "18"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240907,
+      "sku": "6209",
+      "label": "6209",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "45"
+        },
+        {
+          "name": "",
+          "value": "85"
+        },
+        {
+          "name": "",
+          "value": "19"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240908,
+      "sku": "6210",
+      "label": "6210",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "50"
+        },
+        {
+          "name": "",
+          "value": "90"
+        },
+        {
+          "name": "",
+          "value": "20"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240909,
+      "sku": "6211",
+      "label": "6211",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "55"
+        },
+        {
+          "name": "",
+          "value": "100"
+        },
+        {
+          "name": "",
+          "value": "21"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240910,
+      "sku": "6212",
+      "label": "6212",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "60"
+        },
+        {
+          "name": "",
+          "value": "110"
+        },
+        {
+          "name": "",
+          "value": "22"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240911,
+      "sku": "6213",
+      "label": "6213",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "65"
+        },
+        {
+          "name": "",
+          "value": "120"
+        },
+        {
+          "name": "",
+          "value": "23"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240912,
+      "sku": "6214",
+      "label": "6214",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "70"
+        },
+        {
+          "name": "",
+          "value": "125"
+        },
+        {
+          "name": "",
+          "value": "24"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240913,
+      "sku": "6215",
+      "label": "6215",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "75"
+        },
+        {
+          "name": "",
+          "value": "130"
+        },
+        {
+          "name": "",
+          "value": "25"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240914,
+      "sku": "6216",
+      "label": "6216",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "80"
+        },
+        {
+          "name": "",
+          "value": "140"
+        },
+        {
+          "name": "",
+          "value": "26"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240915,
+      "sku": "635",
+      "label": "635",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "19"
+        },
+        {
+          "name": "",
+          "value": "6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240916,
+      "sku": "638",
+      "label": "638",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "28"
+        },
+        {
+          "name": "",
+          "value": "9"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240917,
+      "sku": "6300",
+      "label": "6300",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "35"
+        },
+        {
+          "name": "",
+          "value": "11"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240918,
+      "sku": "6301",
+      "label": "6301",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "12"
+        },
+        {
+          "name": "",
+          "value": "37"
+        },
+        {
+          "name": "",
+          "value": "12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240919,
+      "sku": "6302",
+      "label": "6302",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "15"
+        },
+        {
+          "name": "",
+          "value": "42"
+        },
+        {
+          "name": "",
+          "value": "13"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240920,
+      "sku": "6303",
+      "label": "6303",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "17"
+        },
+        {
+          "name": "",
+          "value": "47"
+        },
+        {
+          "name": "",
+          "value": "14"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240921,
+      "sku": "6304",
+      "label": "6304",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "20"
+        },
+        {
+          "name": "",
+          "value": "52"
+        },
+        {
+          "name": "",
+          "value": "15"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240922,
+      "sku": "6305",
+      "label": "6305",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "25"
+        },
+        {
+          "name": "",
+          "value": "62"
+        },
+        {
+          "name": "",
+          "value": "17"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240923,
+      "sku": "6306",
+      "label": "6306",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "30"
+        },
+        {
+          "name": "",
+          "value": "72"
+        },
+        {
+          "name": "",
+          "value": "19"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240924,
+      "sku": "6307",
+      "label": "6307",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "35"
+        },
+        {
+          "name": "",
+          "value": "80"
+        },
+        {
+          "name": "",
+          "value": "21"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240925,
+      "sku": "6308",
+      "label": "6308",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "40"
+        },
+        {
+          "name": "",
+          "value": "90"
+        },
+        {
+          "name": "",
+          "value": "23"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240926,
+      "sku": "6309",
+      "label": "6309",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "45"
+        },
+        {
+          "name": "",
+          "value": "100"
+        },
+        {
+          "name": "",
+          "value": "25"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240927,
+      "sku": "6310",
+      "label": "6310",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "50"
+        },
+        {
+          "name": "",
+          "value": "110"
+        },
+        {
+          "name": "",
+          "value": "27"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240928,
+      "sku": "6311",
+      "label": "6311",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "55"
+        },
+        {
+          "name": "",
+          "value": "120"
+        },
+        {
+          "name": "",
+          "value": "29"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240929,
+      "sku": "6312",
+      "label": "6312",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "60"
+        },
+        {
+          "name": "",
+          "value": "130"
+        },
+        {
+          "name": "",
+          "value": "31"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240930,
+      "sku": "6313",
+      "label": "6313",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "65"
+        },
+        {
+          "name": "",
+          "value": "140"
+        },
+        {
+          "name": "",
+          "value": "33"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240931,
+      "sku": "6314",
+      "label": "6314",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "70"
+        },
+        {
+          "name": "",
+          "value": "150"
+        },
+        {
+          "name": "",
+          "value": "35"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240932,
+      "sku": "6315",
+      "label": "6315",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "75"
+        },
+        {
+          "name": "",
+          "value": "160"
+        },
+        {
+          "name": "",
+          "value": "37"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240933,
+      "sku": "685",
+      "label": "685",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "11"
+        },
+        {
+          "name": "",
+          "value": "3"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240934,
+      "sku": "685 ZZ/2RS",
+      "label": "685 ZZ/2RS",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "11"
+        },
+        {
+          "name": "",
+          "value": "5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240935,
+      "sku": "686",
+      "label": "686",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "13"
+        },
+        {
+          "name": "",
+          "value": "3.5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240936,
+      "sku": "686 ZZ/2RS",
+      "label": "686 ZZ/2RS",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "13"
+        },
+        {
+          "name": "",
+          "value": "5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240937,
+      "sku": "687",
+      "label": "687",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "7"
+        },
+        {
+          "name": "",
+          "value": "14"
+        },
+        {
+          "name": "",
+          "value": "3.5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240938,
+      "sku": "687 ZZ/2RS",
+      "label": "687 ZZ/2RS",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "7"
+        },
+        {
+          "name": "",
+          "value": "14"
+        },
+        {
+          "name": "",
+          "value": "5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240939,
+      "sku": "688",
+      "label": "688",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "16"
+        },
+        {
+          "name": "",
+          "value": "4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240940,
+      "sku": "688 ZZ/2RS",
+      "label": "688 ZZ/2RS",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "16"
+        },
+        {
+          "name": "",
+          "value": "5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240941,
+      "sku": "689",
+      "label": "689",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "9"
+        },
+        {
+          "name": "",
+          "value": "17"
+        },
+        {
+          "name": "",
+          "value": "4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240942,
+      "sku": "689 ZZ/2RS",
+      "label": "689 ZZ/2RS",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "9"
+        },
+        {
+          "name": "",
+          "value": "17"
+        },
+        {
+          "name": "",
+          "value": "5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240943,
+      "sku": "6700",
+      "label": "6700",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "16"
+        },
+        {
+          "name": "",
+          "value": "3"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240944,
+      "sku": "6800",
+      "label": "6800",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "19"
+        },
+        {
+          "name": "",
+          "value": "5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240945,
+      "sku": "6801",
+      "label": "6801",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "12"
+        },
+        {
+          "name": "",
+          "value": "21"
+        },
+        {
+          "name": "",
+          "value": "5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240946,
+      "sku": "6802",
+      "label": "6802",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "15"
+        },
+        {
+          "name": "",
+          "value": "24"
+        },
+        {
+          "name": "",
+          "value": "5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240947,
+      "sku": "6803",
+      "label": "6803",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "17"
+        },
+        {
+          "name": "",
+          "value": "26"
+        },
+        {
+          "name": "",
+          "value": "5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240948,
+      "sku": "6804",
+      "label": "6804",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "20"
+        },
+        {
+          "name": "",
+          "value": "32"
+        },
+        {
+          "name": "",
+          "value": "7"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240949,
+      "sku": "6805",
+      "label": "6805",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "25"
+        },
+        {
+          "name": "",
+          "value": "37"
+        },
+        {
+          "name": "",
+          "value": "7"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240950,
+      "sku": "6806",
+      "label": "6806",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "30"
+        },
+        {
+          "name": "",
+          "value": "42"
+        },
+        {
+          "name": "",
+          "value": "7"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240951,
+      "sku": "R4 A",
+      "label": "R4 A",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "6.350"
+        },
+        {
+          "name": "",
+          "value": "19.050"
+        },
+        {
+          "name": "",
+          "value": "5.556"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240952,
+      "sku": "R4 AZZ/2RS",
+      "label": "R4 AZZ/2RS",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "6.350"
+        },
+        {
+          "name": "",
+          "value": "19.050"
+        },
+        {
+          "name": "",
+          "value": "7.144"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240953,
+      "sku": "R6",
+      "label": "R6",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "9.525"
+        },
+        {
+          "name": "",
+          "value": "22.225"
+        },
+        {
+          "name": "",
+          "value": "5.556"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240954,
+      "sku": "R6 ZZ/2RS",
+      "label": "R6 ZZ/2RS",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "9.525"
+        },
+        {
+          "name": "",
+          "value": "22.225"
+        },
+        {
+          "name": "",
+          "value": "7.144"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240955,
+      "sku": "R8",
+      "label": "R8",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "12.700"
+        },
+        {
+          "name": "",
+          "value": "28.575"
+        },
+        {
+          "name": "",
+          "value": "6.350"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240956,
+      "sku": "R8 ZZ/2RS",
+      "label": "R8 ZZ/2RS",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "12.700"
+        },
+        {
+          "name": "",
+          "value": "28.575"
+        },
+        {
+          "name": "",
+          "value": "7.938"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240957,
+      "sku": "R10",
+      "label": "R10",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "15.875"
+        },
+        {
+          "name": "",
+          "value": "34.925"
+        },
+        {
+          "name": "",
+          "value": "7.144"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240958,
+      "sku": "R10 ZZ/2RS",
+      "label": "R10 ZZ/2RS",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "15.875"
+        },
+        {
+          "name": "",
+          "value": "34.925"
+        },
+        {
+          "name": "",
+          "value": "8.731"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240959,
+      "sku": "R12",
+      "label": "R12",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "19.050"
+        },
+        {
+          "name": "",
+          "value": "41.275"
+        },
+        {
+          "name": "",
+          "value": "7.938"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240960,
+      "sku": "1602",
+      "label": "1602",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "6.350"
+        },
+        {
+          "name": "",
+          "value": "17.463"
+        },
+        {
+          "name": "",
+          "value": "6.35"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240961,
+      "sku": "6201 1/2",
+      "label": "6201 1/2",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "12.7"
+        },
+        {
+          "name": "",
+          "value": "32"
+        },
+        {
+          "name": "",
+          "value": "10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240962,
+      "sku": "6202 5/8",
+      "label": "6202 5/8",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "15.875"
+        },
+        {
+          "name": "",
+          "value": "35"
+        },
+        {
+          "name": "",
+          "value": "11"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240963,
+      "sku": "6202 - 16",
+      "label": "6202 - 16",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "16"
+        },
+        {
+          "name": "",
+          "value": "35"
+        },
+        {
+          "name": "",
+          "value": "11"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240964,
+      "sku": "6203 5/8",
+      "label": "6203 5/8",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "15.875"
+        },
+        {
+          "name": "",
+          "value": "40"
+        },
+        {
+          "name": "",
+          "value": "12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240965,
+      "sku": "16001",
+      "label": "16001",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "12"
+        },
+        {
+          "name": "",
+          "value": "28"
+        },
+        {
+          "name": "",
+          "value": "7"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240966,
+      "sku": "16002",
+      "label": "16002",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "15"
+        },
+        {
+          "name": "",
+          "value": "32"
+        },
+        {
+          "name": "",
+          "value": "8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240967,
+      "sku": "16003",
+      "label": "16003",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "17"
+        },
+        {
+          "name": "",
+          "value": "35"
+        },
+        {
+          "name": "",
+          "value": "8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240968,
+      "sku": "16004",
+      "label": "16004",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "20"
+        },
+        {
+          "name": "",
+          "value": "42"
+        },
+        {
+          "name": "",
+          "value": "8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240969,
+      "sku": "16005",
+      "label": "16005",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "25"
+        },
+        {
+          "name": "",
+          "value": "47"
+        },
+        {
+          "name": "",
+          "value": "8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240970,
+      "sku": "16006",
+      "label": "16006",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "30"
+        },
+        {
+          "name": "",
+          "value": "55"
+        },
+        {
+          "name": "",
+          "value": "9"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240971,
+      "sku": "16007",
+      "label": "16007",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "35"
+        },
+        {
+          "name": "",
+          "value": "62"
+        },
+        {
+          "name": "",
+          "value": "9"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240972,
+      "sku": "16008",
+      "label": "16008",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "40"
+        },
+        {
+          "name": "",
+          "value": "68"
+        },
+        {
+          "name": "",
+          "value": "9"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240973,
+      "sku": "16009",
+      "label": "16009",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "45"
+        },
+        {
+          "name": "",
+          "value": "75"
+        },
+        {
+          "name": "",
+          "value": "10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240974,
+      "sku": "16010",
+      "label": "16010",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "50"
+        },
+        {
+          "name": "",
+          "value": "80"
+        },
+        {
+          "name": "",
+          "value": "10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240975,
+      "sku": "16011",
+      "label": "16011",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "55"
+        },
+        {
+          "name": "",
+          "value": "90"
+        },
+        {
+          "name": "",
+          "value": "11"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240976,
+      "sku": "16012",
+      "label": "16012",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "60"
+        },
+        {
+          "name": "",
+          "value": "95"
+        },
+        {
+          "name": "",
+          "value": "11"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240977,
+      "sku": "695",
+      "label": "695",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "13"
+        },
+        {
+          "name": "",
+          "value": "4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240978,
+      "sku": "696",
+      "label": "696",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "15"
+        },
+        {
+          "name": "",
+          "value": "5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240979,
+      "sku": "697",
+      "label": "697",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "7"
+        },
+        {
+          "name": "",
+          "value": "17"
+        },
+        {
+          "name": "",
+          "value": "5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240980,
+      "sku": "698",
+      "label": "698",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "19"
+        },
+        {
+          "name": "",
+          "value": "6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240981,
+      "sku": "699",
+      "label": "699",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "9"
+        },
+        {
+          "name": "",
+          "value": "20"
+        },
+        {
+          "name": "",
+          "value": "6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240982,
+      "sku": "6900",
+      "label": "6900",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "22"
+        },
+        {
+          "name": "",
+          "value": "6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240983,
+      "sku": "6901",
+      "label": "6901",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "12"
+        },
+        {
+          "name": "",
+          "value": "24"
+        },
+        {
+          "name": "",
+          "value": "6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240984,
+      "sku": "6902",
+      "label": "6902",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "15"
+        },
+        {
+          "name": "",
+          "value": "28"
+        },
+        {
+          "name": "",
+          "value": "7"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240985,
+      "sku": "6903",
+      "label": "6903",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "17"
+        },
+        {
+          "name": "",
+          "value": "30"
+        },
+        {
+          "name": "",
+          "value": "7"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240986,
+      "sku": "6904",
+      "label": "6904",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "20"
+        },
+        {
+          "name": "",
+          "value": "37"
+        },
+        {
+          "name": "",
+          "value": "9"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240987,
+      "sku": "6905",
+      "label": "6905",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "25"
+        },
+        {
+          "name": "",
+          "value": "42"
+        },
+        {
+          "name": "",
+          "value": "9"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240988,
+      "sku": "6906",
+      "label": "6906",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "30"
+        },
+        {
+          "name": "",
+          "value": "47"
+        },
+        {
+          "name": "",
+          "value": "9"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240989,
+      "sku": "62202",
+      "label": "62202",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "15"
+        },
+        {
+          "name": "",
+          "value": "35"
+        },
+        {
+          "name": "",
+          "value": "14"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240990,
+      "sku": "62205",
+      "label": "62205",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "25"
+        },
+        {
+          "name": "",
+          "value": "52"
+        },
+        {
+          "name": "",
+          "value": "18"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240991,
+      "sku": "62/22",
+      "label": "62/22",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "22"
+        },
+        {
+          "name": "",
+          "value": "50"
+        },
+        {
+          "name": "",
+          "value": "14"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240992,
+      "sku": "63/22",
+      "label": "63/22",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "22"
+        },
+        {
+          "name": "",
+          "value": "56"
+        },
+        {
+          "name": "",
+          "value": "16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240993,
+      "sku": "63/22 A",
+      "label": "63/22 A",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "22"
+        },
+        {
+          "name": "",
+          "value": "56"
+        },
+        {
+          "name": "",
+          "value": "15"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240994,
+      "sku": "63/28",
+      "label": "63/28",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "28"
+        },
+        {
+          "name": "",
+          "value": "68"
+        },
+        {
+          "name": "",
+          "value": "18"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240995,
+      "sku": "63/28 A",
+      "label": "63/28 A",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "28"
+        },
+        {
+          "name": "",
+          "value": "68"
+        },
+        {
+          "name": "",
+          "value": "17"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240996,
+      "sku": "28BCS15",
+      "label": "28BCS15",
+      "attributes": [
+        {
+          "name": "Dimensões (mm)",
+          "value": "28"
+        },
+        {
+          "name": "",
+          "value": "72"
+        },
+        {
+          "name": "",
+          "value": "18"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Catálogo Técnico Carolfix (Página 7)",
+      "url": "/downloads/catalogo-carol-componentes.pdf#page=7",
+      "kind": "pdf",
+      "note": "Referência técnica oficial extraída do catálogo histórico de 60 páginas."
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela Técnica Dimensional — Página 7",
+      "columns": [
+        "Código",
+        "Dimensões (mm)",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "604",
+          "4",
+          "12",
+          "4"
+        ],
+        [
+          "605",
+          "5",
+          "14",
+          "5"
+        ],
+        [
+          "606",
+          "6",
+          "17",
+          "6"
+        ],
+        [
+          "607",
+          "7",
+          "19",
+          "6"
+        ],
+        [
+          "608",
+          "8",
+          "22",
+          "7"
+        ],
+        [
+          "609",
+          "9",
+          "24",
+          "7"
+        ],
+        [
+          "6000",
+          "10",
+          "26",
+          "8"
+        ],
+        [
+          "6001",
+          "12",
+          "28",
+          "8"
+        ],
+        [
+          "6002",
+          "15",
+          "32",
+          "9"
+        ],
+        [
+          "6003",
+          "17",
+          "35",
+          "10"
+        ],
+        [
+          "6004",
+          "20",
+          "42",
+          "12"
+        ],
+        [
+          "6005",
+          "25",
+          "47",
+          "12"
+        ],
+        [
+          "6006",
+          "30",
+          "55",
+          "13"
+        ],
+        [
+          "6007",
+          "35",
+          "62",
+          "14"
+        ],
+        [
+          "6008",
+          "40",
+          "68",
+          "15"
+        ],
+        [
+          "6009",
+          "45",
+          "75",
+          "16"
+        ],
+        [
+          "6010",
+          "50",
+          "80",
+          "16"
+        ],
+        [
+          "6011",
+          "55",
+          "90",
+          "18"
+        ],
+        [
+          "6012",
+          "60",
+          "95",
+          "18"
+        ],
+        [
+          "6013",
+          "65",
+          "100",
+          "18"
+        ],
+        [
+          "6014",
+          "70",
+          "110",
+          "20"
+        ],
+        [
+          "6015",
+          "75",
+          "115",
+          "20"
+        ],
+        [
+          "6016",
+          "80",
+          "125",
+          "22"
+        ],
+        [
+          "6017",
+          "85",
+          "130",
+          "22"
+        ],
+        [
+          "6018",
+          "90",
+          "140",
+          "22"
+        ],
+        [
+          "624",
+          "4",
+          "13",
+          "5"
+        ],
+        [
+          "625",
+          "5",
+          "16",
+          "5"
+        ],
+        [
+          "626",
+          "6",
+          "19",
+          "6"
+        ],
+        [
+          "627",
+          "7",
+          "22",
+          "7"
+        ],
+        [
+          "628",
+          "8",
+          "24",
+          "8"
+        ],
+        [
+          "629",
+          "9",
+          "26",
+          "8"
+        ],
+        [
+          "6200",
+          "10",
+          "30",
+          "9"
+        ],
+        [
+          "6201",
+          "12",
+          "32",
+          "10"
+        ],
+        [
+          "6202",
+          "15",
+          "35",
+          "11"
+        ],
+        [
+          "6203",
+          "17",
+          "40",
+          "12"
+        ],
+        [
+          "6204",
+          "20",
+          "47",
+          "14"
+        ],
+        [
+          "6205",
+          "25",
+          "52",
+          "15"
+        ],
+        [
+          "6206",
+          "30",
+          "62",
+          "16"
+        ],
+        [
+          "6207",
+          "35",
+          "72",
+          "17"
+        ],
+        [
+          "6208",
+          "40",
+          "80",
+          "18"
+        ],
+        [
+          "6209",
+          "45",
+          "85",
+          "19"
+        ],
+        [
+          "6210",
+          "50",
+          "90",
+          "20"
+        ],
+        [
+          "6211",
+          "55",
+          "100",
+          "21"
+        ],
+        [
+          "6212",
+          "60",
+          "110",
+          "22"
+        ],
+        [
+          "6213",
+          "65",
+          "120",
+          "23"
+        ],
+        [
+          "6214",
+          "70",
+          "125",
+          "24"
+        ],
+        [
+          "6215",
+          "75",
+          "130",
+          "25"
+        ],
+        [
+          "6216",
+          "80",
+          "140",
+          "26"
+        ],
+        [
+          "635",
+          "5",
+          "19",
+          "6"
+        ],
+        [
+          "638",
+          "8",
+          "28",
+          "9"
+        ]
+      ],
+      "note": "Dados extraídos diretamente da página 7 do catálogo técnico Carolfix."
+    }
+  ],
+  "homepage": false
+}

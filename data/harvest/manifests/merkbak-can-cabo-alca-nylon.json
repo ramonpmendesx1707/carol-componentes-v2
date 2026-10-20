@@ -1,0 +1,154 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-alca-nylon-polipropileno/",
+  "fetchedAt": "2026-10-20T12:43:57.257Z",
+  "product": {
+    "id": 201007,
+    "slug": "merkbak-can-cabo-alca-nylon",
+    "name": "CAN – Cabo Alça Nylon",
+    "sku": "CAN",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/cabo-alca-nylon-polipropileno/",
+    "type": "product",
+    "summary": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação",
+    "description": "<p>Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro</p><p><strong>Informações adicionais:</strong> Alta resistência / Furo liso</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Plásticos",
+        "slug": "plasticos"
+      }
+    ],
+    "image": "/images/products/merkbak/can-cabo-alca-nylon/1.png",
+    "images": [
+      "/images/products/merkbak/can-cabo-alca-nylon/1.png",
+      "/images/products/merkbak/can-cabo-alca-nylon/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Nylon reforçado com fibra de vidro"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado na cor preta"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação"
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Alta resistência / Furo liso"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220038,
+        "sku": "CAN 107",
+        "label": "CAN 107",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "CAN 107"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220039,
+        "sku": "CAN 133",
+        "label": "CAN 133",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "CAN 133"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220040,
+        "sku": "CAN 196",
+        "label": "CAN 196",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "CAN 196"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Nylon reforçado com fibra de vidro"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado na cor preta"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação"
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Alta resistência / Furo liso"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "CAN 107"
+          },
+          {
+            "name": "Medida",
+            "value": "CAN 133"
+          },
+          {
+            "name": "Medida",
+            "value": "CAN 196"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/can-cabo-alca-nylon/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/Copia-de-009-can-cap-copiar-e1779469754258.png",
+      "bytes": 39951,
+      "sha256": "cb01f56cc932d3fa899ea9686cfdce94e82d1cde042a402418933b43c1dc4605"
+    },
+    {
+      "path": "/images/products/merkbak/can-cabo-alca-nylon/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/CAN_tab.png",
+      "bytes": 131802,
+      "sha256": "55921603ee6d899cc655c9d2784f92c831721d8376637a23ec73f7fe32a3eb19"
+    }
+  ],
+  "checks": {
+    "variants": 3,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

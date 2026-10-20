@@ -1,0 +1,603 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor-com-fixacao-dupl/grampo-tensor-com-fixao-dupla/",
+  "fetchedAt": "2026-10-20T13:01:34.241Z",
+  "product": {
+    "id": 202010,
+    "slug": "kifix-grampo-tensor-com-fixacao-dupla",
+    "name": "Grampo tensor com fixação dupla",
+    "sku": "Grampo tensor com fixação dupla",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor-com-fixacao-dupl/grampo-tensor-com-fixao-dupla/",
+    "type": "product",
+    "summary": "Linha Grampo tensor com fixação dupla Kifix modelo Grampo tensor com fixação dupla, com 4 referências dimensionais.",
+    "description": "<p>Linha Grampo tensor com fixação dupla Kifix modelo Grampo tensor com fixação dupla, com 4 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo tensor com fixação dupla",
+        "slug": "grampo-tensor-com-fixacao-dupla"
+      }
+    ],
+    "image": "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-1.png",
+    "images": [
+      "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-1.png",
+      "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-2.png",
+      "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-3.png",
+      "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-4.png",
+      "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-5.png",
+      "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-6.png",
+      "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-7.png",
+      "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-8.png",
+      "/images/products/kifix/grampo-tensor-com-fixacao-dupla/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo tensor com fixação dupla"
+      }
+    ],
+    "weight": "0,216 (0,48)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230071,
+        "sku": "KF-647",
+        "label": "KF-647",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO H (in)",
+            "value": "27 (1,06)"
+          },
+          {
+            "name": "CURSO V (in)",
+            "value": "13 (0,51)"
+          },
+          {
+            "name": "A (in)",
+            "value": "49 (1,92)"
+          },
+          {
+            "name": "B (in)",
+            "value": "140 (5,51)"
+          },
+          {
+            "name": "B1 (in)",
+            "value": "92 (3,62)"
+          },
+          {
+            "name": "C (in)",
+            "value": "30,05 (1,18)"
+          },
+          {
+            "name": "D (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "D1 (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "E (in)",
+            "value": "22 (0,86)"
+          },
+          {
+            "name": "F (in)",
+            "value": "25,5 (1,00)"
+          },
+          {
+            "name": "G (in)",
+            "value": "37,6 (1,48)"
+          },
+          {
+            "name": "H (in)",
+            "value": "24 (0,94)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "O (in)",
+            "value": "10,5 (0,41)"
+          },
+          {
+            "name": "O1 (in)",
+            "value": "6 (0,24)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "70 (2,75)"
+          },
+          {
+            "name": "BITOLA DA HASTE",
+            "value": "M5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,216 (0,48)"
+          }
+        ],
+        "weight": "0,216 (0,48)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230072,
+        "sku": "KF-747",
+        "label": "KF-747",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "200 (440)"
+          },
+          {
+            "name": "CURSO H (in)",
+            "value": "61 (2,40)"
+          },
+          {
+            "name": "CURSO V (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "A (in)",
+            "value": "49 (1,92)"
+          },
+          {
+            "name": "B (in)",
+            "value": "167 (6,57)"
+          },
+          {
+            "name": "B1 (in)",
+            "value": "86 (3,38)"
+          },
+          {
+            "name": "C (in)",
+            "value": "54 (2,13)"
+          },
+          {
+            "name": "D (in)",
+            "value": "30 (1,18)"
+          },
+          {
+            "name": "D1 (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "E (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "F (in)",
+            "value": "46 (1,81)"
+          },
+          {
+            "name": "G (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "H (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,21)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "O (in)",
+            "value": "16 (0,62)"
+          },
+          {
+            "name": "O1 (in)",
+            "value": "4,8 (0,19)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "95 (3,74)"
+          },
+          {
+            "name": "BITOLA DA HASTE",
+            "value": "M5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,237 (0,522)"
+          }
+        ],
+        "weight": "0,237 (0,522)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230073,
+        "sku": "KF-847",
+        "label": "KF-847",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "340 (749)"
+          },
+          {
+            "name": "CURSO H (in)",
+            "value": "37 (1,45)"
+          },
+          {
+            "name": "CURSO V (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "A (in)",
+            "value": "70 (2,75)"
+          },
+          {
+            "name": "B (in)",
+            "value": "189 (7,44)"
+          },
+          {
+            "name": "B1 (in)",
+            "value": "128 (5,04)"
+          },
+          {
+            "name": "C (in)",
+            "value": "37 (1,46)"
+          },
+          {
+            "name": "D (in)",
+            "value": "24 (0,96)"
+          },
+          {
+            "name": "D1 (in)",
+            "value": "11 (0,43)"
+          },
+          {
+            "name": "E (in)",
+            "value": "22 (0,86)"
+          },
+          {
+            "name": "F (in)",
+            "value": "36 (1,41)"
+          },
+          {
+            "name": "G (in)",
+            "value": "33 (1,29)"
+          },
+          {
+            "name": "H (in)",
+            "value": "31,8 (1,25)"
+          },
+          {
+            "name": "J (in)",
+            "value": "5,5 (0,21)"
+          },
+          {
+            "name": "N (in)",
+            "value": "5 (0,20)"
+          },
+          {
+            "name": "O (in)",
+            "value": "14 (0,55)"
+          },
+          {
+            "name": "O1 (in)",
+            "value": "7 (0,28)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "91 (3,58)"
+          },
+          {
+            "name": "BITOLA DA HASTE",
+            "value": "M5"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,307 (0,67)"
+          }
+        ],
+        "weight": "0,307 (0,67)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230074,
+        "sku": "KF-947",
+        "label": "KF-947",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "680 (1499)"
+          },
+          {
+            "name": "CURSO H (in)",
+            "value": "89 (3,50)"
+          },
+          {
+            "name": "CURSO V (in)",
+            "value": "35 (1,37)"
+          },
+          {
+            "name": "A (in)",
+            "value": "71 (2,79)"
+          },
+          {
+            "name": "B (in)",
+            "value": "252 (9,92)"
+          },
+          {
+            "name": "B1 (in)",
+            "value": "148 (5,83)"
+          },
+          {
+            "name": "C (in)",
+            "value": "78 (3,07)"
+          },
+          {
+            "name": "D (in)",
+            "value": "42 (1,65)"
+          },
+          {
+            "name": "D1 (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "E (in)",
+            "value": "37,5 (1,48)"
+          },
+          {
+            "name": "F (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "G (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "H (in)",
+            "value": "38 (1,49)"
+          },
+          {
+            "name": "J (in)",
+            "value": "7 (0,27)"
+          },
+          {
+            "name": "N (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "O (in)",
+            "value": "20 (0,78)"
+          },
+          {
+            "name": "O1 (in)",
+            "value": "7,3 (0,29)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "134 (5,28)"
+          },
+          {
+            "name": "BITOLA DA HASTE",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,462 (1,01)"
+          }
+        ],
+        "weight": "0,462 (1,01)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "CURSO H (in)",
+          "CURSO V (in)",
+          "A (in)",
+          "B (in)",
+          "B1 (in)",
+          "C (in)",
+          "D (in)",
+          "D1 (in)",
+          "E (in)",
+          "F (in)",
+          "G (in)",
+          "H (in)",
+          "J (in)",
+          "N (in)",
+          "O (in)",
+          "O1 (in)",
+          "Q (in)",
+          "BITOLA DA HASTE",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-647",
+            "200 (440)",
+            "27 (1,06)",
+            "13 (0,51)",
+            "49 (1,92)",
+            "140 (5,51)",
+            "92 (3,62)",
+            "30,05 (1,18)",
+            "26 (1,02)",
+            "10 (0,39)",
+            "22 (0,86)",
+            "25,5 (1,00)",
+            "37,6 (1,48)",
+            "24 (0,94)",
+            "5 (0,20)",
+            "5 (0,20)",
+            "10,5 (0,41)",
+            "6 (0,24)",
+            "70 (2,75)",
+            "M5",
+            "0,216 (0,48)"
+          ],
+          [
+            "KF-747",
+            "200 (440)",
+            "61 (2,40)",
+            "30 (1,18)",
+            "49 (1,92)",
+            "167 (6,57)",
+            "86 (3,38)",
+            "54 (2,13)",
+            "30 (1,18)",
+            "14 (0,55)",
+            "26 (1,02)",
+            "46 (1,81)",
+            "42 (1,65)",
+            "26 (1,02)",
+            "5,5 (0,21)",
+            "5 (0,20)",
+            "16 (0,62)",
+            "4,8 (0,19)",
+            "95 (3,74)",
+            "M5",
+            "0,237 (0,522)"
+          ],
+          [
+            "KF-847",
+            "340 (749)",
+            "37 (1,45)",
+            "12 (0,47)",
+            "70 (2,75)",
+            "189 (7,44)",
+            "128 (5,04)",
+            "37 (1,46)",
+            "24 (0,96)",
+            "11 (0,43)",
+            "22 (0,86)",
+            "36 (1,41)",
+            "33 (1,29)",
+            "31,8 (1,25)",
+            "5,5 (0,21)",
+            "5 (0,20)",
+            "14 (0,55)",
+            "7 (0,28)",
+            "91 (3,58)",
+            "M5",
+            "0,307 (0,67)"
+          ],
+          [
+            "KF-947",
+            "680 (1499)",
+            "89 (3,50)",
+            "35 (1,37)",
+            "71 (2,79)",
+            "252 (9,92)",
+            "148 (5,83)",
+            "78 (3,07)",
+            "42 (1,65)",
+            "19 (0,75)",
+            "37,5 (1,48)",
+            "60 (2,36)",
+            "56 (2,20)",
+            "38 (1,49)",
+            "7 (0,27)",
+            "8 (0,31)",
+            "20 (0,78)",
+            "7,3 (0,29)",
+            "134 (5,28)",
+            "M8",
+            "0,462 (1,01)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/grampo-tensor-com-fixacao-dupla/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/850_KF94721.png",
+      "bytes": 127156,
+      "sha256": "083337d4e0a084b35fa7ec22864f4a13b990a5e0f8f9339db3c7b8aed0cc0c4e"
+    },
+    {
+      "path": "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/849_KF94720.png",
+      "bytes": 120553,
+      "sha256": "902ffb1fc81bbadd95a6cb47fc20343ad2d7a6bad3e4d04e8b7f005ce69a3db1"
+    },
+    {
+      "path": "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/851_KF747_VERTI98.png",
+      "bytes": 181181,
+      "sha256": "2eea875fb90b3b7410cc2bb899c6e11c201dfc8d9ddcb7e735a61ac622b0f651"
+    },
+    {
+      "path": "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-4.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/847_KF94718.png",
+      "bytes": 148287,
+      "sha256": "11559e49f20a910a4272c95eced4c7966649c48b0e5099d48bd35b17448af822"
+    },
+    {
+      "path": "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-5.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1078_KF847VOBS.png",
+      "bytes": 1172708,
+      "sha256": "505c5a5e0564ff0c16d94fe4a1a3cf6e8cf57a9664a002a04e9577dab1e33d25"
+    },
+    {
+      "path": "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-6.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1076_KF847H.png",
+      "bytes": 1347505,
+      "sha256": "8a51604fe930f42d92f004c389897ebe62f14f31a5d66bbd87f20f6aec42c797"
+    },
+    {
+      "path": "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-7.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/853_KF947_VERTI98.png",
+      "bytes": 271229,
+      "sha256": "f6fab30f3c175c61bdc7d9fa9948676edec7d92a59c6977d52648e8f6bbf1bbd"
+    },
+    {
+      "path": "/images/products/kifix/grampo-tensor-com-fixacao-dupla/foto-8.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/836_KF94715.png",
+      "bytes": 301343,
+      "sha256": "a88e2f0ce4a6bd7346514dbcae99a6d3fafc23a9f7f367b37f11857995b3bf5c"
+    },
+    {
+      "path": "/images/products/kifix/grampo-tensor-com-fixacao-dupla/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/419_desenho_tensores_fix_dupla97.jpg",
+      "bytes": 1288713,
+      "sha256": "716aa336194c128dc6ce612aafd69231479d6e6af03b5c42e6fccdc72d73cb46"
+    }
+  ],
+  "checks": {
+    "variants": 4,
+    "photos": 8,
+    "drawings": 1,
+    "tableRows": 4
+  }
+}

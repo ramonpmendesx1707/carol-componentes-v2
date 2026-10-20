@@ -2,7 +2,7 @@
   "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-vs?model=vs&language=pt-BR",
   "fetchedAt": "2026-10-20T10:34:50.043Z",
   "product": {
-    "id": 200034,
+    "id": 200065,
     "slug": "vibra-stop-vs",
     "name": "Vibra-Stop VS",
     "sku": "VS",
@@ -35,7 +35,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240137,
+        "id": 210403,
         "sku": "VS1",
         "label": "VS1",
         "attributes": [
@@ -69,7 +69,7 @@
         "image": null
       },
       {
-        "id": 240138,
+        "id": 210404,
         "sku": "VS2",
         "label": "VS2",
         "attributes": [
@@ -103,7 +103,7 @@
         "image": null
       },
       {
-        "id": 240139,
+        "id": 210405,
         "sku": "VS3",
         "label": "VS3",
         "attributes": [
@@ -143,6 +143,12 @@
         "url": "/downloads/products/vibra-stop/vs/ficha-tecnica.pdf",
         "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20VS.pdf",
         "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [
@@ -265,6 +271,18 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 1,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:58:32.889Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Vídeo",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 5,
+    "pdfReconciled2026": true
   }
 }

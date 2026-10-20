@@ -1,0 +1,334 @@
+{
+  "sourceUrl": "https://merkbak.com.br/produto/alavanca-trava-macho/",
+  "fetchedAt": "2026-10-20T12:43:31.508Z",
+  "product": {
+    "id": 201002,
+    "slug": "merkbak-atm-alavanca-trava-macho",
+    "name": "ATM – Alavanca Trava Macho",
+    "sku": "ATM",
+    "brand": "Merkbak",
+    "supplier": "Merkbak",
+    "sourceUrl": "https://merkbak.com.br/produto/alavanca-trava-macho/",
+    "type": "product",
+    "summary": "Ajustadores tipo alavanca trava são usados em ajustes manuais onde houver limitação de espaço para rotação completa de 360°. A maçaneta retorna a posição inicial sem alteração da posição da rosca",
+    "description": "<p>Ajustadores tipo alavanca trava são usados em ajustes manuais onde houver limitação de espaço para rotação completa de 360°. A maçaneta retorna a posição inicial sem alteração da posição da rosca</p><p><strong>Material:</strong> Nylon reforçado com fibra de vidro + rosca aço carbono zincada</p><p><strong>Informações adicionais:</strong> Catraca / Alta resistência</p>",
+    "categories": [
+      {
+        "id": 202,
+        "name": "Plásticos",
+        "slug": "plasticos"
+      }
+    ],
+    "image": "/images/products/merkbak/atm-alavanca-trava-macho/1.png",
+    "images": [
+      "/images/products/merkbak/atm-alavanca-trava-macho/1.png",
+      "/images/products/merkbak/atm-alavanca-trava-macho/2.png"
+    ],
+    "attributes": [
+      {
+        "name": "MATERIAL",
+        "value": "Nylon reforçado com fibra de vidro + rosca aço carbono zincada"
+      },
+      {
+        "name": "ACABAMENTO",
+        "value": "Acabamento superficial texturizado nas cores preto ou laranja"
+      },
+      {
+        "name": "APLICAÇÃO",
+        "value": "Ajustadores tipo alavanca trava são usados em ajustes manuais onde houver limitação de espaço para rotação completa de 360°. A maçaneta retorna a posição inicial sem alteração da posição da rosca"
+      },
+      {
+        "name": "INFORMAÇÕES ADICIONAIS",
+        "value": "Catraca / Alta resistência"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 220007,
+        "sku": "ATM 5018 M5X25",
+        "label": "ATM 5018 M5X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "ATM 5018 M5X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220008,
+        "sku": "ATM 5018 M5X50",
+        "label": "ATM 5018 M5X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "ATM 5018 M5X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220009,
+        "sku": "ATM 5018 M6X25",
+        "label": "ATM 5018 M6X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "ATM 5018 M6X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220010,
+        "sku": "ATM 5018 M6X50",
+        "label": "ATM 5018 M6X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "ATM 5018 M6X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220011,
+        "sku": "ATM 7520 M6X25",
+        "label": "ATM 7520 M6X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "ATM 7520 M6X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220012,
+        "sku": "ATM 7520 M6X50",
+        "label": "ATM 7520 M6X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "ATM 7520 M6X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220013,
+        "sku": "ATM 7520 M8X25",
+        "label": "ATM 7520 M8X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "ATM 7520 M8X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220014,
+        "sku": "ATM 7520 M8X35",
+        "label": "ATM 7520 M8X35",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "ATM 7520 M8X35"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220015,
+        "sku": "ATM 7520 M8X50",
+        "label": "ATM 7520 M8X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "ATM 7520 M8X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220016,
+        "sku": "ATM 11830 M8X25",
+        "label": "ATM 11830 M8X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "ATM 11830 M8X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220017,
+        "sku": "ATM 11830 M8X50",
+        "label": "ATM 11830 M8X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "ATM 11830 M8X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220018,
+        "sku": "ATM 11830 M10X25",
+        "label": "ATM 11830 M10X25",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "ATM 11830 M10X25"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 220019,
+        "sku": "ATM 11830 M10X50",
+        "label": "ATM 11830 M10X50",
+        "attributes": [
+          {
+            "name": "Medida / Referência",
+            "value": "ATM 11830 M10X50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Informações do fabricante",
+        "items": [
+          {
+            "name": "MATERIAL",
+            "value": "Nylon reforçado com fibra de vidro + rosca aço carbono zincada"
+          },
+          {
+            "name": "ACABAMENTO",
+            "value": "Acabamento superficial texturizado nas cores preto ou laranja"
+          },
+          {
+            "name": "APLICAÇÃO",
+            "value": "Ajustadores tipo alavanca trava são usados em ajustes manuais onde houver limitação de espaço para rotação completa de 360°. A maçaneta retorna a posição inicial sem alteração da posição da rosca"
+          },
+          {
+            "name": "INFORMAÇÕES ADICIONAIS",
+            "value": "Catraca / Alta resistência"
+          }
+        ]
+      },
+      {
+        "title": "Medidas disponíveis",
+        "items": [
+          {
+            "name": "Medida",
+            "value": "ATM 5018 M5X25"
+          },
+          {
+            "name": "Medida",
+            "value": "ATM 5018 M5X50"
+          },
+          {
+            "name": "Medida",
+            "value": "ATM 5018 M6X25"
+          },
+          {
+            "name": "Medida",
+            "value": "ATM 5018 M6X50"
+          },
+          {
+            "name": "Medida",
+            "value": "ATM 7520 M6X25"
+          },
+          {
+            "name": "Medida",
+            "value": "ATM 7520 M6X50"
+          },
+          {
+            "name": "Medida",
+            "value": "ATM 7520 M8X25"
+          },
+          {
+            "name": "Medida",
+            "value": "ATM 7520 M8X35"
+          },
+          {
+            "name": "Medida",
+            "value": "ATM 7520 M8X50"
+          },
+          {
+            "name": "Medida",
+            "value": "ATM 11830 M8X25"
+          },
+          {
+            "name": "Medida",
+            "value": "ATM 11830 M8X50"
+          },
+          {
+            "name": "Medida",
+            "value": "ATM 11830 M10X25"
+          },
+          {
+            "name": "Medida",
+            "value": "ATM 11830 M10X50"
+          }
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/merkbak/atm-alavanca-trava-macho/1.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2019/03/002-atm-copiar.png",
+      "bytes": 360259,
+      "sha256": "42f8c4af1d64d2a4c4569cfeb3ec1d5dd25b6447a33ffbe8354347a5bea0e557"
+    },
+    {
+      "path": "/images/products/merkbak/atm-alavanca-trava-macho/2.png",
+      "sourceUrl": "https://merkbak.com.br/wp-content/uploads/2018/11/ATM_tab.png",
+      "bytes": 108654,
+      "sha256": "eb0253fe28893108430b16132e3b2ed2c3066be0835006504d31724c18e6b9e8"
+    }
+  ],
+  "checks": {
+    "variants": 13,
+    "photos": 2,
+    "attributesCount": 4
+  }
+}

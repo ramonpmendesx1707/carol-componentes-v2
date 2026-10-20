@@ -1,0 +1,221 @@
+{
+  "id": 201044,
+  "slug": "merkbak-v3r-c-cabo-volante-tres-raios-com-cabo-giratorio",
+  "name": "V3R C/CABO – Volante Três Raios com Cabo Giratório",
+  "sku": "V3R C/CABO",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/volante-tres-raios-com-cabo-giratorio/",
+  "type": "product",
+  "summary": "Máquinas e equipamentos que exigem regulagens precisas.",
+  "description": "<p>Máquinas e equipamentos que exigem regulagens precisas.</p><p><strong>Material:</strong> Revestido em resina termoplástica + alma e cubo de ferro fundido + cabo de polipropileno em aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Com cabo giratório para facilitar a regulagem.</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Volantes",
+      "slug": "volantes"
+    }
+  ],
+  "image": "/images/products/merkbak/v3r-c-cabo-volante-tres-raios-com-cabo-giratorio/1.png",
+  "images": [
+    "/images/products/merkbak/v3r-c-cabo-volante-tres-raios-com-cabo-giratorio/1.png",
+    "/images/products/merkbak/v3r-c-cabo-volante-tres-raios-com-cabo-giratorio/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Revestido em resina termoplástica + alma e cubo de ferro fundido + cabo de polipropileno em aço carbono zincado"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Máquinas e equipamentos que exigem regulagens precisas."
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Com cabo giratório para facilitar a regulagem."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220275,
+      "sku": "V3R 060 C/CABO",
+      "label": "V3R 060 C/CABO",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 060 C/CABO"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220276,
+      "sku": "V3R 095 C/CABO",
+      "label": "V3R 095 C/CABO",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 095 C/CABO"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220277,
+      "sku": "V3R 115 C/CABO",
+      "label": "V3R 115 C/CABO",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 115 C/CABO"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220278,
+      "sku": "V3R 140 C/CABO",
+      "label": "V3R 140 C/CABO",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 140 C/CABO"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220279,
+      "sku": "V3R 160 C/CABO",
+      "label": "V3R 160 C/CABO",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 160 C/CABO"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220280,
+      "sku": "V3R 185 C/CABO",
+      "label": "V3R 185 C/CABO",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 185 C/CABO"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220281,
+      "sku": "V3R 215 C/CABO",
+      "label": "V3R 215 C/CABO",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 215 C/CABO"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220282,
+      "sku": "V3R 280 C/CABO",
+      "label": "V3R 280 C/CABO",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "V3R 280 C/CABO"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Revestido em resina termoplástica + alma e cubo de ferro fundido + cabo de polipropileno em aço carbono zincado"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Máquinas e equipamentos que exigem regulagens precisas."
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Com cabo giratório para facilitar a regulagem."
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "V3R 060 C/CABO"
+        },
+        {
+          "name": "Medida",
+          "value": "V3R 095 C/CABO"
+        },
+        {
+          "name": "Medida",
+          "value": "V3R 115 C/CABO"
+        },
+        {
+          "name": "Medida",
+          "value": "V3R 140 C/CABO"
+        },
+        {
+          "name": "Medida",
+          "value": "V3R 160 C/CABO"
+        },
+        {
+          "name": "Medida",
+          "value": "V3R 185 C/CABO"
+        },
+        {
+          "name": "Medida",
+          "value": "V3R 215 C/CABO"
+        },
+        {
+          "name": "Medida",
+          "value": "V3R 280 C/CABO"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

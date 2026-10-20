@@ -91,5 +91,62 @@
   ],
   "headings": [
     "Vibra-Stop Tradicional  Com Chapa + 2 Furos"
-  ]
+  ],
+  "tabSnapshots": [
+    {
+      "id": "product-tab-analogs-datasheet",
+      "label": "Ficha Técnica",
+      "text": "Loading PDF...",
+      "images": [],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-videos",
+      "label": "Vídeo",
+      "text": "play_arrow\nvolume_up\n0:00 / 1:56\nfullscreen",
+      "images": [],
+      "videos": [
+        "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tradicional.mp4"
+      ],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-description",
+      "label": "Aplicabilidades",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TRADICIONAL/COM%20CHAPA%202%20FUROS/Chapa%202%20Furos%201.0.png",
+        "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TRADICIONAL/COM%20CHAPA%202%20FUROS/Chapa%202%20Furos%201.1.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    },
+    {
+      "id": "product-tab-specification",
+      "label": "Especificações",
+      "text": "Referência\tCarga Estática\tCarga Dinâmica\tDeflexão\tParafuso\tAltura Regulável\tDiâmetro\tCapacidade ao Cisalhamento\tEspessura da Chapa\tLargura da Chapa\tDistância entre os Furos\tDiâmetro dos Furos\nMedidas\tKgf\tKgf\tmm/Kgf\t(d)\t(H) mm\t(D) mm\tKgf\t(e) pol.\t(B x b) mm\t(t) mm\t(f) mm\nMac\t50 a 200\t200 a 800\t1,66/200\t1/4”, 5/16”, 3/8”\t30~35\t62\t10 a 40\t3/16”\t107 x 80\t92\t8\nMini\t200 a 500\t800 a 2.000\t2,76/500\t3/8”, 1/2\", 5/8”\t40~55\t90\t40 a 100\t3/16”\t136 x100\t120\t10\nStandard\t500 a 1.500\t2.000 a 6.000\t3,34/1500\t1/2\", 5/8”, 3/4\"\t50~65\t115\t100 a 300\t1/4\"\t174 x 130\t141\t10",
+      "images": [],
+      "videos": [],
+      "tables": [
+        5
+      ],
+      "frames": []
+    },
+    {
+      "id": "product-tab-analogs",
+      "label": "Instalação",
+      "text": "",
+      "images": [
+        "https://www.vibra-stop.com.br/assets/product/installations/TRADICIONAL/COM%20CHAPA%20+%202%20FUROS/Manual%20de%20Instalacao%20-%20TRADICIONAL%20CC%202%20F.png"
+      ],
+      "videos": [],
+      "tables": [],
+      "frames": []
+    }
+  ],
+  "tabsCheckedAt": "2026-10-20T10:56:04.365Z"
 }

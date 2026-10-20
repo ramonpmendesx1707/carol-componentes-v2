@@ -1,0 +1,228 @@
+{
+  "id": 202061,
+  "slug": "kifix-kf-718-p-consultar-marcas-de-cilindro-disponiveis",
+  "name": "KF-718_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS",
+  "sku": "KF-718_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-pneumatico/kf-718-p-consultar-marcas-de-c/",
+  "type": "product",
+  "summary": "Linha Grampo pneumático Kifix modelo KF-718_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS, com 2 referências dimensionais.",
+  "description": "<p>Linha Grampo pneumático Kifix modelo KF-718_P - CONSULTAR MARCAS DE CILINDRO DISPONÍVEIS, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo pneumático",
+      "slug": "grampo-pneumatico"
+    }
+  ],
+  "image": "/images/products/kifix/kf-718-p-consultar-marcas-de-cilindro-disponiveis/foto-1.png",
+  "images": [
+    "/images/products/kifix/kf-718-p-consultar-marcas-de-cilindro-disponiveis/foto-1.png",
+    "/images/products/kifix/kf-718-p-consultar-marcas-de-cilindro-disponiveis/foto-2.png",
+    "/images/products/kifix/kf-718-p-consultar-marcas-de-cilindro-disponiveis/desenho-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo pneumático"
+    }
+  ],
+  "weight": "1,500 (3,300)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230458,
+      "sku": "KF-718 DB P",
+      "label": "KF-718 DB P",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "200 (440)"
+        },
+        {
+          "name": "A (in)",
+          "value": "203 (7,99)"
+        },
+        {
+          "name": "B (in)",
+          "value": "152 (5,98)"
+        },
+        {
+          "name": "C (in)",
+          "value": "68 (2,68)"
+        },
+        {
+          "name": "D (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "E (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "G (in)",
+          "value": "62 (2,44)"
+        },
+        {
+          "name": "H (in)",
+          "value": "60,4 (2,38)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M8"
+        },
+        {
+          "name": "ROSCA CIL",
+          "value": "M5"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "90"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,500 (3,300)"
+        }
+      ],
+      "weight": "1,500 (3,300)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230459,
+      "sku": "KF-718 S P",
+      "label": "KF-718 S P",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "200 (440)"
+        },
+        {
+          "name": "A (in)",
+          "value": "203 (7,99)"
+        },
+        {
+          "name": "B (in)",
+          "value": "169 (6,65)"
+        },
+        {
+          "name": "C (in)",
+          "value": "68 (2,68)"
+        },
+        {
+          "name": "D (in)",
+          "value": "16 (0,63)"
+        },
+        {
+          "name": "E (in)",
+          "value": "25,4 (1,00)"
+        },
+        {
+          "name": "G (in)",
+          "value": "62 (2,44)"
+        },
+        {
+          "name": "H (in)",
+          "value": "78 (3,07)"
+        },
+        {
+          "name": "J (in)",
+          "value": "7,0 (0,28)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M8"
+        },
+        {
+          "name": "ROSCA CIL",
+          "value": "M5"
+        },
+        {
+          "name": "ÂNGULO DE ABERTURA",
+          "value": "90"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,500 (3,300)"
+        }
+      ],
+      "weight": "1,500 (3,300)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "PONTEIRA",
+        "ROSCA CIL",
+        "ÂNGULO DE ABERTURA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KF-718 DB P",
+          "200 (440)",
+          "203 (7,99)",
+          "152 (5,98)",
+          "68 (2,68)",
+          "16 (0,63)",
+          "25,4 (1,00)",
+          "62 (2,44)",
+          "60,4 (2,38)",
+          "7,0 (0,28)",
+          "M8",
+          "M5",
+          "90",
+          "1,500 (3,300)"
+        ],
+        [
+          "KF-718 S P",
+          "200 (440)",
+          "203 (7,99)",
+          "169 (6,65)",
+          "68 (2,68)",
+          "16 (0,63)",
+          "25,4 (1,00)",
+          "62 (2,44)",
+          "78 (3,07)",
+          "7,0 (0,28)",
+          "M8",
+          "M5",
+          "90",
+          "1,500 (3,300)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kf-718-p-consultar-marcas-de-cilindro-disponiveis/desenho-1.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

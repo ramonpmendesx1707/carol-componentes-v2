@@ -1,5 +1,5 @@
 {
-  "id": 200011,
+  "id": 200004,
   "slug": "vibra-stop-base-de-inercia",
   "name": "Vibra-Stop Base de Inércia",
   "sku": "Base de Inércia",
@@ -32,7 +32,7 @@
   "dimensions": "",
   "variations": [
     {
-      "id": 240048,
+      "id": 210010,
       "sku": "BI1",
       "label": "BI1",
       "attributes": [
@@ -70,7 +70,7 @@
       "image": null
     },
     {
-      "id": 240049,
+      "id": 210011,
       "sku": "BI2",
       "label": "BI2",
       "attributes": [
@@ -108,7 +108,7 @@
       "image": null
     },
     {
-      "id": 240050,
+      "id": 210012,
       "sku": "BI3",
       "label": "BI3",
       "attributes": [
@@ -146,7 +146,7 @@
       "image": null
     },
     {
-      "id": 240051,
+      "id": 210013,
       "sku": "BI4",
       "label": "BI4",
       "attributes": [
@@ -184,7 +184,7 @@
       "image": null
     },
     {
-      "id": 240052,
+      "id": 210014,
       "sku": "BI5",
       "label": "BI5",
       "attributes": [
@@ -222,7 +222,7 @@
       "image": null
     },
     {
-      "id": 240053,
+      "id": 210015,
       "sku": "BI6",
       "label": "BI6",
       "attributes": [
@@ -260,7 +260,7 @@
       "image": null
     },
     {
-      "id": 240054,
+      "id": 210016,
       "sku": "BI7",
       "label": "BI7",
       "attributes": [
@@ -298,7 +298,7 @@
       "image": null
     },
     {
-      "id": 240055,
+      "id": 210017,
       "sku": "BI8",
       "label": "BI8",
       "attributes": [
@@ -336,7 +336,7 @@
       "image": null
     },
     {
-      "id": 240056,
+      "id": 210018,
       "sku": "BI9",
       "label": "BI9",
       "attributes": [
@@ -374,7 +374,7 @@
       "image": null
     },
     {
-      "id": 240057,
+      "id": 210019,
       "sku": "BI10",
       "label": "BI10",
       "attributes": [
@@ -418,6 +418,12 @@
       "url": "/downloads/products/vibra-stop/base-de-inercia/ficha-tecnica.pdf",
       "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Base%20de%20Inercia.pdf",
       "kind": "pdf"
+    },
+    {
+      "title": "Catálogo Geral de Produtos (Edição 2026)",
+      "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+      "kind": "pdf",
+      "note": "Referência técnica oficial edição 2026 do fabricante."
     }
   ],
   "videos": [],

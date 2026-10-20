@@ -1,0 +1,239 @@
+{
+  "id": 201026,
+  "slug": "merkbak-km-knob-macho",
+  "name": "KM – Knob Macho",
+  "sku": "KM",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/knob-macho/",
+  "type": "product",
+  "summary": "Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral. Solução para situações que envolvem temperaturas elevadas.",
+  "description": "<p>Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral. Solução para situações que envolvem temperaturas elevadas.</p><p><strong>Material:</strong> Baquelite + rosca aço carbono zincado</p><p><strong>Informações adicionais:</strong> Alta resistência / Isolamento térmico</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Baquelite",
+      "slug": "baquelite"
+    }
+  ],
+  "image": "/images/products/merkbak/km-knob-macho/1.png",
+  "images": [
+    "/images/products/merkbak/km-knob-macho/1.png",
+    "/images/products/merkbak/km-knob-macho/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Baquelite + rosca aço carbono zincado"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral. Solução para situações que envolvem temperaturas elevadas."
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Isolamento térmico"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220124,
+      "sku": "KM 2013 M6X25",
+      "label": "KM 2013 M6X25",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KM 2013 M6X25"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220125,
+      "sku": "KM 2013 M6X50",
+      "label": "KM 2013 M6X50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KM 2013 M6X50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220126,
+      "sku": "KM 2013 1/4X25",
+      "label": "KM 2013 1/4X25",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KM 2013 1/4X25"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220127,
+      "sku": "KM 2013 1/4X50",
+      "label": "KM 2013 1/4X50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KM 2013 1/4X50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220128,
+      "sku": "KM 2515 M8X25",
+      "label": "KM 2515 M8X25",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KM 2515 M8X25"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220129,
+      "sku": "KM 2515 5/16X50",
+      "label": "KM 2515 5/16X50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KM 2515 5/16X50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220130,
+      "sku": "KM 3418 1/4X25",
+      "label": "KM 3418 1/4X25",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KM 3418 1/4X25"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220131,
+      "sku": "KM 3418 5/16X50",
+      "label": "KM 3418 5/16X50",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KM 3418 5/16X50"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220132,
+      "sku": "KM 4620 3/8X25",
+      "label": "KM 4620 3/8X25",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "KM 4620 3/8X25"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Baquelite + rosca aço carbono zincado"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Knobs são utilizados para apertos/ajustes manuais de máquinas e equipamentos em geral. Solução para situações que envolvem temperaturas elevadas."
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Isolamento térmico"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "KM 2013 M6X25"
+        },
+        {
+          "name": "Medida",
+          "value": "KM 2013 M6X50"
+        },
+        {
+          "name": "Medida",
+          "value": "KM 2013 1/4X25"
+        },
+        {
+          "name": "Medida",
+          "value": "KM 2013 1/4X50"
+        },
+        {
+          "name": "Medida",
+          "value": "KM 2515 M8X25"
+        },
+        {
+          "name": "Medida",
+          "value": "KM 2515 5/16X50"
+        },
+        {
+          "name": "Medida",
+          "value": "KM 3418 1/4X25"
+        },
+        {
+          "name": "Medida",
+          "value": "KM 3418 5/16X50"
+        },
+        {
+          "name": "Medida",
+          "value": "KM 4620 3/8X25"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

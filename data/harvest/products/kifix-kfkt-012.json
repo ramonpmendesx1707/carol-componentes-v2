@@ -1,0 +1,263 @@
+{
+  "id": 202071,
+  "slug": "kifix-kfkt-012",
+  "name": "KFKT-012",
+  "sku": "KFKT-012",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-torpedo-haste-quadrada/kfkt-012/",
+  "type": "product",
+  "summary": "Linha Grampo Torpedo haste quadrada Kifix modelo KFKT-012, com 2 referências dimensionais.",
+  "description": "<p>Linha Grampo Torpedo haste quadrada Kifix modelo KFKT-012, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Grampo Torpedo haste quadrada",
+      "slug": "grampo-torpedo-haste-quadrada"
+    }
+  ],
+  "image": "/images/products/kifix/kfkt-012/foto-1.png",
+  "images": [
+    "/images/products/kifix/kfkt-012/foto-1.png",
+    "/images/products/kifix/kfkt-012/foto-2.png",
+    "/images/products/kifix/kfkt-012/desenho-1.jpg",
+    "/images/products/kifix/kfkt-012/desenho-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Fabricante",
+      "value": "Kifix Indústria e Comércio"
+    },
+    {
+      "name": "Categoria",
+      "value": "Grampo Torpedo haste quadrada"
+    }
+  ],
+  "weight": "1,850 (4,070)",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230497,
+      "sku": "KFKT-012",
+      "label": "KFKT-012",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "900 (1980)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "48 (1,89)"
+        },
+        {
+          "name": "A (in)",
+          "value": "173 (6,81)"
+        },
+        {
+          "name": "B (in)",
+          "value": "195 (7,68)"
+        },
+        {
+          "name": "C (in)",
+          "value": "23,6 (0,93)"
+        },
+        {
+          "name": "D (in)",
+          "value": "70 (2,76)"
+        },
+        {
+          "name": "E (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "F (in)",
+          "value": "100 (3,94)"
+        },
+        {
+          "name": "G (in)",
+          "value": "80 (3,15)"
+        },
+        {
+          "name": "H (in)",
+          "value": "55 (2,17)"
+        },
+        {
+          "name": "J (in)",
+          "value": "10,5 (0,41)"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "M12X1,75"
+        },
+        {
+          "name": "L (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "N (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M12"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,850 (4,070)"
+        }
+      ],
+      "weight": "1,850 (4,070)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230498,
+      "sku": "KFKT-012 F",
+      "label": "KFKT-012 F",
+      "attributes": [
+        {
+          "name": "FORÇA RETENÇÃO Kgf (lbf)",
+          "value": "900 (1980)"
+        },
+        {
+          "name": "CURSO (in)",
+          "value": "48 (1,89)"
+        },
+        {
+          "name": "A (in)",
+          "value": "146 (5,75)"
+        },
+        {
+          "name": "B (in)",
+          "value": "195 (7,68)"
+        },
+        {
+          "name": "C (in)",
+          "value": "-"
+        },
+        {
+          "name": "D (in)",
+          "value": "-"
+        },
+        {
+          "name": "E (in)",
+          "value": "-"
+        },
+        {
+          "name": "F (in)",
+          "value": "140 (5,51)"
+        },
+        {
+          "name": "G (in)",
+          "value": "38,1 (1,50)"
+        },
+        {
+          "name": "H (in)",
+          "value": "55 (2,17)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M36X1,50"
+        },
+        {
+          "name": "J1 (in)",
+          "value": "M12X1,75"
+        },
+        {
+          "name": "L (in)",
+          "value": "-"
+        },
+        {
+          "name": "N (in)",
+          "value": "19 (0,75)"
+        },
+        {
+          "name": "PONTEIRA",
+          "value": "M12"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,530 (3,366)"
+        }
+      ],
+      "weight": "1,530 (3,366)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "FORÇA RETENÇÃO Kgf (lbf)",
+        "CURSO (in)",
+        "A (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "J1 (in)",
+        "L (in)",
+        "N (in)",
+        "PONTEIRA",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "KFKT-012",
+          "900 (1980)",
+          "48 (1,89)",
+          "173 (6,81)",
+          "195 (7,68)",
+          "23,6 (0,93)",
+          "70 (2,76)",
+          "58 (2,28)",
+          "100 (3,94)",
+          "80 (3,15)",
+          "55 (2,17)",
+          "10,5 (0,41)",
+          "M12X1,75",
+          "8 (0,31)",
+          "19 (0,75)",
+          "M12",
+          "1,850 (4,070)"
+        ],
+        [
+          "KFKT-012 F",
+          "900 (1980)",
+          "48 (1,89)",
+          "146 (5,75)",
+          "195 (7,68)",
+          "-",
+          "-",
+          "-",
+          "140 (5,51)",
+          "38,1 (1,50)",
+          "55 (2,17)",
+          "M36X1,50",
+          "M12X1,75",
+          "-",
+          "19 (0,75)",
+          "M12",
+          "1,530 (3,366)"
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos técnicos da família",
+      "images": [
+        "/images/products/kifix/kfkt-012/desenho-1.jpg",
+        "/images/products/kifix/kfkt-012/desenho-2.jpg"
+      ],
+      "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+    }
+  ],
+  "homepage": false
+}

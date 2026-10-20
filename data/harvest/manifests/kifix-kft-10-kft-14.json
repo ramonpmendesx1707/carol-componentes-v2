@@ -1,0 +1,305 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kft-10-kft-14/",
+  "fetchedAt": "2026-10-20T12:59:52.821Z",
+  "product": {
+    "id": 202080,
+    "slug": "kifix-kft-10-kft-14",
+    "name": "KFT-10/KFT-14",
+    "sku": "KFT-10/KFT-14",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/grampo-tensor/kft-10-kft-14/",
+    "type": "product",
+    "summary": "Linha Grampo tensor Kifix modelo KFT-10/KFT-14, com 2 referências dimensionais.",
+    "description": "<p>Linha Grampo tensor Kifix modelo KFT-10/KFT-14, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Grampo tensor",
+        "slug": "grampo-tensor"
+      }
+    ],
+    "image": "/images/products/kifix/kft-10-kft-14/foto-1.png",
+    "images": [
+      "/images/products/kifix/kft-10-kft-14/foto-1.png",
+      "/images/products/kifix/kft-10-kft-14/foto-2.png",
+      "/images/products/kifix/kft-10-kft-14/foto-3.png",
+      "/images/products/kifix/kft-10-kft-14/foto-4.png",
+      "/images/products/kifix/kft-10-kft-14/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Grampo tensor"
+      }
+    ],
+    "weight": "2,120",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230524,
+        "sku": "KFT-14 H150",
+        "label": "KFT-14 H150",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "4.000 (8818)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "140 (5,51)"
+          },
+          {
+            "name": "A (in)",
+            "value": "41 (1,61)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "C (in)",
+            "value": "25 (0,98)"
+          },
+          {
+            "name": "D1 (in)",
+            "value": "-"
+          },
+          {
+            "name": "D2 (in)",
+            "value": "-"
+          },
+          {
+            "name": "E (in)",
+            "value": "56 (2,20)"
+          },
+          {
+            "name": "F1 (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "F2 (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "G (in)",
+            "value": "90 (3,54)"
+          },
+          {
+            "name": "J (in)",
+            "value": "-"
+          },
+          {
+            "name": "N (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "195 (7,68)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M16"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "2,120"
+          }
+        ],
+        "weight": "2,120",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230525,
+        "sku": "KFT-10",
+        "label": "KFT-10",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "2.000 (4409)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "108 (4,25)"
+          },
+          {
+            "name": "A (in)",
+            "value": "22,4 (0,88)"
+          },
+          {
+            "name": "B máx (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "C (in)",
+            "value": "22,4 (0,88)"
+          },
+          {
+            "name": "D1 (in)",
+            "value": "-"
+          },
+          {
+            "name": "D2 (in)",
+            "value": "-"
+          },
+          {
+            "name": "E (in)",
+            "value": "82 (3,23)"
+          },
+          {
+            "name": "F1 (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "F2 (in)",
+            "value": "38 (1,50)"
+          },
+          {
+            "name": "G (in)",
+            "value": "82 (3,23)"
+          },
+          {
+            "name": "J (in)",
+            "value": "-"
+          },
+          {
+            "name": "N (in)",
+            "value": "10 (0,39)"
+          },
+          {
+            "name": "Q (in)",
+            "value": "176 (6,63)"
+          },
+          {
+            "name": "ROSCA",
+            "value": "M10"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "1,310"
+          }
+        ],
+        "weight": "1,310",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "CURSO (in)",
+          "A (in)",
+          "B máx (in)",
+          "C (in)",
+          "D1 (in)",
+          "D2 (in)",
+          "E (in)",
+          "F1 (in)",
+          "F2 (in)",
+          "G (in)",
+          "J (in)",
+          "N (in)",
+          "Q (in)",
+          "ROSCA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KFT-14 H150",
+            "4.000 (8818)",
+            "140 (5,51)",
+            "41 (1,61)",
+            "20 (0,79)",
+            "25 (0,98)",
+            "-",
+            "-",
+            "56 (2,20)",
+            "38 (1,50)",
+            "38 (1,50)",
+            "90 (3,54)",
+            "-",
+            "16 (0,63)",
+            "195 (7,68)",
+            "M16",
+            "2,120"
+          ],
+          [
+            "KFT-10",
+            "2.000 (4409)",
+            "108 (4,25)",
+            "22,4 (0,88)",
+            "20 (0,79)",
+            "22,4 (0,88)",
+            "-",
+            "-",
+            "82 (3,23)",
+            "38 (1,50)",
+            "38 (1,50)",
+            "82 (3,23)",
+            "-",
+            "10 (0,39)",
+            "176 (6,63)",
+            "M10",
+            "1,310"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kft-10-kft-14/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kft-10-kft-14/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/906_KFT10.png",
+      "bytes": 268811,
+      "sha256": "f7c1418c7d46f6716dd94e04e1a38ab62cb97cf7b87c88ac6cd661b800145af5"
+    },
+    {
+      "path": "/images/products/kifix/kft-10-kft-14/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/905_KFT10_com_chave01.png",
+      "bytes": 436007,
+      "sha256": "645143a6755d4ada5eeffcf7f43c6b19729257b042648c02f70ba49882713b37"
+    },
+    {
+      "path": "/images/products/kifix/kft-10-kft-14/foto-3.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/908_KFT14_H150.png",
+      "bytes": 203884,
+      "sha256": "a8b96e5e946b89b58ea4a15618e2f785416e9c478ba3ec846d722ee4b8fccae7"
+    },
+    {
+      "path": "/images/products/kifix/kft-10-kft-14/foto-4.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/907_KFT14_H150_com_chave01.png",
+      "bytes": 764636,
+      "sha256": "77db1e58e8ba1548433991868b51df1250e71701d1537cde3facf5dbbc6e5b75"
+    },
+    {
+      "path": "/images/products/kifix/kft-10-kft-14/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/450_292_KFT10_14.jpg",
+      "bytes": 102634,
+      "sha256": "ce771594930a4b1ae8cad81e21ed70643985b916eb1ff0ff6bbbadb2dcdc0ff8"
+    }
+  ],
+  "checks": {
+    "variants": 2,
+    "photos": 4,
+    "drawings": 1,
+    "tableRows": 2
+  }
+}

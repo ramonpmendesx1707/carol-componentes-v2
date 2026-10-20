@@ -1,0 +1,258 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/grampo-torpedo-frontal/",
+  "fetchedAt": "2026-10-20T12:55:10.409Z",
+  "product": {
+    "id": 202012,
+    "slug": "kifix-grampo-torpedo-frontal",
+    "name": "Grampo Torpedo frontal",
+    "sku": "Grampo Torpedo frontal",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/lancamentos/grampo-torpedo-frontal/",
+    "type": "product",
+    "summary": "Linha LANÇAMENTOS Kifix modelo Grampo Torpedo frontal, com 2 referências dimensionais.",
+    "description": "<p>Linha LANÇAMENTOS Kifix modelo Grampo Torpedo frontal, com 2 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "LANÇAMENTOS",
+        "slug": "lancamentos"
+      }
+    ],
+    "image": "/images/products/kifix/grampo-torpedo-frontal/foto-1.png",
+    "images": [
+      "/images/products/kifix/grampo-torpedo-frontal/foto-1.png",
+      "/images/products/kifix/grampo-torpedo-frontal/foto-2.png",
+      "/images/products/kifix/grampo-torpedo-frontal/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "LANÇAMENTOS"
+      }
+    ],
+    "weight": "0,190 (0,418)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230082,
+        "sku": "KF-005 TR",
+        "label": "KF-005 TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "90 (198)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "20 (0,79)"
+          },
+          {
+            "name": "A (in)",
+            "value": "79 (3,11)"
+          },
+          {
+            "name": "B (in)",
+            "value": "60 (2,36)"
+          },
+          {
+            "name": "C (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "D (in)",
+            "value": "26 (1,02)"
+          },
+          {
+            "name": "E (in)",
+            "value": "8 (0,31)"
+          },
+          {
+            "name": "H (in)",
+            "value": "21 (0,83)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M16X1,50"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M6X1,00"
+          },
+          {
+            "name": "N (in)",
+            "value": "9,5 (0,37)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M6"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,190 (0,418)"
+          }
+        ],
+        "weight": "0,190 (0,418)",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230083,
+        "sku": "KF-006 TR",
+        "label": "KF-006 TR",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "120 (264)"
+          },
+          {
+            "name": "CURSO (in)",
+            "value": "39 (1,54)"
+          },
+          {
+            "name": "A (in)",
+            "value": "107 (4,21)"
+          },
+          {
+            "name": "B (in)",
+            "value": "105 (4,13)"
+          },
+          {
+            "name": "C (in)",
+            "value": "16,5 (0,65)"
+          },
+          {
+            "name": "D (in)",
+            "value": "31 (1,22)"
+          },
+          {
+            "name": "E (in)",
+            "value": "9 (0,35)"
+          },
+          {
+            "name": "H (in)",
+            "value": "39 (1,54)"
+          },
+          {
+            "name": "J (in)",
+            "value": "M20X1,50"
+          },
+          {
+            "name": "J1 (in)",
+            "value": "M8X1,25"
+          },
+          {
+            "name": "N (in)",
+            "value": "12 (0,47)"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M8"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,420 (0,924)"
+          }
+        ],
+        "weight": "0,420 (0,924)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "CURSO (in)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "H (in)",
+          "J (in)",
+          "J1 (in)",
+          "N (in)",
+          "PONTEIRA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-005 TR",
+            "90 (198)",
+            "20 (0,79)",
+            "79 (3,11)",
+            "60 (2,36)",
+            "12 (0,47)",
+            "26 (1,02)",
+            "8 (0,31)",
+            "21 (0,83)",
+            "M16X1,50",
+            "M6X1,00",
+            "9,5 (0,37)",
+            "M6",
+            "0,190 (0,418)"
+          ],
+          [
+            "KF-006 TR",
+            "120 (264)",
+            "39 (1,54)",
+            "107 (4,21)",
+            "105 (4,13)",
+            "16,5 (0,65)",
+            "31 (1,22)",
+            "9 (0,35)",
+            "39 (1,54)",
+            "M20X1,50",
+            "M8X1,25",
+            "12 (0,47)",
+            "M8",
+            "0,420 (0,924)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/grampo-torpedo-frontal/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/grampo-torpedo-frontal/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1005_KF005_TR_1.PNG",
+      "bytes": 1628803,
+      "sha256": "448c858621822b2d4b141ffff8f6d6495156ea5aac6ce652c7f59359c4554c74"
+    },
+    {
+      "path": "/images/products/kifix/grampo-torpedo-frontal/foto-2.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/1006_KF006_TR.png",
+      "bytes": 1507849,
+      "sha256": "f53bb3bf8bc807520a3eb3ab21b0ff70c4f9de7996c0a19c90d870762f259879"
+    },
+    {
+      "path": "/images/products/kifix/grampo-torpedo-frontal/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/484_KF005_TR01.jpg",
+      "bytes": 159710,
+      "sha256": "223005efea5106fdc0eea4d29f6120b0848c5093062a6c52916d7692cfdc6c99"
+    }
+  ],
+  "checks": {
+    "variants": 2,
+    "photos": 2,
+    "drawings": 1,
+    "tableRows": 2
+  }
+}

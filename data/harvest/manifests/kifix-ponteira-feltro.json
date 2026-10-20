@@ -1,0 +1,284 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-feltro/",
+  "fetchedAt": "2026-10-20T13:04:43.861Z",
+  "product": {
+    "id": 202094,
+    "slug": "kifix-ponteira-feltro",
+    "name": "PONTEIRA FELTRO",
+    "sku": "PONTEIRA FELTRO",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/ponteiras/ponteira-feltro/",
+    "type": "product",
+    "summary": "Linha Ponteiras Kifix modelo PONTEIRA FELTRO, com 6 referências dimensionais.",
+    "description": "<p>Linha Ponteiras Kifix modelo PONTEIRA FELTRO, com 6 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Ponteiras",
+        "slug": "ponteiras"
+      }
+    ],
+    "image": "/images/products/kifix/ponteira-feltro/foto-1.png",
+    "images": [
+      "/images/products/kifix/ponteira-feltro/foto-1.png",
+      "/images/products/kifix/ponteira-feltro/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Ponteiras"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230597,
+        "sku": "PF-M6 35x40",
+        "label": "PF-M6 35x40",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "35 (1,38)"
+          },
+          {
+            "name": "C (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230598,
+        "sku": "PF-M6 51x40",
+        "label": "PF-M6 51x40",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "51 (2,01)"
+          },
+          {
+            "name": "C (in)",
+            "value": "40 (1,57)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230599,
+        "sku": "PF-M6 51x100",
+        "label": "PF-M6 51x100",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "51 (2,01)"
+          },
+          {
+            "name": "C (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230600,
+        "sku": "PF-M6 66x100",
+        "label": "PF-M6 66x100",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "66 (2,60)"
+          },
+          {
+            "name": "C (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230601,
+        "sku": "PF-M8",
+        "label": "PF-M8",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "77 (3,03)"
+          },
+          {
+            "name": "C (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 230602,
+        "sku": "PF-M10",
+        "label": "PF-M10",
+        "attributes": [
+          {
+            "name": "A (in)",
+            "value": "16 (0,63)"
+          },
+          {
+            "name": "B (in)",
+            "value": "77 (3,03)"
+          },
+          {
+            "name": "C (in)",
+            "value": "100 (3,94)"
+          },
+          {
+            "name": "M (in)",
+            "value": "M10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "M (in)"
+        ],
+        "rows": [
+          [
+            "PF-M6 35x40",
+            "16 (0,63)",
+            "35 (1,38)",
+            "40 (1,57)",
+            "M6"
+          ],
+          [
+            "PF-M6 51x40",
+            "16 (0,63)",
+            "51 (2,01)",
+            "40 (1,57)",
+            "M6"
+          ],
+          [
+            "PF-M6 51x100",
+            "16 (0,63)",
+            "51 (2,01)",
+            "100 (3,94)",
+            "M6"
+          ],
+          [
+            "PF-M6 66x100",
+            "16 (0,63)",
+            "66 (2,60)",
+            "100 (3,94)",
+            "M6"
+          ],
+          [
+            "PF-M8",
+            "16 (0,63)",
+            "77 (3,03)",
+            "100 (3,94)",
+            "M8"
+          ],
+          [
+            "PF-M10",
+            "16 (0,63)",
+            "77 (3,03)",
+            "100 (3,94)",
+            "M10"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/ponteira-feltro/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/ponteira-feltro/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/744_PFM8280.png",
+      "bytes": 249955,
+      "sha256": "bc5d732a14307d1798a17ea3bd384237c3d2a5076e9c5b4cd0f481fb1857477a"
+    },
+    {
+      "path": "/images/products/kifix/ponteira-feltro/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/311_PF.JPG",
+      "bytes": 45648,
+      "sha256": "be9e993519d4bc624109cdfd5c658fddf739dba04afab17133549e6d11767d0b"
+    }
+  ],
+  "checks": {
+    "variants": 6,
+    "photos": 1,
+    "drawings": 1,
+    "tableRows": 6
+  }
+}

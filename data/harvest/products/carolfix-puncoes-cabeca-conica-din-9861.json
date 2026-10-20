@@ -1,0 +1,4154 @@
+{
+  "id": 203014,
+  "slug": "carolfix-puncoes-cabeca-conica-din-9861",
+  "name": "Punções de Corte com Cabeça Cônica DIN 9861",
+  "sku": "DIN 9861 D",
+  "brand": "Padrão DIN",
+  "supplier": "Padrão DIN",
+  "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf#page=26",
+  "type": "product",
+  "summary": "Punções em aço rápido / ferramenta tipo D para furação e estampagem em matrizes industriais.",
+  "description": "<p>Punções retificados de alta dureza para ferramentas industriais conforme norma DIN 9861 Tipo D.</p>",
+  "categories": [
+    {
+      "id": 212,
+      "name": "Ferramentaria",
+      "slug": "ferramentaria"
+    }
+  ],
+  "image": "/images/products/carolfix/puncoes-cabeca-conica-din-9861/pagina-26.png",
+  "images": [
+    "/images/products/carolfix/puncoes-cabeca-conica-din-9861/pagina-26.png"
+  ],
+  "attributes": [
+    {
+      "name": "Norma / Padrão",
+      "value": "DIN 9861 D"
+    },
+    {
+      "name": "Fonte documental",
+      "value": "Catálogo Técnico Carolfix, Página 26"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240780,
+      "sku": "D1",
+      "label": "D1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "D2"
+        },
+        {
+          "name": "",
+          "value": "K"
+        },
+        {
+          "name": "",
+          "value": "R"
+        },
+        {
+          "name": "",
+          "value": "L + 1,00"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240781,
+      "sku": "h6",
+      "label": "h6",
+      "attributes": [
+        {
+          "name": "",
+          "value": "Tol.(+-)"
+        },
+        {
+          "name": "",
+          "value": "(+)0,2"
+        },
+        {
+          "name": "",
+          "value": "Tol. (+)"
+        },
+        {
+          "name": "",
+          "value": "70"
+        },
+        {
+          "name": "",
+          "value": "100"
+        },
+        {
+          "name": "",
+          "value": "130"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240782,
+      "sku": "1",
+      "label": "1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "1,8"
+        },
+        {
+          "name": "",
+          "value": "0,05"
+        },
+        {
+          "name": "",
+          "value": "1,19"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240783,
+      "sku": "1,1",
+      "label": "1,1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "1,8"
+        },
+        {
+          "name": "",
+          "value": "0,05"
+        },
+        {
+          "name": "",
+          "value": "1,11"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240784,
+      "sku": "1,2",
+      "label": "1,2",
+      "attributes": [
+        {
+          "name": "",
+          "value": "2"
+        },
+        {
+          "name": "",
+          "value": "0,05"
+        },
+        {
+          "name": "",
+          "value": "1,19"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240785,
+      "sku": "1,3",
+      "label": "1,3",
+      "attributes": [
+        {
+          "name": "",
+          "value": "2"
+        },
+        {
+          "name": "",
+          "value": "0,05"
+        },
+        {
+          "name": "",
+          "value": "1,11"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240786,
+      "sku": "1,4",
+      "label": "1,4",
+      "attributes": [
+        {
+          "name": "",
+          "value": "2,2"
+        },
+        {
+          "name": "",
+          "value": "0,05"
+        },
+        {
+          "name": "",
+          "value": "1,19"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240787,
+      "sku": "1,5",
+      "label": "1,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "2,2"
+        },
+        {
+          "name": "",
+          "value": "0,05"
+        },
+        {
+          "name": "",
+          "value": "1,11"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240788,
+      "sku": "1,6",
+      "label": "1,6",
+      "attributes": [
+        {
+          "name": "",
+          "value": "2,5"
+        },
+        {
+          "name": "",
+          "value": "0,05"
+        },
+        {
+          "name": "",
+          "value": "1,28"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240789,
+      "sku": "1,7",
+      "label": "1,7",
+      "attributes": [
+        {
+          "name": "",
+          "value": "2,5"
+        },
+        {
+          "name": "",
+          "value": "0,05"
+        },
+        {
+          "name": "",
+          "value": "1,19"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240790,
+      "sku": "1,8",
+      "label": "1,8",
+      "attributes": [
+        {
+          "name": "",
+          "value": "2,8"
+        },
+        {
+          "name": "",
+          "value": "0,05"
+        },
+        {
+          "name": "",
+          "value": "1,37"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240791,
+      "sku": "1,9",
+      "label": "1,9",
+      "attributes": [
+        {
+          "name": "",
+          "value": "2,8"
+        },
+        {
+          "name": "",
+          "value": "0,05"
+        },
+        {
+          "name": "",
+          "value": "1,28"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240792,
+      "sku": "2",
+      "label": "2",
+      "attributes": [
+        {
+          "name": "",
+          "value": "3"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,37"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240793,
+      "sku": "2,1",
+      "label": "2,1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "3,2"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,45"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240794,
+      "sku": "2,2",
+      "label": "2,2",
+      "attributes": [
+        {
+          "name": "",
+          "value": "3,2"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,37"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240795,
+      "sku": "2,3",
+      "label": "2,3",
+      "attributes": [
+        {
+          "name": "",
+          "value": "3,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,54"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240796,
+      "sku": "2,4",
+      "label": "2,4",
+      "attributes": [
+        {
+          "name": "",
+          "value": "3,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,45"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240797,
+      "sku": "2,5",
+      "label": "2,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "3,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,37"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240798,
+      "sku": "2,6",
+      "label": "2,6",
+      "attributes": [
+        {
+          "name": "",
+          "value": "4"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,71"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240799,
+      "sku": "2,7",
+      "label": "2,7",
+      "attributes": [
+        {
+          "name": "",
+          "value": "4"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,63"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240800,
+      "sku": "2,8",
+      "label": "2,8",
+      "attributes": [
+        {
+          "name": "",
+          "value": "4"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,54"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240801,
+      "sku": "2,9",
+      "label": "2,9",
+      "attributes": [
+        {
+          "name": "",
+          "value": "4"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,45"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "0,3"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240802,
+      "sku": "3",
+      "label": "3",
+      "attributes": [
+        {
+          "name": "",
+          "value": "4,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,8"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240803,
+      "sku": "3,1",
+      "label": "3,1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "4,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,71"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240804,
+      "sku": "3,2",
+      "label": "3,2",
+      "attributes": [
+        {
+          "name": "",
+          "value": "4,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,63"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240805,
+      "sku": "3,3",
+      "label": "3,3",
+      "attributes": [
+        {
+          "name": "",
+          "value": "4,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,54"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240806,
+      "sku": "3,4",
+      "label": "3,4",
+      "attributes": [
+        {
+          "name": "",
+          "value": "4,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,45"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240807,
+      "sku": "3,5",
+      "label": "3,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,8"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240808,
+      "sku": "3,6",
+      "label": "3,6",
+      "attributes": [
+        {
+          "name": "",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,71"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240809,
+      "sku": "3,7",
+      "label": "3,7",
+      "attributes": [
+        {
+          "name": "",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,63"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240810,
+      "sku": "3,8",
+      "label": "3,8",
+      "attributes": [
+        {
+          "name": "",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,54"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240811,
+      "sku": "3,9",
+      "label": "3,9",
+      "attributes": [
+        {
+          "name": "",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,45"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240812,
+      "sku": "4",
+      "label": "4",
+      "attributes": [
+        {
+          "name": "",
+          "value": "5,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,8"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240813,
+      "sku": "4,1",
+      "label": "4,1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "5,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,71"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240814,
+      "sku": "4,2",
+      "label": "4,2",
+      "attributes": [
+        {
+          "name": "",
+          "value": "5,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,63"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240815,
+      "sku": "4,3",
+      "label": "4,3",
+      "attributes": [
+        {
+          "name": "",
+          "value": "5,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,54"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240816,
+      "sku": "4,4",
+      "label": "4,4",
+      "attributes": [
+        {
+          "name": "",
+          "value": "5,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,45"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240817,
+      "sku": "4,5",
+      "label": "4,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,8"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240818,
+      "sku": "4,6",
+      "label": "4,6",
+      "attributes": [
+        {
+          "name": "",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,71"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240819,
+      "sku": "4,7",
+      "label": "4,7",
+      "attributes": [
+        {
+          "name": "",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,63"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240820,
+      "sku": "D1",
+      "label": "D1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "D2"
+        },
+        {
+          "name": "",
+          "value": "K"
+        },
+        {
+          "name": "",
+          "value": "R"
+        },
+        {
+          "name": "",
+          "value": "L + 1,00"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240821,
+      "sku": "h6",
+      "label": "h6",
+      "attributes": [
+        {
+          "name": "",
+          "value": "Tol.(+-)"
+        },
+        {
+          "name": "",
+          "value": "(+)0,2"
+        },
+        {
+          "name": "",
+          "value": "Tol. (+)"
+        },
+        {
+          "name": "",
+          "value": "70"
+        },
+        {
+          "name": "",
+          "value": "100"
+        },
+        {
+          "name": "",
+          "value": "130"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240822,
+      "sku": "4,7",
+      "label": "4,7",
+      "attributes": [
+        {
+          "name": "",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,63"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240823,
+      "sku": "4,8",
+      "label": "4,8",
+      "attributes": [
+        {
+          "name": "",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,54"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240824,
+      "sku": "4,9",
+      "label": "4,9",
+      "attributes": [
+        {
+          "name": "",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,45"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240825,
+      "sku": "5",
+      "label": "5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "6,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,8"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240826,
+      "sku": "5,1",
+      "label": "5,1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "6,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,71"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240827,
+      "sku": "5,2",
+      "label": "5,2",
+      "attributes": [
+        {
+          "name": "",
+          "value": "6,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,63"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240828,
+      "sku": "5,3",
+      "label": "5,3",
+      "attributes": [
+        {
+          "name": "",
+          "value": "6,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,54"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240829,
+      "sku": "5,4",
+      "label": "5,4",
+      "attributes": [
+        {
+          "name": "",
+          "value": "6,5"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,45"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240830,
+      "sku": "5,5",
+      "label": "5,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "7"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,8"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240831,
+      "sku": "5,6",
+      "label": "5,6",
+      "attributes": [
+        {
+          "name": "",
+          "value": "7"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,71"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240832,
+      "sku": "5,7",
+      "label": "5,7",
+      "attributes": [
+        {
+          "name": "",
+          "value": "7"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,63"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240833,
+      "sku": "5,8",
+      "label": "5,8",
+      "attributes": [
+        {
+          "name": "",
+          "value": "7"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,54"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240834,
+      "sku": "5,9",
+      "label": "5,9",
+      "attributes": [
+        {
+          "name": "",
+          "value": "7"
+        },
+        {
+          "name": "",
+          "value": "0,1"
+        },
+        {
+          "name": "",
+          "value": "1,45"
+        },
+        {
+          "name": "",
+          "value": "0,6"
+        },
+        {
+          "name": "",
+          "value": "0,4"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240835,
+      "sku": "6",
+      "label": "6",
+      "attributes": [
+        {
+          "name": "",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "2,23"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240836,
+      "sku": "6,1",
+      "label": "6,1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "2,15"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240837,
+      "sku": "6,2",
+      "label": "6,2",
+      "attributes": [
+        {
+          "name": "",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "2,06"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240838,
+      "sku": "6,3",
+      "label": "6,3",
+      "attributes": [
+        {
+          "name": "",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "1,97"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240839,
+      "sku": "6,4",
+      "label": "6,4",
+      "attributes": [
+        {
+          "name": "",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "1,89"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240840,
+      "sku": "6,5",
+      "label": "6,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "9"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "3,17"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240841,
+      "sku": "7",
+      "label": "7",
+      "attributes": [
+        {
+          "name": "",
+          "value": "9"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "2,73"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240842,
+      "sku": "7,5",
+      "label": "7,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "3,17"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240843,
+      "sku": "8",
+      "label": "8",
+      "attributes": [
+        {
+          "name": "",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "2,73"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240844,
+      "sku": "8,5",
+      "label": "8,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "11"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "3,17"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240845,
+      "sku": "9",
+      "label": "9",
+      "attributes": [
+        {
+          "name": "",
+          "value": "11"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "2,73"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240846,
+      "sku": "9,5",
+      "label": "9,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "12"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "3,17"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240847,
+      "sku": "10",
+      "label": "10",
+      "attributes": [
+        {
+          "name": "",
+          "value": "12"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "2,73"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240848,
+      "sku": "10,5",
+      "label": "10,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "13"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "3,17"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240849,
+      "sku": "11",
+      "label": "11",
+      "attributes": [
+        {
+          "name": "",
+          "value": "13"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "2,73"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240850,
+      "sku": "11,5",
+      "label": "11,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "14"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "3,17"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240851,
+      "sku": "12",
+      "label": "12",
+      "attributes": [
+        {
+          "name": "",
+          "value": "14"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "2,73"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240852,
+      "sku": "12,5",
+      "label": "12,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "15"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "3,17"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240853,
+      "sku": "13",
+      "label": "13",
+      "attributes": [
+        {
+          "name": "",
+          "value": "15"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "2,73"
+        },
+        {
+          "name": "",
+          "value": "1"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240854,
+      "sku": "13,5",
+      "label": "13,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "16"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "3,67"
+        },
+        {
+          "name": "",
+          "value": "1,5"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240855,
+      "sku": "14",
+      "label": "14",
+      "attributes": [
+        {
+          "name": "",
+          "value": "16"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "3,23"
+        },
+        {
+          "name": "",
+          "value": "1,5"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240856,
+      "sku": "14,5",
+      "label": "14,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "17"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "3,67"
+        },
+        {
+          "name": "",
+          "value": "1,5"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240857,
+      "sku": "15",
+      "label": "15",
+      "attributes": [
+        {
+          "name": "",
+          "value": "17"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "3,23"
+        },
+        {
+          "name": "",
+          "value": "1,5"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240858,
+      "sku": "15,5",
+      "label": "15,5",
+      "attributes": [
+        {
+          "name": "",
+          "value": "18"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "3,67"
+        },
+        {
+          "name": "",
+          "value": "1,5"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240859,
+      "sku": "16",
+      "label": "16",
+      "attributes": [
+        {
+          "name": "",
+          "value": "18"
+        },
+        {
+          "name": "",
+          "value": "0,2"
+        },
+        {
+          "name": "",
+          "value": "3,23"
+        },
+        {
+          "name": "",
+          "value": "1,5"
+        },
+        {
+          "name": "",
+          "value": "0,5"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        },
+        {
+          "name": "",
+          "value": "√"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240860,
+      "sku": "D1",
+      "label": "D1",
+      "attributes": [
+        {
+          "name": "",
+          "value": "D"
+        },
+        {
+          "name": "",
+          "value": "D2"
+        },
+        {
+          "name": "",
+          "value": "B"
+        },
+        {
+          "name": "",
+          "value": "K"
+        },
+        {
+          "name": "",
+          "value": "T"
+        },
+        {
+          "name": "",
+          "value": "SW"
+        },
+        {
+          "name": "",
+          "value": "L = Comprimento"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240861,
+      "sku": "6",
+      "label": "6",
+      "attributes": [
+        {
+          "name": "",
+          "value": "M5"
+        },
+        {
+          "name": "",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "9,5 ±0,25"
+        },
+        {
+          "name": "",
+          "value": "4,5"
+        },
+        {
+          "name": "",
+          "value": "2,4"
+        },
+        {
+          "name": "",
+          "value": "3"
+        },
+        {
+          "name": "",
+          "value": "16/20/25/30/40/50/60"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240862,
+      "sku": "8",
+      "label": "8",
+      "attributes": [
+        {
+          "name": "",
+          "value": "M6"
+        },
+        {
+          "name": "",
+          "value": "13"
+        },
+        {
+          "name": "",
+          "value": "11 ±0,25"
+        },
+        {
+          "name": "",
+          "value": "5,5"
+        },
+        {
+          "name": "",
+          "value": "3,3"
+        },
+        {
+          "name": "",
+          "value": "4"
+        },
+        {
+          "name": "",
+          "value": "16/20/25/30/40/50/60"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240863,
+      "sku": "10",
+      "label": "10",
+      "attributes": [
+        {
+          "name": "",
+          "value": "M8"
+        },
+        {
+          "name": "",
+          "value": "16"
+        },
+        {
+          "name": "",
+          "value": "13 ±0,25"
+        },
+        {
+          "name": "",
+          "value": "7"
+        },
+        {
+          "name": "",
+          "value": "4,2"
+        },
+        {
+          "name": "",
+          "value": "5"
+        },
+        {
+          "name": "",
+          "value": "16/20/25/30/40/50/60/70/80"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240864,
+      "sku": "12",
+      "label": "12",
+      "attributes": [
+        {
+          "name": "",
+          "value": "M10"
+        },
+        {
+          "name": "",
+          "value": "18"
+        },
+        {
+          "name": "",
+          "value": "16 ±0,40"
+        },
+        {
+          "name": "",
+          "value": "9"
+        },
+        {
+          "name": "",
+          "value": "4,9"
+        },
+        {
+          "name": "",
+          "value": "6"
+        },
+        {
+          "name": "",
+          "value": "16/20/25/30/40/50/60/70/80/90/100"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240865,
+      "sku": "16",
+      "label": "16",
+      "attributes": [
+        {
+          "name": "",
+          "value": "M12"
+        },
+        {
+          "name": "",
+          "value": "24"
+        },
+        {
+          "name": "",
+          "value": "18 ±0,40"
+        },
+        {
+          "name": "",
+          "value": "11"
+        },
+        {
+          "name": "",
+          "value": "6,6"
+        },
+        {
+          "name": "",
+          "value": "8"
+        },
+        {
+          "name": "",
+          "value": "40/50/60/70/80/90/100/120"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240866,
+      "sku": "20",
+      "label": "20",
+      "attributes": [
+        {
+          "name": "",
+          "value": "M16"
+        },
+        {
+          "name": "",
+          "value": "30"
+        },
+        {
+          "name": "",
+          "value": "22 ±0,40"
+        },
+        {
+          "name": "",
+          "value": "14"
+        },
+        {
+          "name": "",
+          "value": "8,8"
+        },
+        {
+          "name": "",
+          "value": "10"
+        },
+        {
+          "name": "",
+          "value": "50/60/70/80/90/100/120"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Catálogo Técnico Carolfix (Página 26)",
+      "url": "/downloads/catalogo-carol-componentes.pdf#page=26",
+      "kind": "pdf",
+      "note": "Referência técnica oficial extraída do catálogo histórico de 60 páginas."
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela Técnica Dimensional — Página 26",
+      "columns": [
+        "Dimensões (mm)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "D1",
+          "D2",
+          "",
+          "K",
+          "R",
+          "",
+          "L + 1,00",
+          "",
+          ""
+        ],
+        [
+          "h6",
+          "Tol.(+-)",
+          "",
+          "(+)0,2",
+          "",
+          "Tol. (+)",
+          "70",
+          "100",
+          "130"
+        ],
+        [
+          "1",
+          "1,8",
+          "0,05",
+          "1,19",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          ""
+        ],
+        [
+          "1,1",
+          "1,8",
+          "0,05",
+          "1,11",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          ""
+        ],
+        [
+          "1,2",
+          "2",
+          "0,05",
+          "1,19",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          ""
+        ],
+        [
+          "1,3",
+          "2",
+          "0,05",
+          "1,11",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          ""
+        ],
+        [
+          "1,4",
+          "2,2",
+          "0,05",
+          "1,19",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          ""
+        ],
+        [
+          "1,5",
+          "2,2",
+          "0,05",
+          "1,11",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          ""
+        ],
+        [
+          "1,6",
+          "2,5",
+          "0,05",
+          "1,28",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          ""
+        ],
+        [
+          "1,7",
+          "2,5",
+          "0,05",
+          "1,19",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          ""
+        ],
+        [
+          "1,8",
+          "2,8",
+          "0,05",
+          "1,37",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          ""
+        ],
+        [
+          "1,9",
+          "2,8",
+          "0,05",
+          "1,28",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          ""
+        ],
+        [
+          "2",
+          "3",
+          "0,1",
+          "1,37",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "2,1",
+          "3,2",
+          "0,1",
+          "1,45",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "2,2",
+          "3,2",
+          "0,1",
+          "1,37",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "2,3",
+          "3,5",
+          "0,1",
+          "1,54",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "2,4",
+          "3,5",
+          "0,1",
+          "1,45",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "2,5",
+          "3,5",
+          "0,1",
+          "1,37",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "2,6",
+          "4",
+          "0,1",
+          "1,71",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "2,7",
+          "4",
+          "0,1",
+          "1,63",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "2,8",
+          "4",
+          "0,1",
+          "1,54",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "2,9",
+          "4",
+          "0,1",
+          "1,45",
+          "0,4",
+          "0,3",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "3",
+          "4,5",
+          "0,1",
+          "1,8",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "3,1",
+          "4,5",
+          "0,1",
+          "1,71",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "3,2",
+          "4,5",
+          "0,1",
+          "1,63",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "3,3",
+          "4,5",
+          "0,1",
+          "1,54",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "3,4",
+          "4,5",
+          "0,1",
+          "1,45",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "3,5",
+          "5",
+          "0,1",
+          "1,8",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "3,6",
+          "5",
+          "0,1",
+          "1,71",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "3,7",
+          "5",
+          "0,1",
+          "1,63",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "3,8",
+          "5",
+          "0,1",
+          "1,54",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "3,9",
+          "5",
+          "0,1",
+          "1,45",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "4",
+          "5,5",
+          "0,1",
+          "1,8",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "4,1",
+          "5,5",
+          "0,1",
+          "1,71",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "4,2",
+          "5,5",
+          "0,1",
+          "1,63",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "4,3",
+          "5,5",
+          "0,1",
+          "1,54",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "4,4",
+          "5,5",
+          "0,1",
+          "1,45",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "4,5",
+          "6",
+          "0,1",
+          "1,8",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "4,6",
+          "6",
+          "0,1",
+          "1,71",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "4,7",
+          "6",
+          "0,1",
+          "1,63",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "D1",
+          "D2",
+          "",
+          "K",
+          "R",
+          "",
+          "L + 1,00",
+          "",
+          ""
+        ],
+        [
+          "h6",
+          "Tol.(+-)",
+          "",
+          "(+)0,2",
+          "",
+          "Tol. (+)",
+          "70",
+          "100",
+          "130"
+        ],
+        [
+          "4,7",
+          "6",
+          "0,1",
+          "1,63",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "4,8",
+          "6",
+          "0,1",
+          "1,54",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "4,9",
+          "6",
+          "0,1",
+          "1,45",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "5",
+          "6,5",
+          "0,1",
+          "1,8",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "5,1",
+          "6,5",
+          "0,1",
+          "1,71",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "5,2",
+          "6,5",
+          "0,1",
+          "1,63",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "5,3",
+          "6,5",
+          "0,1",
+          "1,54",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ],
+        [
+          "5,4",
+          "6,5",
+          "0,1",
+          "1,45",
+          "0,6",
+          "0,4",
+          "√",
+          "√",
+          "√"
+        ]
+      ],
+      "note": "Dados extraídos diretamente da página 26 do catálogo técnico Carolfix."
+    }
+  ],
+  "homepage": false
+}

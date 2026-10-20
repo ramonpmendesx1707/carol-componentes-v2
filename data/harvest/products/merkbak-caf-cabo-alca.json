@@ -1,0 +1,294 @@
+{
+  "id": 201006,
+  "slug": "merkbak-caf-cabo-alca",
+  "name": "CAF – Cabo Alça",
+  "sku": "CAF",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/cabo-alca-baquelite/",
+  "type": "product",
+  "summary": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação",
+  "description": "<p>Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação</p><p><strong>Material:</strong> Baquelite + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Alta resistência / Higienização eficiente / Isolante térmico</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Baquelite",
+      "slug": "baquelite"
+    }
+  ],
+  "image": "/images/products/merkbak/caf-cabo-alca/1.png",
+  "images": [
+    "/images/products/merkbak/caf-cabo-alca/1.png",
+    "/images/products/merkbak/caf-cabo-alca/2.png",
+    "/images/products/merkbak/caf-cabo-alca/3.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Baquelite + inserto rosca latão"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polida na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação"
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Higienização eficiente / Isolante térmico"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220026,
+      "sku": "CAF 103 M6",
+      "label": "CAF 103 M6",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CAF 103 M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220027,
+      "sku": "CAF 103 5/16",
+      "label": "CAF 103 5/16",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CAF 103 5/16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220028,
+      "sku": "CAF 103 M8",
+      "label": "CAF 103 M8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CAF 103 M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220029,
+      "sku": "CAF 137 M6",
+      "label": "CAF 137 M6",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CAF 137 M6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220030,
+      "sku": "CAF 137 1/4",
+      "label": "CAF 137 1/4",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CAF 137 1/4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220031,
+      "sku": "CAF 137 5/16",
+      "label": "CAF 137 5/16",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CAF 137 5/16"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220032,
+      "sku": "CAF 137 M8",
+      "label": "CAF 137 M8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CAF 137 M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220033,
+      "sku": "CAF 137 3/8",
+      "label": "CAF 137 3/8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CAF 137 3/8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220034,
+      "sku": "CAF 137 M10",
+      "label": "CAF 137 M10",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CAF 137 M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220035,
+      "sku": "CAF 197 M8",
+      "label": "CAF 197 M8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CAF 197 M8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220036,
+      "sku": "CAF 197 3/8",
+      "label": "CAF 197 3/8",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CAF 197 3/8"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220037,
+      "sku": "CAF 197 M10",
+      "label": "CAF 197 M10",
+      "attributes": [
+        {
+          "name": "Medida / Referência",
+          "value": "CAF 197 M10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Baquelite + inserto rosca latão"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polida na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Indicado para portas, janelas, tampas ou qualquer outra superfície que necessite movimentação"
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Higienização eficiente / Isolante térmico"
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "CAF 103 M6"
+        },
+        {
+          "name": "Medida",
+          "value": "CAF 103 5/16"
+        },
+        {
+          "name": "Medida",
+          "value": "CAF 103 M8"
+        },
+        {
+          "name": "Medida",
+          "value": "CAF 137 M6"
+        },
+        {
+          "name": "Medida",
+          "value": "CAF 137 1/4"
+        },
+        {
+          "name": "Medida",
+          "value": "CAF 137 5/16"
+        },
+        {
+          "name": "Medida",
+          "value": "CAF 137 M8"
+        },
+        {
+          "name": "Medida",
+          "value": "CAF 137 3/8"
+        },
+        {
+          "name": "Medida",
+          "value": "CAF 137 M10"
+        },
+        {
+          "name": "Medida",
+          "value": "CAF 197 M8"
+        },
+        {
+          "name": "Medida",
+          "value": "CAF 197 3/8"
+        },
+        {
+          "name": "Medida",
+          "value": "CAF 197 M10"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

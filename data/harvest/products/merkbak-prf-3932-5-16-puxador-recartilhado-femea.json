@@ -1,0 +1,81 @@
+{
+  "id": 201042,
+  "slug": "merkbak-prf-3932-5-16-puxador-recartilhado-femea",
+  "name": "PRF 3932 5/16 – Puxador Recartilhado Fêmea",
+  "sku": "PRF 3932 5/16",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/puxador-recartilhado-femea/",
+  "type": "product",
+  "summary": "Botão utilizado para apertos/ajustes manuais de máquinas e equipamentos em geral.",
+  "description": "<p>Botão utilizado para apertos/ajustes manuais de máquinas e equipamentos em geral.</p><p><strong>Material:</strong> Baquelite + inserto rosca latão</p><p><strong>Informações adicionais:</strong> Alta resistência / Isolante térmico</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Baquelite",
+      "slug": "baquelite"
+    }
+  ],
+  "image": "/images/products/merkbak/prf-3932-5-16-puxador-recartilhado-femea/1.png",
+  "images": [
+    "/images/products/merkbak/prf-3932-5-16-puxador-recartilhado-femea/1.png",
+    "/images/products/merkbak/prf-3932-5-16-puxador-recartilhado-femea/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Baquelite + inserto rosca latão"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial polido na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Botão utilizado para apertos/ajustes manuais de máquinas e equipamentos em geral."
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Isolante térmico"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220268,
+      "sku": "PRF 3932 5/16 – Puxador Recartilhado Fêmea",
+      "label": "Padrão",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "MATERIAL",
+          "value": "Baquelite + inserto rosca latão"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial polido na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Botão utilizado para apertos/ajustes manuais de máquinas e equipamentos em geral."
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Isolante térmico"
+        }
+      ]
+    }
+  ],
+  "homepage": false
+}

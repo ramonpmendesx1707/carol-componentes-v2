@@ -2,7 +2,7 @@
   "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=malha-de-aco&language=pt-BR",
   "fetchedAt": "2026-10-20T06:07:59.802Z",
   "product": {
-    "id": 200005,
+    "id": 200033,
     "slug": "vibra-stop-malha-de-aco",
     "name": "Vibra-Stop Tradicional Malha De Aço",
     "sku": "Malha De Aço",
@@ -10,8 +10,8 @@
     "supplier": "Vibra-Stop",
     "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=malha-de-aco&language=pt-BR",
     "type": "product",
-    "summary": "Ideais para ambientes agressivos aos elastômeros (borracha), máquinas de solda, moedores, grupos geradores, chillers, entre outros.",
-    "description": "<p>Ideais para ambientes agressivos aos elastômeros (borracha), máquinas de solda, moedores, grupos geradores, chillers, entre outros.</p>",
+    "summary": "Amortecedor de vibração com malha de aço galvanizado para ambientes agressivos a elastômeros.",
+    "description": "<p>Amortecedor de vibração com malha de aço galvanizado para ambientes agressivos a elastômeros.</p>",
     "categories": [
       {
         "id": 201,
@@ -28,7 +28,7 @@
     "attributes": [
       {
         "name": "Composição",
-        "value": "Ferro Nodular, Borracha Natural e Aço Carbono Zincado."
+        "value": "Malha de aço galvanizado e aço carbono zincado (conforme Catálogo Geral 2026, página 4)"
       },
       {
         "name": "Materiais informados",
@@ -39,7 +39,7 @@
     "dimensions": "",
     "variations": [
       {
-        "id": 240025,
+        "id": 210197,
         "sku": "Mac",
         "label": "Mac",
         "attributes": [
@@ -73,7 +73,7 @@
         "image": null
       },
       {
-        "id": 240026,
+        "id": 210198,
         "sku": "Mini",
         "label": "Mini",
         "attributes": [
@@ -107,7 +107,7 @@
         "image": null
       },
       {
-        "id": 240027,
+        "id": 210199,
         "sku": "Standard",
         "label": "Standard",
         "attributes": [
@@ -141,7 +141,7 @@
         "image": null
       },
       {
-        "id": 240028,
+        "id": 210200,
         "sku": "Intermediário",
         "label": "Intermediário",
         "attributes": [
@@ -175,7 +175,7 @@
         "image": null
       },
       {
-        "id": 240029,
+        "id": 210201,
         "sku": "Super",
         "label": "Super",
         "attributes": [
@@ -221,6 +221,12 @@
         "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf#page=4",
         "kind": "pdf",
         "note": "Há divergência de material com a ficha técnica 2025; revisão pendente."
+      },
+      {
+        "title": "Catálogo Geral de Produtos (Edição 2026)",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf",
+        "kind": "pdf",
+        "note": "Referência técnica oficial edição 2026 do fabricante."
       }
     ],
     "videos": [
@@ -355,6 +361,18 @@
     "technicalImages": 3,
     "pdfs": 1,
     "videos": 1,
-    "manualReviewRequired": true
+    "manualReviewRequired": true,
+    "tabsVerifiedAt": "2026-10-20T10:55:54.633Z",
+    "tabNames": [
+      "Ficha Técnica",
+      "Vídeo",
+      "Aplicabilidades",
+      "Especificações",
+      "Instalação"
+    ],
+    "tabMissingImages": [],
+    "tabMissingVideos": [],
+    "tabTableRows": 7,
+    "pdfReconciled2026": true
   }
 }

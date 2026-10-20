@@ -1,0 +1,167 @@
+{
+  "sourceUrl": "https://www.kifix.com.br/produtos/alicates/kf-325/",
+  "fetchedAt": "2026-10-20T13:03:29.615Z",
+  "product": {
+    "id": 202048,
+    "slug": "kifix-kf-325",
+    "name": "KF-325",
+    "sku": "KF-325",
+    "brand": "Kifix",
+    "supplier": "Kifix",
+    "sourceUrl": "https://www.kifix.com.br/produtos/alicates/kf-325/",
+    "type": "product",
+    "summary": "Linha Alicates Kifix modelo KF-325, com 1 referências dimensionais.",
+    "description": "<p>Linha Alicates Kifix modelo KF-325, com 1 referências dimensionais.</p><p>Consulte a tabela técnica dimensional e desenhos esquemáticos para cada referência.</p>",
+    "categories": [
+      {
+        "id": 204,
+        "name": "Alicates",
+        "slug": "alicates"
+      }
+    ],
+    "image": "/images/products/kifix/kf-325/foto-1.png",
+    "images": [
+      "/images/products/kifix/kf-325/foto-1.png",
+      "/images/products/kifix/kf-325/desenho-1.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Fabricante",
+        "value": "Kifix Indústria e Comércio"
+      },
+      {
+        "name": "Categoria",
+        "value": "Alicates"
+      }
+    ],
+    "weight": "0,575 (1,265)",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 230380,
+        "sku": "KF-325",
+        "label": "KF-325",
+        "attributes": [
+          {
+            "name": "FORÇA RETENÇÃO Kgf (lbf)",
+            "value": "360 (793,66)"
+          },
+          {
+            "name": "A (in)",
+            "value": "212 (8,35)"
+          },
+          {
+            "name": "B (in)",
+            "value": "73 (2,87)"
+          },
+          {
+            "name": "C (in)",
+            "value": "45,3 (1,78)"
+          },
+          {
+            "name": "D (in)",
+            "value": "12,7 (0,50)"
+          },
+          {
+            "name": "E (in)",
+            "value": "19 (0,75)"
+          },
+          {
+            "name": "H (in)",
+            "value": "32 (1,26)"
+          },
+          {
+            "name": "J (in)",
+            "value": "6,8 (0,27)"
+          },
+          {
+            "name": "N (in)",
+            "value": "M12X1,75"
+          },
+          {
+            "name": "PONTEIRA",
+            "value": "M12"
+          },
+          {
+            "name": "ÂNGULO DE ABERTURA",
+            "value": "93"
+          },
+          {
+            "name": "PESO kg (lb)",
+            "value": "0,575 (1,265)"
+          }
+        ],
+        "weight": "0,575 (1,265)",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Tabela dimensional do fabricante",
+        "columns": [
+          "REFERÊNCIA",
+          "FORÇA RETENÇÃO Kgf (lbf)",
+          "A (in)",
+          "B (in)",
+          "C (in)",
+          "D (in)",
+          "E (in)",
+          "H (in)",
+          "J (in)",
+          "N (in)",
+          "PONTEIRA",
+          "ÂNGULO DE ABERTURA",
+          "PESO kg (lb)"
+        ],
+        "rows": [
+          [
+            "KF-325",
+            "360 (793,66)",
+            "212 (8,35)",
+            "73 (2,87)",
+            "45,3 (1,78)",
+            "12,7 (0,50)",
+            "19 (0,75)",
+            "32 (1,26)",
+            "6,8 (0,27)",
+            "M12X1,75",
+            "M12",
+            "93",
+            "0,575 (1,265)"
+          ]
+        ]
+      },
+      {
+        "title": "Desenhos técnicos da família",
+        "images": [
+          "/images/products/kifix/kf-325/desenho-1.jpg"
+        ],
+        "note": "Esquema dimensional do fabricante; confira as cotas correspondentes à referência selecionada na tabela."
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/kifix/kf-325/foto-1.png",
+      "sourceUrl": "https://www.kifix.com.br/fotos_produtos/556_KF_325.png",
+      "bytes": 212803,
+      "sha256": "fe175ee912005d234a703b548f12b5c6eac52df43fdc44e3adb550ca7bd3e659"
+    },
+    {
+      "path": "/images/products/kifix/kf-325/desenho-1.jpg",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/373_KF325.JPG",
+      "bytes": 54063,
+      "sha256": "8c12624b769eb9215ccbac22dde08953b0cb4ef52dc523b6766cfb372c71444a"
+    }
+  ],
+  "checks": {
+    "variants": 1,
+    "photos": 1,
+    "drawings": 1,
+    "tableRows": 1
+  }
+}
