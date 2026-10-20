@@ -655,6 +655,7 @@ export default function Experience({
   }, [initialProduct]);
   function renderDetail() {
     if (!detail) return null;
+    const availableDocuments=(detail.documents||[]).filter(document=>document.kind!=='restricted'&&document.url.startsWith('/downloads/'));
     return (
       <main className="detail-main container">
         <div className="breadcrumb">
@@ -801,7 +802,7 @@ export default function Experience({
               "Informação adicional",
               "Medidas disponíveis",
               ...(detail.technicalSections?.length ? ["Dados técnicos"] : []),
-              "Materiais técnicos",
+              ...(availableDocuments.length ? ["Materiais técnicos"] : []),
               ...(detail.videos?.length ? ["Vídeo"] : []),
             ].map((t) => (
               <button
@@ -925,15 +926,13 @@ export default function Experience({
             {tab === "Materiais técnicos" && (
               <>
                 <h2>Para seu projeto</h2>
-                {(detail.documents?.length ? detail.documents : [{title:"Catálogo técnico Carol Componentes",url:pdf,kind:"pdf" as const}]).map((document) => (
+                {availableDocuments.map((document) => (
                   <div className="document-card" key={document.url}>
                     <FileText size={30} />
                     <div><strong>{document.title}</strong>{document.note && <p>{document.note}</p>}</div>
-                    <a className="button secondary" href={document.url} target="_blank" rel="noreferrer"><Download size={17} /> {document.kind === "restricted" ? "Abrir origem" : "Abrir arquivo"}</a>
+                    <a className="button secondary" href={document.url} target="_blank" rel="noreferrer"><Download size={17} /> Abrir arquivo</a>
                   </div>
                 ))}
-                {detail.sourceUrl && <p className="micro">Origem técnica: <a href={detail.sourceUrl} target="_blank" rel="noreferrer">{detail.supplier || detail.brand} <ChevronRight size={14}/></a></p>}
-                <p>Arquivos restritos não são copiados; solicite à equipe os desenhos necessários.</p>
                 <button
                   className="text-action"
                   onClick={() =>
@@ -951,7 +950,7 @@ export default function Experience({
                 {detail.technicalSections?.map((section,index)=><div className="technical-section-product" key={index}><h3>{section.title}</h3>{section.note&&<p className="micro">{section.note}</p>}{(section.items?.length||0)>0&&<table className="spec-table"><tbody>{section.items?.map(a=><tr key={a.name+a.value}><th>{a.name}</th><td>{a.value}</td></tr>)}</tbody></table>}{(section.columns?.length||0)>0&&(section.rows?.length||0)>0&&<div className="variant-table-wrap"><table className="spec-table"><thead><tr>{section.columns?.map((column,i)=><th key={i}>{column}</th>)}</tr></thead><tbody>{section.rows?.map((row,i)=><tr key={i}>{row.map((value,j)=><td key={j}>{value}</td>)}</tr>)}</tbody></table></div>}{section.images?.map(image=><img className="technical-illustration" key={image} src={image} alt={`${section.title} de ${shortName(detail)}`} loading="lazy" />)}</div>)}
               </>
             )}
-            {tab === "Vídeo" && <><h2>Vídeos do fabricante</h2>{detail.videos?.map(video=><div className="video-card" key={video.url}><h3>{video.title}</h3>{video.hosted?<video controls preload="metadata" src={video.url} />:<a className="button secondary" href={video.url} target="_blank" rel="noreferrer">Assistir no site do fabricante <ChevronRight size={17}/></a>}<p className="micro">{video.hosted?'Arquivo hospedado na V2.':'Vídeo disponibilizado pelo fabricante em sua página de origem.'}</p></div>)}</>}
+            {tab === "Vídeo" && <><h2>Vídeos do produto</h2>{detail.videos?.map(video=><div className="video-card" key={video.url}><h3>{video.title}</h3><video controls playsInline preload="metadata" src={video.url}>Seu navegador não consegue reproduzir este vídeo.</video></div>)}</>}
           </div>
         </div>
         <section className="related-section section">

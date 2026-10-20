@@ -1,0 +1,563 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-dupla&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:36:55.190Z",
+  "product": {
+    "id": 200041,
+    "slug": "vibra-stop-plus-dupla",
+    "name": "Vibra-Stop Mola Plus Dupla",
+    "sku": "Plus Dupla",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-dupla&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para chillers, equipamentos com centro de gravidade elevado ou base estreita, máquinas instaladas em áreas com maior exigência de estabilidade, equipamentos que demandam maior controle de vibração com sustentação reforçada, entre outros.",
+    "description": "<p>Ideais para chillers, equipamentos com centro de gravidade elevado ou base estreita, máquinas instaladas em áreas com maior exigência de estabilidade, equipamentos que demandam maior controle de vibração com sustentação reforçada, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/plus-dupla/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/plus-dupla/foto-1.png",
+      "/images/products/vibra-stop/plus-dupla/foto-2.png",
+      "/images/products/vibra-stop/plus-dupla/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Aço Carbono Zincado e Borracha Natural."
+      },
+      {
+        "name": "Materiais informados",
+        "value": "Aço Inox Ferro Nodular"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240194,
+        "sku": "MPD200",
+        "label": "MPD200",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "37,89/200"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "57"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "7"
+          },
+          {
+            "name": "Altura Chapa a Chapa ((H) mm)",
+            "value": "165"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240195,
+        "sku": "MPD400",
+        "label": "MPD400",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "400"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "32,25/400"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "61"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "8,5"
+          },
+          {
+            "name": "Altura Chapa a Chapa ((H) mm)",
+            "value": "165"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240196,
+        "sku": "MPD600",
+        "label": "MPD600",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "600"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "38,50/600"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "62"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "9,5"
+          },
+          {
+            "name": "Altura Chapa a Chapa ((H) mm)",
+            "value": "165"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240197,
+        "sku": "MPD800",
+        "label": "MPD800",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "800"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "37,81/800"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "63"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "10"
+          },
+          {
+            "name": "Altura Chapa a Chapa ((H) mm)",
+            "value": "165"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240198,
+        "sku": "MPD1000",
+        "label": "MPD1000",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "1000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "26,12/1.000"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "10,5"
+          },
+          {
+            "name": "Altura Chapa a Chapa ((H) mm)",
+            "value": "165"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240199,
+        "sku": "MPD1400",
+        "label": "MPD1400",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "1400"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "37,6/1.400"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "67"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "12"
+          },
+          {
+            "name": "Altura Chapa a Chapa ((H) mm)",
+            "value": "165"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240200,
+        "sku": "MPD2000",
+        "label": "MPD2000",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "2000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "26,25/2.000"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "13,5"
+          },
+          {
+            "name": "Altura Chapa a Chapa ((H) mm)",
+            "value": "165"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "13 x 200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240201,
+        "sku": "MPD3000",
+        "label": "MPD3000",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "3000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "35,75/2.500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "71,4"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "14,2"
+          },
+          {
+            "name": "Altura Chapa a Chapa ((H) mm)",
+            "value": "165"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "13 x 200"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/plus-dupla/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Plus%20Dupla.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Diâmetro Externo Batente ((D) mm)",
+          "Diâmetro Externo Mola ((De) mm)",
+          "Diâmetro do Arame da Mola ((a) mm)",
+          "Altura Chapa a Chapa ((H) mm)",
+          "Diâm. do Furo/Dist. entre Furos ((f x t) mm)"
+        ],
+        "rows": [
+          [
+            "MPD200",
+            "200",
+            "37,89/200",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "70",
+            "57",
+            "7",
+            "165",
+            "10 x 200"
+          ],
+          [
+            "MPD400",
+            "400",
+            "32,25/400",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "70",
+            "61",
+            "8,5",
+            "165",
+            "10 x 200"
+          ],
+          [
+            "MPD600",
+            "600",
+            "38,50/600",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "70",
+            "62",
+            "9,5",
+            "165",
+            "10 x 200"
+          ],
+          [
+            "MPD800",
+            "800",
+            "37,81/800",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "70",
+            "63",
+            "10",
+            "165",
+            "10 x 200"
+          ],
+          [
+            "MPD1000",
+            "1000",
+            "26,12/1.000",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "70",
+            "65",
+            "10,5",
+            "165",
+            "10 x 200"
+          ],
+          [
+            "MPD1400",
+            "1400",
+            "37,6/1.400",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "70",
+            "67",
+            "12",
+            "165",
+            "10 x 200"
+          ],
+          [
+            "MPD2000",
+            "2000",
+            "26,25/2.000",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "70",
+            "70",
+            "13,5",
+            "165",
+            "13 x 200"
+          ],
+          [
+            "MPD3000",
+            "3000",
+            "35,75/2.500",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "70",
+            "71,4",
+            "14,2",
+            "165",
+            "13 x 200"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/plus-dupla/aplicacao-4.png",
+          "/images/products/vibra-stop/plus-dupla/aplicacao-5.png",
+          "/images/products/vibra-stop/plus-dupla/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/plus-dupla/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20PLUS/DUPLA/MPD%201.1.png",
+      "bytes": 309883,
+      "sha256": "81595186dc892d1fff3cdee5c54665a954b3c022f4d503fa05c7df78d30da18d",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/plus-dupla/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20PLUS/DUPLA/MPD%201.2.png",
+      "bytes": 292781,
+      "sha256": "d4a4b4803f770f97724eea735709bbcc58012a0c977adacc5b184e648890666b",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/plus-dupla/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20PLUS/DUPLA/MPD%201.0.png",
+      "bytes": 302763,
+      "sha256": "b4c1121eaccc94bd86b04b52a5dfc4b93ad466a29b6b3473d5c036853de814b5",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/plus-dupla/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20PLUS/PLUS%20DUPLA/MPD%201.1.png",
+      "bytes": 219265,
+      "sha256": "18eeaabe23ba1496ded901975582abb587f05627cdff62077e395141bbd53980",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/plus-dupla/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20PLUS/PLUS%20DUPLA/MPD%201.0.png",
+      "bytes": 217039,
+      "sha256": "239b5d20daddc4c9a182d3463ac03e21d847e9a679dc476cf009f379a156b64b",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/plus-dupla/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20PLUS/PLUS%20DUPLA/Manual%20de%20Instalacao%20-%20MPD.png",
+      "bytes": 218935,
+      "sha256": "8ba7aa6c531c6445d5223ec4681c0eb4b21b2a636e02863427f5d0e27bd783ca",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/plus-dupla/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Plus%20Dupla.pdf",
+      "bytes": 1057422,
+      "sha256": "8a7bc878cee31b97e3382e154c6c621c9dd7a8c59af4baee168dd7aab1cf9883",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "plus-dupla",
+    "tableRows": 8,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true
+  }
+}

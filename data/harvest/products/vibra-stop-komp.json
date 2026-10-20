@@ -1,0 +1,554 @@
+{
+  "id": 200036,
+  "slug": "vibra-stop-komp",
+  "name": "Vibra-Stop Mola Komp",
+  "sku": "Komp",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-komp?model=komp&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para tanques, ventiladores, misturadores, grupo gerador, entre outros.",
+  "description": "<p>Ideais para tanques, ventiladores, misturadores, grupo gerador, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/komp/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/komp/foto-1.png",
+    "/images/products/vibra-stop/komp/foto-2.png",
+    "/images/products/vibra-stop/komp/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Aço Carbono Zincado e Borracha Natural."
+    },
+    {
+      "name": "Materiais informados",
+      "value": "Ferro Nodular"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240150,
+      "sku": "MK30",
+      "label": "MK30",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "30"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "19,25/30"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "53"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "5,5"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 100"
+        },
+        {
+          "name": "Espessura da manta de Borracha ((m) mm)",
+          "value": "2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240151,
+      "sku": "MK50",
+      "label": "MK50",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "50"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "37,72/50"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "55"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "6"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 100"
+        },
+        {
+          "name": "Espessura da manta de Borracha ((m) mm)",
+          "value": "2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240152,
+      "sku": "MK100",
+      "label": "MK100",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "100"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "37,89/100"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "57"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "7"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 100"
+        },
+        {
+          "name": "Espessura da manta de Borracha ((m) mm)",
+          "value": "2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240153,
+      "sku": "MK200",
+      "label": "MK200",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "200"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "32,25/200"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "61"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "8,5"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 100"
+        },
+        {
+          "name": "Espessura da manta de Borracha ((m) mm)",
+          "value": "2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240154,
+      "sku": "MK300",
+      "label": "MK300",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "300"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "38,50/300"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "62"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "9,5"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 100"
+        },
+        {
+          "name": "Espessura da manta de Borracha ((m) mm)",
+          "value": "2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240155,
+      "sku": "MK400",
+      "label": "MK400",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "400"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "37,81/400"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "63"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "10"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 100"
+        },
+        {
+          "name": "Espessura da manta de Borracha ((m) mm)",
+          "value": "2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240156,
+      "sku": "MK500",
+      "label": "MK500",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "500"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "26,12/500"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "65"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "10,5"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 100"
+        },
+        {
+          "name": "Espessura da manta de Borracha ((m) mm)",
+          "value": "2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240157,
+      "sku": "MK700",
+      "label": "MK700",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "700"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "37,6/700"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "67"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "12"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 100"
+        },
+        {
+          "name": "Espessura da manta de Borracha ((m) mm)",
+          "value": "2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240158,
+      "sku": "MK1000",
+      "label": "MK1000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "1000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "26,25/1.000"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "12,7"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 100"
+        },
+        {
+          "name": "Espessura da manta de Borracha ((m) mm)",
+          "value": "2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240159,
+      "sku": "MK1500",
+      "label": "MK1500",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "1500"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "35,75/1.500"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "71,5"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "14,2"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 100"
+        },
+        {
+          "name": "Espessura da manta de Borracha ((m) mm)",
+          "value": "2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/komp/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Komp.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Altura Total ((H) mm)",
+        "Diâmetro Externo Mola ((De) mm)",
+        "Diâmetro do Arame da Mola ((a) mm)",
+        "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+        "Espessura da manta de Borracha ((m) mm)"
+      ],
+      "rows": [
+        [
+          "MK30",
+          "30",
+          "19,25/30",
+          "155",
+          "53",
+          "5,5",
+          "10 x 100",
+          "2"
+        ],
+        [
+          "MK50",
+          "50",
+          "37,72/50",
+          "155",
+          "55",
+          "6",
+          "10 x 100",
+          "2"
+        ],
+        [
+          "MK100",
+          "100",
+          "37,89/100",
+          "155",
+          "57",
+          "7",
+          "10 x 100",
+          "2"
+        ],
+        [
+          "MK200",
+          "200",
+          "32,25/200",
+          "155",
+          "61",
+          "8,5",
+          "10 x 100",
+          "2"
+        ],
+        [
+          "MK300",
+          "300",
+          "38,50/300",
+          "155",
+          "62",
+          "9,5",
+          "10 x 100",
+          "2"
+        ],
+        [
+          "MK400",
+          "400",
+          "37,81/400",
+          "155",
+          "63",
+          "10",
+          "10 x 100",
+          "2"
+        ],
+        [
+          "MK500",
+          "500",
+          "26,12/500",
+          "155",
+          "65",
+          "10,5",
+          "10 x 100",
+          "2"
+        ],
+        [
+          "MK700",
+          "700",
+          "37,6/700",
+          "155",
+          "67",
+          "12",
+          "10 x 100",
+          "2"
+        ],
+        [
+          "MK1000",
+          "1000",
+          "26,25/1.000",
+          "155",
+          "70",
+          "12,7",
+          "10 x 100",
+          "2"
+        ],
+        [
+          "MK1500",
+          "1500",
+          "35,75/1.500",
+          "155",
+          "71,5",
+          "14,2",
+          "10 x 100",
+          "2"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/komp/aplicacao-4.png",
+        "/images/products/vibra-stop/komp/aplicacao-5.png",
+        "/images/products/vibra-stop/komp/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

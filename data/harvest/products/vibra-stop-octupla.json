@@ -1,0 +1,393 @@
+{
+  "id": 200038,
+  "slug": "vibra-stop-octupla",
+  "name": "Vibra-Stop Mola Óctupla",
+  "sku": "Mola Óctupla",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-octupla?model=octupla&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para compressoras, chillers industriais, equipamentos com centro de gravidade elevado, bases técnicas que exigem máxima estabilidade, prensas, guilhotinas, entre outros.",
+  "description": "<p>Ideais para compressoras, chillers industriais, equipamentos com centro de gravidade elevado, bases técnicas que exigem máxima estabilidade, prensas, guilhotinas, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/octupla/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/octupla/foto-1.png",
+    "/images/products/vibra-stop/octupla/foto-2.png",
+    "/images/products/vibra-stop/octupla/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Aço Carbono Zincado e Borracha Natural."
+    },
+    {
+      "name": "Materiais informados",
+      "value": "Aço Inox Ferro Nodular"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240168,
+      "sku": "MO4000",
+      "label": "MO4000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "4000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,60/4.000"
+        },
+        {
+          "name": "Parafuso ((f))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "75"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "12,7"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "113"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "13 x 440"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240169,
+      "sku": "MO5600",
+      "label": "MO5600",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "5600"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "5,72/5.600"
+        },
+        {
+          "name": "Parafuso ((f))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "75"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "14,5"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "113"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "13 x 440"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240170,
+      "sku": "MO8000",
+      "label": "MO8000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "8000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "8,71/8.000"
+        },
+        {
+          "name": "Parafuso ((f))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "75"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "16"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "113"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "13 x 440"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240171,
+      "sku": "MO12000",
+      "label": "MO12000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "12000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "9,82/12.000"
+        },
+        {
+          "name": "Parafuso ((f))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "79"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "17,8"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "113"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "13 x 440"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240172,
+      "sku": "MO16000",
+      "label": "MO16000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "16000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "8,58/16.000"
+        },
+        {
+          "name": "Parafuso ((f))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "78"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "17,8"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "113"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "13 x 440"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240173,
+      "sku": "MO20000",
+      "label": "MO20000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "20000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "10,02/20.000"
+        },
+        {
+          "name": "Parafuso ((f))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "82"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "19,5"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "113"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "13 x 440"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/octupla/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Octupla.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Parafuso ((f))",
+        "Diâmetro Externo Batente ((D) mm)",
+        "Diâmetro Externo Mola ((De) mm)",
+        "Diâmetro do Arame da Mola ((a) mm)",
+        "Altura Chapa a Chapa ((H) mm)",
+        "Diâm. do Furo/Dist. entre Furos ((f x t) mm)"
+      ],
+      "rows": [
+        [
+          "MO4000",
+          "4000",
+          "6,60/4.000",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "75",
+          "12,7",
+          "113",
+          "13 x 440"
+        ],
+        [
+          "MO5600",
+          "5600",
+          "5,72/5.600",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "75",
+          "14,5",
+          "113",
+          "13 x 440"
+        ],
+        [
+          "MO8000",
+          "8000",
+          "8,71/8.000",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "75",
+          "16",
+          "113",
+          "13 x 440"
+        ],
+        [
+          "MO12000",
+          "12000",
+          "9,82/12.000",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "79",
+          "17,8",
+          "113",
+          "13 x 440"
+        ],
+        [
+          "MO16000",
+          "16000",
+          "8,58/16.000",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "78",
+          "17,8",
+          "113",
+          "13 x 440"
+        ],
+        [
+          "MO20000",
+          "20000",
+          "10,02/20.000",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "82",
+          "19,5",
+          "113",
+          "13 x 440"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/octupla/aplicacao-4.png",
+        "/images/products/vibra-stop/octupla/aplicacao-5.png",
+        "/images/products/vibra-stop/octupla/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

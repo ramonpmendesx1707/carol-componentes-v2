@@ -1,0 +1,554 @@
+{
+  "id": 200040,
+  "slug": "vibra-stop-plus-com-chapa",
+  "name": "Vibra-Stop Mola Plus Com Chapa",
+  "sku": "Plus Com Chapa",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-com-chapa&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para ventiladores industriais, chillers, equipamentos com centro de gravidade elevado ou base estreita, máquinas instaladas em áreas com maior exigência de estabilidade, estruturas metálicas, aplicações que demandam maior controle de vibração com sustentação reforçada, entre outros.",
+  "description": "<p>Ideais para ventiladores industriais, chillers, equipamentos com centro de gravidade elevado ou base estreita, máquinas instaladas em áreas com maior exigência de estabilidade, estruturas metálicas, aplicações que demandam maior controle de vibração com sustentação reforçada, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/plus-com-chapa/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/plus-com-chapa/foto-1.png",
+    "/images/products/vibra-stop/plus-com-chapa/foto-2.png",
+    "/images/products/vibra-stop/plus-com-chapa/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Aço Carbono Zincado e Borracha Natural."
+    },
+    {
+      "name": "Materiais informados",
+      "value": "Aço Inox Ferro Nodular"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240184,
+      "sku": "MPCC30",
+      "label": "MPCC30",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "30"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "19,25/30"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "157"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "53"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "5,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240185,
+      "sku": "MPCC50",
+      "label": "MPCC50",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "50"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "37,72/50"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "157"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "55"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240186,
+      "sku": "MPCC100",
+      "label": "MPCC100",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "100"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "37,89/100"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "157"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "57"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "7"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240187,
+      "sku": "MPCC200",
+      "label": "MPCC200",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "200"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "32,25/200"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "157"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "61"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "8,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240188,
+      "sku": "MPCC300",
+      "label": "MPCC300",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "300"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "38,50/300"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "157"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "62"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "9,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240189,
+      "sku": "MPCC400",
+      "label": "MPCC400",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "400"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "37,81/400"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "157"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "63"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240190,
+      "sku": "MPCC500",
+      "label": "MPCC500",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "500"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "26,12/500"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "157"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "65"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "10,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240191,
+      "sku": "MPCC700",
+      "label": "MPCC700",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "700"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "37,60/700"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "157"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "67"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240192,
+      "sku": "MPCC1000",
+      "label": "MPCC1000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "1000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "26,25/1.000"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "157"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "13,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240193,
+      "sku": "MPCC1500",
+      "label": "MPCC1500",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "1500"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "35,75/1.500"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "157"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "71,4"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "14,2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/plus-com-chapa/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Plus%20Com%20Chapa.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Parafuso ((d))",
+        "Altura Total ((H) mm)",
+        "Diâmetro Externo Batente ((D) mm)",
+        "Diâmetro Externo Mola ((De) mm)",
+        "Diâmetro do Arame da Mola ((a) mm)"
+      ],
+      "rows": [
+        [
+          "MPCC30",
+          "30",
+          "19,25/30",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "157",
+          "70",
+          "53",
+          "5,5"
+        ],
+        [
+          "MPCC50",
+          "50",
+          "37,72/50",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "157",
+          "70",
+          "55",
+          "6"
+        ],
+        [
+          "MPCC100",
+          "100",
+          "37,89/100",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "157",
+          "70",
+          "57",
+          "7"
+        ],
+        [
+          "MPCC200",
+          "200",
+          "32,25/200",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "157",
+          "70",
+          "61",
+          "8,5"
+        ],
+        [
+          "MPCC300",
+          "300",
+          "38,50/300",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "157",
+          "70",
+          "62",
+          "9,5"
+        ],
+        [
+          "MPCC400",
+          "400",
+          "37,81/400",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "157",
+          "70",
+          "63",
+          "10"
+        ],
+        [
+          "MPCC500",
+          "500",
+          "26,12/500",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "157",
+          "70",
+          "65",
+          "10,5"
+        ],
+        [
+          "MPCC700",
+          "700",
+          "37,60/700",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "157",
+          "70",
+          "67",
+          "12"
+        ],
+        [
+          "MPCC1000",
+          "1000",
+          "26,25/1.000",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "157",
+          "70",
+          "70",
+          "13,5"
+        ],
+        [
+          "MPCC1500",
+          "1500",
+          "35,75/1.500",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "157",
+          "70",
+          "71,4",
+          "14,2"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/plus-com-chapa/aplicacao-4.png",
+        "/images/products/vibra-stop/plus-com-chapa/aplicacao-5.png",
+        "/images/products/vibra-stop/plus-com-chapa/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

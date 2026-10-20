@@ -1,0 +1,270 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-vs?model=vs&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:34:50.043Z",
+  "product": {
+    "id": 200034,
+    "slug": "vibra-stop-vs",
+    "name": "Vibra-Stop VS",
+    "sku": "VS",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-vs?model=vs&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para móveis em geral, bancadas, equipamentos de pequeno porte, entre outros.",
+    "description": "<p>Ideais para móveis em geral, bancadas, equipamentos de pequeno porte, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/vs/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/vs/foto-1.png",
+      "/images/products/vibra-stop/vs/foto-2.png",
+      "/images/products/vibra-stop/vs/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural, Aço Carbono Zincado ou Opção em Inox."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240137,
+        "sku": "VS1",
+        "label": "VS1",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "5 a 10"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "0,77/10"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/16”, 1/4”"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "8"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "26"
+          },
+          {
+            "name": "Diâmetro Externo ((D) mm)",
+            "value": "20"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240138,
+        "sku": "VS2",
+        "label": "VS2",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "10 a 20"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "0,73/20"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/16”, 1/4”"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "10"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "32"
+          },
+          {
+            "name": "Diâmetro Externo ((D) mm)",
+            "value": "30"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240139,
+        "sku": "VS3",
+        "label": "VS3",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "20 a 40"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "1,4/40"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "1/4”, 5/16\", 3/8”"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "14"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "39"
+          },
+          {
+            "name": "Diâmetro Externo ((D) mm)",
+            "value": "40"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/vs/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20VS.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vídeo apresentado pelo fabricante",
+        "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-vs.mp4",
+        "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-vs.mp4",
+        "hosted": false,
+        "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+      }
+    ],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Altura ((h) mm)",
+          "Altura ((H) mm)",
+          "Diâmetro Externo ((D) mm)"
+        ],
+        "rows": [
+          [
+            "VS1",
+            "5 a 10",
+            "0,77/10",
+            "3/16”, 1/4”",
+            "8",
+            "26",
+            "20"
+          ],
+          [
+            "VS2",
+            "10 a 20",
+            "0,73/20",
+            "5/16”, 1/4”",
+            "10",
+            "32",
+            "30"
+          ],
+          [
+            "VS3",
+            "20 a 40",
+            "1,4/40",
+            "1/4”, 5/16\", 3/8”",
+            "14",
+            "39",
+            "40"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/vs/aplicacao-4.png",
+          "/images/products/vibra-stop/vs/aplicacao-5.png",
+          "/images/products/vibra-stop/vs/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/vs/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/VS/VS%201.1.png",
+      "bytes": 86227,
+      "sha256": "8159bdb69daecb08386d9646349e222bd82d4acc322f3bf82dd8ad47905e9996",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/vs/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/VS/VS%201.2.png",
+      "bytes": 115827,
+      "sha256": "67f2f77f0101294d194405406a44fa317b85a11da5054c6c5e321615c8d72809",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/vs/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/VS/VS%201.0.png",
+      "bytes": 130278,
+      "sha256": "e7988f6a913076283248909b2c4bed3f559641dd0cf017924588618fea140469",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/vs/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/VS/VS%201.0.png",
+      "bytes": 106463,
+      "sha256": "324023765ab2b48b5b78ec68ac90d14cb7324fe84a9d41cac98a835e9f4eac4b",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/vs/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/VS/VS%201.1.png",
+      "bytes": 61379,
+      "sha256": "472eb5b6c5ac829900be911559607dbfe512bbd7ba92a010a7a7681ede8c1261",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/vs/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/VS/Manual%20de%20Instalacao%20-%20VS.png",
+      "bytes": 173539,
+      "sha256": "ded69058c591c4ad3efe7607ba95ebb3cc2a31eab763250c82f93b5858b4669a",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/vs/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20VS.pdf",
+      "bytes": 1321853,
+      "sha256": "4ba1613af8bdf45f93eee7081bcc9deb4a70d3580e5967c3ebea566575f5a045",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "vs",
+    "tableRows": 3,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 1,
+    "manualReviewRequired": true
+  }
+}

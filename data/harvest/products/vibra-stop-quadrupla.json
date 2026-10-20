@@ -1,0 +1,605 @@
+{
+  "id": 200043,
+  "slug": "vibra-stop-quadrupla",
+  "name": "Vibra-Stop Mola Quádrupla",
+  "sku": "Mola Quádrupla",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-quadrupla?model=quadrupla&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para moinhos, compressores, chillers, equipamentos com centro de gravidade elevado ou base estreita, máquinas instaladas em áreas com maior exigência de estabilidade, prensas, aplicações que demandam maior controle de vibração com sustentação reforçada, entre outros.",
+  "description": "<p>Ideais para moinhos, compressores, chillers, equipamentos com centro de gravidade elevado ou base estreita, máquinas instaladas em áreas com maior exigência de estabilidade, prensas, aplicações que demandam maior controle de vibração com sustentação reforçada, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/quadrupla/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/quadrupla/foto-1.png",
+    "/images/products/vibra-stop/quadrupla/foto-2.png",
+    "/images/products/vibra-stop/quadrupla/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Aço Carbono Zincado e Borracha Natural."
+    },
+    {
+      "name": "Materiais informados",
+      "value": "Aço Inox Ferro Nodular"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240212,
+      "sku": "MQ400",
+      "label": "MQ400",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "400"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "4,95/400"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "58"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "7,5"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "89"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 190"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240213,
+      "sku": "MQ800",
+      "label": "MQ800",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "800"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "8,10/800"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "62"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "9,5"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "89"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 190"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240214,
+      "sku": "MQ1200",
+      "label": "MQ1200",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "1200"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,12/1.200"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "63"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "10"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "89"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 190"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240215,
+      "sku": "MQ1600",
+      "label": "MQ1600",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "1600"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,62/1.600"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "65"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "11"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "89"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 190"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240216,
+      "sku": "MQ2000",
+      "label": "MQ2000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "2000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,60/2.000"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "68,4"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "12,7"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "109"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 190"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240217,
+      "sku": "MQ2800",
+      "label": "MQ2800",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "2800"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "5,72/2.800"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "72"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "14,5"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "109"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 190"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240218,
+      "sku": "MQ4000",
+      "label": "MQ4000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "4000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "8,71/4.000"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "75"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "16"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "109"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 190"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240219,
+      "sku": "MQ6000",
+      "label": "MQ6000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "6000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "9,82/6.000"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "79"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "17,8"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "113"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 210"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240220,
+      "sku": "MQ8000",
+      "label": "MQ8000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "8000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "9,58/8.000"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "78"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "17,8"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "113"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 210"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240221,
+      "sku": "MQ10000",
+      "label": "MQ10000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "10000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "10,02/10.000"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/8”, 3/4\", 1”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "82"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "19,5"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "113"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 210"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/quadrupla/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Quadrupla.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Parafuso ((d))",
+        "Diâmetro Externo Batente ((D) mm)",
+        "Diâmetro Externo Mola ((De) mm)",
+        "Diâmetro do Arame da Mola ((a) mm)",
+        "Altura Chapa a Chapa ((H) mm)",
+        "Diâm. do Furo/Dist. entre Furos ((f x t) mm)"
+      ],
+      "rows": [
+        [
+          "MQ400",
+          "400",
+          "4,95/400",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "58",
+          "7,5",
+          "89",
+          "10 x 190"
+        ],
+        [
+          "MQ800",
+          "800",
+          "8,10/800",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "62",
+          "9,5",
+          "89",
+          "10 x 190"
+        ],
+        [
+          "MQ1200",
+          "1200",
+          "6,12/1.200",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "63",
+          "10",
+          "89",
+          "10 x 190"
+        ],
+        [
+          "MQ1600",
+          "1600",
+          "6,62/1.600",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "65",
+          "11",
+          "89",
+          "10 x 190"
+        ],
+        [
+          "MQ2000",
+          "2000",
+          "6,60/2.000",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "68,4",
+          "12,7",
+          "109",
+          "10 x 190"
+        ],
+        [
+          "MQ2800",
+          "2800",
+          "5,72/2.800",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "72",
+          "14,5",
+          "109",
+          "10 x 190"
+        ],
+        [
+          "MQ4000",
+          "4000",
+          "8,71/4.000",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "75",
+          "16",
+          "109",
+          "10 x 190"
+        ],
+        [
+          "MQ6000",
+          "6000",
+          "9,82/6.000",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "79",
+          "17,8",
+          "113",
+          "10 x 210"
+        ],
+        [
+          "MQ8000",
+          "8000",
+          "9,58/8.000",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "78",
+          "17,8",
+          "113",
+          "10 x 210"
+        ],
+        [
+          "MQ10000",
+          "10000",
+          "10,02/10.000",
+          "5/8”, 3/4\", 1”",
+          "70",
+          "82",
+          "19,5",
+          "113",
+          "10 x 210"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/quadrupla/aplicacao-4.png",
+        "/images/products/vibra-stop/quadrupla/aplicacao-5.png",
+        "/images/products/vibra-stop/quadrupla/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

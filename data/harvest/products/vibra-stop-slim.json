@@ -1,0 +1,327 @@
+{
+  "id": 200030,
+  "slug": "vibra-stop-slim",
+  "name": "Vibra-Stop Slim",
+  "sku": "Slim",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-slim?model=slim&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para estruturas metálicas, máquinas operatrizes de pequeno e médio porte, entre outros.",
+  "description": "<p>Ideais para estruturas metálicas, máquinas operatrizes de pequeno e médio porte, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/slim/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/slim/foto-1.png",
+    "/images/products/vibra-stop/slim/foto-2.png",
+    "/images/products/vibra-stop/slim/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Borracha Natural, Aço Carbono Zincado ou Opção em Inox."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240116,
+      "sku": "SLIM1",
+      "label": "SLIM1",
+      "attributes": [
+        {
+          "name": "Capacidade à Compressão (Kgf)",
+          "value": "400"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "3,44/400"
+        },
+        {
+          "name": "Parafuso ((R x h) mm)",
+          "value": "M10 x 51, M12 x 56"
+        },
+        {
+          "name": "Espessura da Chapa ((t) mm)",
+          "value": "4"
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "60"
+        },
+        {
+          "name": "Espessura ((e) mm)",
+          "value": "29"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240117,
+      "sku": "SLIM1SP",
+      "label": "SLIM1SP",
+      "attributes": [
+        {
+          "name": "Capacidade à Compressão (Kgf)",
+          "value": "600"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "2,78/600"
+        },
+        {
+          "name": "Parafuso ((R x h) mm)",
+          "value": ""
+        },
+        {
+          "name": "Espessura da Chapa ((t) mm)",
+          "value": ""
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "60"
+        },
+        {
+          "name": "Espessura ((e) mm)",
+          "value": "25"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240118,
+      "sku": "SLIM2",
+      "label": "SLIM2",
+      "attributes": [
+        {
+          "name": "Capacidade à Compressão (Kgf)",
+          "value": "800"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "3,07/800"
+        },
+        {
+          "name": "Parafuso ((R x h) mm)",
+          "value": "M10 x 51, M12 x 56"
+        },
+        {
+          "name": "Espessura da Chapa ((t) mm)",
+          "value": "4"
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "80"
+        },
+        {
+          "name": "Espessura ((e) mm)",
+          "value": "39"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240119,
+      "sku": "SLIM2SP",
+      "label": "SLIM2SP",
+      "attributes": [
+        {
+          "name": "Capacidade à Compressão (Kgf)",
+          "value": "1300"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "4,87/1300"
+        },
+        {
+          "name": "Parafuso ((R x h) mm)",
+          "value": ""
+        },
+        {
+          "name": "Espessura da Chapa ((t) mm)",
+          "value": ""
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "80"
+        },
+        {
+          "name": "Espessura ((e) mm)",
+          "value": "35"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240120,
+      "sku": "SLIM3",
+      "label": "SLIM3",
+      "attributes": [
+        {
+          "name": "Capacidade à Compressão (Kgf)",
+          "value": "1600"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "5,46/1600"
+        },
+        {
+          "name": "Parafuso ((R x h) mm)",
+          "value": "M10 x 51, M12 x 69, M16 x 69"
+        },
+        {
+          "name": "Espessura da Chapa ((t) mm)",
+          "value": "6"
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "110"
+        },
+        {
+          "name": "Espessura ((e) mm)",
+          "value": "51"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240121,
+      "sku": "SLIM3SP",
+      "label": "SLIM3SP",
+      "attributes": [
+        {
+          "name": "Capacidade à Compressão (Kgf)",
+          "value": "3000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "8,88/300"
+        },
+        {
+          "name": "Parafuso ((R x h) mm)",
+          "value": ""
+        },
+        {
+          "name": "Espessura da Chapa ((t) mm)",
+          "value": ""
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "110"
+        },
+        {
+          "name": "Espessura ((e) mm)",
+          "value": "45"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/slim/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Slim.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade à Compressão (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Parafuso ((R x h) mm)",
+        "Espessura da Chapa ((t) mm)",
+        "Largura ((L) mm)",
+        "Espessura ((e) mm)"
+      ],
+      "rows": [
+        [
+          "SLIM1",
+          "400",
+          "3,44/400",
+          "M10 x 51, M12 x 56",
+          "4",
+          "60",
+          "29"
+        ],
+        [
+          "SLIM1SP",
+          "600",
+          "2,78/600",
+          "",
+          "",
+          "60",
+          "25"
+        ],
+        [
+          "SLIM2",
+          "800",
+          "3,07/800",
+          "M10 x 51, M12 x 56",
+          "4",
+          "80",
+          "39"
+        ],
+        [
+          "SLIM2SP",
+          "1300",
+          "4,87/1300",
+          "",
+          "",
+          "80",
+          "35"
+        ],
+        [
+          "SLIM3",
+          "1600",
+          "5,46/1600",
+          "M10 x 51, M12 x 69, M16 x 69",
+          "6",
+          "110",
+          "51"
+        ],
+        [
+          "SLIM3SP",
+          "3000",
+          "8,88/300",
+          "",
+          "",
+          "110",
+          "45"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/slim/aplicacao-4.png",
+        "/images/products/vibra-stop/slim/aplicacao-5.png",
+        "/images/products/vibra-stop/slim/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

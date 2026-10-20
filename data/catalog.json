@@ -1743,7 +1743,8 @@
       "images": [
         "/images/products/kifix/base-elevada/1.png",
         "/images/products/kifix/base-elevada/2.png",
-        "/images/products/kifix/base-elevada/3.png"
+        "/images/products/kifix/base-elevada/3.png",
+        "/images/products/kifix/base-elevada/desenho-tecnico.jpg"
       ],
       "attributes": [],
       "weight": "",
@@ -2308,15 +2309,7 @@
           "image": null
         }
       ],
-      "documents": [
-        {
-          "title": "Desenhos por referência (login exigido pelo fabricante)",
-          "url": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-elevada/",
-          "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-elevada/",
-          "kind": "restricted",
-          "note": "Não contornar o login; solicitar o arquivo ao fornecedor."
-        }
-      ],
+      "documents": [],
       "videos": [],
       "technicalSections": [
         {
@@ -2483,6 +2476,13 @@
               "1,085 (2,39)"
             ]
           ]
+        },
+        {
+          "title": "Desenho técnico da Base Elevada",
+          "images": [
+            "/images/products/kifix/base-elevada/desenho-tecnico.jpg"
+          ],
+          "note": "Esquema dimensional da família MS BE; confira as medidas da referência selecionada na tabela."
         }
       ],
       "homepage": true

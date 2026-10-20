@@ -81,8 +81,11 @@ async function collect(id,item){
     if(!rows||rows.length<3||rows[2].length<3)throw Error('Tabela técnica ausente ou incompleta.');
     const model=new URL(item.url).searchParams.get('model');
     if(!model)throw Error('Modelo sem identificador de URL.');
-    const slug=`vibra-stop-${slugify(model)}`;
-    const folder=`images/products/vibra-stop/${slugify(model)}`;
+    const family=slugify(new URL(item.url).pathname.split('/').pop()?.replace(/^linha-/,''));
+    const shortSlug=`vibra-stop-${slugify(model)}`;
+    const shortProduct=await read(`data/harvest/products/${shortSlug}.json`).catch(()=>null);
+    const slug=shortProduct&&shortProduct.sourceUrl!==item.url?`vibra-stop-${family}-${slugify(model)}`:shortSlug;
+    const folder=`images/products/vibra-stop/${slug.replace(/^vibra-stop-/,'')}`;
     const title=clean(captured.headings.find(value=>value.startsWith('Vibra-Stop'))||captured.title);
     const applications=section(captured.text,'APLICAÇÕES:');
     const composition=section(captured.text,'COMPOSIÇÃO:');
@@ -109,7 +112,7 @@ async function collect(id,item){
       const canonical=decodeURIComponent(new URL(source).pathname).replaceAll('+',' ').toLowerCase();
       if(seenPdfs.has(canonical))continue;
       seenPdfs.add(canonical);
-      const asset=await saveAsset(source,`downloads/products/vibra-stop/${slugify(model)}/ficha-tecnica.pdf`);
+      const asset=await saveAsset(source,`downloads/products/vibra-stop/${slug.replace(/^vibra-stop-/,'')}/ficha-tecnica.pdf`);
       assets.push(asset);documents.push({title:'Ficha técnica oficial',url:asset.path,sourceUrl:source,kind:'pdf'});
     }
     if(!documents.length)throw Error('Ficha técnica PDF não localizada.');

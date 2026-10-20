@@ -1,0 +1,503 @@
+{
+  "id": 200039,
+  "slug": "vibra-stop-plus-com-2-chapas",
+  "name": "Vibra-Stop Mola Plus Com 2 Chapas",
+  "sku": "Plus Com 2 Chapas",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-com-2-chapas&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para equipamentos industriais, unidades de ar-condicionado, sistemas de ventilação, geradores, máquinas que operam com alto nível de vibração e situações que exigem fixação firme e segura, alto desempenho na atenuação de vibrações e estabilidade em superfícies técnicas ou metálicas, entre outros.",
+  "description": "<p>Ideais para equipamentos industriais, unidades de ar-condicionado, sistemas de ventilação, geradores, máquinas que operam com alto nível de vibração e situações que exigem fixação firme e segura, alto desempenho na atenuação de vibrações e estabilidade em superfícies técnicas ou metálicas, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/plus-com-2-chapas/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/plus-com-2-chapas/foto-1.png",
+    "/images/products/vibra-stop/plus-com-2-chapas/foto-2.png",
+    "/images/products/vibra-stop/plus-com-2-chapas/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Aço Carbono Zincado e Borracha Natural."
+    },
+    {
+      "name": "Materiais informados",
+      "value": "Aço Inox"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240174,
+      "sku": "MPC2C30",
+      "label": "MPC2C30",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "30"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "19,25/30"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "165"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "53"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "5,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240175,
+      "sku": "MPC2C50",
+      "label": "MPC2C50",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "50"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "37,72/50"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "165"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "55"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240176,
+      "sku": "MPC2C100",
+      "label": "MPC2C100",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "100"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "37,89/100"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "165"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "57"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "7"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240177,
+      "sku": "MPC2C200",
+      "label": "MPC2C200",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "200"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "32,25/200"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "165"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "61"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "8,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240178,
+      "sku": "MPC2C300",
+      "label": "MPC2C300",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "300"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "38,50/300"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "165"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "62"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "9,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240179,
+      "sku": "MPC2C400",
+      "label": "MPC2C400",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "400"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "37,81/400"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "165"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "63"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240180,
+      "sku": "MPC2C500",
+      "label": "MPC2C500",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "500"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "26,12/500"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "165"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "65"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "10,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240181,
+      "sku": "MPC2C700",
+      "label": "MPC2C700",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "700"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "37,60/700"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "165"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "67"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "12"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240182,
+      "sku": "MPC2C1000",
+      "label": "MPC2C1000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "1000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "26,25/1.000"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "165"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "13,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240183,
+      "sku": "MPC2C1500",
+      "label": "MPC2C1500",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "1500"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "35,75/1.500"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "165"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "71,4"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "14,2"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/plus-com-2-chapas/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Plus%20Com%202%20Chapas.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Altura Total ((H) mm)",
+        "Diâmetro Externo Batente ((D) mm)",
+        "Diâmetro Externo Mola ((De) mm)",
+        "Diâmetro do Arame da Mola ((a) mm)"
+      ],
+      "rows": [
+        [
+          "MPC2C30",
+          "30",
+          "19,25/30",
+          "165",
+          "70",
+          "53",
+          "5,5"
+        ],
+        [
+          "MPC2C50",
+          "50",
+          "37,72/50",
+          "165",
+          "70",
+          "55",
+          "6"
+        ],
+        [
+          "MPC2C100",
+          "100",
+          "37,89/100",
+          "165",
+          "70",
+          "57",
+          "7"
+        ],
+        [
+          "MPC2C200",
+          "200",
+          "32,25/200",
+          "165",
+          "70",
+          "61",
+          "8,5"
+        ],
+        [
+          "MPC2C300",
+          "300",
+          "38,50/300",
+          "165",
+          "70",
+          "62",
+          "9,5"
+        ],
+        [
+          "MPC2C400",
+          "400",
+          "37,81/400",
+          "165",
+          "70",
+          "63",
+          "10"
+        ],
+        [
+          "MPC2C500",
+          "500",
+          "26,12/500",
+          "165",
+          "70",
+          "65",
+          "10,5"
+        ],
+        [
+          "MPC2C700",
+          "700",
+          "37,60/700",
+          "165",
+          "70",
+          "67",
+          "12"
+        ],
+        [
+          "MPC2C1000",
+          "1000",
+          "26,25/1.000",
+          "165",
+          "70",
+          "70",
+          "13,5"
+        ],
+        [
+          "MPC2C1500",
+          "1500",
+          "35,75/1.500",
+          "165",
+          "70",
+          "71,4",
+          "14,2"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/plus-com-2-chapas/aplicacao-4.png",
+        "/images/products/vibra-stop/plus-com-2-chapas/aplicacao-5.png",
+        "/images/products/vibra-stop/plus-com-2-chapas/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

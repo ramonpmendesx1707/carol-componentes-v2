@@ -1,0 +1,771 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:38:58.064Z",
+  "product": {
+    "id": 200048,
+    "slug": "vibra-stop-sismica",
+    "name": "Vibra-Stop Mola Sísmica",
+    "sku": "Sísmica",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para aplicações que exigem alta proteção contra vibrações multidirecionais, deslocamentos laterais e impactos gerados tanto por movimentações sísmicas quanto por transporte, painéis elétricos, chillers, sistemas de Hvac, bombas centrífugas, transformadores, máquinas operatrizes, entre outros.",
+    "description": "<p>Ideais para aplicações que exigem alta proteção contra vibrações multidirecionais, deslocamentos laterais e impactos gerados tanto por movimentações sísmicas quanto por transporte, painéis elétricos, chillers, sistemas de Hvac, bombas centrífugas, transformadores, máquinas operatrizes, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/sismica/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/sismica/foto-1.png",
+      "/images/products/vibra-stop/sismica/foto-2.png",
+      "/images/products/vibra-stop/sismica/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Aço Inox e Borracha Natural."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240262,
+        "sku": "MSIS30",
+        "label": "MSIS30",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "30"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "8,75/30"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "86"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "54"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "5,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 130"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240263,
+        "sku": "MSIS50",
+        "label": "MSIS50",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "50"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,58/50"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "86"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "55"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "6"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 130"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240264,
+        "sku": "MSIS100",
+        "label": "MSIS100",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "100"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "4,95/100"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "86"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "58"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "7,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 130"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240265,
+        "sku": "MSIS200",
+        "label": "MSIS200",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "8,10/200"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "86"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "62"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "9,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 130"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240266,
+        "sku": "MSIS300",
+        "label": "MSIS300",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "300"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,12/300"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "86"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "63"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "10"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 130"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240267,
+        "sku": "MSIS400",
+        "label": "MSIS400",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "400"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,62/400"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "86"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "11"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 130"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240268,
+        "sku": "MSIS500",
+        "label": "MSIS500",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,60/500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "112"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "68,4"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "12,7"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 130"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240269,
+        "sku": "MSIS700",
+        "label": "MSIS700",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "700"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "5,72/700"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "112"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "72"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "14,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 130"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240270,
+        "sku": "MSIS1000",
+        "label": "MSIS1000",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "1000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "8,71/1.000"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "112"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "75"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "16"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 130"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240271,
+        "sku": "MSIS1500",
+        "label": "MSIS1500",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "1500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "9,82/1.500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "112"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "79"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "17,8"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 130"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240272,
+        "sku": "MSIS2000",
+        "label": "MSIS2000",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "2000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "9,58/2.000"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "112"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "78"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "17,8"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 130"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240273,
+        "sku": "MSIS2500",
+        "label": "MSIS2500",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "2500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "10,02/2.500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "112"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "82"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "19,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 130"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/sismica/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Sismica.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Altura Total ((H) mm)",
+          "Diâmetro Externo Batente ((D) mm)",
+          "Diâmetro Externo Mola ((De) mm)",
+          "Diâmetro do Arame da Mola ((a) mm)",
+          "Diâm. do Furo/Dist. entre Furos ((f x t) mm)"
+        ],
+        "rows": [
+          [
+            "MSIS30",
+            "30",
+            "8,75/30",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "86",
+            "70",
+            "54",
+            "5,5",
+            "10 x 130"
+          ],
+          [
+            "MSIS50",
+            "50",
+            "6,58/50",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "86",
+            "70",
+            "55",
+            "6",
+            "10 x 130"
+          ],
+          [
+            "MSIS100",
+            "100",
+            "4,95/100",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "86",
+            "70",
+            "58",
+            "7,5",
+            "10 x 130"
+          ],
+          [
+            "MSIS200",
+            "200",
+            "8,10/200",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "86",
+            "70",
+            "62",
+            "9,5",
+            "10 x 130"
+          ],
+          [
+            "MSIS300",
+            "300",
+            "6,12/300",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "86",
+            "70",
+            "63",
+            "10",
+            "10 x 130"
+          ],
+          [
+            "MSIS400",
+            "400",
+            "6,62/400",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "86",
+            "70",
+            "65",
+            "11",
+            "10 x 130"
+          ],
+          [
+            "MSIS500",
+            "500",
+            "6,60/500",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "112",
+            "70",
+            "68,4",
+            "12,7",
+            "10 x 130"
+          ],
+          [
+            "MSIS700",
+            "700",
+            "5,72/700",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "112",
+            "70",
+            "72",
+            "14,5",
+            "10 x 130"
+          ],
+          [
+            "MSIS1000",
+            "1000",
+            "8,71/1.000",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "112",
+            "70",
+            "75",
+            "16",
+            "10 x 130"
+          ],
+          [
+            "MSIS1500",
+            "1500",
+            "9,82/1.500",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "112",
+            "70",
+            "79",
+            "17,8",
+            "10 x 130"
+          ],
+          [
+            "MSIS2000",
+            "2000",
+            "9,58/2.000",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "112",
+            "70",
+            "78",
+            "17,8",
+            "10 x 130"
+          ],
+          [
+            "MSIS2500",
+            "2500",
+            "10,02/2.500",
+            "3/8”, 1/2\", 5/8”, 3/4\"",
+            "112",
+            "70",
+            "82",
+            "19,5",
+            "10 x 130"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/sismica/aplicacao-4.png",
+          "/images/products/vibra-stop/sismica/aplicacao-5.png",
+          "/images/products/vibra-stop/sismica/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/sismica/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20SISMICA/MSIS%201.1.png",
+      "bytes": 135318,
+      "sha256": "5974966124eda67814d56b8ba937840ecba785a23a6ea681e737ef7acd078c88",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/sismica/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20SISMICA/MSIS%201.2.png",
+      "bytes": 145383,
+      "sha256": "a64c60b064994c93a9f4044060737d248c009a4dc4592da5c6f0a1e642906483",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/sismica/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20SISMICA/MSIS%201.0.png",
+      "bytes": 163727,
+      "sha256": "0e791a6776697393edf56ba61133127410e5eaae996a7f14826800dd4138ed49",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/sismica/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20SISMICA/MSIS%201.0.png",
+      "bytes": 201837,
+      "sha256": "ea1fcba3362576a8b42b447e4ffbdac52456b77500018286f2699725c8d3eceb",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/sismica/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20SISMICA/MSIS%201.1.png",
+      "bytes": 128502,
+      "sha256": "30ca61bc02180760222ca57144c6a129821e60c69e3d4b04f0b40d21bbfcf0b2",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/sismica/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20SISMICA/Manual%20de%20Instalacao%20-%20Mola%20Sismica.png",
+      "bytes": 178655,
+      "sha256": "f1df5cdd2b1ac83858d67e962ba0d5d4dde10d6f983aafb081961fc2b7f80506",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/sismica/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Sismica.pdf",
+      "bytes": 1652949,
+      "sha256": "a3a819341c547732179d01e01d36f48046c18ed701d1a2a4ae43443b52510ea3",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "sismica",
+    "tableRows": 12,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "id": 200028,
+  "slug": "vibra-stop-quad",
+  "name": "Vibra-Stop Quad",
+  "sku": "Quad",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-quad?model=quad&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para aplicações em tubos quadrados.",
+  "description": "<p>Ideais para aplicações em tubos quadrados.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/quad/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/quad/foto-1.png",
+    "/images/products/vibra-stop/quad/foto-2.png",
+    "/images/products/vibra-stop/quad/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Borracha Natural."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240107,
+      "sku": "QUAD I",
+      "label": "QUAD I",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "15"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "19"
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "21"
+        },
+        {
+          "name": "Largura ((b) mm)",
+          "value": "16"
+        },
+        {
+          "name": "Profundidade ((p) mm)",
+          "value": "17"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240108,
+      "sku": "QUAD II",
+      "label": "QUAD II",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "25"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "21"
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "25"
+        },
+        {
+          "name": "Largura ((b) mm)",
+          "value": "20"
+        },
+        {
+          "name": "Profundidade ((p) mm)",
+          "value": "18"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240109,
+      "sku": "QUAD III",
+      "label": "QUAD III",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "30"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "28"
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Largura ((b) mm)",
+          "value": "25"
+        },
+        {
+          "name": "Profundidade ((p) mm)",
+          "value": "25"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240110,
+      "sku": "QUAD IV",
+      "label": "QUAD IV",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "35"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "32"
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "35"
+        },
+        {
+          "name": "Largura ((b) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Profundidade ((p) mm)",
+          "value": "28"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240111,
+      "sku": "QUAD V",
+      "label": "QUAD V",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "40"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "43"
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "45"
+        },
+        {
+          "name": "Largura ((b) mm)",
+          "value": "40"
+        },
+        {
+          "name": "Profundidade ((p) mm)",
+          "value": "40"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240112,
+      "sku": "QUAD VI",
+      "label": "QUAD VI",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "50"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "53"
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "55"
+        },
+        {
+          "name": "Largura ((b) mm)",
+          "value": "50"
+        },
+        {
+          "name": "Profundidade ((p) mm)",
+          "value": "49"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/quad/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Quad.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Vídeo apresentado pelo fabricante",
+      "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tub-quad.mp4",
+      "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tub-quad.mp4",
+      "hosted": false,
+      "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+    }
+  ],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Altura ((H) mm)",
+        "Largura ((L) mm)",
+        "Largura ((b) mm)",
+        "Profundidade ((p) mm)"
+      ],
+      "rows": [
+        [
+          "QUAD I",
+          "15",
+          "19",
+          "21",
+          "16",
+          "17"
+        ],
+        [
+          "QUAD II",
+          "25",
+          "21",
+          "25",
+          "20",
+          "18"
+        ],
+        [
+          "QUAD III",
+          "30",
+          "28",
+          "30",
+          "25",
+          "25"
+        ],
+        [
+          "QUAD IV",
+          "35",
+          "32",
+          "35",
+          "30",
+          "28"
+        ],
+        [
+          "QUAD V",
+          "40",
+          "43",
+          "45",
+          "40",
+          "40"
+        ],
+        [
+          "QUAD VI",
+          "50",
+          "53",
+          "55",
+          "50",
+          "49"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/quad/aplicacao-4.png",
+        "/images/products/vibra-stop/quad/aplicacao-5.png",
+        "/images/products/vibra-stop/quad/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

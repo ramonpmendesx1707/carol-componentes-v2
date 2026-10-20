@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "lastHandoff": {
-    "updatedAt": "2026-10-20T10:31:06.314Z",
+    "updatedAt": "2026-10-20T10:40:38.067Z",
     "codeCommit": "66991adda8b516bf4f77b9252bc20541f83ba91d",
     "githubPagesRun": "https://github.com/ramonpmendesx1707/carol-componentes-v2/actions/runs/39379452240",
     "githubPagesChecked": "4 products, supplier filter, Kifix technical tab, Vibra video link and image tested at 390px/1440px",
@@ -10,8 +10,8 @@
     "siteAudience": "public (aprovado por Ramon em 20/10/2026)",
     "siteApiChecked": "Versão 4 pública: raiz HTTP 200, API HTTP 200 com 4 produtos; navegador 390/1440 px validado",
     "activeSupplier": "Vibra-Stop",
-    "nextQueueId": "vibra-stop-6cd86e35f6c0",
-    "nextSourceUrl": "https://www.vibra-stop.com.br/produto/linha-quad?model=quad&language=pt-BR",
+    "nextQueueId": "vibra-stop-0236c87406c9",
+    "nextSourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao-premium?model=tracao-premium-plus&language=pt-BR",
     "nextAction": "Coletar próximo modelo com node scripts/harvest-vibra-queue.mjs --limit=1. Manter em needs_review, sem publicar. Somente após concluir toda a coleta Vibra-Stop, confrontar campo a campo com PDFs definitivos.",
     "knownBlockers": [
       "Kifix drawings require supplier login",
@@ -25,9 +25,9 @@
       "publishedPilotVariations": 45,
       "seedQueueTotal": 148,
       "seedQueueComplete": 1,
-      "seedQueueNeedsReview": 23,
-      "seedQueuePending": 47,
-      "vibraStopAdditionalVariantsStaged": 82,
+      "seedQueueNeedsReview": 47,
+      "seedQueuePending": 22,
+      "vibraStopAdditionalVariantsStaged": 273,
       "supplierDocuments2026": 3
     }
   },
@@ -396,6 +396,318 @@
         "photos": 3,
         "pdfs": 1,
         "videos": 1
+      }
+    },
+    "vibra-stop-quad": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-quad?model=quad&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:33:09.789Z",
+      "productFile": "data/harvest/products/vibra-stop-quad.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-quad.json",
+      "checks": {
+        "variants": 6,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-ret": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-ret?model=ret&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:33:25.144Z",
+      "productFile": "data/harvest/products/vibra-stop-ret.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-ret.json",
+      "checks": {
+        "variants": 3,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-slim": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-slim?model=slim&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:33:40.878Z",
+      "productFile": "data/harvest/products/vibra-stop-slim.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-slim.json",
+      "checks": {
+        "variants": 6,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-tartufo": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tartufo?model=tartufo&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:33:57.676Z",
+      "productFile": "data/harvest/products/vibra-stop-tartufo.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-tartufo.json",
+      "checks": {
+        "variants": 1,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-tub": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tub?model=tub&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:34:12.399Z",
+      "productFile": "data/harvest/products/vibra-stop-tub.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-tub.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-ventosa": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-ventosa?model=ventosa&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:34:34.170Z",
+      "productFile": "data/harvest/products/vibra-stop-ventosa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-ventosa.json",
+      "checks": {
+        "variants": 4,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-vs": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-vs?model=vs&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:34:50.045Z",
+      "productFile": "data/harvest/products/vibra-stop-vs.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-vs.json",
+      "checks": {
+        "variants": 3,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-dupla": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-dupla?model=dupla&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:35:11.906Z",
+      "productFile": "data/harvest/products/vibra-stop-dupla.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-dupla.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-komp": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-komp?model=komp&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:35:27.215Z",
+      "productFile": "data/harvest/products/vibra-stop-komp.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-komp.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-komp-dupla": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-komp?model=komp-dupla&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:35:50.262Z",
+      "productFile": "data/harvest/products/vibra-stop-komp-dupla.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-komp-dupla.json",
+      "checks": {
+        "variants": 8,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-octupla": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-octupla?model=octupla&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:36:05.567Z",
+      "productFile": "data/harvest/products/vibra-stop-octupla.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-octupla.json",
+      "checks": {
+        "variants": 6,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-plus-com-2-chapas": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-com-2-chapas&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:36:22.379Z",
+      "productFile": "data/harvest/products/vibra-stop-plus-com-2-chapas.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-plus-com-2-chapas.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-plus-com-chapa": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-com-chapa&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:36:38.587Z",
+      "productFile": "data/harvest/products/vibra-stop-plus-com-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-plus-com-chapa.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-plus-dupla": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-dupla&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:36:55.193Z",
+      "productFile": "data/harvest/products/vibra-stop-plus-dupla.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-plus-dupla.json",
+      "checks": {
+        "variants": 8,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-plus-sem-chapa": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-sem-chapa&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:37:19.383Z",
+      "productFile": "data/harvest/products/vibra-stop-plus-sem-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-plus-sem-chapa.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-quadrupla": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-quadrupla?model=quadrupla&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:37:35.134Z",
+      "productFile": "data/harvest/products/vibra-stop-quadrupla.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-quadrupla.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-vip": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-quadrupla-vip?model=vip&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:37:52.406Z",
+      "productFile": "data/harvest/products/vibra-stop-vip.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-vip.json",
+      "checks": {
+        "variants": 4,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-com-2-chapas": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=com-2-chapas&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:38:09.357Z",
+      "productFile": "data/harvest/products/vibra-stop-com-2-chapas.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-com-2-chapas.json",
+      "checks": {
+        "variants": 12,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-com-chapa": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=com-chapa&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:38:24.979Z",
+      "productFile": "data/harvest/products/vibra-stop-com-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-com-chapa.json",
+      "checks": {
+        "variants": 12,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-sismica": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:38:58.066Z",
+      "productFile": "data/harvest/products/vibra-stop-sismica.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-sismica.json",
+      "checks": {
+        "variants": 12,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-sismica-plus": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica-plus&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:39:13.562Z",
+      "productFile": "data/harvest/products/vibra-stop-sismica-plus.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-sismica-plus.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-sismica-vip": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica-vip&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:39:27.656Z",
+      "productFile": "data/harvest/products/vibra-stop-sismica-vip.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-sismica-vip.json",
+      "checks": {
+        "variants": 4,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-tracao-premium": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao-premium?model=tracao-premium&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:39:42.123Z",
+      "productFile": "data/harvest/products/vibra-stop-tracao-premium.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-tracao-premium.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-mola-simples-sem-chapa": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=sem-chapa&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:40:38.067Z",
+      "productFile": "data/harvest/products/vibra-stop-mola-simples-sem-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-mola-simples-sem-chapa.json",
+      "checks": {
+        "variants": 12,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
       }
     }
   }

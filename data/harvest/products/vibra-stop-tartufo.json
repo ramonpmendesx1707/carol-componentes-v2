@@ -1,0 +1,100 @@
+{
+  "id": 200031,
+  "slug": "vibra-stop-tartufo",
+  "name": "Vibra-Stop Tartufo",
+  "sku": "Tartufo",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tartufo?model=tartufo&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para equipamentos que utilizam cilindros de borracha como elementos amortecedores, entre outros.",
+  "description": "<p>Ideais para equipamentos que utilizam cilindros de borracha como elementos amortecedores, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/tartufo/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/tartufo/foto-1.png",
+    "/images/products/vibra-stop/tartufo/foto-2.jpg",
+    "/images/products/vibra-stop/tartufo/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Borracha Natural."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240122,
+      "sku": "TARTUFO",
+      "label": "TARTUFO",
+      "attributes": [
+        {
+          "name": "Capacidade à Compressão (Kgf)",
+          "value": "200 a 2000"
+        },
+        {
+          "name": "Altura Total (mm)",
+          "value": "135"
+        },
+        {
+          "name": "Material elastômero",
+          "value": "Borracha Natural"
+        },
+        {
+          "name": "Diâmetro Externo (mm)",
+          "value": "130"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/tartufo/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Tartufo.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade à Compressão (Kgf)",
+        "Altura Total (mm)",
+        "Material elastômero",
+        "Diâmetro Externo (mm)"
+      ],
+      "rows": [
+        [
+          "TARTUFO",
+          "200 a 2000",
+          "135",
+          "Borracha Natural",
+          "130"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/tartufo/aplicacao-4.png",
+        "/images/products/vibra-stop/tartufo/aplicacao-5.png",
+        "/images/products/vibra-stop/tartufo/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

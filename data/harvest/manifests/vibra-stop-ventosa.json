@@ -1,0 +1,313 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-ventosa?model=ventosa&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:34:34.165Z",
+  "product": {
+    "id": 200033,
+    "slug": "vibra-stop-ventosa",
+    "name": "Vibra-Stop Ventosa",
+    "sku": "Ventosa",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-ventosa?model=ventosa&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para cortadores de frios, mesas, armários, equipamentos instalados em superfícies lisas, entre outros.",
+    "description": "<p>Ideais para cortadores de frios, mesas, armários, equipamentos instalados em superfícies lisas, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/ventosa/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/ventosa/foto-1.png",
+      "/images/products/vibra-stop/ventosa/foto-2.png",
+      "/images/products/vibra-stop/ventosa/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural, Aço Carbono Zincado ou Opção em Inox."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240133,
+        "sku": "VT I",
+        "label": "VT I",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "5 a 25"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "3,85/25"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "1/4”, 5/16”"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "40"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "20"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "40"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240134,
+        "sku": "VT II",
+        "label": "VT II",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "25 a 40"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "5,11/40"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/16”, 3/8”"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "35"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "60"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240135,
+        "sku": "VT III",
+        "label": "VT III",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "40 a 60"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "5,7/60"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\""
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "40"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "80"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240136,
+        "sku": "VT IV",
+        "label": "VT IV",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "60 a 150"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "4,68/150"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "1/2\", M12"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "90"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "50"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "150"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/ventosa/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Ventosa.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vídeo apresentado pelo fabricante",
+        "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-ventosa.mp4",
+        "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-ventosa.mp4",
+        "hosted": false,
+        "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+      }
+    ],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Altura ((H) mm)",
+          "Altura ((h) mm)",
+          "Diâmetro ((D) mm)"
+        ],
+        "rows": [
+          [
+            "VT I",
+            "5 a 25",
+            "3,85/25",
+            "1/4”, 5/16”",
+            "40",
+            "20",
+            "40"
+          ],
+          [
+            "VT II",
+            "25 a 40",
+            "5,11/40",
+            "5/16”, 3/8”",
+            "65",
+            "35",
+            "60"
+          ],
+          [
+            "VT III",
+            "40 a 60",
+            "5,7/60",
+            "3/8”, 1/2\"",
+            "70",
+            "40",
+            "80"
+          ],
+          [
+            "VT IV",
+            "60 a 150",
+            "4,68/150",
+            "1/2\", M12",
+            "90",
+            "50",
+            "150"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/ventosa/aplicacao-4.png",
+          "/images/products/vibra-stop/ventosa/aplicacao-5.png",
+          "/images/products/vibra-stop/ventosa/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/ventosa/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/VENTOSA/Ventosa%201.1.png",
+      "bytes": 85594,
+      "sha256": "30d90dc868b4038c878efa01fa2792b4cb70a71f8393f1e9d92683066c9be948",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/ventosa/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/VENTOSA/Ventosa%201.2.png",
+      "bytes": 95441,
+      "sha256": "1ac8e9df5bad513b338ff75ebfdc33164b283e4be85b77f2df7a9a507bcab79e",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/ventosa/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/VENTOSA/Ventosa%201.0.png",
+      "bytes": 76017,
+      "sha256": "fa7a5251dbbc673618da1da94c2b80ad9d4c92131c7eb01af594f505b400c013",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/ventosa/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/VENTOSA/Ventosa%201.0.png",
+      "bytes": 325390,
+      "sha256": "4b2c37a65ae15bff71ae555cd4e550888f770a3e74404ecf8937b2845500460a",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/ventosa/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/VENTOSA/Ventosa%201.1.png",
+      "bytes": 98718,
+      "sha256": "27a999f063c7ed1189c1436cb381463817cfe1c789a4ec94a3ac685f28319b83",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/ventosa/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/VENTOSA/Manual%20de%20Instalacao%20-%20VENTOSA.png",
+      "bytes": 165752,
+      "sha256": "6286f2970a35551b2d7aa0e2be7531fc8178c7e49e479dab2a4e9af6670b591b",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/ventosa/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Ventosa.pdf",
+      "bytes": 1368777,
+      "sha256": "26afc41c144c61bdd335b5642b7ae309a45d336c431ce66b3d25f1b5bceec75a",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "ventosa",
+    "tableRows": 4,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 1,
+    "manualReviewRequired": true
+  }
+}

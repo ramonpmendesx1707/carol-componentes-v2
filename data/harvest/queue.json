@@ -437,325 +437,445 @@
       "kind": "model",
       "name": "Quad",
       "url": "https://www.vibra-stop.com.br/produto/linha-quad?model=quad&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-quad?model=quad&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:33:09.789Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-quad.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-quad.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-quad.json"
     },
     "vibra-stop-3a59ea5782c3": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Ret",
       "url": "https://www.vibra-stop.com.br/produto/linha-ret?model=ret&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-ret?model=ret&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:33:25.143Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-ret.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-ret.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-ret.json"
     },
     "vibra-stop-ba04a50107d0": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Slim",
       "url": "https://www.vibra-stop.com.br/produto/linha-slim?model=slim&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-slim?model=slim&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:33:40.878Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-slim.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-slim.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-slim.json"
     },
     "vibra-stop-09dcb594e1d0": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Tartufo",
       "url": "https://www.vibra-stop.com.br/produto/linha-tartufo?model=tartufo&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-tartufo?model=tartufo&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:33:57.676Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-tartufo.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-tartufo.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-tartufo.json"
     },
     "vibra-stop-6a8763b8c2ed": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Tub",
       "url": "https://www.vibra-stop.com.br/produto/linha-tub?model=tub&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-tub?model=tub&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:34:12.399Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-tub.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-tub.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-tub.json"
     },
     "vibra-stop-b0f9eeb8a780": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Ventosa",
       "url": "https://www.vibra-stop.com.br/produto/linha-ventosa?model=ventosa&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-ventosa?model=ventosa&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:34:34.170Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-ventosa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-ventosa.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-ventosa.json"
     },
     "vibra-stop-10f68af7393b": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "VS",
       "url": "https://www.vibra-stop.com.br/produto/linha-vs?model=vs&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-vs?model=vs&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:34:50.045Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-vs.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-vs.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-vs.json"
     },
     "vibra-stop-419d12205d6b": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Pendural",
       "url": "https://www.vibra-stop.com.br/produto/linha-pendural?model=pendural&language=pt-BR",
-      "status": "pending",
+      "status": "blocked",
       "page": 1,
       "cursor": null,
       "discoveredProductUrls": [],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:34:55.814Z",
+      "note": "Error: Tabela técnica ausente ou incompleta."
     },
     "vibra-stop-4f801479585c": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Mola Dupla",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-dupla?model=dupla&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-dupla?model=dupla&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:35:11.906Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-dupla.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-dupla.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-dupla.json"
     },
     "vibra-stop-d6cc89554464": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Komp",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-komp?model=komp&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-komp?model=komp&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:35:27.215Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-komp.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-komp.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-komp.json"
     },
     "vibra-stop-0f540ccf4f96": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Komp Dupla",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-komp?model=komp-dupla&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-komp?model=komp-dupla&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:35:50.262Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-komp-dupla.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-komp-dupla.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-komp-dupla.json"
     },
     "vibra-stop-cdb9eb3a24e2": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Mola Óctupla",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-octupla?model=octupla&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-octupla?model=octupla&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:36:05.567Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-octupla.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-octupla.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-octupla.json"
     },
     "vibra-stop-58211e3d2bf9": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Plus Com 2 Chapas",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-com-2-chapas&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-com-2-chapas&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:36:22.379Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-plus-com-2-chapas.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-plus-com-2-chapas.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-plus-com-2-chapas.json"
     },
     "vibra-stop-a6813f75f571": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Plus Com Chapa",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-com-chapa&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-com-chapa&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:36:38.587Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-plus-com-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-plus-com-chapa.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-plus-com-chapa.json"
     },
     "vibra-stop-894c92863438": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Plus Dupla",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-dupla&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-dupla&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:36:55.193Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-plus-dupla.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-plus-dupla.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-plus-dupla.json"
     },
     "vibra-stop-fe7f27813a29": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Plus Sem Chapa",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-sem-chapa&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-sem-chapa&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:37:19.383Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-plus-sem-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-plus-sem-chapa.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-plus-sem-chapa.json"
     },
     "vibra-stop-c7fb3b1418dd": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Mola Quádrupla",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-quadrupla?model=quadrupla&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-quadrupla?model=quadrupla&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:37:35.133Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-quadrupla.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-quadrupla.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-quadrupla.json"
     },
     "vibra-stop-a85de96eb959": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Mola Quádrupla Vip",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-quadrupla-vip?model=vip&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-quadrupla-vip?model=vip&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:37:52.406Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-vip.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-vip.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-vip.json"
     },
     "vibra-stop-ebb07b02e1e8": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Com 2 Chapas",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=com-2-chapas&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=com-2-chapas&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:38:09.357Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-com-2-chapas.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-com-2-chapas.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-com-2-chapas.json"
     },
     "vibra-stop-f5e3ea56168d": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Com Chapa",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=com-chapa&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=com-chapa&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:38:24.979Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-com-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-com-chapa.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-com-chapa.json"
     },
     "vibra-stop-2a4c8b11eec8": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Sem Chapa",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=sem-chapa&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=sem-chapa&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:40:38.067Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-mola-simples-sem-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-mola-simples-sem-chapa.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-mola-simples-sem-chapa.json"
     },
     "vibra-stop-774c064add97": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Sísmica",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:38:58.066Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-sismica.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-sismica.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-sismica.json"
     },
     "vibra-stop-b7af8179f105": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Sísmica Plus",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica-plus&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica-plus&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:39:13.562Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-sismica-plus.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-sismica-plus.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-sismica-plus.json"
     },
     "vibra-stop-d9af06d492fe": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Sísmica Vip",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica-vip&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica-vip&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:39:27.656Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-sismica-vip.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-sismica-vip.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-sismica-vip.json"
     },
     "vibra-stop-476bd70f9b73": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Tração Premium",
       "url": "https://www.vibra-stop.com.br/produto/linha-mola-tracao-premium?model=tracao-premium&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-mola-tracao-premium?model=tracao-premium&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:39:42.123Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-tracao-premium.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-tracao-premium.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-tracao-premium.json"
     },
     "vibra-stop-0236c87406c9": {
       "supplier": "vibra-stop",

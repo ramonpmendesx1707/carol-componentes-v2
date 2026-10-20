@@ -1,0 +1,206 @@
+{
+  "id": 200034,
+  "slug": "vibra-stop-vs",
+  "name": "Vibra-Stop VS",
+  "sku": "VS",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-vs?model=vs&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para móveis em geral, bancadas, equipamentos de pequeno porte, entre outros.",
+  "description": "<p>Ideais para móveis em geral, bancadas, equipamentos de pequeno porte, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/vs/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/vs/foto-1.png",
+    "/images/products/vibra-stop/vs/foto-2.png",
+    "/images/products/vibra-stop/vs/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Borracha Natural, Aço Carbono Zincado ou Opção em Inox."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240137,
+      "sku": "VS1",
+      "label": "VS1",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "5 a 10"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "0,77/10"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "3/16”, 1/4”"
+        },
+        {
+          "name": "Altura ((h) mm)",
+          "value": "8"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "26"
+        },
+        {
+          "name": "Diâmetro Externo ((D) mm)",
+          "value": "20"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240138,
+      "sku": "VS2",
+      "label": "VS2",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "10 a 20"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "0,73/20"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/16”, 1/4”"
+        },
+        {
+          "name": "Altura ((h) mm)",
+          "value": "10"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "32"
+        },
+        {
+          "name": "Diâmetro Externo ((D) mm)",
+          "value": "30"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240139,
+      "sku": "VS3",
+      "label": "VS3",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "20 a 40"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "1,4/40"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "1/4”, 5/16\", 3/8”"
+        },
+        {
+          "name": "Altura ((h) mm)",
+          "value": "14"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "39"
+        },
+        {
+          "name": "Diâmetro Externo ((D) mm)",
+          "value": "40"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/vs/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20VS.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Vídeo apresentado pelo fabricante",
+      "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-vs.mp4",
+      "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-vs.mp4",
+      "hosted": false,
+      "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+    }
+  ],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Parafuso ((d))",
+        "Altura ((h) mm)",
+        "Altura ((H) mm)",
+        "Diâmetro Externo ((D) mm)"
+      ],
+      "rows": [
+        [
+          "VS1",
+          "5 a 10",
+          "0,77/10",
+          "3/16”, 1/4”",
+          "8",
+          "26",
+          "20"
+        ],
+        [
+          "VS2",
+          "10 a 20",
+          "0,73/20",
+          "5/16”, 1/4”",
+          "10",
+          "32",
+          "30"
+        ],
+        [
+          "VS3",
+          "20 a 40",
+          "1,4/40",
+          "1/4”, 5/16\", 3/8”",
+          "14",
+          "39",
+          "40"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/vs/aplicacao-4.png",
+        "/images/products/vibra-stop/vs/aplicacao-5.png",
+        "/images/products/vibra-stop/vs/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

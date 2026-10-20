@@ -1,0 +1,318 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-ret?model=ret&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:33:25.140Z",
+  "product": {
+    "id": 200029,
+    "slug": "vibra-stop-ret",
+    "name": "Vibra-Stop Ret",
+    "sku": "Ret",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-ret?model=ret&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para aplicações em motores, grupo geradores, condensadoras de ar condicionado, equipamentos de pequeno e médio portes que necessitem de fixação inferior, entre outros.",
+    "description": "<p>Ideais para aplicações em motores, grupo geradores, condensadoras de ar condicionado, equipamentos de pequeno e médio portes que necessitem de fixação inferior, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/ret/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/ret/foto-1.png",
+      "/images/products/vibra-stop/ret/foto-2.png",
+      "/images/products/vibra-stop/ret/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural, Aço Carbono Zincado ou Opção em Inox."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240113,
+        "sku": "RET1",
+        "label": "RET1",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "30 a 200"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "10 a 40"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "7,34/200"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8” x 40 mm"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "40"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "10 a 40"
+          },
+          {
+            "name": "Distância entre Furos ((t) mm)",
+            "value": "72"
+          },
+          {
+            "name": "Diâmetro da Furação ((f) mm)",
+            "value": "8"
+          },
+          {
+            "name": "Largura ((b) mm)",
+            "value": "50"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240114,
+        "sku": "RET2",
+        "label": "RET2",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "200 a 500"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "40 a 100"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "17,83/500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8” x 50 mm"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "56"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "40 a 100"
+          },
+          {
+            "name": "Distância entre Furos ((t) mm)",
+            "value": "100"
+          },
+          {
+            "name": "Diâmetro da Furação ((f) mm)",
+            "value": "10"
+          },
+          {
+            "name": "Largura ((b) mm)",
+            "value": "70"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240115,
+        "sku": "RET3",
+        "label": "RET3",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "500 a 1000"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "100 a 200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "25,74/1000"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8” x 65 mm"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "72"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "100 a 200"
+          },
+          {
+            "name": "Distância entre Furos ((t) mm)",
+            "value": "130"
+          },
+          {
+            "name": "Diâmetro da Furação ((f) mm)",
+            "value": "10"
+          },
+          {
+            "name": "Largura ((b) mm)",
+            "value": "86"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/ret/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Ret.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vídeo apresentado pelo fabricante",
+        "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-ret.mp4",
+        "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-ret.mp4",
+        "hosted": false,
+        "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+      }
+    ],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade à Compressão (Kgf)",
+          "Capacidade à Tração (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Altura ((H) mm)",
+          "Capacidade ao Cisalhamento (Kgf)",
+          "Distância entre Furos ((t) mm)",
+          "Diâmetro da Furação ((f) mm)",
+          "Largura ((b) mm)"
+        ],
+        "rows": [
+          [
+            "RET1",
+            "30 a 200",
+            "10 a 40",
+            "7,34/200",
+            "3/8” x 40 mm",
+            "40",
+            "10 a 40",
+            "72",
+            "8",
+            "50"
+          ],
+          [
+            "RET2",
+            "200 a 500",
+            "40 a 100",
+            "17,83/500",
+            "3/8” x 50 mm",
+            "56",
+            "40 a 100",
+            "100",
+            "10",
+            "70"
+          ],
+          [
+            "RET3",
+            "500 a 1000",
+            "100 a 200",
+            "25,74/1000",
+            "3/8” x 65 mm",
+            "72",
+            "100 a 200",
+            "130",
+            "10",
+            "86"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/ret/aplicacao-4.png",
+          "/images/products/vibra-stop/ret/aplicacao-5.png",
+          "/images/products/vibra-stop/ret/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/ret/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/RET/RET%201.1.png",
+      "bytes": 78621,
+      "sha256": "e805e4d328d5e24a9a7947316ab42531753f3d32288bf2b490d5b3cfef673a03",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/ret/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/RET/RET%201.2.png",
+      "bytes": 78881,
+      "sha256": "e330de2ea83d14a4d2f5423f2b4e1cf5a66397295eee60dfadf00694f03bc503",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/ret/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/RET/RET%201.0.png",
+      "bytes": 80999,
+      "sha256": "10c16dd80906467efec36e63e10344c78513122688231cf7f12f6472a4fa50ae",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/ret/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/RET/RET%201.0.png",
+      "bytes": 155642,
+      "sha256": "0691a0ab217a08105543c6ca3dbb0d3f2a4445a787634038507b4a8384f7f908",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/ret/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/RET/RET%201.1.png",
+      "bytes": 92019,
+      "sha256": "690dddaadfd7933fc36b1755ea76afeb9399f62d7dff831100ace44b0aed2e43",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/ret/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/RET/Manual%20de%20Instalacao%20-%20RET.png",
+      "bytes": 246078,
+      "sha256": "233230ea7e6e56fa7ad49485b1aabab46930542ab14edd45c619d61252417f95",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/ret/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Ret.pdf",
+      "bytes": 1387103,
+      "sha256": "23822c55e9f2ccceb612e8e95d4e8c9bda80a5ec1d3b5b79f619c4a06237b133",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "ret",
+    "tableRows": 3,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 1,
+    "manualReviewRequired": true
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "id": 200032,
+  "slug": "vibra-stop-tub",
+  "name": "Vibra-Stop Tub",
+  "sku": "Tub",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tub?model=tub&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para aplicações em tubos cilíndricos.",
+  "description": "<p>Ideais para aplicações em tubos cilíndricos.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/tub/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/tub/foto-1.png",
+    "/images/products/vibra-stop/tub/foto-2.png",
+    "/images/products/vibra-stop/tub/foto-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Borracha Natural."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240123,
+      "sku": "TUB1",
+      "label": "TUB1",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "10"
+        },
+        {
+          "name": "Altura Interno ((h) mm)",
+          "value": "15"
+        },
+        {
+          "name": "Altura Externo ((H) mm)",
+          "value": "18"
+        },
+        {
+          "name": "Diâmetro Externo ((D) mm)",
+          "value": "15"
+        },
+        {
+          "name": "Diâmetro Interno ((d) mm)",
+          "value": "13"
+        },
+        {
+          "name": "Diâmetro Tubo",
+          "value": "3/8”"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240124,
+      "sku": "TUB2",
+      "label": "TUB2",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "15"
+        },
+        {
+          "name": "Altura Interno ((h) mm)",
+          "value": "15"
+        },
+        {
+          "name": "Altura Externo ((H) mm)",
+          "value": "20"
+        },
+        {
+          "name": "Diâmetro Externo ((D) mm)",
+          "value": "18"
+        },
+        {
+          "name": "Diâmetro Interno ((d) mm)",
+          "value": "16"
+        },
+        {
+          "name": "Diâmetro Tubo",
+          "value": "1/2\""
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240125,
+      "sku": "TUB3",
+      "label": "TUB3",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "20"
+        },
+        {
+          "name": "Altura Interno ((h) mm)",
+          "value": "14"
+        },
+        {
+          "name": "Altura Externo ((H) mm)",
+          "value": "20"
+        },
+        {
+          "name": "Diâmetro Externo ((D) mm)",
+          "value": "20"
+        },
+        {
+          "name": "Diâmetro Interno ((d) mm)",
+          "value": "19"
+        },
+        {
+          "name": "Diâmetro Tubo",
+          "value": "5/8”"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240126,
+      "sku": "TUB4",
+      "label": "TUB4",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "30"
+        },
+        {
+          "name": "Altura Interno ((h) mm)",
+          "value": "20"
+        },
+        {
+          "name": "Altura Externo ((H) mm)",
+          "value": "24"
+        },
+        {
+          "name": "Diâmetro Externo ((D) mm)",
+          "value": "25"
+        },
+        {
+          "name": "Diâmetro Interno ((d) mm)",
+          "value": "25"
+        },
+        {
+          "name": "Diâmetro Tubo",
+          "value": "3/4\""
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240127,
+      "sku": "TUB5",
+      "label": "TUB5",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "40"
+        },
+        {
+          "name": "Altura Interno ((h) mm)",
+          "value": "24"
+        },
+        {
+          "name": "Altura Externo ((H) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Diâmetro Externo ((D) mm)",
+          "value": "31"
+        },
+        {
+          "name": "Diâmetro Interno ((d) mm)",
+          "value": "33"
+        },
+        {
+          "name": "Diâmetro Tubo",
+          "value": "1”"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240128,
+      "sku": "TUB6",
+      "label": "TUB6",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "45"
+        },
+        {
+          "name": "Altura Interno ((h) mm)",
+          "value": "34"
+        },
+        {
+          "name": "Altura Externo ((H) mm)",
+          "value": "40"
+        },
+        {
+          "name": "Diâmetro Externo ((D) mm)",
+          "value": "37"
+        },
+        {
+          "name": "Diâmetro Interno ((d) mm)",
+          "value": "37"
+        },
+        {
+          "name": "Diâmetro Tubo",
+          "value": "1 1/4\""
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240129,
+      "sku": "TUB7",
+      "label": "TUB7",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "50"
+        },
+        {
+          "name": "Altura Interno ((h) mm)",
+          "value": "36"
+        },
+        {
+          "name": "Altura Externo ((H) mm)",
+          "value": "45"
+        },
+        {
+          "name": "Diâmetro Externo ((D) mm)",
+          "value": "44"
+        },
+        {
+          "name": "Diâmetro Interno ((d) mm)",
+          "value": "50"
+        },
+        {
+          "name": "Diâmetro Tubo",
+          "value": "1.1/2”"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240130,
+      "sku": "TUB8",
+      "label": "TUB8",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "65"
+        },
+        {
+          "name": "Altura Interno ((h) mm)",
+          "value": "48"
+        },
+        {
+          "name": "Altura Externo ((H) mm)",
+          "value": "57"
+        },
+        {
+          "name": "Diâmetro Externo ((D) mm)",
+          "value": "57"
+        },
+        {
+          "name": "Diâmetro Interno ((d) mm)",
+          "value": "76"
+        },
+        {
+          "name": "Diâmetro Tubo",
+          "value": "2”"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240131,
+      "sku": "TUB9",
+      "label": "TUB9",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "80"
+        },
+        {
+          "name": "Altura Interno ((h) mm)",
+          "value": "68"
+        },
+        {
+          "name": "Altura Externo ((H) mm)",
+          "value": "82"
+        },
+        {
+          "name": "Diâmetro Externo ((D) mm)",
+          "value": "83"
+        },
+        {
+          "name": "Diâmetro Interno ((d) mm)",
+          "value": "22"
+        },
+        {
+          "name": "Diâmetro Tubo",
+          "value": "3”"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240132,
+      "sku": "TUB10",
+      "label": "TUB10",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "25"
+        },
+        {
+          "name": "Altura Interno ((h) mm)",
+          "value": "24"
+        },
+        {
+          "name": "Altura Externo ((H) mm)",
+          "value": "28"
+        },
+        {
+          "name": "Diâmetro Externo ((D) mm)",
+          "value": "28"
+        },
+        {
+          "name": "Diâmetro Interno ((d) mm)",
+          "value": ""
+        },
+        {
+          "name": "Diâmetro Tubo",
+          "value": "7/8”"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/tub/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Tub.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Vídeo apresentado pelo fabricante",
+      "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tub-quad.mp4",
+      "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tub-quad.mp4",
+      "hosted": false,
+      "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+    }
+  ],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Altura Interno ((h) mm)",
+        "Altura Externo ((H) mm)",
+        "Diâmetro Externo ((D) mm)",
+        "Diâmetro Interno ((d) mm)",
+        "Diâmetro Tubo"
+      ],
+      "rows": [
+        [
+          "TUB1",
+          "10",
+          "15",
+          "18",
+          "15",
+          "13",
+          "3/8”"
+        ],
+        [
+          "TUB2",
+          "15",
+          "15",
+          "20",
+          "18",
+          "16",
+          "1/2\""
+        ],
+        [
+          "TUB3",
+          "20",
+          "14",
+          "20",
+          "20",
+          "19",
+          "5/8”"
+        ],
+        [
+          "TUB4",
+          "30",
+          "20",
+          "24",
+          "25",
+          "25",
+          "3/4\""
+        ],
+        [
+          "TUB5",
+          "40",
+          "24",
+          "30",
+          "31",
+          "33",
+          "1”"
+        ],
+        [
+          "TUB6",
+          "45",
+          "34",
+          "40",
+          "37",
+          "37",
+          "1 1/4\""
+        ],
+        [
+          "TUB7",
+          "50",
+          "36",
+          "45",
+          "44",
+          "50",
+          "1.1/2”"
+        ],
+        [
+          "TUB8",
+          "65",
+          "48",
+          "57",
+          "57",
+          "76",
+          "2”"
+        ],
+        [
+          "TUB9",
+          "80",
+          "68",
+          "82",
+          "83",
+          "22",
+          "3”"
+        ],
+        [
+          "TUB10",
+          "25",
+          "24",
+          "28",
+          "28",
+          "",
+          "7/8”"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/tub/aplicacao-4.png",
+        "/images/products/vibra-stop/tub/aplicacao-5.png",
+        "/images/products/vibra-stop/tub/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

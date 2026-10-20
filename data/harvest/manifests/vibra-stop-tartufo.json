@@ -1,0 +1,164 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tartufo?model=tartufo&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:33:57.674Z",
+  "product": {
+    "id": 200031,
+    "slug": "vibra-stop-tartufo",
+    "name": "Vibra-Stop Tartufo",
+    "sku": "Tartufo",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tartufo?model=tartufo&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para equipamentos que utilizam cilindros de borracha como elementos amortecedores, entre outros.",
+    "description": "<p>Ideais para equipamentos que utilizam cilindros de borracha como elementos amortecedores, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/tartufo/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/tartufo/foto-1.png",
+      "/images/products/vibra-stop/tartufo/foto-2.jpg",
+      "/images/products/vibra-stop/tartufo/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240122,
+        "sku": "TARTUFO",
+        "label": "TARTUFO",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "200 a 2000"
+          },
+          {
+            "name": "Altura Total (mm)",
+            "value": "135"
+          },
+          {
+            "name": "Material elastômero",
+            "value": "Borracha Natural"
+          },
+          {
+            "name": "Diâmetro Externo (mm)",
+            "value": "130"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/tartufo/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Tartufo.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade à Compressão (Kgf)",
+          "Altura Total (mm)",
+          "Material elastômero",
+          "Diâmetro Externo (mm)"
+        ],
+        "rows": [
+          [
+            "TARTUFO",
+            "200 a 2000",
+            "135",
+            "Borracha Natural",
+            "130"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/tartufo/aplicacao-4.png",
+          "/images/products/vibra-stop/tartufo/aplicacao-5.png",
+          "/images/products/vibra-stop/tartufo/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/tartufo/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/TARTUFO/Tartufo%201.1.png",
+      "bytes": 107917,
+      "sha256": "d1fd4f7b9ca18612c751d90fd252a8564264961c4b282a564740d801eb378ce1",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tartufo/foto-2.jpg",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/TARTUFO/Tartufo%201.2.jpg",
+      "bytes": 24491,
+      "sha256": "c8afb24a60745695e5620701598ec0dc8dc5d2bcb661343dbb9561b0a98a60a6",
+      "contentType": "image/jpeg"
+    },
+    {
+      "path": "/images/products/vibra-stop/tartufo/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/TARTUFO/Tartufo%201.0.png",
+      "bytes": 119103,
+      "sha256": "35e2661d4c26d2e3235990333e9b83d2afb08461b990f73deeab78386deb1ca3",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tartufo/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TARTUFO/Tartufo%201.0.png",
+      "bytes": 310120,
+      "sha256": "e6826a69e5f6a89d7289d3c447ca6fa9c442f9c92581dd5cf05dd5e7ca5ed1a4",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tartufo/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TARTUFO/Tartufo%201.1.png",
+      "bytes": 183010,
+      "sha256": "a5b4f93fdea49059aab7d6957370ee0055752b168dfb716d1bd5a942c5ea1973",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tartufo/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/TARTUFO/Manual%20de%20Instalacao%20-%20TARTUFO.png",
+      "bytes": 146197,
+      "sha256": "a9062a562a78c61027a12970708b035428a48cdaf9af8548ca4a1e76b41165e1",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/tartufo/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Tartufo.pdf",
+      "bytes": 553418,
+      "sha256": "3b07ccb56f39b0bc80016f923472f8723374fd3521d1b1718ce5792e3206d32b",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "tartufo",
+    "tableRows": 1,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true
+  }
+}

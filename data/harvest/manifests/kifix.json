@@ -23,7 +23,8 @@
     "images": [
       "/images/products/kifix/base-elevada/1.png",
       "/images/products/kifix/base-elevada/2.png",
-      "/images/products/kifix/base-elevada/3.png"
+      "/images/products/kifix/base-elevada/3.png",
+      "/images/products/kifix/base-elevada/desenho-tecnico.jpg"
     ],
     "attributes": [],
     "weight": "",
@@ -588,15 +589,7 @@
         "image": null
       }
     ],
-    "documents": [
-      {
-        "title": "Desenhos por referência (login exigido pelo fabricante)",
-        "url": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-elevada/",
-        "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-elevada/",
-        "kind": "restricted",
-        "note": "Não contornar o login; solicitar o arquivo ao fornecedor."
-      }
-    ],
+    "documents": [],
     "videos": [],
     "technicalSections": [
       {
@@ -763,6 +756,13 @@
             "1,085 (2,39)"
           ]
         ]
+      },
+      {
+        "title": "Desenho técnico da Base Elevada",
+        "images": [
+          "/images/products/kifix/base-elevada/desenho-tecnico.jpg"
+        ],
+        "note": "Esquema dimensional da família MS BE; confira as medidas da referência selecionada na tabela."
       }
     ],
     "homepage": true
@@ -785,11 +785,19 @@
       "bytes": 187716,
       "sha256": "6d306ff4db137c3d719590d2e936529694e75be75e6ff050d1afdcd0e385a2c6",
       "sourceUrl": "https://www.kifix.com.br/fotos_produtos/791_Base_felevada_100.png"
+    },
+    {
+      "path": "/images/products/kifix/base-elevada/desenho-tecnico.jpg",
+      "bytes": 1102081,
+      "sha256": "2f0ec1674cf8656bcc891cad2dc4fa018291ed1eecfb03e2b1baf1691cba8e6d",
+      "sourceUrl": "https://www.kifix.com.br/desenhos_produtos/405_desenho_tec_Prancheta_1.jpg"
     }
   ],
   "checks": {
     "variants": 9,
     "drawings": "restrito a usuário autenticado",
-    "rows": 9
+    "rows": 9,
+    "publicSchematic": "downloaded locally",
+    "restrictedPerReferenceDrawings": "not shown in V2"
   }
 }

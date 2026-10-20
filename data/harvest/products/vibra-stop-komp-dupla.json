@@ -1,0 +1,458 @@
+{
+  "id": 200037,
+  "slug": "vibra-stop-komp-dupla",
+  "name": "Vibra-Stop Mola Komp Dupla",
+  "sku": "Komp Dupla",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-komp?model=komp-dupla&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para tanques, ventiladores, misturadores, grupo gerador, entre outros.",
+  "description": "<p>Ideais para tanques, ventiladores, misturadores, grupo gerador, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/komp-dupla/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/komp-dupla/foto-1.png",
+    "/images/products/vibra-stop/komp-dupla/foto-2.png",
+    "/images/products/vibra-stop/komp-dupla/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Aço Carbono Zincado e Borracha Natural."
+    },
+    {
+      "name": "Materiais informados",
+      "value": "Aço Inox Ferro Nodular"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240160,
+      "sku": "MKD200",
+      "label": "MKD200",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "200"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "13,06/200"
+        },
+        {
+          "name": "Parafuso ((f))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "7"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 200"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240161,
+      "sku": "MKD400",
+      "label": "MKD400",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "400"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "19,75/400"
+        },
+        {
+          "name": "Parafuso ((f))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "8,5"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 200"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240162,
+      "sku": "MKD600",
+      "label": "MKD600",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "600"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "31,35/600"
+        },
+        {
+          "name": "Parafuso ((f))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "9,5"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 200"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240163,
+      "sku": "MKD800",
+      "label": "MKD800",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "800"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "30,70/800"
+        },
+        {
+          "name": "Parafuso ((f))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "10"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 200"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240164,
+      "sku": "MKD1000",
+      "label": "MKD1000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "1000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "28,59/1.000"
+        },
+        {
+          "name": "Parafuso ((f))",
+          "value": "3/8”, 1/2\", 5/8”, 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "10,5"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 200"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240165,
+      "sku": "MKD1400",
+      "label": "MKD1400",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "1400"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "37,6/14000"
+        },
+        {
+          "name": "Parafuso ((f))",
+          "value": "3/8\", 1/2\", 5/8\", 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "12"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 200"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240166,
+      "sku": "MKD2000",
+      "label": "MKD2000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "2000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "23,39/2.000"
+        },
+        {
+          "name": "Parafuso ((f))",
+          "value": "3/8\", 1/2\", 5/8\", 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "13,2"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 200"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240167,
+      "sku": "MKD3000",
+      "label": "MKD3000",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "3000"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "23,39/3.000"
+        },
+        {
+          "name": "Parafuso ((f))",
+          "value": "3/8\", 1/2\", 5/8\", 3/4\""
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "155"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "14,2"
+        },
+        {
+          "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "value": "10 x 200"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/komp-dupla/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Komp%20Dupla.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Parafuso ((f))",
+        "Altura Total ((H) mm)",
+        "Diâmetro Externo Batente ((D) mm)",
+        "Diâmetro do Arame da Mola ((a) mm)",
+        "Diâm. do Furo/Dist. entre Furos ((f x t) mm)"
+      ],
+      "rows": [
+        [
+          "MKD200",
+          "200",
+          "13,06/200",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "155",
+          "70",
+          "7",
+          "10 x 200"
+        ],
+        [
+          "MKD400",
+          "400",
+          "19,75/400",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "155",
+          "70",
+          "8,5",
+          "10 x 200"
+        ],
+        [
+          "MKD600",
+          "600",
+          "31,35/600",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "155",
+          "70",
+          "9,5",
+          "10 x 200"
+        ],
+        [
+          "MKD800",
+          "800",
+          "30,70/800",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "155",
+          "70",
+          "10",
+          "10 x 200"
+        ],
+        [
+          "MKD1000",
+          "1000",
+          "28,59/1.000",
+          "3/8”, 1/2\", 5/8”, 3/4\"",
+          "155",
+          "70",
+          "10,5",
+          "10 x 200"
+        ],
+        [
+          "MKD1400",
+          "1400",
+          "37,6/14000",
+          "3/8\", 1/2\", 5/8\", 3/4\"",
+          "155",
+          "70",
+          "12",
+          "10 x 200"
+        ],
+        [
+          "MKD2000",
+          "2000",
+          "23,39/2.000",
+          "3/8\", 1/2\", 5/8\", 3/4\"",
+          "155",
+          "70",
+          "13,2",
+          "10 x 200"
+        ],
+        [
+          "MKD3000",
+          "3000",
+          "23,39/3.000",
+          "3/8\", 1/2\", 5/8\", 3/4\"",
+          "155",
+          "70",
+          "14,2",
+          "10 x 200"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/komp-dupla/aplicacao-4.png",
+        "/images/products/vibra-stop/komp-dupla/aplicacao-5.png",
+        "/images/products/vibra-stop/komp-dupla/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

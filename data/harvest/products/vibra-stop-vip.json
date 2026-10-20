@@ -1,0 +1,287 @@
+{
+  "id": 200044,
+  "slug": "vibra-stop-vip",
+  "name": "Vibra-Stop Mola Quádrupla Vip",
+  "sku": "Mola Quádrupla Vip",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-quadrupla-vip?model=vip&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para equipamentos que operam sobre lajes ou estruturas metálicas, painéis elétricos, pequenos quadros de comando, dispositivos de automação leve, unidades compactas de climatização e esmeril, entre outros.",
+  "description": "<p>Ideais para equipamentos que operam sobre lajes ou estruturas metálicas, painéis elétricos, pequenos quadros de comando, dispositivos de automação leve, unidades compactas de climatização e esmeril, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/vip/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/vip/foto-1.png",
+    "/images/products/vibra-stop/vip/foto-2.png",
+    "/images/products/vibra-stop/vip/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Aço Inox e Borracha Natural."
+    },
+    {
+      "name": "Materiais informados",
+      "value": "Aço Inox Ferro Nodular"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240222,
+      "sku": "MQV12",
+      "label": "MQV12",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "12"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,61/3"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/16” x 2,5”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "22"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "2"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "54"
+        },
+        {
+          "name": "Espessura da Manta de Borracha ((b) mm)",
+          "value": "4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240223,
+      "sku": "MQV40",
+      "label": "MQV40",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "40"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,10/10"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/16” x 2,5”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "24"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "3"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "54"
+        },
+        {
+          "name": "Espessura da Manta de Borracha ((b) mm)",
+          "value": "4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240224,
+      "sku": "MQV80",
+      "label": "MQV80",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "80"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,71/20"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/16” x 2,5”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "24"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "3"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "54"
+        },
+        {
+          "name": "Espessura da Manta de Borracha ((b) mm)",
+          "value": "4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240225,
+      "sku": "MQV120",
+      "label": "MQV120",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "120"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,15/30"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/16” x 2,5”"
+        },
+        {
+          "name": "Diâmetro Externo Batente ((D) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Diâmetro Externo Mola ((De) mm)",
+          "value": "25"
+        },
+        {
+          "name": "Diâmetro do Arame da Mola ((a) mm)",
+          "value": "3,5"
+        },
+        {
+          "name": "Altura Chapa a Chapa ((H) mm)",
+          "value": "54"
+        },
+        {
+          "name": "Espessura da Manta de Borracha ((b) mm)",
+          "value": "4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/vip/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Quadrupla%20VIP.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Parafuso ((d))",
+        "Diâmetro Externo Batente ((D) mm)",
+        "Diâmetro Externo Mola ((De) mm)",
+        "Diâmetro do Arame da Mola ((a) mm)",
+        "Altura Chapa a Chapa ((H) mm)",
+        "Espessura da Manta de Borracha ((b) mm)"
+      ],
+      "rows": [
+        [
+          "MQV12",
+          "12",
+          "6,61/3",
+          "5/16” x 2,5”",
+          "30",
+          "22",
+          "2",
+          "54",
+          "4"
+        ],
+        [
+          "MQV40",
+          "40",
+          "6,10/10",
+          "5/16” x 2,5”",
+          "30",
+          "24",
+          "3",
+          "54",
+          "4"
+        ],
+        [
+          "MQV80",
+          "80",
+          "6,71/20",
+          "5/16” x 2,5”",
+          "30",
+          "24",
+          "3",
+          "54",
+          "4"
+        ],
+        [
+          "MQV120",
+          "120",
+          "6,15/30",
+          "5/16” x 2,5”",
+          "30",
+          "25",
+          "3,5",
+          "54",
+          "4"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/vip/aplicacao-4.png",
+        "/images/products/vibra-stop/vip/aplicacao-5.png",
+        "/images/products/vibra-stop/vip/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

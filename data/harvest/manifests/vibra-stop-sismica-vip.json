@@ -1,0 +1,389 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica-vip&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:39:27.654Z",
+  "product": {
+    "id": 200050,
+    "slug": "vibra-stop-sismica-vip",
+    "name": "Vibra-Stop Mola Sísmica Vip",
+    "sku": "Sísmica Vip",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica-vip&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para aplicações que exigem alta proteção contra vibrações multidirecionais, deslocamentos laterais e impactos gerados tanto por movimentações sísmicas quanto por transporte, painéis elétricos, máquinas operatrizes de pequeno porte, entre outros.",
+    "description": "<p>Ideais para aplicações que exigem alta proteção contra vibrações multidirecionais, deslocamentos laterais e impactos gerados tanto por movimentações sísmicas quanto por transporte, painéis elétricos, máquinas operatrizes de pequeno porte, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/sismica-vip/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/sismica-vip/foto-1.png",
+      "/images/products/vibra-stop/sismica-vip/foto-2.png",
+      "/images/products/vibra-stop/sismica-vip/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Aço Inox e Borracha Natural."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240284,
+        "sku": "MSISV3",
+        "label": "MSISV3",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "3"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,61/3"
+          },
+          {
+            "name": "Parafuso ((d) UNC)",
+            "value": "5/16” x 2.1/2”"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "46"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "22"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "2"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 90"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "50 x 60 x 3"
+          },
+          {
+            "name": "Dimensões da chapa ((B x L x e2) mm)",
+            "value": "110 x 60 x 4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240285,
+        "sku": "MSISV10",
+        "label": "MSISV10",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "10"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,10/10"
+          },
+          {
+            "name": "Parafuso ((d) UNC)",
+            "value": "5/16” x 2.1/2”"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "46"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "24"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "3"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 90"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "50 x 60 x 3"
+          },
+          {
+            "name": "Dimensões da chapa ((B x L x e2) mm)",
+            "value": "110 x 60 x 4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240286,
+        "sku": "MSISV20",
+        "label": "MSISV20",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "20"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,71/20"
+          },
+          {
+            "name": "Parafuso ((d) UNC)",
+            "value": "5/16” x 2.1/2”"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "46"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "24"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "3"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 90"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "50 x 60 x 3"
+          },
+          {
+            "name": "Dimensões da chapa ((B x L x e2) mm)",
+            "value": "110 x 60 x 4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240287,
+        "sku": "MSISV30",
+        "label": "MSISV30",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "30"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,15/30"
+          },
+          {
+            "name": "Parafuso ((d) UNC)",
+            "value": "5/16” x 2.1/2”"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "46"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "25"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "3,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 90"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "50 x 60 x 3"
+          },
+          {
+            "name": "Dimensões da chapa ((B x L x e2) mm)",
+            "value": "110 x 60 x 4"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/sismica-vip/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Sismica%20VIP.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d) UNC)",
+          "Altura Total ((H) mm)",
+          "Diâmetro Externo Batente ((D) mm)",
+          "Diâmetro Externo Mola ((De) mm)",
+          "Diâmetro do Arame da Mola ((a) mm)",
+          "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "Dimensões da Caixa ((L x L1 x e1) mm)",
+          "Dimensões da chapa ((B x L x e2) mm)"
+        ],
+        "rows": [
+          [
+            "MSISV3",
+            "3",
+            "6,61/3",
+            "5/16” x 2.1/2”",
+            "46",
+            "30",
+            "22",
+            "2",
+            "10 x 90",
+            "50 x 60 x 3",
+            "110 x 60 x 4"
+          ],
+          [
+            "MSISV10",
+            "10",
+            "6,10/10",
+            "5/16” x 2.1/2”",
+            "46",
+            "30",
+            "24",
+            "3",
+            "10 x 90",
+            "50 x 60 x 3",
+            "110 x 60 x 4"
+          ],
+          [
+            "MSISV20",
+            "20",
+            "6,71/20",
+            "5/16” x 2.1/2”",
+            "46",
+            "30",
+            "24",
+            "3",
+            "10 x 90",
+            "50 x 60 x 3",
+            "110 x 60 x 4"
+          ],
+          [
+            "MSISV30",
+            "30",
+            "6,15/30",
+            "5/16” x 2.1/2”",
+            "46",
+            "30",
+            "25",
+            "3,5",
+            "10 x 90",
+            "50 x 60 x 3",
+            "110 x 60 x 4"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/sismica-vip/aplicacao-4.png",
+          "/images/products/vibra-stop/sismica-vip/aplicacao-5.png",
+          "/images/products/vibra-stop/sismica-vip/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/sismica-vip/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20SISMICA/VIP/MSISVIP%201.1.png",
+      "bytes": 126899,
+      "sha256": "64b6fb0cc2be14494e2a3b07f1091d9dfd1f5849bc4d6f1638ff5b8ea8207b54",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/sismica-vip/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20SISMICA/VIP/MSISVIP%201.2.png",
+      "bytes": 143635,
+      "sha256": "4d84441be8d1a0481585e365727dfb7744c5bc327b66cdd346314fa2ebcd190e",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/sismica-vip/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20SISMICA/VIP/MSISVIP%201.0.png",
+      "bytes": 107042,
+      "sha256": "a05b2b611ce4c026c761efc105be4c468c7f21fea642b2d7a98d0891142976d9",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/sismica-vip/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20SISMICA/MSIS%201.0.png",
+      "bytes": 201837,
+      "sha256": "ea1fcba3362576a8b42b447e4ffbdac52456b77500018286f2699725c8d3eceb",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/sismica-vip/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20SISMICA/MSIS%201.1.png",
+      "bytes": 128502,
+      "sha256": "30ca61bc02180760222ca57144c6a129821e60c69e3d4b04f0b40d21bbfcf0b2",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/sismica-vip/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20SISMICA/VIP/Manual%20de%20Instalacao%20-%20Mola%20Sismica%20Vip.png",
+      "bytes": 200265,
+      "sha256": "1c3a7f75fd7a43c2e5634b3a90f33a4b18981adfb3202b79d7c4794b158d3af7",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/sismica-vip/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Sismica%20VIP.pdf",
+      "bytes": 761042,
+      "sha256": "4504a44b34975daad3e6f0ece04b248e5a9057e0a1688b7aed47a88a50b0563a",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "sismica-vip",
+    "tableRows": 4,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true
+  }
+}

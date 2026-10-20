@@ -1,0 +1,716 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao-premium?model=tracao-premium&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:39:42.123Z",
+  "product": {
+    "id": 200051,
+    "slug": "vibra-stop-tracao-premium",
+    "name": "Vibra-Stop Mola Tração Premium",
+    "sku": "Tração Premium",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-mola-tracao-premium?model=tracao-premium&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.",
+    "description": "<p>Ideais para equipamentos que operam fixados sob o teto com esforços de tração ou estrutura metálica, ventiladores, exaustores, quadros de comando, sistemas de ar condicionado, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/tracao-premium/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/tracao-premium/foto-1.png",
+      "/images/products/vibra-stop/tracao-premium/foto-2.png",
+      "/images/products/vibra-stop/tracao-premium/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Aço Carbono Zincado e Borracha Natural."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240288,
+        "sku": "MTPR30",
+        "label": "MTPR30",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "30"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "8,75/30"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8” - 70, 1/2\" - 70, 5/8” - 70, 3/4\" - 70"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "80"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "54"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "5,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 140"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "75 x 85"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240289,
+        "sku": "MTPR50",
+        "label": "MTPR50",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "50"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,58/50"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8” - 70, 1/2\" - 70, 5/8” - 70, 3/4\" - 70"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "80"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "55"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "6"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 140"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "75 x 85"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240290,
+        "sku": "MTPR100",
+        "label": "MTPR100",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "100"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "4,95/100"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8” - 70, 1/2\" - 70, 5/8” - 70, 3/4\" - 70\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "80"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "58"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "7,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 140"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "75 x 85"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240291,
+        "sku": "MTPR200",
+        "label": "MTPR200",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "8,10/200"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8” - 70, 1/2\" - 70, 5/8” - 70, 3/4\" - 70\""
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "80"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "62"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "9,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 140"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "75 x 85"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240292,
+        "sku": "MTPR300",
+        "label": "MTPR300",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "300"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,12/300"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8” - 70, 1/2\" - 70, 5/8” - 70, 3/4\" - 70"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "80"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "63"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "10"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 140"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "75 x 85"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240293,
+        "sku": "MTPR400",
+        "label": "MTPR400",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "400"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,62/400"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8” - 70, 1/2\" - 70, 5/8” - 70, 3/4\" - 70"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "80"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "11"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 140"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "75 x 85"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240294,
+        "sku": "MTPR500",
+        "label": "MTPR500",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,60/500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/8” - 70, 3/4\" - 70"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "103"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "68,4"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "12,7"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "10 x 150"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "75 x 110"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240295,
+        "sku": "MTPR700",
+        "label": "MTPR700",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "700"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "5,72/700"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/8” - 70, 3/4\" - 70"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "103"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "72"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "14,5"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "11 x 150"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "75 x 110"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240296,
+        "sku": "MTPR1000",
+        "label": "MTPR1000",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "1000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "8,71/1.000"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/8” - 70, 3/4\" - 70"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "103"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "75"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "16"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "12 x 150"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "75 x 110"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240297,
+        "sku": "MTPR1500",
+        "label": "MTPR1500",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "1500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "10,46/1.500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/8” - 70, 3/4\" - 70"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "103"
+          },
+          {
+            "name": "Diâmetro Externo Batente ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro Externo Mola ((De) mm)",
+            "value": "75"
+          },
+          {
+            "name": "Diâmetro do Arame da Mola ((a) mm)",
+            "value": "16"
+          },
+          {
+            "name": "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+            "value": "12 x 150"
+          },
+          {
+            "name": "Dimensões da Caixa ((L x L1 x e1) mm)",
+            "value": "75 x 110"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/tracao-premium/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Tracao%20Premium.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Altura Total ((H) mm)",
+          "Diâmetro Externo Batente ((D) mm)",
+          "Diâmetro Externo Mola ((De) mm)",
+          "Diâmetro do Arame da Mola ((a) mm)",
+          "Diâm. do Furo/Dist. entre Furos ((f x t) mm)",
+          "Dimensões da Caixa ((L x L1 x e1) mm)"
+        ],
+        "rows": [
+          [
+            "MTPR30",
+            "30",
+            "8,75/30",
+            "3/8” - 70, 1/2\" - 70, 5/8” - 70, 3/4\" - 70",
+            "80",
+            "70",
+            "54",
+            "5,5",
+            "10 x 140",
+            "75 x 85"
+          ],
+          [
+            "MTPR50",
+            "50",
+            "6,58/50",
+            "3/8” - 70, 1/2\" - 70, 5/8” - 70, 3/4\" - 70",
+            "80",
+            "70",
+            "55",
+            "6",
+            "10 x 140",
+            "75 x 85"
+          ],
+          [
+            "MTPR100",
+            "100",
+            "4,95/100",
+            "3/8” - 70, 1/2\" - 70, 5/8” - 70, 3/4\" - 70\"",
+            "80",
+            "70",
+            "58",
+            "7,5",
+            "10 x 140",
+            "75 x 85"
+          ],
+          [
+            "MTPR200",
+            "200",
+            "8,10/200",
+            "3/8” - 70, 1/2\" - 70, 5/8” - 70, 3/4\" - 70\"",
+            "80",
+            "70",
+            "62",
+            "9,5",
+            "10 x 140",
+            "75 x 85"
+          ],
+          [
+            "MTPR300",
+            "300",
+            "6,12/300",
+            "3/8” - 70, 1/2\" - 70, 5/8” - 70, 3/4\" - 70",
+            "80",
+            "70",
+            "63",
+            "10",
+            "10 x 140",
+            "75 x 85"
+          ],
+          [
+            "MTPR400",
+            "400",
+            "6,62/400",
+            "3/8” - 70, 1/2\" - 70, 5/8” - 70, 3/4\" - 70",
+            "80",
+            "70",
+            "65",
+            "11",
+            "10 x 140",
+            "75 x 85"
+          ],
+          [
+            "MTPR500",
+            "500",
+            "6,60/500",
+            "5/8” - 70, 3/4\" - 70",
+            "103",
+            "70",
+            "68,4",
+            "12,7",
+            "10 x 150",
+            "75 x 110"
+          ],
+          [
+            "MTPR700",
+            "700",
+            "5,72/700",
+            "5/8” - 70, 3/4\" - 70",
+            "103",
+            "70",
+            "72",
+            "14,5",
+            "11 x 150",
+            "75 x 110"
+          ],
+          [
+            "MTPR1000",
+            "1000",
+            "8,71/1.000",
+            "5/8” - 70, 3/4\" - 70",
+            "103",
+            "70",
+            "75",
+            "16",
+            "12 x 150",
+            "75 x 110"
+          ],
+          [
+            "MTPR1500",
+            "1500",
+            "10,46/1.500",
+            "5/8” - 70, 3/4\" - 70",
+            "103",
+            "70",
+            "75",
+            "16",
+            "12 x 150",
+            "75 x 110"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/tracao-premium/aplicacao-4.png",
+          "/images/products/vibra-stop/tracao-premium/aplicacao-5.png",
+          "/images/products/vibra-stop/tracao-premium/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/tracao-premium/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20TRACAO%20PREMIUM/MTPR%201.1.png",
+      "bytes": 109734,
+      "sha256": "d3b335015f17cad652f796083eb14113eb0d12c78c30ad9cc0e02921be8cbcdc",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao-premium/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20TRACAO%20PREMIUM/MTPR%201.2.png",
+      "bytes": 111335,
+      "sha256": "20bb08f5d162dbd64e47cf502cdde63f136784a0036f15ddc343f760daee722a",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao-premium/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MOLA%20TRACAO%20PREMIUM/MTPR%201.0.png",
+      "bytes": 139948,
+      "sha256": "a052e66df6585288829c183a2795fdc317ecdb5884e49003ca162747b49afbcf",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao-premium/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20TRACAO%20PREMIUM/MTPR%201.0.png",
+      "bytes": 387149,
+      "sha256": "8cb67454c49c39fd3ceb136558b66be2e6c0f9e1255b1902601f2bdb0274e8c1",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao-premium/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MOLA%20TRACAO%20PREMIUM/MTPR%201.1.png",
+      "bytes": 524654,
+      "sha256": "e22a69b804bafe621f0a7a90a11a348b1c2869ef1f2d9b72f1e4dfbd08d52dff",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/tracao-premium/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/MOLA%20TRACAO%20PREMIUM/Manual%20de%20Instalacao%20-%20MTPR.png",
+      "bytes": 147815,
+      "sha256": "6ed3fba4caa360b137b97bd40b1d31f0272528269d646bd5e5109e33df144206",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/tracao-premium/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Mola%20Tracao%20Premium.pdf",
+      "bytes": 1579059,
+      "sha256": "f50ddbe381e7345d77e885591d461bd343e38a6338fbea985ab3262a28244005",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "tracao-premium",
+    "tableRows": 10,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true
+  }
+}

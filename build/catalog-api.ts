@@ -52,6 +52,16 @@ export async function catalogApi(request:Request,env:Env):Promise<Response|null>
   ]);
   if(updated[1].meta.changes===1)row=await db.prepare('SELECT payload,revision FROM cc_state WHERE id=?').bind(catalogStateId).first<{payload:string;revision:number}>();
  }
+ // Apply the owner-requested Kifix schematic and inline Vibra video only to the
+ // exact, unedited four-pilot catalog published at revision 2. Preserve a backup.
+ const fourPilotRevision2Sha='6f4e29084c42a3e5a896085b06bb673f272e4a4811495b87f006088c7bab8b9b';
+ if(row?.revision===2&&await digest(row.payload)===fourPilotRevision2Sha&&row.payload!==seed){
+  const updated=await db.batch([
+   db.prepare('INSERT INTO cc_backups SELECT ?,payload,? FROM cc_state WHERE id=? AND revision=2').bind(crypto.randomUUID(),Date.now(),catalogStateId),
+   db.prepare('UPDATE cc_state SET payload=?,revision=revision+1 WHERE id=? AND revision=2 AND payload=?').bind(seed,catalogStateId,row.payload)
+  ]);
+  if(updated[1].meta.changes===1)row=await db.prepare('SELECT payload,revision FROM cc_state WHERE id=?').bind(catalogStateId).first<{payload:string;revision:number}>();
+ }
  const catalog=JSON.parse(row!.payload) as {products:Product[]};
  if(path==='/api/catalog')return reply({...catalog,revision:row!.revision});
  if(Number(request.headers.get('Content-Length')||0)>16_000_000)return reply({error:'Carga excede 16 MB.'},413);
