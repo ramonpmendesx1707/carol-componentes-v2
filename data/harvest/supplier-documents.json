@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "policy": "Após a coleta completa de cada fornecedor, confrontar cada produto e referência com os catálogos e datasheets atualizados. Prevalece o documento mais recente para dados técnicos; fotos originais de alta resolução do site permanecem se o documento não trouxer imagem nova. Toda divergência deve ser registrada e revisada antes de publicação.",
+  "policy": "Primeiro concluir a coleta completa do fornecedor. Somente depois confrontar cada produto e referência com PDFs atualizados. Os PDFs prevalecem sempre sobre o site para informações técnicas; entre PDFs conflitantes, prevalece a revisão verificadamente mais recente e específica. Alterar apenas os campos necessários; preservar fotos originais em alta resolução se o PDF não trouxer imagem nova. Registrar toda divergência antes de publicação.",
   "documents": [
     {
       "supplier": "Vibra-Stop",

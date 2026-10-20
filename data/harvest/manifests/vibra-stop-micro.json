@@ -1,0 +1,334 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-micro?model=micro&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:30:51.807Z",
+  "product": {
+    "id": 200026,
+    "slug": "vibra-stop-micro",
+    "name": "Vibra-Stop Micro",
+    "sku": "Micro",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-micro?model=micro&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para móveis de escritório, equipamentos industriais de pequeno ou médio porte, equipamentos domésticos, entre outros.",
+    "description": "<p>Ideais para móveis de escritório, equipamentos industriais de pequeno ou médio porte, equipamentos domésticos, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/micro/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/micro/foto-1.png",
+      "/images/products/vibra-stop/micro/foto-2.png",
+      "/images/products/vibra-stop/micro/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural, Aço Carbono Zincado ou opção em Inox."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240099,
+        "sku": "MIC I",
+        "label": "MIC I",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "20 a 50"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "80 a 200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "3,44/50"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "1/4”, 5/16”"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "35"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "45"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240100,
+        "sku": "MIC II",
+        "label": "MIC II",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "50 a 70"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "200 a 280"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "5,04/70"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/16”, 3/8”, 1/2\""
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "85"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "40"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "55"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240101,
+        "sku": "MIC III",
+        "label": "MIC III",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "70 a 100"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "280 a 400"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "3,02/100"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/16”, 3/8”, 1/2\""
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "105"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "50"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "70"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240102,
+        "sku": "MIC IV",
+        "label": "MIC IV",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "100 a 300"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "400 a 1.200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "9,98/300"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "145"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "100"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/micro/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Micro.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vídeo apresentado pelo fabricante",
+        "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-micro.mp4",
+        "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-micro.mp4",
+        "hosted": false,
+        "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+      }
+    ],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Carga Estática (Kgf)",
+          "Carga Dinâmica (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Altura ((H) mm)",
+          "Altura ((h) mm)",
+          "Diâmetro ((D) mm)"
+        ],
+        "rows": [
+          [
+            "MIC I",
+            "20 a 50",
+            "80 a 200",
+            "3,44/50",
+            "1/4”, 5/16”",
+            "70",
+            "35",
+            "45"
+          ],
+          [
+            "MIC II",
+            "50 a 70",
+            "200 a 280",
+            "5,04/70",
+            "5/16”, 3/8”, 1/2\"",
+            "85",
+            "40",
+            "55"
+          ],
+          [
+            "MIC III",
+            "70 a 100",
+            "280 a 400",
+            "3,02/100",
+            "5/16”, 3/8”, 1/2\"",
+            "105",
+            "50",
+            "70"
+          ],
+          [
+            "MIC IV",
+            "100 a 300",
+            "400 a 1.200",
+            "9,98/300",
+            "3/8”, 1/2\", 5/8”",
+            "145",
+            "70",
+            "100"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/micro/aplicacao-4.png",
+          "/images/products/vibra-stop/micro/aplicacao-5.png",
+          "/images/products/vibra-stop/micro/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/micro/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MICRO/MACHO/Micro%20Macho%201.1.png",
+      "bytes": 79919,
+      "sha256": "29b055c69ef3d210356c4281579c969ceb507b792eb424ad7fb97a6d5650d736",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/micro/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MICRO/MACHO/Micro%20Macho%201.2.png",
+      "bytes": 79420,
+      "sha256": "f434422c57563cb81c1007dc6563f85355206f194fd1a370b10b7cb65e3a2c01",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/micro/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/MICRO/MACHO/Micro%20Macho%201.0.png",
+      "bytes": 85727,
+      "sha256": "ceea2c4fe8225377dd4af4b91709ed66a4336d20931576b823f7655ea75b4294",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/micro/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MICRO/Micro%201.0.png",
+      "bytes": 338634,
+      "sha256": "4e2b90261704cfabff23e4352864aa8bc0b42500623729bae4134cc03c754352",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/micro/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/MICRO/Micro%201.1.png",
+      "bytes": 124709,
+      "sha256": "7f2b57eed6c4e473779e9e708f8147dc3fec60a96dfeb152cc83092570271a32",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/micro/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/MICRO/MACHO/Manual%20de%20Instalacao%20-%20MICRO%20MACHO.png",
+      "bytes": 198205,
+      "sha256": "5575bebc9bb0d0450b212b0edc5f0601555fc439206ed4dc4cfa2a1396527759",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/micro/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Micro.pdf",
+      "bytes": 1641643,
+      "sha256": "e775141d5ffcab3b7150cc076f89510e18181797fe9049c5839b6d9a8be31ff8",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "micro",
+    "tableRows": 4,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 1,
+    "manualReviewRequired": true
+  }
+}

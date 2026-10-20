@@ -1,0 +1,177 @@
+{
+  "id": 200015,
+  "slug": "vibra-stop-batente-de-borracha-femea",
+  "name": "Vibra-Stop Batente de Borracha Fêmea",
+  "sku": "Batente de Borracha Fêmea",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-borracha?model=batente-de-borracha-femea&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para correias transportadoras, carrinhos, portões, entre outros. Permite a fabricação com ou sem porca superior central de ajuste.",
+  "description": "<p>Ideais para correias transportadoras, carrinhos, portões, entre outros. Permite a fabricação com ou sem porca superior central de ajuste.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/batente-de-borracha-femea/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/batente-de-borracha-femea/foto-1.png",
+    "/images/products/vibra-stop/batente-de-borracha-femea/foto-2.png",
+    "/images/products/vibra-stop/batente-de-borracha-femea/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Borracha Natural, Aço Carbono Zincado ou Opção em Inox. ROSCA: 1/2\" 3/8\" 5/8\""
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240068,
+      "sku": "P",
+      "label": "P",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "300 a 2.200"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "9,72/2400"
+        },
+        {
+          "name": "Diâmetro ((D x H) mm)",
+          "value": "125 x 56"
+        },
+        {
+          "name": "Distância entre Furos x Diâmetro do Furo ((t x f) mm)",
+          "value": "125 x 10"
+        },
+        {
+          "name": "Chumbadores (CBA)",
+          "value": "3/8” x 2,5“"
+        },
+        {
+          "name": "Rosca Interna ((d) mm)",
+          "value": "3/8”, 1/2”, 5/8”"
+        },
+        {
+          "name": "Profundidade da rosca ((p) mm)",
+          "value": "14"
+        },
+        {
+          "name": "Parafusos de fixação para rosca ((d) mm)",
+          "value": "3/8” x 4”, 1/2” x 4”, 5/8” x 4”"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240069,
+      "sku": "G",
+      "label": "G",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "500 a 2.600"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "19,72/3200"
+        },
+        {
+          "name": "Diâmetro ((D x H) mm)",
+          "value": "125 x 110"
+        },
+        {
+          "name": "Distância entre Furos x Diâmetro do Furo ((t x f) mm)",
+          "value": "125 x 13"
+        },
+        {
+          "name": "Chumbadores (CBA)",
+          "value": "3/8” x 2,5“"
+        },
+        {
+          "name": "Rosca Interna ((d) mm)",
+          "value": "3/8”, 1/2”, 5/8”"
+        },
+        {
+          "name": "Profundidade da rosca ((p) mm)",
+          "value": "14"
+        },
+        {
+          "name": "Parafusos de fixação para rosca ((d) mm)",
+          "value": "3/8” x 4”, 1/2” x 4”, 5/8” x 4”"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/batente-de-borracha-femea/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Batente%20de%20Borracha%20Femea.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Diâmetro ((D x H) mm)",
+        "Distância entre Furos x Diâmetro do Furo ((t x f) mm)",
+        "Chumbadores (CBA)",
+        "Rosca Interna ((d) mm)",
+        "Profundidade da rosca ((p) mm)",
+        "Parafusos de fixação para rosca ((d) mm)"
+      ],
+      "rows": [
+        [
+          "P",
+          "300 a 2.200",
+          "9,72/2400",
+          "125 x 56",
+          "125 x 10",
+          "3/8” x 2,5“",
+          "3/8”, 1/2”, 5/8”",
+          "14",
+          "3/8” x 4”, 1/2” x 4”, 5/8” x 4”"
+        ],
+        [
+          "G",
+          "500 a 2.600",
+          "19,72/3200",
+          "125 x 110",
+          "125 x 13",
+          "3/8” x 2,5“",
+          "3/8”, 1/2”, 5/8”",
+          "14",
+          "3/8” x 4”, 1/2” x 4”, 5/8” x 4”"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/batente-de-borracha-femea/aplicacao-4.png",
+        "/images/products/vibra-stop/batente-de-borracha-femea/aplicacao-5.png",
+        "/images/products/vibra-stop/batente-de-borracha-femea/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

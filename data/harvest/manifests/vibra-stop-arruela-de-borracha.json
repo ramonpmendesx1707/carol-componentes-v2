@@ -1,0 +1,190 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-arruela?model=arruela-de-borracha&language=pt-BR",
+  "fetchedAt": "2026-10-20T06:20:06.505Z",
+  "product": {
+    "id": 200009,
+    "slug": "vibra-stop-arruela-de-borracha",
+    "name": "Vibra-Stop Arruela",
+    "sku": "Arruela",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-arruela?model=arruela-de-borracha&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para fixação de equipamentos instalados sobre estruturas metálicas.",
+    "description": "<p>Ideais para fixação de equipamentos instalados sobre estruturas metálicas.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/arruela-de-borracha/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/arruela-de-borracha/foto-1.png",
+      "/images/products/vibra-stop/arruela-de-borracha/foto-2.png",
+      "/images/products/vibra-stop/arruela-de-borracha/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240043,
+        "sku": "Arruela",
+        "label": "Arruela",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "2 a 50"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "15"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "1,19/50"
+          },
+          {
+            "name": "Diâmetro do furo ((f) mm)",
+            "value": "10"
+          },
+          {
+            "name": "Diâmetro maior ((D) mm)",
+            "value": "40"
+          },
+          {
+            "name": "Diâmetro menor ((d) mm)",
+            "value": "37"
+          },
+          {
+            "name": "Material elastômero",
+            "value": "Borracha Natural"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/arruela-de-borracha/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Arruela.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vídeo apresentado pelo fabricante",
+        "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-arruela.mp4",
+        "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-arruela.mp4",
+        "hosted": false,
+        "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+      }
+    ],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade à Compressão (Kgf)",
+          "Altura ((H) mm)",
+          "Deflexão (mm/Kgf)",
+          "Diâmetro do furo ((f) mm)",
+          "Diâmetro maior ((D) mm)",
+          "Diâmetro menor ((d) mm)",
+          "Material elastômero"
+        ],
+        "rows": [
+          [
+            "Arruela",
+            "2 a 50",
+            "15",
+            "1,19/50",
+            "10",
+            "40",
+            "37",
+            "Borracha Natural"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/arruela-de-borracha/aplicacao-4.png",
+          "/images/products/vibra-stop/arruela-de-borracha/aplicacao-5.png",
+          "/images/products/vibra-stop/arruela-de-borracha/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/arruela-de-borracha/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/ARRUELA/Arruela%201.1.png",
+      "bytes": 63544,
+      "sha256": "51ca43fbbb7166b5ef87e77b6305d72655ff82a4463c8d27a718bb9657978a7f",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/arruela-de-borracha/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/ARRUELA/Arruela%201.2.png",
+      "bytes": 61965,
+      "sha256": "998c376e8d1743984af2ca286948e7caeb5c14531de139d7a278f4b0ffcd9bdd",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/arruela-de-borracha/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/ARRUELA/Arruela%201.0.png",
+      "bytes": 51943,
+      "sha256": "e042f00d7a3e00b928c8d15a4224b30f57bc289b5ff21191bb34067d1703b8ae",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/arruela-de-borracha/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/ARRUELA/Arruela%201.0.png",
+      "bytes": 238789,
+      "sha256": "79bd35a361cfcf10e131171985261f1e8b0c68c8d62511a66bbc47ed4a72e2b0",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/arruela-de-borracha/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/ARRUELA/Arruela%201.1.png",
+      "bytes": 440206,
+      "sha256": "382683e68788b28cff3d4eb996f0647e75a20d20d02cff0571bae6911fb6d927",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/arruela-de-borracha/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/ARRUELA/Manual%20de%20Instalacao%20-%20ARRUELA.png",
+      "bytes": 131075,
+      "sha256": "56b960952afd4e835302b1288a23aa0fcd582e0516b71498453e1e810a753cd1",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/arruela-de-borracha/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Arruela.pdf",
+      "bytes": 716122,
+      "sha256": "d1bf477b14363ebe779a796fcd717879d05a4a738d90a4057c27e168c4166533",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "arruela-de-borracha",
+    "tableRows": 1,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 1,
+    "manualReviewRequired": true
+  }
+}

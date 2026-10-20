@@ -1,0 +1,302 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim-a?model=coxim-a&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:29:27.214Z",
+  "product": {
+    "id": 200021,
+    "slug": "vibra-stop-coxim-a",
+    "name": "Vibra-Stop Coxim A",
+    "sku": "Coxim A",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim-a?model=coxim-a&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para motores, gabinetes, suportes metálicos, equipamentos eletrônicos, maquinários de pequeno porte, entre outros.",
+    "description": "<p>Ideais para motores, gabinetes, suportes metálicos, equipamentos eletrônicos, maquinários de pequeno porte, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/coxim-a/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/coxim-a/foto-1.png",
+      "/images/products/vibra-stop/coxim-a/foto-2.png",
+      "/images/products/vibra-stop/coxim-a/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural, Aço Carbono Zincado ou Opção em Inox."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240084,
+        "sku": "CXA1",
+        "label": "CXA1",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "2 a 15"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "1 a 3"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "0,5/15"
+          },
+          {
+            "name": "Parafuso ((d) mm)",
+            "value": "M5, M6"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "35"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "10"
+          },
+          {
+            "name": "Diâmetro do Externo ((D) mm)",
+            "value": "15"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "1 a 3"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240085,
+        "sku": "CXA2",
+        "label": "CXA2",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "15 a 30"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "3 a 6"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "1,8/30"
+          },
+          {
+            "name": "Parafuso ((d) mm)",
+            "value": "M5, M6"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "47"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "15"
+          },
+          {
+            "name": "Diâmetro do Externo ((D) mm)",
+            "value": "20"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "3 a 6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240086,
+        "sku": "CXA3",
+        "label": "CXA3",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "30 a 55"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "6 a 11"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "5,57/55"
+          },
+          {
+            "name": "Parafuso ((d) mm)",
+            "value": "M5, M6"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "55"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "20"
+          },
+          {
+            "name": "Diâmetro do Externo ((D) mm)",
+            "value": "25"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "6 a 11"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/coxim-a/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Coxim%20A.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vídeo apresentado pelo fabricante",
+        "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-coxim.mp4",
+        "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-coxim.mp4",
+        "hosted": false,
+        "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+      }
+    ],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade à Compressão (Kgf)",
+          "Capacidade à Tração (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d) mm)",
+          "Altura ((H) mm)",
+          "Altura ((h) mm)",
+          "Diâmetro do Externo ((D) mm)",
+          "Capacidade ao Cisalhamento (Kgf)"
+        ],
+        "rows": [
+          [
+            "CXA1",
+            "2 a 15",
+            "1 a 3",
+            "0,5/15",
+            "M5, M6",
+            "35",
+            "10",
+            "15",
+            "1 a 3"
+          ],
+          [
+            "CXA2",
+            "15 a 30",
+            "3 a 6",
+            "1,8/30",
+            "M5, M6",
+            "47",
+            "15",
+            "20",
+            "3 a 6"
+          ],
+          [
+            "CXA3",
+            "30 a 55",
+            "6 a 11",
+            "5,57/55",
+            "M5, M6",
+            "55",
+            "20",
+            "25",
+            "6 a 11"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/coxim-a/aplicacao-4.png",
+          "/images/products/vibra-stop/coxim-a/aplicacao-5.png",
+          "/images/products/vibra-stop/coxim-a/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/coxim-a/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/COXIM/A/Coxim%20A%201.1.png",
+      "bytes": 137034,
+      "sha256": "eb887aa2210122acc158daad28648a0e3b782aa4a4e89ef4770fd320a93fec9f",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/coxim-a/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/COXIM/A/Coxim%20A%201.2.png",
+      "bytes": 99994,
+      "sha256": "83cde021bb1884c0a7e1a11b914df98f2d696cdfb82b6e618ed8e86b0a27bf68",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/coxim-a/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/COXIM/A/Coxim%20A%201.0.png",
+      "bytes": 98904,
+      "sha256": "03a3653f287b59f0f231b37aa0d339433d99a4ebe92bf9d9b7952ebdaabfcf78",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/coxim-a/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/COXIM/A/Coxim%20A%201.0.png",
+      "bytes": 118260,
+      "sha256": "d7d8e95f49271eea27ba53fb2fb83ed8d8cd6b883a306595a891a3335ecfce49",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/coxim-a/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/COXIM/A/Coxim%20A%201.1.png",
+      "bytes": 68301,
+      "sha256": "3e02d29d5ebdaf3c6d515b33010a9421ce9278c0b504c21a149f7246e5f9b5de",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/coxim-a/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/COXIM/A/Manual%20de%20Instalacao%20-%20COXIM%20A.png",
+      "bytes": 79438,
+      "sha256": "3a35061b52092aed35c69918697051571e44773c8551d5ea60f522d4a50ce0f7",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/coxim-a/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Coxim%20A.pdf",
+      "bytes": 1295266,
+      "sha256": "43d0c1cd82136f28bf6913878eb36a9845a8ce4c35cbd761f63a740e8ee00122",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "coxim-a",
+    "tableRows": 3,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 1,
+    "manualReviewRequired": true
+  }
+}

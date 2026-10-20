@@ -1,0 +1,122 @@
+{
+  "id": 200017,
+  "slug": "vibra-stop-batente-de-estacionamento",
+  "name": "Vibra-Stop Batente de Estacionamento",
+  "sku": "Batente de Estacionamento",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-estacionamento?model=batente-de-estacionamento&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para aplicações em estacionamentos de veículos automotivos e industriais.",
+  "description": "<p>Ideais para aplicações em estacionamentos de veículos automotivos e industriais.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/batente-de-estacionamento/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/batente-de-estacionamento/foto-1.png",
+    "/images/products/vibra-stop/batente-de-estacionamento/foto-2.png",
+    "/images/products/vibra-stop/batente-de-estacionamento/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Borracha Natural."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240072,
+      "sku": "ESTACIONAMENTO",
+      "label": "ESTACIONAMENTO",
+      "attributes": [
+        {
+          "name": "Capacidade à Compressão (Kgf)",
+          "value": "10 a 500"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "7,79/1000"
+        },
+        {
+          "name": "Material elastômero",
+          "value": "Borracha Natural"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240073,
+      "sku": "QUINA",
+      "label": "QUINA",
+      "attributes": [
+        {
+          "name": "Capacidade à Compressão (Kgf)",
+          "value": "10 a 500"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "5,68/1000"
+        },
+        {
+          "name": "Material elastômero",
+          "value": "Borracha Natural"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/batente-de-estacionamento/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Batente%20de%20Estacionamento.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade à Compressão (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Material elastômero"
+      ],
+      "rows": [
+        [
+          "ESTACIONAMENTO",
+          "10 a 500",
+          "7,79/1000",
+          "Borracha Natural"
+        ],
+        [
+          "QUINA",
+          "10 a 500",
+          "5,68/1000",
+          "Borracha Natural"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/batente-de-estacionamento/aplicacao-4.png",
+        "/images/products/vibra-stop/batente-de-estacionamento/aplicacao-5.png",
+        "/images/products/vibra-stop/batente-de-estacionamento/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

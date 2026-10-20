@@ -20,7 +20,7 @@ const queue=await read('data/harvest/queue.json');
 const ledger=await read('data/harvest/status.json');
 const catalog=await read('data/catalog.json');
 const completed=new Set(catalog.products.map(p=>p.sourceUrl));
-const pending=Object.entries(queue.items).filter(([id,item])=>item.supplier==='vibra-stop'&&(retryId?id===retryId&&item.status==='blocked':item.status==='pending')&&!completed.has(item.url)).slice(0,limit);
+const pending=Object.entries(queue.items).filter(([id,item])=>item.supplier==='vibra-stop'&&(retryId?id===retryId&&item.status==='blocked':['pending','in_progress'].includes(item.status))&&!completed.has(item.url)).slice(0,limit);
 const robots=await fetch('https://www.vibra-stop.com.br/robots.txt',{signal:AbortSignal.timeout(20000)});
 if(!robots.ok)throw Error(`robots.txt: HTTP ${robots.status}`);
 if(/^Disallow:\s*\/produto(?:\s|$)/im.test(await robots.text()))throw Error('robots.txt restringe /produto.');
@@ -49,7 +49,13 @@ async function saveAsset(url,relative){
   await mkdir(dirname(destination),{recursive:true});await writeFile(destination,bytes);
   return {path:`/${relative}`,sourceUrl:url,bytes:bytes.length,sha256:sha(bytes),contentType:type};
 }
-function section(text,start,end){const a=text.indexOf(start);if(a<0)return '';const b=end?text.indexOf(end,a+start.length):-1;return clean(text.slice(a+start.length,b<0?undefined:b));}
+function section(text,start){
+  const a=text.indexOf(start);
+  if(a<0)return '';
+  const tail=text.slice(a+start.length);
+  const stop=tail.search(/\n(?:CAPACIDADE[^\n]*:|COMPOSIÇÃO:|TIPO DE MATERIAL:|PARAFUSO:|FICHA TÉCNICA|VÍDEO|APLICABILIDADES|ESPECIFICAÇÕES|INSTALAÇÃO)(?:\n|$)/);
+  return clean(stop<0?tail.slice(0,400):tail.slice(0,stop));
+}
 async function collect(id,item){
   item.status='in_progress';item.updatedAt=now();await write('data/harvest/queue.json',queue);
   const page=await browser.newPage({locale:'pt-BR'});
@@ -78,9 +84,9 @@ async function collect(id,item){
     const slug=`vibra-stop-${slugify(model)}`;
     const folder=`images/products/vibra-stop/${slugify(model)}`;
     const title=clean(captured.headings.find(value=>value.startsWith('Vibra-Stop'))||captured.title);
-    const applications=section(captured.text,'APLICAÇÕES:','CAPACIDADE ESTÁTICA/DINÂMICA:');
-    const composition=section(captured.text,'COMPOSIÇÃO:','TIPO DE MATERIAL:');
-    const materials=section(captured.text,'TIPO DE MATERIAL:','PARAFUSO:');
+    const applications=section(captured.text,'APLICAÇÕES:');
+    const composition=section(captured.text,'COMPOSIÇÃO:');
+    const materials=section(captured.text,'TIPO DE MATERIAL:');
     const heads=rows[0],units=rows[1]||[];
     const columns=heads.map((head,index)=>clean(`${head}${index&&units[index]?` (${units[index]})`:''}`));
     const dataRows=rows.slice(2).filter(row=>row[0]&&row.length===heads.length);
@@ -117,7 +123,11 @@ async function collect(id,item){
     await write(manifestFile,{sourceUrl:item.url,fetchedAt:now(),product,assets,checks:{model,tableRows:dataRows.length,photos:images.length,technicalImages:technicalImages.length,pdfs:documents.length,videos:videos.length,manualReviewRequired:true}});
     item.status='needs_review';item.updatedAt=now();item.discoveredProductUrls=[item.url];item.processedProductUrls=[];item.productFile=productFile;item.manifestFile=manifestFile;item.rawFile=rawFile;item.note='Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.';
     ledger.products[slug]={sourceUrl:item.url,status:'needs_review',updatedAt:now(),productFile,manifestFile,checks:{variants:product.variations.length,photos:images.length,pdfs:documents.length,videos:videos.length}};
-    ledger.lastHandoff={...ledger.lastHandoff,updatedAt:now(),nextQueueId:id,nextSourceUrl:item.url,nextAction:`Revisar ${productFile} contra ${item.url} e PDFs; depois marcar review_ready/publicar ou registrar divergências.`};
+    const nextPending=Object.entries(queue.items).find(([,candidate])=>candidate.supplier==='vibra-stop'&&candidate.status==='pending');
+    const vibraItems=Object.values(queue.items).filter(candidate=>candidate.supplier==='vibra-stop');
+    const staged=vibraItems.filter(candidate=>candidate.status==='needs_review');
+    const pendingCount=vibraItems.filter(candidate=>candidate.status==='pending').length;
+    ledger.lastHandoff={...ledger.lastHandoff,updatedAt:now(),activeSupplier:'Vibra-Stop',nextQueueId:nextPending?.[0]??null,nextSourceUrl:nextPending?.[1].url??null,nextAction:nextPending?`Coletar próximo modelo com node scripts/harvest-vibra-queue.mjs --limit=1. Manter em needs_review, sem publicar. Somente após concluir toda a coleta Vibra-Stop, confrontar campo a campo com PDFs definitivos.`:'Concluir revisão dos modelos coletados e confronto documental dos PDFs definitivos antes de publicação.',counts:{...ledger.lastHandoff?.counts,seedQueueNeedsReview:staged.length,seedQueuePending:pendingCount,seedQueueComplete:vibraItems.filter(candidate=>candidate.status==='complete').length,vibraStopAdditionalVariantsStaged:Object.entries(ledger.products).filter(([key,value])=>key.startsWith('vibra-stop-')&&value.status==='needs_review').reduce((sum,[,value])=>sum+Number(value.checks?.variants||0),0)}};
     await write('data/harvest/queue.json',queue);await write('data/harvest/status.json',ledger);
     console.log(JSON.stringify({id,status:item.status,productFile,variants:product.variations.length,photos:images.length,pdfs:documents.length,videos:videos.length}));
   }catch(error){item.status='blocked';item.note=String(error);item.updatedAt=now();await write('data/harvest/queue.json',queue);console.error(`${id}: ${error}`)}finally{await page.close()}

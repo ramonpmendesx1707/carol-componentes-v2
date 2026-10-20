@@ -1,0 +1,220 @@
+{
+  "id": 200010,
+  "slug": "vibra-stop-base-antivibratoria",
+  "name": "Vibra-Stop Base Antivibratória",
+  "sku": "Base Antivibratória",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-base-antivibratoria?model=base-antivibratoria&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para equipamentos que exigem precisão e estabilidade em ambientes sujeitos a vibrações como balanças analíticas, microscópios, equipamentos de metrologia, dispositivos de calibração e ensaio, laboratórios de controle de qualidade, áreas técnicas da indústria, entre outros.",
+  "description": "<p>Ideais para equipamentos que exigem precisão e estabilidade em ambientes sujeitos a vibrações como balanças analíticas, microscópios, equipamentos de metrologia, dispositivos de calibração e ensaio, laboratórios de controle de qualidade, áreas técnicas da indústria, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/base-antivibratoria/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/base-antivibratoria/foto-1.png",
+    "/images/products/vibra-stop/base-antivibratoria/foto-2.png",
+    "/images/products/vibra-stop/base-antivibratoria/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Aço Carbono, Ardósia e Borracha Natural."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240044,
+      "sku": "BA1",
+      "label": "BA1",
+      "attributes": [
+        {
+          "name": "Carregamento Max. (Kgf)",
+          "value": "60"
+        },
+        {
+          "name": "Altura ((h) mm)",
+          "value": "61"
+        },
+        {
+          "name": "Dimensões da Base (C x L x e mm)",
+          "value": "300 x 300 x 23"
+        },
+        {
+          "name": "Mola Utilizada",
+          "value": "MV 20"
+        },
+        {
+          "name": "Peso Estimado Montado (Kgf)",
+          "value": "7,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240045,
+      "sku": "BA2",
+      "label": "BA2",
+      "attributes": [
+        {
+          "name": "Carregamento Max. (Kgf)",
+          "value": "90"
+        },
+        {
+          "name": "Altura ((h) mm)",
+          "value": "61"
+        },
+        {
+          "name": "Dimensões da Base (C x L x e mm)",
+          "value": "400 x 400 x 23"
+        },
+        {
+          "name": "Mola Utilizada",
+          "value": "MV 30"
+        },
+        {
+          "name": "Peso Estimado Montado (Kgf)",
+          "value": "11,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240046,
+      "sku": "BA3",
+      "label": "BA3",
+      "attributes": [
+        {
+          "name": "Carregamento Max. (Kgf)",
+          "value": "120"
+        },
+        {
+          "name": "Altura ((h) mm)",
+          "value": "98"
+        },
+        {
+          "name": "Dimensões da Base (C x L x e mm)",
+          "value": "500 x 500 x 23"
+        },
+        {
+          "name": "Mola Utilizada",
+          "value": "MS 30"
+        },
+        {
+          "name": "Peso Estimado Montado (Kgf)",
+          "value": "19"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240047,
+      "sku": "BA4",
+      "label": "BA4",
+      "attributes": [
+        {
+          "name": "Carregamento Max. (Kgf)",
+          "value": "200"
+        },
+        {
+          "name": "Altura ((h) mm)",
+          "value": "98"
+        },
+        {
+          "name": "Dimensões da Base (C x L x e mm)",
+          "value": "1.000 x 600 23"
+        },
+        {
+          "name": "Mola Utilizada",
+          "value": "MS 50"
+        },
+        {
+          "name": "Peso Estimado Montado (Kgf)",
+          "value": "40"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/base-antivibratoria/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Base%20Antivibratoria.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Carregamento Max. (Kgf)",
+        "Altura ((h) mm)",
+        "Dimensões da Base (C x L x e mm)",
+        "Mola Utilizada",
+        "Peso Estimado Montado (Kgf)"
+      ],
+      "rows": [
+        [
+          "BA1",
+          "60",
+          "61",
+          "300 x 300 x 23",
+          "MV 20",
+          "7,5"
+        ],
+        [
+          "BA2",
+          "90",
+          "61",
+          "400 x 400 x 23",
+          "MV 30",
+          "11,5"
+        ],
+        [
+          "BA3",
+          "120",
+          "98",
+          "500 x 500 x 23",
+          "MS 30",
+          "19"
+        ],
+        [
+          "BA4",
+          "200",
+          "98",
+          "1.000 x 600 23",
+          "MS 50",
+          "40"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/base-antivibratoria/aplicacao-4.png",
+        "/images/products/vibra-stop/base-antivibratoria/aplicacao-5.png",
+        "/images/products/vibra-stop/base-antivibratoria/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

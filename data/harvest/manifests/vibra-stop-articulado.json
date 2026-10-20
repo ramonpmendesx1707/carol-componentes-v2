@@ -1,0 +1,305 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-articulado?model=articulado&language=pt-BR",
+  "fetchedAt": "2026-10-20T06:19:53.478Z",
+  "product": {
+    "id": 200008,
+    "slug": "vibra-stop-articulado",
+    "name": "Vibras-Stop Articulado",
+    "sku": "Articulada",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-articulado?model=articulado&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para aplicações em esteiras transportadoras, mesas, bancadas, armários, entre outros. *Os modelos III e IV permitem a remoção da base de borracha na parte inferior da peça para furação e fixação no piso.",
+    "description": "<p>Ideais para aplicações em esteiras transportadoras, mesas, bancadas, armários, entre outros. *Os modelos III e IV permitem a remoção da base de borracha na parte inferior da peça para furação e fixação no piso.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/articulado/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/articulado/foto-1.png",
+      "/images/products/vibra-stop/articulado/foto-2.png",
+      "/images/products/vibra-stop/articulado/foto-3.jpg"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Poliamida, Borracha Natural, Aço carbono Zincado ou opção em Inox."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240039,
+        "sku": "I",
+        "label": "I",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "2,20/40"
+          },
+          {
+            "name": "Parafuso ((d) x (H) mm)",
+            "value": "M10x70, M12x100"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "20"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "40"
+          },
+          {
+            "name": "Ângulo Máximo ((α))",
+            "value": "60°"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240040,
+        "sku": "II",
+        "label": "II",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "400"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "2,75/60"
+          },
+          {
+            "name": "Parafuso ((d) x (H) mm)",
+            "value": "M12x100, M16x120"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "21"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Ângulo Máximo ((α))",
+            "value": "70°"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240041,
+        "sku": "III",
+        "label": "III",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "4,63/80"
+          },
+          {
+            "name": "Parafuso ((d) x (H) mm)",
+            "value": "M12x100, M16x120"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "22"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "80"
+          },
+          {
+            "name": "Ângulo Máximo ((α))",
+            "value": "70°"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240042,
+        "sku": "IV",
+        "label": "IV",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "800"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "3,36/100"
+          },
+          {
+            "name": "Parafuso ((d) x (H) mm)",
+            "value": "M16x120, M20x140"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "27"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "100"
+          },
+          {
+            "name": "Ângulo Máximo ((α))",
+            "value": "75°"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/articulado/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Articulado.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d) x (H) mm)",
+          "Altura ((h) mm)",
+          "Diâmetro ((D) mm)",
+          "Ângulo Máximo ((α))"
+        ],
+        "rows": [
+          [
+            "I",
+            "200",
+            "2,20/40",
+            "M10x70, M12x100",
+            "20",
+            "40",
+            "60°"
+          ],
+          [
+            "II",
+            "400",
+            "2,75/60",
+            "M12x100, M16x120",
+            "21",
+            "60",
+            "70°"
+          ],
+          [
+            "III",
+            "500",
+            "4,63/80",
+            "M12x100, M16x120",
+            "22",
+            "80",
+            "70°"
+          ],
+          [
+            "IV",
+            "800",
+            "3,36/100",
+            "M16x120, M20x140",
+            "27",
+            "100",
+            "75°"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/articulado/aplicacao-4.jpg",
+          "/images/products/vibra-stop/articulado/aplicacao-5.png",
+          "/images/products/vibra-stop/articulado/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/articulado/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/ARTICULADO/Articulado%201.1.png",
+      "bytes": 99202,
+      "sha256": "f39853ab9a9c81e8a8d46a71f9fa3d3839778cc22cdb5e7f269ce9fa3dd89a4f",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/articulado/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/ARTICULADO/Articulado%201.2.png",
+      "bytes": 81778,
+      "sha256": "5439217c989d69658862f3d067b166b0123448a292716baf97351d9036521c10",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/articulado/foto-3.jpg",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/ARTICULADO/Articulado%201.0.jpg",
+      "bytes": 109129,
+      "sha256": "e69f1bf22fb800bc841d7dac120cab9b376ddc879036759b80487499216941c4",
+      "contentType": "image/jpeg"
+    },
+    {
+      "path": "/images/products/vibra-stop/articulado/aplicacao-4.jpg",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/ARTICULADO/Articulado%201.0.jpg",
+      "bytes": 164303,
+      "sha256": "8114b700d7fe0c96e84ecf94867e74dafe162c7e045325113ff39d8cc6620541",
+      "contentType": "image/jpeg"
+    },
+    {
+      "path": "/images/products/vibra-stop/articulado/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/ARTICULADO/Articulado%201.1.png",
+      "bytes": 256165,
+      "sha256": "da87563916b3e4c570010e20d9861992035f6cb986873b1bfc260c6fd4cbd0dc",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/articulado/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/ARTICULADO/Manual%20de%20Instalacao%20-%20ARTICULADO.png",
+      "bytes": 336320,
+      "sha256": "ecb5479c6e448ec354759a486e52e01dfde88321b633d77771ad78dcabd932e9",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/articulado/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Articulado.pdf",
+      "bytes": 1747078,
+      "sha256": "58022833e5b144b930cf00ce6a95bea46fae0eae23c5ec787eb9670c7d8f0a6d",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "articulado",
+    "tableRows": 4,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true
+  }
+}

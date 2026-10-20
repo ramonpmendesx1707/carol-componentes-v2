@@ -1,0 +1,376 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-bat?model=bat&language=pt-BR",
+  "fetchedAt": "2026-10-20T06:20:45.201Z",
+  "product": {
+    "id": 200012,
+    "slug": "vibra-stop-bat",
+    "name": "Vibra-Stop Bat",
+    "sku": "Bat",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-bat?model=bat&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para ventiladores, condensadoras, portões, esteiras transportadoras, equipamentos que necessitam de fixação no piso ou estruturas metálicas, entre outros.",
+    "description": "<p>Ideais para ventiladores, condensadoras, portões, esteiras transportadoras, equipamentos que necessitam de fixação no piso ou estruturas metálicas, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/bat/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/bat/foto-1.png",
+      "/images/products/vibra-stop/bat/foto-2.png",
+      "/images/products/vibra-stop/bat/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural, Aço Carbono Zincado ou Opção em Inox. ROSCA: 5/16\""
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240058,
+        "sku": "I",
+        "label": "I",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "10 a 70"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "5 a 14"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "1,07/70"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "35"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "5 a 14"
+          },
+          {
+            "name": "Distância entre os Furos ((t) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Furo da chapa ((f) mm)",
+            "value": "10"
+          },
+          {
+            "name": "Furo Roscado ((R))",
+            "value": "5/16”"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240059,
+        "sku": "II",
+        "label": "II",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "70 a 150"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "14 a 30"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "3,36/150"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "45"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "40"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "14 a 30"
+          },
+          {
+            "name": "Distância entre os Furos ((t) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Furo da chapa ((f) mm)",
+            "value": "10"
+          },
+          {
+            "name": "Furo Roscado ((R))",
+            "value": "5/16”"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240060,
+        "sku": "III",
+        "label": "III",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "150 a 300"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "30 a 60"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "7,74/300"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "55"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "50"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "30 a 60"
+          },
+          {
+            "name": "Distância entre os Furos ((t) mm)",
+            "value": "90"
+          },
+          {
+            "name": "Furo da chapa ((f) mm)",
+            "value": "10"
+          },
+          {
+            "name": "Furo Roscado ((R))",
+            "value": "3/8”, 1/2\""
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240061,
+        "sku": "IV",
+        "label": "IV",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "300 a 500"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "60 a 100"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "14,47/500"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "65"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "60"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "60 a 100"
+          },
+          {
+            "name": "Distância entre os Furos ((t) mm)",
+            "value": "90"
+          },
+          {
+            "name": "Furo da chapa ((f) mm)",
+            "value": "10"
+          },
+          {
+            "name": "Furo Roscado ((R))",
+            "value": "3/8”, 1/2\""
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/bat/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Bat.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vídeo apresentado pelo fabricante",
+        "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-bat.mp4",
+        "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-bat.mp4",
+        "hosted": false,
+        "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+      }
+    ],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade à Compressão (Kgf)",
+          "Capacidade à Tração (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Altura ((H) mm)",
+          "Diâmetro ((D) mm)",
+          "Capacidade ao Cisalhamento (Kgf)",
+          "Distância entre os Furos ((t) mm)",
+          "Furo da chapa ((f) mm)",
+          "Furo Roscado ((R))"
+        ],
+        "rows": [
+          [
+            "I",
+            "10 a 70",
+            "5 a 14",
+            "1,07/70",
+            "35",
+            "30",
+            "5 a 14",
+            "65",
+            "10",
+            "5/16”"
+          ],
+          [
+            "II",
+            "70 a 150",
+            "14 a 30",
+            "3,36/150",
+            "45",
+            "40",
+            "14 a 30",
+            "65",
+            "10",
+            "5/16”"
+          ],
+          [
+            "III",
+            "150 a 300",
+            "30 a 60",
+            "7,74/300",
+            "55",
+            "50",
+            "30 a 60",
+            "90",
+            "10",
+            "3/8”, 1/2\""
+          ],
+          [
+            "IV",
+            "300 a 500",
+            "60 a 100",
+            "14,47/500",
+            "65",
+            "60",
+            "60 a 100",
+            "90",
+            "10",
+            "3/8”, 1/2\""
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/bat/aplicacao-4.png",
+          "/images/products/vibra-stop/bat/aplicacao-5.png",
+          "/images/products/vibra-stop/bat/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/bat/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/BAT/BAT%201.1.png",
+      "bytes": 75558,
+      "sha256": "dff0247f14d5983e6b1623336c938ba14bef01291ec2594010a08fe5e396414a",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/bat/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/BAT/BAT%201.2.png",
+      "bytes": 88594,
+      "sha256": "672bd1fa0a96b0d729c0a08f01760dedbc3cbf69aa3f5531f37c1b12a20e4f92",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/bat/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/BAT/BAT%201.0.png",
+      "bytes": 69488,
+      "sha256": "3874ec5ef771b15044e3178a42e463c785b88ee374838378159035d76a1d21b8",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/bat/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/BAT/BAT%201.0.png",
+      "bytes": 260921,
+      "sha256": "9cfc4ce57c9762f86f480b5cd0d92544262652c46cd0f56710e936dafd75dcd7",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/bat/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/BAT/BAT%201.1.png",
+      "bytes": 217027,
+      "sha256": "106631c74cd99aeda067bdb6b6545f35a96a6a03c39f87b07adfd0a63f1a6979",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/bat/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/BAT/Manual%20de%20Instalacao%20-%20BAT.png",
+      "bytes": 234217,
+      "sha256": "2cfc1fde42ab1d4198d166d9adf76fe2da5fbf429cb724d75ab669a99022dcbd",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/bat/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Bat.pdf",
+      "bytes": 1728326,
+      "sha256": "4c1e73965a60ff3e533eebdfe6d36a698a04e7581ede9d9bc0d961a9b7bb8ea3",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "bat",
+    "tableRows": 4,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 1,
+    "manualReviewRequired": true
+  }
+}

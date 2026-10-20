@@ -77,260 +77,360 @@
       "kind": "model",
       "name": "Articulada",
       "url": "https://www.vibra-stop.com.br/produto/linha-articulado?model=articulado&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-articulado?model=articulado&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.842Z",
-      "note": ""
+      "updatedAt": "2026-10-20T06:19:53.479Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-articulado.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-articulado.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-articulado.json"
     },
     "vibra-stop-e37c790d0e25": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Arruela",
       "url": "https://www.vibra-stop.com.br/produto/linha-arruela?model=arruela-de-borracha&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-arruela?model=arruela-de-borracha&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.842Z",
-      "note": ""
+      "updatedAt": "2026-10-20T06:20:06.506Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-arruela-de-borracha.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-arruela-de-borracha.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-arruela-de-borracha.json"
     },
     "vibra-stop-41d8dbc02de8": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Base Antivibratória",
       "url": "https://www.vibra-stop.com.br/produto/linha-base-antivibratoria?model=base-antivibratoria&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-base-antivibratoria?model=base-antivibratoria&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.842Z",
-      "note": ""
+      "updatedAt": "2026-10-20T06:20:19.037Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-base-antivibratoria.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-base-antivibratoria.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-base-antivibratoria.json"
     },
     "vibra-stop-896941ac133b": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Base de Inércia",
       "url": "https://www.vibra-stop.com.br/produto/linha-base-de-inercia?model=base-de-inercia&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-base-de-inercia?model=base-de-inercia&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.842Z",
-      "note": ""
+      "updatedAt": "2026-10-20T06:20:32.234Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-base-de-inercia.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-base-de-inercia.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-base-de-inercia.json"
     },
     "vibra-stop-ae831ba2f3a2": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Bat",
       "url": "https://www.vibra-stop.com.br/produto/linha-bat?model=bat&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-bat?model=bat&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.842Z",
-      "note": ""
+      "updatedAt": "2026-10-20T06:20:45.203Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-bat.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-bat.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-bat.json"
     },
     "vibra-stop-05ad174d2490": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Batente Abaulado",
       "url": "https://www.vibra-stop.com.br/produto/linha-batente-abaulado?model=batente-abaulado&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-batente-abaulado?model=batente-abaulado&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.842Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:25:43.802Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-batente-abaulado.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-batente-abaulado.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-batente-abaulado.json"
     },
     "vibra-stop-6533d3a94111": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Batente de Borracha",
       "url": "https://www.vibra-stop.com.br/produto/linha-batente-de-borracha?model=batente-de-borracha&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-batente-de-borracha?model=batente-de-borracha&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.842Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:25:58.068Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-batente-de-borracha.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-batente-de-borracha.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-batente-de-borracha.json"
     },
     "vibra-stop-0db7691e1ef9": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Batente de Borracha Fêmea",
       "url": "https://www.vibra-stop.com.br/produto/linha-batente-de-borracha?model=batente-de-borracha-femea&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-batente-de-borracha?model=batente-de-borracha-femea&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.842Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:26:12.794Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-batente-de-borracha-femea.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-batente-de-borracha-femea.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-batente-de-borracha-femea.json"
     },
     "vibra-stop-49325b6a8cc4": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Batente de Elevador",
       "url": "https://www.vibra-stop.com.br/produto/linha-batente-de-elevador?model=batente-de-elevador&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-batente-de-elevador?model=batente-de-elevador&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.842Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:26:26.691Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-batente-de-elevador.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-batente-de-elevador.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-batente-de-elevador.json"
     },
     "vibra-stop-7d13b0929574": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Batente de Estacionamento",
       "url": "https://www.vibra-stop.com.br/produto/linha-batente-de-estacionamento?model=batente-de-estacionamento&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-batente-de-estacionamento?model=batente-de-estacionamento&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.842Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:26:41.222Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-batente-de-estacionamento.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-batente-de-estacionamento.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-batente-de-estacionamento.json"
     },
     "vibra-stop-023a8f4536c9": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Calço de Borracha",
       "url": "https://www.vibra-stop.com.br/produto/linha-calco-de-borracha?model=calco-de-borracha&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-calco-de-borracha?model=calco-de-borracha&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.842Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:28:44.765Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-calco-de-borracha.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-calco-de-borracha.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-calco-de-borracha.json"
     },
     "vibra-stop-03e02d979d45": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Calço de Tubulação",
       "url": "https://www.vibra-stop.com.br/produto/linha-calco-de-tubulacao?model=tubulacao&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-calco-de-tubulacao?model=tubulacao&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.842Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:28:59.093Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-tubulacao.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-tubulacao.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-tubulacao.json"
     },
     "vibra-stop-05679c9c7654": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Calço U",
       "url": "https://www.vibra-stop.com.br/produto/linha-calco-u?model=calco-u&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-calco-u?model=calco-u&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:29:13.282Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-calco-u.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-calco-u.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-calco-u.json"
     },
     "vibra-stop-e7a8092d3c3e": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Coxim A",
       "url": "https://www.vibra-stop.com.br/produto/linha-coxim-a?model=coxim-a&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-coxim-a?model=coxim-a&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:29:27.215Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-coxim-a.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-coxim-a.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-coxim-a.json"
     },
     "vibra-stop-4520264a4e2f": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Coxim M x M",
       "url": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-m-x-m&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-m-x-m&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:29:40.740Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-coxim-m-x-m.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-coxim-m-x-m.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-coxim-m-x-m.json"
     },
     "vibra-stop-41dd5daff1f9": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Coxim M x F",
       "url": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-m-x-f&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-m-x-f&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:30:01.499Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-coxim-m-x-f.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-coxim-m-x-f.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-coxim-m-x-f.json"
     },
     "vibra-stop-8d5507f2f9ec": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Coxim F x F",
       "url": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-f-x-f&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-f-x-f&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:30:17.630Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-coxim-f-x-f.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-coxim-f-x-f.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-coxim-f-x-f.json"
     },
     "vibra-stop-e5f6fee1c831": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Coxim XT",
       "url": "https://www.vibra-stop.com.br/produto/linha-coxim-xt?model=coxim-xt&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-coxim-xt?model=coxim-xt&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:30:33.643Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-coxim-xt.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-coxim-xt.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-coxim-xt.json"
     },
     "vibra-stop-52a11f8aedb0": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Micro",
       "url": "https://www.vibra-stop.com.br/produto/linha-micro?model=micro&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-micro?model=micro&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:30:51.810Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-micro.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-micro.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-micro.json"
     },
     "vibra-stop-94012d5258dd": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Micro Fêmea",
       "url": "https://www.vibra-stop.com.br/produto/linha-micro?model=micro-femea&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-micro?model=micro-femea&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.843Z",
-      "note": ""
+      "updatedAt": "2026-10-20T10:31:06.313Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-micro-femea.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-micro-femea.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-micro-femea.json"
     },
     "vibra-stop-6cd86e35f6c0": {
       "supplier": "vibra-stop",

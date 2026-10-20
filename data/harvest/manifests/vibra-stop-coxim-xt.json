@@ -1,0 +1,318 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim-xt?model=coxim-xt&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:30:33.634Z",
+  "product": {
+    "id": 200025,
+    "slug": "vibra-stop-coxim-xt",
+    "name": "Vibra-Stop Coxim XT",
+    "sku": "Coxim XT",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim-xt?model=coxim-xt&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para balanças, ventiladores, grupos geradores, silos, motores de média e alta rotação, entre outros.",
+    "description": "<p>Ideais para balanças, ventiladores, grupos geradores, silos, motores de média e alta rotação, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/coxim-xt/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/coxim-xt/foto-1.png",
+      "/images/products/vibra-stop/coxim-xt/foto-2.png",
+      "/images/products/vibra-stop/coxim-xt/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural e Ferro Nodular."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240096,
+        "sku": "XT2000",
+        "label": "XT2000",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "100 a 700"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "20 a 140"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "7,51/700"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "67"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "62"
+          },
+          {
+            "name": "Diâmetro ((d) mm)",
+            "value": "36"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "20 a 140"
+          },
+          {
+            "name": "Furo Roscado ((R))",
+            "value": "M12, M16"
+          },
+          {
+            "name": "Diâmetro Externo ((D) mm)",
+            "value": "83"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240097,
+        "sku": "XT4000",
+        "label": "XT4000",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "700 a 1000"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "140 a 200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "5,55/1000"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "66"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "55"
+          },
+          {
+            "name": "Diâmetro ((d) mm)",
+            "value": "40"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "140 a 200"
+          },
+          {
+            "name": "Furo Roscado ((R))",
+            "value": "M12, M16"
+          },
+          {
+            "name": "Diâmetro Externo ((D) mm)",
+            "value": "105"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240098,
+        "sku": "XT6000",
+        "label": "XT6000",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "1000 a 4000"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "200 a 800"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "17,61/4000"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "83"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "83"
+          },
+          {
+            "name": "Diâmetro ((d) mm)",
+            "value": "50"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "200 a 800"
+          },
+          {
+            "name": "Furo Roscado ((R))",
+            "value": "M12, M16, M20"
+          },
+          {
+            "name": "Diâmetro Externo ((D) mm)",
+            "value": "130"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/coxim-xt/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Coxim%20XT.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vídeo apresentado pelo fabricante",
+        "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-coxim.mp4",
+        "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-coxim.mp4",
+        "hosted": false,
+        "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+      }
+    ],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade à Compressão (Kgf)",
+          "Capacidade à Tração (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Altura ((H) mm)",
+          "Altura ((h) mm)",
+          "Diâmetro ((d) mm)",
+          "Capacidade ao Cisalhamento (Kgf)",
+          "Furo Roscado ((R))",
+          "Diâmetro Externo ((D) mm)"
+        ],
+        "rows": [
+          [
+            "XT2000",
+            "100 a 700",
+            "20 a 140",
+            "7,51/700",
+            "67",
+            "62",
+            "36",
+            "20 a 140",
+            "M12, M16",
+            "83"
+          ],
+          [
+            "XT4000",
+            "700 a 1000",
+            "140 a 200",
+            "5,55/1000",
+            "66",
+            "55",
+            "40",
+            "140 a 200",
+            "M12, M16",
+            "105"
+          ],
+          [
+            "XT6000",
+            "1000 a 4000",
+            "200 a 800",
+            "17,61/4000",
+            "83",
+            "83",
+            "50",
+            "200 a 800",
+            "M12, M16, M20",
+            "130"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/coxim-xt/aplicacao-4.png",
+          "/images/products/vibra-stop/coxim-xt/aplicacao-5.png",
+          "/images/products/vibra-stop/coxim-xt/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/coxim-xt/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/COXIM/XT/IM%201.1%20XT.png",
+      "bytes": 398430,
+      "sha256": "f3d88fe0f44429ec870acd9dd7faed0519b574afd358fcd9f6fa5520ebda8fd1",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/coxim-xt/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/COXIM/XT/IM%201.2%20XT.png",
+      "bytes": 404160,
+      "sha256": "50f0c0bceac4c1bc5ed63663fa9b975347482b0cba8d1a29ffd4d374b751e086",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/coxim-xt/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/COXIM/XT/IM%201.0%20XT.png",
+      "bytes": 363175,
+      "sha256": "f4538ab66d37967f259fad819dbb5e96dce6fa0748c59629eeb530757bf508da",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/coxim-xt/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/COXIM/XT/AP%201.0%20XT.png",
+      "bytes": 405563,
+      "sha256": "0faeeb14c5bea031790d26d1f3dbd64cc9510104586a113ad31559dc45e70125",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/coxim-xt/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/COXIM/XT/AP%201.1%20XT.png",
+      "bytes": 536690,
+      "sha256": "4ab7589431054da674e315a281b41390c9a351f0051ce2978cb96f25a8ff0637",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/coxim-xt/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/COXIM/XT/Manual%20de%20Instalacao%20-%20COXIM%20XT.png",
+      "bytes": 219960,
+      "sha256": "e31245aaf56f1604fdd5ef2819e468bcade35c96d2cd451ecc76044e9d312e0b",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/coxim-xt/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Coxim%20XT.pdf",
+      "bytes": 1566111,
+      "sha256": "ba097f958830ca4a2b98178fcb9c68fe78ebd26ecdf2248ab793725065495b2d",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "coxim-xt",
+    "tableRows": 3,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 1,
+    "manualReviewRequired": true
+  }
+}

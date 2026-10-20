@@ -1,0 +1,241 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-borracha?model=batente-de-borracha-femea&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:26:12.792Z",
+  "product": {
+    "id": 200015,
+    "slug": "vibra-stop-batente-de-borracha-femea",
+    "name": "Vibra-Stop Batente de Borracha Fêmea",
+    "sku": "Batente de Borracha Fêmea",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-borracha?model=batente-de-borracha-femea&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para correias transportadoras, carrinhos, portões, entre outros. Permite a fabricação com ou sem porca superior central de ajuste.",
+    "description": "<p>Ideais para correias transportadoras, carrinhos, portões, entre outros. Permite a fabricação com ou sem porca superior central de ajuste.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/batente-de-borracha-femea/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/batente-de-borracha-femea/foto-1.png",
+      "/images/products/vibra-stop/batente-de-borracha-femea/foto-2.png",
+      "/images/products/vibra-stop/batente-de-borracha-femea/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural, Aço Carbono Zincado ou Opção em Inox. ROSCA: 1/2\" 3/8\" 5/8\""
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240068,
+        "sku": "P",
+        "label": "P",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "300 a 2.200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "9,72/2400"
+          },
+          {
+            "name": "Diâmetro ((D x H) mm)",
+            "value": "125 x 56"
+          },
+          {
+            "name": "Distância entre Furos x Diâmetro do Furo ((t x f) mm)",
+            "value": "125 x 10"
+          },
+          {
+            "name": "Chumbadores (CBA)",
+            "value": "3/8” x 2,5“"
+          },
+          {
+            "name": "Rosca Interna ((d) mm)",
+            "value": "3/8”, 1/2”, 5/8”"
+          },
+          {
+            "name": "Profundidade da rosca ((p) mm)",
+            "value": "14"
+          },
+          {
+            "name": "Parafusos de fixação para rosca ((d) mm)",
+            "value": "3/8” x 4”, 1/2” x 4”, 5/8” x 4”"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240069,
+        "sku": "G",
+        "label": "G",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "500 a 2.600"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "19,72/3200"
+          },
+          {
+            "name": "Diâmetro ((D x H) mm)",
+            "value": "125 x 110"
+          },
+          {
+            "name": "Distância entre Furos x Diâmetro do Furo ((t x f) mm)",
+            "value": "125 x 13"
+          },
+          {
+            "name": "Chumbadores (CBA)",
+            "value": "3/8” x 2,5“"
+          },
+          {
+            "name": "Rosca Interna ((d) mm)",
+            "value": "3/8”, 1/2”, 5/8”"
+          },
+          {
+            "name": "Profundidade da rosca ((p) mm)",
+            "value": "14"
+          },
+          {
+            "name": "Parafusos de fixação para rosca ((d) mm)",
+            "value": "3/8” x 4”, 1/2” x 4”, 5/8” x 4”"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/batente-de-borracha-femea/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Batente%20de%20Borracha%20Femea.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Diâmetro ((D x H) mm)",
+          "Distância entre Furos x Diâmetro do Furo ((t x f) mm)",
+          "Chumbadores (CBA)",
+          "Rosca Interna ((d) mm)",
+          "Profundidade da rosca ((p) mm)",
+          "Parafusos de fixação para rosca ((d) mm)"
+        ],
+        "rows": [
+          [
+            "P",
+            "300 a 2.200",
+            "9,72/2400",
+            "125 x 56",
+            "125 x 10",
+            "3/8” x 2,5“",
+            "3/8”, 1/2”, 5/8”",
+            "14",
+            "3/8” x 4”, 1/2” x 4”, 5/8” x 4”"
+          ],
+          [
+            "G",
+            "500 a 2.600",
+            "19,72/3200",
+            "125 x 110",
+            "125 x 13",
+            "3/8” x 2,5“",
+            "3/8”, 1/2”, 5/8”",
+            "14",
+            "3/8” x 4”, 1/2” x 4”, 5/8” x 4”"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/batente-de-borracha-femea/aplicacao-4.png",
+          "/images/products/vibra-stop/batente-de-borracha-femea/aplicacao-5.png",
+          "/images/products/vibra-stop/batente-de-borracha-femea/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/batente-de-borracha-femea/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/BATENTE/FEMEA/Batente%20Femea%201.1.png",
+      "bytes": 100338,
+      "sha256": "cca26e7aaee0fd29952aa5c70b339e7622446af9ed293d824eba0075a5488c61",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-de-borracha-femea/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/BATENTE/FEMEA/Batente%20Femea%201.2.png",
+      "bytes": 82444,
+      "sha256": "f0fcbf354806469198f65cd0c7ff295c496a9b1e9e80310a6dd43c67741d4a95",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-de-borracha-femea/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/BATENTE/FEMEA/Batente%20Femea%201.0.png",
+      "bytes": 78449,
+      "sha256": "1683710d6cc87872c3e931e67928efb6f70f38b802420f75219683c3d4bbd3b1",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-de-borracha-femea/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/BATENTE/Batente%20de%20Borracha%201.0.png",
+      "bytes": 126573,
+      "sha256": "b86edf3e8b0a017e7be749458f55d50b443efb2a916d1097e02dbadfd64fdd3e",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-de-borracha-femea/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/BATENTE/Batente%20de%20Borracha%201.1.png",
+      "bytes": 188635,
+      "sha256": "36c47c265250775bc112dcb32d8cf7c6e9a1542bff2cfc67bab91408027581d3",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-de-borracha-femea/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/BATENTE/FEMEA/Manual%20de%20Instalacao%20-%20BATENTE%20FEMEA.png",
+      "bytes": 112652,
+      "sha256": "6266ee7f8f0ab7e5838fd4a16382eebc9c429149b70daeabf313d87a5d28209e",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/batente-de-borracha-femea/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Batente%20de%20Borracha%20Femea.pdf",
+      "bytes": 1052133,
+      "sha256": "ae153356c3389bbfba6d42f126feb655ed297a8f762c8b18a213a3a20e51dcae",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "batente-de-borracha-femea",
+    "tableRows": 2,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true
+  }
+}

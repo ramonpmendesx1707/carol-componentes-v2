@@ -1,0 +1,164 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-calco-u?model=calco-u&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:29:13.281Z",
+  "product": {
+    "id": 200020,
+    "slug": "vibra-stop-calco-u",
+    "name": "Vibra-Stop Calço U",
+    "sku": "Calço U",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-calco-u?model=calco-u&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para piso elevado ou flutuante, vigas de 50x50 mm, entre outros.",
+    "description": "<p>Ideais para piso elevado ou flutuante, vigas de 50x50 mm, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/calco-u/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/calco-u/foto-1.png",
+      "/images/products/vibra-stop/calco-u/foto-2.png",
+      "/images/products/vibra-stop/calco-u/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240083,
+        "sku": "CU",
+        "label": "CU",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "10 a 500"
+          },
+          {
+            "name": "Altura Total (mm)",
+            "value": "40"
+          },
+          {
+            "name": "Diâmetro da furação para fixador (mm)",
+            "value": "6,5"
+          },
+          {
+            "name": "Material elastômero",
+            "value": "Borracha Natural"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/calco-u/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Calco%20U.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Altura Total (mm)",
+          "Diâmetro da furação para fixador (mm)",
+          "Material elastômero"
+        ],
+        "rows": [
+          [
+            "CU",
+            "10 a 500",
+            "40",
+            "6,5",
+            "Borracha Natural"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/calco-u/aplicacao-4.png",
+          "/images/products/vibra-stop/calco-u/aplicacao-5.png",
+          "/images/products/vibra-stop/calco-u/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/calco-u/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/CALCO%20U/Calco%20U%201.1.png",
+      "bytes": 66475,
+      "sha256": "972042ca6e0d7e77cc63ce22600b9c48ef7e9b3e5b2f6e12607ff889fe00cf88",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/calco-u/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/CALCO%20U/Calco%20U%201.2.png",
+      "bytes": 83314,
+      "sha256": "490f1781ff87c577a02b0dccec6e519fef7af4919137ab6f17e4e7627d967a68",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/calco-u/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/CALCO%20U/Calco%20U%201.0.png",
+      "bytes": 81426,
+      "sha256": "5f982c0c3ebacf491d5068710334fc8bb340a8f8b424864e4b9ea886d29ee675",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/calco-u/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/CALCO%20U/Calco%20U%201.0.png",
+      "bytes": 233348,
+      "sha256": "9c74e633c7cd91b7f0b15a473e79be4f349e14b1c09ceb2b19dbdf0156957a2b",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/calco-u/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/CALCO%20U/Calco%20U%201.1.png",
+      "bytes": 36999,
+      "sha256": "b903414b0e6c976d9616e325abe8f507970982fe83e815b02a02d3ca5c65c89e",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/calco-u/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/CALCO%20U/Manual%20de%20Instalacao%20-%20CALCO%20U.png",
+      "bytes": 155331,
+      "sha256": "57617074697fd2c9b4f0a63714ea659eee97f09c6c9b8a0231d0bf959c05d41f",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/calco-u/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Calco%20U.pdf",
+      "bytes": 613550,
+      "sha256": "66ce54126d91ae4f390b90ae971512169c5da3fb953880a22e7f986c461572fa",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "calco-u",
+    "tableRows": 1,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true
+  }
+}

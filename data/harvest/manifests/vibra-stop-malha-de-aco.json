@@ -10,8 +10,8 @@
     "supplier": "Vibra-Stop",
     "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=malha-de-aco&language=pt-BR",
     "type": "product",
-    "summary": "Amortecedor Tradicional com base de malha de aço para ambientes agressivos à borracha.",
-    "description": "<p>O catálogo Vibra-Stop 2026, página 4, descreve a base de malha de aço como alternativa à borracha para contato com óleos, ácidos, graxas e superfícies aquecidas. O site cita máquinas de solda, moedores, grupos geradores e chillers. A especificação exata do material da malha requer confirmação: o catálogo 2026 diz galvanizada; a ficha técnica 2025 diz inox 304.</p>",
+    "summary": "Ideais para ambientes agressivos aos elastômeros (borracha), máquinas de solda, moedores, grupos geradores, chillers, entre outros.",
+    "description": "<p>Ideais para ambientes agressivos aos elastômeros (borracha), máquinas de solda, moedores, grupos geradores, chillers, entre outros.</p>",
     "categories": [
       {
         "id": 201,
@@ -27,12 +27,12 @@
     ],
     "attributes": [
       {
-        "name": "Base de apoio",
-        "value": "Malha de aço; material exato pendente de confirmação técnica"
+        "name": "Composição",
+        "value": "Ferro Nodular, Borracha Natural e Aço Carbono Zincado."
       },
       {
-        "name": "Carcaça",
-        "value": "Ferro fundido nodular; possibilidade de inox 304 segundo a ficha técnica 2025"
+        "name": "Materiais informados",
+        "value": "Aço Inox Ferro Nodular"
       }
     ],
     "weight": "",

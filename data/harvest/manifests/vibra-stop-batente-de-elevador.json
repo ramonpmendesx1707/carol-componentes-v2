@@ -1,0 +1,241 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-elevador?model=batente-de-elevador&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:26:26.689Z",
+  "product": {
+    "id": 200016,
+    "slug": "vibra-stop-batente-de-elevador",
+    "name": "Vibra-Stop Batente de Elevador",
+    "sku": "Batente de Elevador",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-elevador?model=batente-de-elevador&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para aplicações em Elevadores automotivos.",
+    "description": "<p>Ideais para aplicações em Elevadores automotivos.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/batente-de-elevador/foto-1.jpg",
+    "images": [
+      "/images/products/vibra-stop/batente-de-elevador/foto-1.jpg",
+      "/images/products/vibra-stop/batente-de-elevador/foto-2.png",
+      "/images/products/vibra-stop/batente-de-elevador/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240070,
+        "sku": "ELEVADOR",
+        "label": "ELEVADOR",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "30 a 500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "2,25/1500"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "133"
+          },
+          {
+            "name": "Diâmetro Externo ((D) (de) mm)",
+            "value": "110"
+          },
+          {
+            "name": "Material elastômero",
+            "value": "Borracha Natural"
+          },
+          {
+            "name": "Diâmetro interno ((di) mm)",
+            "value": "118"
+          },
+          {
+            "name": "Espessura do rebaixo ((e) mm)",
+            "value": "16"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240071,
+        "sku": "ELEVADOR MACICO",
+        "label": "ELEVADOR MACICO",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "200 a 1200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "2,25/1500"
+          },
+          {
+            "name": "Altura Total ((H) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": ""
+          },
+          {
+            "name": "Diâmetro Externo ((D) (de) mm)",
+            "value": "116,4"
+          },
+          {
+            "name": "Material elastômero",
+            "value": "Borracha Natural"
+          },
+          {
+            "name": "Diâmetro interno ((di) mm)",
+            "value": ""
+          },
+          {
+            "name": "Espessura do rebaixo ((e) mm)",
+            "value": "6"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/batente-de-elevador/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Batente%20de%20Elevador.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade à Compressão (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Altura Total ((H) mm)",
+          "Diâmetro ((D) mm)",
+          "Diâmetro Externo ((D) (de) mm)",
+          "Material elastômero",
+          "Diâmetro interno ((di) mm)",
+          "Espessura do rebaixo ((e) mm)"
+        ],
+        "rows": [
+          [
+            "ELEVADOR",
+            "30 a 500",
+            "2,25/1500",
+            "30",
+            "133",
+            "110",
+            "Borracha Natural",
+            "118",
+            "16"
+          ],
+          [
+            "ELEVADOR MACICO",
+            "200 a 1200",
+            "2,25/1500",
+            "30",
+            "",
+            "116,4",
+            "Borracha Natural",
+            "",
+            "6"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/batente-de-elevador/aplicacao-4.png",
+          "/images/products/vibra-stop/batente-de-elevador/aplicacao-5.png",
+          "/images/products/vibra-stop/batente-de-elevador/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/batente-de-elevador/foto-1.jpg",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/ELEVADOR/Elevador1.1.jpg",
+      "bytes": 20608,
+      "sha256": "a28e995099af55a89e38ed8db630270aabfb616ed62c4de5b7324455ecfc74f0",
+      "contentType": "image/jpeg"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-de-elevador/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/ELEVADOR/Elevador%201.2.png",
+      "bytes": 63224,
+      "sha256": "991c8c4a4f4fc3ff84d930d0b51214400bc5557e4500a13f7c9dffcdf22914ab",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-de-elevador/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/ELEVADOR/Elevador%201.0.png",
+      "bytes": 67670,
+      "sha256": "fe3b6ea55fe35465e31709d6010e0c370ddf5f635223a061590dd7afdc9e7954",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-de-elevador/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/ELEVADOR/Elevador%201.0.png",
+      "bytes": 231455,
+      "sha256": "ed87b1d483434dbe0423aabb59ce72a1dd00e0762875e23fd73ddcea0d3e6e1a",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-de-elevador/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/ELEVADOR/Elevador%201.1.png",
+      "bytes": 514867,
+      "sha256": "ba1642170ac0a875e19160843486c5e6b98535d80a40a55453e89927af1eb8da",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-de-elevador/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/ELEVADOR/Manual%20de%20Instalacao%20-%20ELEVADOR.png",
+      "bytes": 249254,
+      "sha256": "8e3ab3f3b4c9556b9798fbb33a50dfa810911f6d275da2bc544fc90ecfe945be",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/batente-de-elevador/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Batente%20de%20Elevador.pdf",
+      "bytes": 773031,
+      "sha256": "d312216e3379c3657368db4bc00d8eca5af33819c51a81fa3b029d44d76b8f9d",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "batente-de-elevador",
+    "tableRows": 2,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true
+  }
+}

@@ -1,0 +1,550 @@
+{
+  "id": 200011,
+  "slug": "vibra-stop-base-de-inercia",
+  "name": "Vibra-Stop Base de Inércia",
+  "sku": "Base de Inércia",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-base-de-inercia?model=base-de-inercia&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para aplicações em bombas hidráulicas, ventiladores, compressores, chillers, exaustores, bombas de calor, sopradores e outros equipamentos com alta geração de vibração em relação ao seu peso, máquinas instaladas sobre estruturas metálicas, bases elevadas, pisos com baixa rigidez ou em locais onde não é possível fixação direta ao solo, entre outros.",
+  "description": "<p>Ideais para aplicações em bombas hidráulicas, ventiladores, compressores, chillers, exaustores, bombas de calor, sopradores e outros equipamentos com alta geração de vibração em relação ao seu peso, máquinas instaladas sobre estruturas metálicas, bases elevadas, pisos com baixa rigidez ou em locais onde não é possível fixação direta ao solo, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/base-de-inercia/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/base-de-inercia/foto-1.png",
+    "/images/products/vibra-stop/base-de-inercia/foto-2.png",
+    "/images/products/vibra-stop/base-de-inercia/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Aço Carbono e Borracha Natural."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240048,
+      "sku": "BI1",
+      "label": "BI1",
+      "attributes": [
+        {
+          "name": "Parafuso de montagem (UNC)",
+          "value": "3/8”"
+        },
+        {
+          "name": "Dimensões ((C x L) mm)",
+          "value": "500 x 500"
+        },
+        {
+          "name": "Peso estimado após concretagem (Kgf)",
+          "value": "73"
+        },
+        {
+          "name": "Espessura concretada ((e) mm)",
+          "value": "100"
+        },
+        {
+          "name": "Material metálicos (SAE)",
+          "value": "1020"
+        },
+        {
+          "name": "Peso estimado da estrutura de aço (Kgf)",
+          "value": "11"
+        },
+        {
+          "name": "Quantidade de Apoios",
+          "value": "4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240049,
+      "sku": "BI2",
+      "label": "BI2",
+      "attributes": [
+        {
+          "name": "Parafuso de montagem (UNC)",
+          "value": "3/8”"
+        },
+        {
+          "name": "Dimensões ((C x L) mm)",
+          "value": "1000 x 500"
+        },
+        {
+          "name": "Peso estimado após concretagem (Kgf)",
+          "value": "141"
+        },
+        {
+          "name": "Espessura concretada ((e) mm)",
+          "value": "100"
+        },
+        {
+          "name": "Material metálicos (SAE)",
+          "value": "1020"
+        },
+        {
+          "name": "Peso estimado da estrutura de aço (Kgf)",
+          "value": "16"
+        },
+        {
+          "name": "Quantidade de Apoios",
+          "value": "4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240050,
+      "sku": "BI3",
+      "label": "BI3",
+      "attributes": [
+        {
+          "name": "Parafuso de montagem (UNC)",
+          "value": "3/8”"
+        },
+        {
+          "name": "Dimensões ((C x L) mm)",
+          "value": "1500 x 500"
+        },
+        {
+          "name": "Peso estimado após concretagem (Kgf)",
+          "value": "209"
+        },
+        {
+          "name": "Espessura concretada ((e) mm)",
+          "value": "100"
+        },
+        {
+          "name": "Material metálicos (SAE)",
+          "value": "1020"
+        },
+        {
+          "name": "Peso estimado da estrutura de aço (Kgf)",
+          "value": "21"
+        },
+        {
+          "name": "Quantidade de Apoios",
+          "value": "4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240051,
+      "sku": "BI4",
+      "label": "BI4",
+      "attributes": [
+        {
+          "name": "Parafuso de montagem (UNC)",
+          "value": "3/8”"
+        },
+        {
+          "name": "Dimensões ((C x L) mm)",
+          "value": "2.000 x 500"
+        },
+        {
+          "name": "Peso estimado após concretagem (Kgf)",
+          "value": "277"
+        },
+        {
+          "name": "Espessura concretada ((e) mm)",
+          "value": "100"
+        },
+        {
+          "name": "Material metálicos (SAE)",
+          "value": "1020"
+        },
+        {
+          "name": "Peso estimado da estrutura de aço (Kgf)",
+          "value": "27"
+        },
+        {
+          "name": "Quantidade de Apoios",
+          "value": "6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240052,
+      "sku": "BI5",
+      "label": "BI5",
+      "attributes": [
+        {
+          "name": "Parafuso de montagem (UNC)",
+          "value": "3/8”"
+        },
+        {
+          "name": "Dimensões ((C x L) mm)",
+          "value": "1000 x 1000"
+        },
+        {
+          "name": "Peso estimado após concretagem (Kgf)",
+          "value": "271"
+        },
+        {
+          "name": "Espessura concretada ((e) mm)",
+          "value": "100"
+        },
+        {
+          "name": "Material metálicos (SAE)",
+          "value": "1020"
+        },
+        {
+          "name": "Peso estimado da estrutura de aço (Kgf)",
+          "value": "22"
+        },
+        {
+          "name": "Quantidade de Apoios",
+          "value": "4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240053,
+      "sku": "BI6",
+      "label": "BI6",
+      "attributes": [
+        {
+          "name": "Parafuso de montagem (UNC)",
+          "value": "3/8”"
+        },
+        {
+          "name": "Dimensões ((C x L) mm)",
+          "value": "1500 x 1500"
+        },
+        {
+          "name": "Peso estimado após concretagem (Kgf)",
+          "value": "595"
+        },
+        {
+          "name": "Espessura concretada ((e) mm)",
+          "value": "100"
+        },
+        {
+          "name": "Material metálicos (SAE)",
+          "value": "1020"
+        },
+        {
+          "name": "Peso estimado da estrutura de aço (Kgf)",
+          "value": "32"
+        },
+        {
+          "name": "Quantidade de Apoios",
+          "value": "4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240054,
+      "sku": "BI7",
+      "label": "BI7",
+      "attributes": [
+        {
+          "name": "Parafuso de montagem (UNC)",
+          "value": "3/8”"
+        },
+        {
+          "name": "Dimensões ((C x L) mm)",
+          "value": "1500 x 1000"
+        },
+        {
+          "name": "Peso estimado após concretagem (Kgf)",
+          "value": "402"
+        },
+        {
+          "name": "Espessura concretada ((e) mm)",
+          "value": "100"
+        },
+        {
+          "name": "Material metálicos (SAE)",
+          "value": "1020"
+        },
+        {
+          "name": "Peso estimado da estrutura de aço (Kgf)",
+          "value": "27"
+        },
+        {
+          "name": "Quantidade de Apoios",
+          "value": "4"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240055,
+      "sku": "BI8",
+      "label": "BI8",
+      "attributes": [
+        {
+          "name": "Parafuso de montagem (UNC)",
+          "value": "3/8”"
+        },
+        {
+          "name": "Dimensões ((C x L) mm)",
+          "value": "2000 x 1000"
+        },
+        {
+          "name": "Peso estimado após concretagem (Kgf)",
+          "value": "532"
+        },
+        {
+          "name": "Espessura concretada ((e) mm)",
+          "value": "100"
+        },
+        {
+          "name": "Material metálicos (SAE)",
+          "value": "1020"
+        },
+        {
+          "name": "Peso estimado da estrutura de aço (Kgf)",
+          "value": "32"
+        },
+        {
+          "name": "Quantidade de Apoios",
+          "value": "6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240056,
+      "sku": "BI9",
+      "label": "BI9",
+      "attributes": [
+        {
+          "name": "Parafuso de montagem (UNC)",
+          "value": "3/8”"
+        },
+        {
+          "name": "Dimensões ((C x L) mm)",
+          "value": "2000 x 1500"
+        },
+        {
+          "name": "Peso estimado após concretagem (Kgf)",
+          "value": "787"
+        },
+        {
+          "name": "Espessura concretada ((e) mm)",
+          "value": "100"
+        },
+        {
+          "name": "Material metálicos (SAE)",
+          "value": "1020"
+        },
+        {
+          "name": "Peso estimado da estrutura de aço (Kgf)",
+          "value": "38"
+        },
+        {
+          "name": "Quantidade de Apoios",
+          "value": "6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240057,
+      "sku": "BI10",
+      "label": "BI10",
+      "attributes": [
+        {
+          "name": "Parafuso de montagem (UNC)",
+          "value": "3/8”"
+        },
+        {
+          "name": "Dimensões ((C x L) mm)",
+          "value": "2000 x 2000"
+        },
+        {
+          "name": "Peso estimado após concretagem (Kgf)",
+          "value": "1042"
+        },
+        {
+          "name": "Espessura concretada ((e) mm)",
+          "value": "100"
+        },
+        {
+          "name": "Material metálicos (SAE)",
+          "value": "1020"
+        },
+        {
+          "name": "Peso estimado da estrutura de aço (Kgf)",
+          "value": "43"
+        },
+        {
+          "name": "Quantidade de Apoios",
+          "value": "6"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/base-de-inercia/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Base%20de%20Inercia.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Parafuso de montagem (UNC)",
+        "Dimensões ((C x L) mm)",
+        "Peso estimado após concretagem (Kgf)",
+        "Espessura concretada ((e) mm)",
+        "Material metálicos (SAE)",
+        "Peso estimado da estrutura de aço (Kgf)",
+        "Quantidade de Apoios"
+      ],
+      "rows": [
+        [
+          "BI1",
+          "3/8”",
+          "500 x 500",
+          "73",
+          "100",
+          "1020",
+          "11",
+          "4"
+        ],
+        [
+          "BI2",
+          "3/8”",
+          "1000 x 500",
+          "141",
+          "100",
+          "1020",
+          "16",
+          "4"
+        ],
+        [
+          "BI3",
+          "3/8”",
+          "1500 x 500",
+          "209",
+          "100",
+          "1020",
+          "21",
+          "4"
+        ],
+        [
+          "BI4",
+          "3/8”",
+          "2.000 x 500",
+          "277",
+          "100",
+          "1020",
+          "27",
+          "6"
+        ],
+        [
+          "BI5",
+          "3/8”",
+          "1000 x 1000",
+          "271",
+          "100",
+          "1020",
+          "22",
+          "4"
+        ],
+        [
+          "BI6",
+          "3/8”",
+          "1500 x 1500",
+          "595",
+          "100",
+          "1020",
+          "32",
+          "4"
+        ],
+        [
+          "BI7",
+          "3/8”",
+          "1500 x 1000",
+          "402",
+          "100",
+          "1020",
+          "27",
+          "4"
+        ],
+        [
+          "BI8",
+          "3/8”",
+          "2000 x 1000",
+          "532",
+          "100",
+          "1020",
+          "32",
+          "6"
+        ],
+        [
+          "BI9",
+          "3/8”",
+          "2000 x 1500",
+          "787",
+          "100",
+          "1020",
+          "38",
+          "6"
+        ],
+        [
+          "BI10",
+          "3/8”",
+          "2000 x 2000",
+          "1042",
+          "100",
+          "1020",
+          "43",
+          "6"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/base-de-inercia/aplicacao-4.png",
+        "/images/products/vibra-stop/base-de-inercia/aplicacao-5.png",
+        "/images/products/vibra-stop/base-de-inercia/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

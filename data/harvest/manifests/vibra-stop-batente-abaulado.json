@@ -1,0 +1,270 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-abaulado?model=batente-abaulado&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:25:43.800Z",
+  "product": {
+    "id": 200013,
+    "slug": "vibra-stop-batente-abaulado",
+    "name": "Vibra-Stop Batente Abaulado",
+    "sku": "Batente Abaulado",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-abaulado?model=batente-abaulado&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para aplicações em portas, esteiras, carrinhos, entre outros.",
+    "description": "<p>Ideais para aplicações em portas, esteiras, carrinhos, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/batente-abaulado/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/batente-abaulado/foto-1.png",
+      "/images/products/vibra-stop/batente-abaulado/foto-2.png",
+      "/images/products/vibra-stop/batente-abaulado/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural, Aço Carbono Zincado ou Opção em Inox."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240062,
+        "sku": "P",
+        "label": "P",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "5 a 30"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "2,08/30"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/16”, 1/4”"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "15"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "20"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240063,
+        "sku": "M",
+        "label": "M",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "30 a 100"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "2,99/100"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "1/4\", 5/16”"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "50"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "25"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "40"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240064,
+        "sku": "G",
+        "label": "G",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "100 a 200"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,7/200"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/16”, 3/8\""
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "74"
+          },
+          {
+            "name": "Altura ((h) mm)",
+            "value": "44"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "60"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/batente-abaulado/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Batente%20Abaulado.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vídeo apresentado pelo fabricante",
+        "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-abaulado.mp4",
+        "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-abaulado.mp4",
+        "hosted": false,
+        "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+      }
+    ],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Altura ((H) mm)",
+          "Altura ((h) mm)",
+          "Diâmetro ((D) mm)"
+        ],
+        "rows": [
+          [
+            "P",
+            "5 a 30",
+            "2,08/30",
+            "3/16”, 1/4”",
+            "30",
+            "15",
+            "20"
+          ],
+          [
+            "M",
+            "30 a 100",
+            "2,99/100",
+            "1/4\", 5/16”",
+            "50",
+            "25",
+            "40"
+          ],
+          [
+            "G",
+            "100 a 200",
+            "6,7/200",
+            "5/16”, 3/8\"",
+            "74",
+            "44",
+            "60"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/batente-abaulado/aplicacao-4.png",
+          "/images/products/vibra-stop/batente-abaulado/aplicacao-5.png",
+          "/images/products/vibra-stop/batente-abaulado/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/batente-abaulado/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/ABAULADO/Abaulado%201.1.png",
+      "bytes": 78717,
+      "sha256": "5912914eccfe4d7400842aa1d36c975672549c3fac2cb4c936cafc4e0f6655d4",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-abaulado/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/ABAULADO/Abaulado%201.2.png",
+      "bytes": 75785,
+      "sha256": "2703fbe6b0c74b002b243d23f17224baae11263c4027e12e28eb3ddc70b56e16",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-abaulado/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/ABAULADO/Abaulado%201.0.png",
+      "bytes": 71095,
+      "sha256": "0c9f17f033d165ca6637a252d8255b48aef256941aa0657c3f97680cc81e568b",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-abaulado/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/ABAULADO/Abaulado%201.0.png",
+      "bytes": 241329,
+      "sha256": "ef898fe44983c2e7c81c7cb3948b652a4a132133a4e6c6c4cad5e8ec85da1496",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-abaulado/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/ABAULADO/Abaulado%201.1.png",
+      "bytes": 435070,
+      "sha256": "4b4b1f80d8b7314907322cb461629d352e5d3074f3250795c3e8d8aab3c74fc0",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-abaulado/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/ABAULADO/Manual%20de%20Instalacao%20-%20ABAULADO.png",
+      "bytes": 306695,
+      "sha256": "d751306792b146d0dd7df39683453c302e046b4e7447693bf3f5729850459d41",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/batente-abaulado/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Batente%20Abaulado.pdf",
+      "bytes": 1300026,
+      "sha256": "58ea4122e30f90fb863fbde5bb46f44a391a751fc32b56a42a6657354228e6ed",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "batente-abaulado",
+    "tableRows": 3,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 1,
+    "manualReviewRequired": true
+  }
+}

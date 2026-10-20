@@ -1,0 +1,186 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-estacionamento?model=batente-de-estacionamento&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:26:41.217Z",
+  "product": {
+    "id": 200017,
+    "slug": "vibra-stop-batente-de-estacionamento",
+    "name": "Vibra-Stop Batente de Estacionamento",
+    "sku": "Batente de Estacionamento",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-estacionamento?model=batente-de-estacionamento&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para aplicações em estacionamentos de veículos automotivos e industriais.",
+    "description": "<p>Ideais para aplicações em estacionamentos de veículos automotivos e industriais.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/batente-de-estacionamento/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/batente-de-estacionamento/foto-1.png",
+      "/images/products/vibra-stop/batente-de-estacionamento/foto-2.png",
+      "/images/products/vibra-stop/batente-de-estacionamento/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240072,
+        "sku": "ESTACIONAMENTO",
+        "label": "ESTACIONAMENTO",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "10 a 500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "7,79/1000"
+          },
+          {
+            "name": "Material elastômero",
+            "value": "Borracha Natural"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240073,
+        "sku": "QUINA",
+        "label": "QUINA",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "10 a 500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "5,68/1000"
+          },
+          {
+            "name": "Material elastômero",
+            "value": "Borracha Natural"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/batente-de-estacionamento/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Batente%20de%20Estacionamento.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade à Compressão (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Material elastômero"
+        ],
+        "rows": [
+          [
+            "ESTACIONAMENTO",
+            "10 a 500",
+            "7,79/1000",
+            "Borracha Natural"
+          ],
+          [
+            "QUINA",
+            "10 a 500",
+            "5,68/1000",
+            "Borracha Natural"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/batente-de-estacionamento/aplicacao-4.png",
+          "/images/products/vibra-stop/batente-de-estacionamento/aplicacao-5.png",
+          "/images/products/vibra-stop/batente-de-estacionamento/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/batente-de-estacionamento/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/ESTACIONAMENTO/Estacionamento%201.1.png",
+      "bytes": 46217,
+      "sha256": "db1733b9d228d885da8471f6b322a314b5dc95df5a4e87a9cfc3404544e26c14",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-de-estacionamento/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/ESTACIONAMENTO/Estacionamento%201.2.png",
+      "bytes": 43601,
+      "sha256": "ca5b81bd7571a17a5ec73206f7ef67f6c7f85f115f87de5d72630e1fd1848528",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-de-estacionamento/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/ESTACIONAMENTO/Estacionamento%201.0.png",
+      "bytes": 37048,
+      "sha256": "6156df998cb0d66f6f0e43fcee9b2c0ed2b99ecb74b72763bf3889a1fffa7254",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-de-estacionamento/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/ESTACIONAMENTO/Estacionamento%201.0.png",
+      "bytes": 97621,
+      "sha256": "45c455509f0f8e724d5df662fe00a6d749e98000be85deada2189592f0f282d4",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-de-estacionamento/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/ESTACIONAMENTO/Estacionamento%201.1.png",
+      "bytes": 91974,
+      "sha256": "f00b1a92db498598550c55135f1be8d9c9d7d8456cfd3403c595c3bbe043a850",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/batente-de-estacionamento/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/BATENTE%20ESTACIONAMENTO/Manual%20de%20Instalacao%20-%20ESTACIONAMENTO.png",
+      "bytes": 194463,
+      "sha256": "f8d8583931ef629b1f04888b7911181f6114444ac41a339288b79c672b30512b",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/batente-de-estacionamento/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Batente%20de%20Estacionamento.pdf",
+      "bytes": 740589,
+      "sha256": "13ffc399f24f923b9728f770249384ab3a1db3cea55ac7f12a19106089c9c261",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "batente-de-estacionamento",
+    "tableRows": 2,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 0,
+    "manualReviewRequired": true
+  }
+}

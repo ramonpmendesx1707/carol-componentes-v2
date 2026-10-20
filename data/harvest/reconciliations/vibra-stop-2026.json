@@ -26,10 +26,10 @@
       "field": "material da base de malha",
       "siteValue": "Página do produto mostra composição genérica com borracha natural, incompatível com a descrição de aplicação em ambientes agressivos à borracha.",
       "pdfValue": "Catálogo de Produtos 2026, página 4: malha de aço galvanizado. Ficha técnica específica edição 2025, página 1: malha de aço em inox 304.",
-      "chosenValue": "Base de malha de aço; liga/acabamento não definidos até confirmação técnica.",
+      "chosenValue": "Após a coleta completa, aplicar malha de aço galvanizado do Catálogo de Produtos 2026, página 4, em preferência à ficha PDF 2025 e ao site.",
       "pdfPage": 4,
-      "reviewStatus": "needs_supplier_confirmation",
-      "remaining": "Não publicar a ficha como definitiva nem afirmar galvanizado ou inox 304 para todas as variantes sem resolver a divergência."
+      "reviewStatus": "deferred_until_full_supplier_crawl",
+      "remaining": "Não editar esta ficha nem publicá-la antes do fim da coleta. Na reconciliação final, vincular cada referência e aplicar a edição PDF 2026 mais recente; conservar a divergência histórica no relatório."
     },
     {
       "productSlug": null,

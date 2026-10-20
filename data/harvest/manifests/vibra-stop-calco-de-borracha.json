@@ -1,0 +1,330 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-calco-de-borracha?model=calco-de-borracha&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:28:44.763Z",
+  "product": {
+    "id": 200018,
+    "slug": "vibra-stop-calco-de-borracha",
+    "name": "Vibra-Stop Calço de Borracha",
+    "sku": "Calço de Borracha",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-calco-de-borracha?model=calco-de-borracha&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para suporte de equipamentos sem furação ou fixação, apoio para tubulações, entre outros.",
+    "description": "<p>Ideais para suporte de equipamentos sem furação ou fixação, apoio para tubulações, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/calco-de-borracha/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/calco-de-borracha/foto-1.png",
+      "/images/products/vibra-stop/calco-de-borracha/foto-2.png",
+      "/images/products/vibra-stop/calco-de-borracha/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borrachal Natural."
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240074,
+        "sku": "PP",
+        "label": "PP",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "5 a 100"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "2,9/100"
+          },
+          {
+            "name": "Altura ((e) mm)",
+            "value": "15"
+          },
+          {
+            "name": "Largura ((L) mm)",
+            "value": "50"
+          },
+          {
+            "name": "Dureza (Shore A)",
+            "value": "60"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240075,
+        "sku": "P",
+        "label": "P",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "50 a 700"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "3,8/700"
+          },
+          {
+            "name": "Altura ((e) mm)",
+            "value": "25"
+          },
+          {
+            "name": "Largura ((L) mm)",
+            "value": "100"
+          },
+          {
+            "name": "Dureza (Shore A)",
+            "value": "60"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240076,
+        "sku": "M",
+        "label": "M",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "100 a 1.500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,2/1.500"
+          },
+          {
+            "name": "Altura ((e) mm)",
+            "value": "50"
+          },
+          {
+            "name": "Largura ((L) mm)",
+            "value": "100"
+          },
+          {
+            "name": "Dureza (Shore A)",
+            "value": "70"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240077,
+        "sku": "G",
+        "label": "G",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "200 a 1.500"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "4,6/1.500"
+          },
+          {
+            "name": "Altura ((e) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Largura ((L) mm)",
+            "value": "150"
+          },
+          {
+            "name": "Dureza (Shore A)",
+            "value": "70"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240078,
+        "sku": "GG",
+        "label": "GG",
+        "attributes": [
+          {
+            "name": "Capacidade de Carga (Kgf)",
+            "value": "300 a 7.000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,9/7.000"
+          },
+          {
+            "name": "Altura ((e) mm)",
+            "value": "50"
+          },
+          {
+            "name": "Largura ((L) mm)",
+            "value": "200"
+          },
+          {
+            "name": "Dureza (Shore A)",
+            "value": "70"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/calco-de-borracha/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Calco%20de%20Borracha.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vídeo apresentado pelo fabricante",
+        "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-calco-de-borracha.mp4",
+        "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-calco-de-borracha.mp4",
+        "hosted": false,
+        "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+      }
+    ],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade de Carga (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Altura ((e) mm)",
+          "Largura ((L) mm)",
+          "Dureza (Shore A)"
+        ],
+        "rows": [
+          [
+            "PP",
+            "5 a 100",
+            "2,9/100",
+            "15",
+            "50",
+            "60"
+          ],
+          [
+            "P",
+            "50 a 700",
+            "3,8/700",
+            "25",
+            "100",
+            "60"
+          ],
+          [
+            "M",
+            "100 a 1.500",
+            "6,2/1.500",
+            "50",
+            "100",
+            "70"
+          ],
+          [
+            "G",
+            "200 a 1.500",
+            "4,6/1.500",
+            "30",
+            "150",
+            "70"
+          ],
+          [
+            "GG",
+            "300 a 7.000",
+            "6,9/7.000",
+            "50",
+            "200",
+            "70"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/calco-de-borracha/aplicacao-4.png",
+          "/images/products/vibra-stop/calco-de-borracha/aplicacao-5.png",
+          "/images/products/vibra-stop/calco-de-borracha/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/calco-de-borracha/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/CALCO%20BORRACHA/Calco%20Borracha%201.1.png",
+      "bytes": 38510,
+      "sha256": "93cd16d568eecd711d9f310157f3aa65935a0f9a253238b8fddb2e8e43e9fe86",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/calco-de-borracha/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/CALCO%20BORRACHA/Calco%20Borracha%201.2.png",
+      "bytes": 45716,
+      "sha256": "7d4f9f0c47e88c86957bcbafd450c11a49e4d63909caa1123a15179b82613fa9",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/calco-de-borracha/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/CALCO%20BORRACHA/Calco%20Borracha%201.0.png",
+      "bytes": 25464,
+      "sha256": "74ddabdc0c50ae1fd6fed7108be93185a4e5457adfdad53b531d9393f0915cac",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/calco-de-borracha/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/CALCO%20BORRACHA/Calco%20Borracha%201.0.png",
+      "bytes": 242412,
+      "sha256": "e3689d698af6b7f8672dfe4c612dc456a1855bcadb233ee2ad7f6279c808fd62",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/calco-de-borracha/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/CALCO%20BORRACHA/Calco%20Borracha%201.1.png",
+      "bytes": 240043,
+      "sha256": "2deaa9e8dfc3654dd02db7c3383a34b2319faef11489cd947b16822b88cb4c84",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/calco-de-borracha/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/CALCO%20BORRACHA/Manual%20de%20Instalacao%20-%20CALCO%20BORRACHA.png",
+      "bytes": 65717,
+      "sha256": "0e2f7907a5a6aca4530dd1bf163e45e99b9d21747f30ec4a65c333265918e99e",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/calco-de-borracha/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Calco%20de%20Borracha.pdf",
+      "bytes": 1748258,
+      "sha256": "639e82f51ef5736c87208632134c9dcdbad94a01fbd7dc5a407f78a3ba09b7d5",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "calco-de-borracha",
+    "tableRows": 5,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 1,
+    "manualReviewRequired": true
+  }
+}

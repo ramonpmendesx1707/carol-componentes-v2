@@ -1,0 +1,304 @@
+{
+  "id": 200019,
+  "slug": "vibra-stop-tubulacao",
+  "name": "Vibra-Stop Calço de Tubulação",
+  "sku": "Calço de Tubulação",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-calco-de-tubulacao?model=tubulacao&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para encaixe em vigas de metal ou madeira de até 50mm X 50mm.",
+  "description": "<p>Ideais para encaixe em vigas de metal ou madeira de até 50mm X 50mm.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/tubulacao/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/tubulacao/foto-1.png",
+    "/images/products/vibra-stop/tubulacao/foto-2.png",
+    "/images/products/vibra-stop/tubulacao/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Borracha Natural."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240079,
+      "sku": "P",
+      "label": "P",
+      "attributes": [
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "5,73/500"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "35"
+        },
+        {
+          "name": "Diâmetro ((D) mm)",
+          "value": "55"
+        },
+        {
+          "name": "Furo ((f) mm)",
+          "value": "8"
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "25"
+        },
+        {
+          "name": "Largura ((B) mm)",
+          "value": "90"
+        },
+        {
+          "name": "Tubulação",
+          "value": "2”"
+        },
+        {
+          "name": "Centro de furos ((t) mm)",
+          "value": "73"
+        },
+        {
+          "name": "Espessura ((e) mm)",
+          "value": "17,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240080,
+      "sku": "M",
+      "label": "M",
+      "attributes": [
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "5,16/500"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "50"
+        },
+        {
+          "name": "Diâmetro ((D) mm)",
+          "value": "85"
+        },
+        {
+          "name": "Furo ((f) mm)",
+          "value": "10"
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Largura ((B) mm)",
+          "value": "125"
+        },
+        {
+          "name": "Tubulação",
+          "value": "3”"
+        },
+        {
+          "name": "Centro de furos ((t) mm)",
+          "value": "100"
+        },
+        {
+          "name": "Espessura ((e) mm)",
+          "value": "20"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240081,
+      "sku": "G",
+      "label": "G",
+      "attributes": [
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,35/1000"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "65"
+        },
+        {
+          "name": "Diâmetro ((D) mm)",
+          "value": "112"
+        },
+        {
+          "name": "Furo ((f) mm)",
+          "value": "10"
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "35"
+        },
+        {
+          "name": "Largura ((B) mm)",
+          "value": "150"
+        },
+        {
+          "name": "Tubulação",
+          "value": "4”"
+        },
+        {
+          "name": "Centro de furos ((t) mm)",
+          "value": "130"
+        },
+        {
+          "name": "Espessura ((e) mm)",
+          "value": "19"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240082,
+      "sku": "GG",
+      "label": "GG",
+      "attributes": [
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "6,6/1000"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "100"
+        },
+        {
+          "name": "Diâmetro ((D) mm)",
+          "value": "170"
+        },
+        {
+          "name": "Furo ((f) mm)",
+          "value": "12"
+        },
+        {
+          "name": "Largura ((L) mm)",
+          "value": "45"
+        },
+        {
+          "name": "Largura ((B) mm)",
+          "value": "225"
+        },
+        {
+          "name": "Tubulação",
+          "value": "6-1/2”"
+        },
+        {
+          "name": "Centro de furos ((t) mm)",
+          "value": "198"
+        },
+        {
+          "name": "Espessura ((e) mm)",
+          "value": "27,5"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/tubulacao/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Calco%20de%20Tubulacao.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Deflexão (mm/Kgf)",
+        "Altura ((H) mm)",
+        "Diâmetro ((D) mm)",
+        "Furo ((f) mm)",
+        "Largura ((L) mm)",
+        "Largura ((B) mm)",
+        "Tubulação",
+        "Centro de furos ((t) mm)",
+        "Espessura ((e) mm)"
+      ],
+      "rows": [
+        [
+          "P",
+          "5,73/500",
+          "35",
+          "55",
+          "8",
+          "25",
+          "90",
+          "2”",
+          "73",
+          "17,5"
+        ],
+        [
+          "M",
+          "5,16/500",
+          "50",
+          "85",
+          "10",
+          "30",
+          "125",
+          "3”",
+          "100",
+          "20"
+        ],
+        [
+          "G",
+          "6,35/1000",
+          "65",
+          "112",
+          "10",
+          "35",
+          "150",
+          "4”",
+          "130",
+          "19"
+        ],
+        [
+          "GG",
+          "6,6/1000",
+          "100",
+          "170",
+          "12",
+          "45",
+          "225",
+          "6-1/2”",
+          "198",
+          "27,5"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/tubulacao/aplicacao-4.png",
+        "/images/products/vibra-stop/tubulacao/aplicacao-5.bmp",
+        "/images/products/vibra-stop/tubulacao/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

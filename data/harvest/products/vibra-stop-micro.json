@@ -1,0 +1,270 @@
+{
+  "id": 200026,
+  "slug": "vibra-stop-micro",
+  "name": "Vibra-Stop Micro",
+  "sku": "Micro",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-micro?model=micro&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para móveis de escritório, equipamentos industriais de pequeno ou médio porte, equipamentos domésticos, entre outros.",
+  "description": "<p>Ideais para móveis de escritório, equipamentos industriais de pequeno ou médio porte, equipamentos domésticos, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/micro/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/micro/foto-1.png",
+    "/images/products/vibra-stop/micro/foto-2.png",
+    "/images/products/vibra-stop/micro/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Borracha Natural, Aço Carbono Zincado ou opção em Inox."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240099,
+      "sku": "MIC I",
+      "label": "MIC I",
+      "attributes": [
+        {
+          "name": "Carga Estática (Kgf)",
+          "value": "20 a 50"
+        },
+        {
+          "name": "Carga Dinâmica (Kgf)",
+          "value": "80 a 200"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "3,44/50"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "1/4”, 5/16”"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Altura ((h) mm)",
+          "value": "35"
+        },
+        {
+          "name": "Diâmetro ((D) mm)",
+          "value": "45"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240100,
+      "sku": "MIC II",
+      "label": "MIC II",
+      "attributes": [
+        {
+          "name": "Carga Estática (Kgf)",
+          "value": "50 a 70"
+        },
+        {
+          "name": "Carga Dinâmica (Kgf)",
+          "value": "200 a 280"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "5,04/70"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/16”, 3/8”, 1/2\""
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "85"
+        },
+        {
+          "name": "Altura ((h) mm)",
+          "value": "40"
+        },
+        {
+          "name": "Diâmetro ((D) mm)",
+          "value": "55"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240101,
+      "sku": "MIC III",
+      "label": "MIC III",
+      "attributes": [
+        {
+          "name": "Carga Estática (Kgf)",
+          "value": "70 a 100"
+        },
+        {
+          "name": "Carga Dinâmica (Kgf)",
+          "value": "280 a 400"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "3,02/100"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "5/16”, 3/8”, 1/2\""
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "105"
+        },
+        {
+          "name": "Altura ((h) mm)",
+          "value": "50"
+        },
+        {
+          "name": "Diâmetro ((D) mm)",
+          "value": "70"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240102,
+      "sku": "MIC IV",
+      "label": "MIC IV",
+      "attributes": [
+        {
+          "name": "Carga Estática (Kgf)",
+          "value": "100 a 300"
+        },
+        {
+          "name": "Carga Dinâmica (Kgf)",
+          "value": "400 a 1.200"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "9,98/300"
+        },
+        {
+          "name": "Parafuso ((d))",
+          "value": "3/8”, 1/2\", 5/8”"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "145"
+        },
+        {
+          "name": "Altura ((h) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro ((D) mm)",
+          "value": "100"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/micro/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Micro.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Vídeo apresentado pelo fabricante",
+      "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-micro.mp4",
+      "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-micro.mp4",
+      "hosted": false,
+      "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+    }
+  ],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Carga Estática (Kgf)",
+        "Carga Dinâmica (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Parafuso ((d))",
+        "Altura ((H) mm)",
+        "Altura ((h) mm)",
+        "Diâmetro ((D) mm)"
+      ],
+      "rows": [
+        [
+          "MIC I",
+          "20 a 50",
+          "80 a 200",
+          "3,44/50",
+          "1/4”, 5/16”",
+          "70",
+          "35",
+          "45"
+        ],
+        [
+          "MIC II",
+          "50 a 70",
+          "200 a 280",
+          "5,04/70",
+          "5/16”, 3/8”, 1/2\"",
+          "85",
+          "40",
+          "55"
+        ],
+        [
+          "MIC III",
+          "70 a 100",
+          "280 a 400",
+          "3,02/100",
+          "5/16”, 3/8”, 1/2\"",
+          "105",
+          "50",
+          "70"
+        ],
+        [
+          "MIC IV",
+          "100 a 300",
+          "400 a 1.200",
+          "9,98/300",
+          "3/8”, 1/2\", 5/8”",
+          "145",
+          "70",
+          "100"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/micro/aplicacao-4.png",
+        "/images/products/vibra-stop/micro/aplicacao-5.png",
+        "/images/products/vibra-stop/micro/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

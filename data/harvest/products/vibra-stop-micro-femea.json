@@ -1,0 +1,291 @@
+{
+  "id": 200027,
+  "slug": "vibra-stop-micro-femea",
+  "name": "Vibra-Stop Micro Fêmea",
+  "sku": "Micro Fêmea",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-micro?model=micro-femea&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para móveis de escritório, equipamentos industriais de pequeno ou médio porte, equipamentos domésticos, entre outros.",
+  "description": "<p>Ideais para móveis de escritório, equipamentos industriais de pequeno ou médio porte, equipamentos domésticos, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/micro-femea/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/micro-femea/foto-1.png",
+    "/images/products/vibra-stop/micro-femea/foto-2.png",
+    "/images/products/vibra-stop/micro-femea/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Borracha Natural, Aço Carbono Zincado ou opção em Inox. ROSCA: M8 1/4\" M6 5/16\""
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240103,
+      "sku": "MIC I F",
+      "label": "MIC I F",
+      "attributes": [
+        {
+          "name": "Carga Estática (Kgf)",
+          "value": "20 a 50"
+        },
+        {
+          "name": "Carga Dinâmica (Kgf)",
+          "value": "80 a 200"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "3,44/50"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "35"
+        },
+        {
+          "name": "Diâmetro Base ((D) mm)",
+          "value": "45"
+        },
+        {
+          "name": "Rosca Interna ((R) mm)",
+          "value": "1/4\", 5/16”, M6, M8"
+        },
+        {
+          "name": "Profundidade da rosca ((p) mm)",
+          "value": "11"
+        },
+        {
+          "name": "Diâmetro Superior ((d) mm)",
+          "value": "21"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240104,
+      "sku": "MIC II F",
+      "label": "MIC II F",
+      "attributes": [
+        {
+          "name": "Carga Estática (Kgf)",
+          "value": "50 a 70"
+        },
+        {
+          "name": "Carga Dinâmica (Kgf)",
+          "value": "200 a 280"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "5,04/70"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "40"
+        },
+        {
+          "name": "Diâmetro Base ((D) mm)",
+          "value": "55"
+        },
+        {
+          "name": "Rosca Interna ((R) mm)",
+          "value": "5/16”, 3/8”, M8, M10"
+        },
+        {
+          "name": "Profundidade da rosca ((p) mm)",
+          "value": "12"
+        },
+        {
+          "name": "Diâmetro Superior ((d) mm)",
+          "value": "26"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240105,
+      "sku": "MIC III F",
+      "label": "MIC III F",
+      "attributes": [
+        {
+          "name": "Carga Estática (Kgf)",
+          "value": "70 a 100"
+        },
+        {
+          "name": "Carga Dinâmica (Kgf)",
+          "value": "280 a 400"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "3,02/100"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "50"
+        },
+        {
+          "name": "Diâmetro Base ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Rosca Interna ((R) mm)",
+          "value": "3/8”, 1/2\", M10, M12"
+        },
+        {
+          "name": "Profundidade da rosca ((p) mm)",
+          "value": "17"
+        },
+        {
+          "name": "Diâmetro Superior ((d) mm)",
+          "value": "33"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240106,
+      "sku": "MIC IV F",
+      "label": "MIC IV F",
+      "attributes": [
+        {
+          "name": "Carga Estática (Kgf)",
+          "value": "100 a 300"
+        },
+        {
+          "name": "Carga Dinâmica (Kgf)",
+          "value": "400 a 1.200"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "9,98/300"
+        },
+        {
+          "name": "Altura Total ((H) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro Base ((D) mm)",
+          "value": "100"
+        },
+        {
+          "name": "Rosca Interna ((R) mm)",
+          "value": "3/8”, 1/2\", M10, M12"
+        },
+        {
+          "name": "Profundidade da rosca ((p) mm)",
+          "value": "17"
+        },
+        {
+          "name": "Diâmetro Superior ((d) mm)",
+          "value": "48"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/micro-femea/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Micro%20Femea.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Vídeo apresentado pelo fabricante",
+      "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-micro.mp4",
+      "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-micro.mp4",
+      "hosted": false,
+      "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+    }
+  ],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Carga Estática (Kgf)",
+        "Carga Dinâmica (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Altura Total ((H) mm)",
+        "Diâmetro Base ((D) mm)",
+        "Rosca Interna ((R) mm)",
+        "Profundidade da rosca ((p) mm)",
+        "Diâmetro Superior ((d) mm)"
+      ],
+      "rows": [
+        [
+          "MIC I F",
+          "20 a 50",
+          "80 a 200",
+          "3,44/50",
+          "35",
+          "45",
+          "1/4\", 5/16”, M6, M8",
+          "11",
+          "21"
+        ],
+        [
+          "MIC II F",
+          "50 a 70",
+          "200 a 280",
+          "5,04/70",
+          "40",
+          "55",
+          "5/16”, 3/8”, M8, M10",
+          "12",
+          "26"
+        ],
+        [
+          "MIC III F",
+          "70 a 100",
+          "280 a 400",
+          "3,02/100",
+          "50",
+          "70",
+          "3/8”, 1/2\", M10, M12",
+          "17",
+          "33"
+        ],
+        [
+          "MIC IV F",
+          "100 a 300",
+          "400 a 1.200",
+          "9,98/300",
+          "70",
+          "100",
+          "3/8”, 1/2\", M10, M12",
+          "17",
+          "48"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/micro-femea/aplicacao-4.png",
+        "/images/products/vibra-stop/micro-femea/aplicacao-5.png",
+        "/images/products/vibra-stop/micro-femea/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

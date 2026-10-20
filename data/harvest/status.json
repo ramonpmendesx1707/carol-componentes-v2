@@ -1,33 +1,33 @@
 {
   "schema": 1,
   "lastHandoff": {
-    "updatedAt": "2026-10-20T06:09:27.050Z",
-    "codeCommit": "64f16eff05d8cbfac706620f47d7ac3f90a336e4",
-    "githubPagesRun": "https://github.com/ramonpmendesx1707/carol-componentes-v2/actions/runs/39361345937",
+    "updatedAt": "2026-10-20T10:31:06.314Z",
+    "codeCommit": "66991adda8b516bf4f77b9252bc20541f83ba91d",
+    "githubPagesRun": "https://github.com/ramonpmendesx1707/carol-componentes-v2/actions/runs/39379452240",
     "githubPagesChecked": "4 products, supplier filter, Kifix technical tab, Vibra video link and image tested at 390px/1440px",
-    "siteVersion": 3,
-    "siteDeploymentId": "appgdep_6ad6d7f446888191ac68772acbae4562",
+    "siteVersion": 4,
+    "siteDeploymentId": "appgdep_6ad7079ee6c0819184296ccb85e2c153",
     "siteAudience": "public (aprovado por Ramon em 20/10/2026)",
-    "siteApiChecked": "HTTP 200, 4 produtos; página inicial da versão 3 retornou 500, correção de hidratação aguardando republicação e teste",
+    "siteApiChecked": "Versão 4 pública: raiz HTTP 200, API HTTP 200 com 4 produtos; navegador 390/1440 px validado",
     "activeSupplier": "Vibra-Stop",
-    "nextQueueId": "vibra-stop-bb5b664150c9",
-    "nextSourceUrl": "https://www.vibra-stop.com.br/produto/linha-articulado?model=articulado&language=pt-BR",
-    "nextAction": "Revisar Malha de Aço, Sem Chapa e Chapa + 2 Furos coletados em needs_review; resolver divergência de material da Malha de Aço; depois continuar Articulada com scripts/harvest-vibra-queue.mjs --limit=1. Não iniciar Merkbak/Kifix/Carolfix antes de concluir Vibra-Stop.",
+    "nextQueueId": "vibra-stop-6cd86e35f6c0",
+    "nextSourceUrl": "https://www.vibra-stop.com.br/produto/linha-quad?model=quad&language=pt-BR",
+    "nextAction": "Coletar próximo modelo com node scripts/harvest-vibra-queue.mjs --limit=1. Manter em needs_review, sem publicar. Somente após concluir toda a coleta Vibra-Stop, confrontar campo a campo com PDFs definitivos.",
     "knownBlockers": [
       "Kifix drawings require supplier login",
       "Vibra-Stop pilot video is ~140 MB and linked, not hosted",
       "Carolfix 525.160 d3=45,6 needs technical confirmation",
-      "Malha de Aço: catálogo 2026 fala malha galvanizada; ficha 2025 fala inox 304; site traz composição genérica de borracha",
-      "Site V2 público: página inicial versão 3 HTTP 500; API 200; republicar correção e testar"
+      "Malha de Aço: após coleta integral aplicar PDF 2026 (malha galvanizada) sobre PDF 2025/site, por decisão de Ramon",
+      "Reconciliação documental Vibra-Stop pendente até concluir todas as sementes e produtos descobertos"
     ],
     "counts": {
       "publishedPilotProducts": 4,
       "publishedPilotVariations": 45,
       "seedQueueTotal": 148,
       "seedQueueComplete": 1,
-      "seedQueueNeedsReview": 3,
-      "seedQueuePending": 144,
-      "vibraStopAdditionalVariantsStaged": 14,
+      "seedQueueNeedsReview": 23,
+      "seedQueuePending": 47,
+      "vibraStopAdditionalVariantsStaged": 82,
       "supplierDocuments2026": 3
     }
   },
@@ -133,6 +133,266 @@
       "manifestFile": "data/harvest/manifests/vibra-stop-chapa-2-furos.json",
       "checks": {
         "variants": 3,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-articulado": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-articulado?model=articulado&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T06:19:53.479Z",
+      "productFile": "data/harvest/products/vibra-stop-articulado.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-articulado.json",
+      "checks": {
+        "variants": 4,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-arruela-de-borracha": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-arruela?model=arruela-de-borracha&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T06:20:06.506Z",
+      "productFile": "data/harvest/products/vibra-stop-arruela-de-borracha.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-arruela-de-borracha.json",
+      "checks": {
+        "variants": 1,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-base-antivibratoria": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-base-antivibratoria?model=base-antivibratoria&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T06:20:19.037Z",
+      "productFile": "data/harvest/products/vibra-stop-base-antivibratoria.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-base-antivibratoria.json",
+      "checks": {
+        "variants": 4,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-base-de-inercia": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-base-de-inercia?model=base-de-inercia&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T06:20:32.234Z",
+      "productFile": "data/harvest/products/vibra-stop-base-de-inercia.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-base-de-inercia.json",
+      "checks": {
+        "variants": 10,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-bat": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-bat?model=bat&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T06:20:45.203Z",
+      "productFile": "data/harvest/products/vibra-stop-bat.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-bat.json",
+      "checks": {
+        "variants": 4,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-batente-abaulado": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-abaulado?model=batente-abaulado&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:25:43.802Z",
+      "productFile": "data/harvest/products/vibra-stop-batente-abaulado.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-batente-abaulado.json",
+      "checks": {
+        "variants": 3,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-batente-de-borracha": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-borracha?model=batente-de-borracha&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:25:58.068Z",
+      "productFile": "data/harvest/products/vibra-stop-batente-de-borracha.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-batente-de-borracha.json",
+      "checks": {
+        "variants": 3,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-batente-de-borracha-femea": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-borracha?model=batente-de-borracha-femea&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:26:12.794Z",
+      "productFile": "data/harvest/products/vibra-stop-batente-de-borracha-femea.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-batente-de-borracha-femea.json",
+      "checks": {
+        "variants": 2,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-batente-de-elevador": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-elevador?model=batente-de-elevador&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:26:26.691Z",
+      "productFile": "data/harvest/products/vibra-stop-batente-de-elevador.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-batente-de-elevador.json",
+      "checks": {
+        "variants": 2,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-batente-de-estacionamento": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-estacionamento?model=batente-de-estacionamento&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:26:41.222Z",
+      "productFile": "data/harvest/products/vibra-stop-batente-de-estacionamento.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-batente-de-estacionamento.json",
+      "checks": {
+        "variants": 2,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-calco-de-borracha": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-calco-de-borracha?model=calco-de-borracha&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:28:44.765Z",
+      "productFile": "data/harvest/products/vibra-stop-calco-de-borracha.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-calco-de-borracha.json",
+      "checks": {
+        "variants": 5,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-tubulacao": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-calco-de-tubulacao?model=tubulacao&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:28:59.093Z",
+      "productFile": "data/harvest/products/vibra-stop-tubulacao.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-tubulacao.json",
+      "checks": {
+        "variants": 4,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-calco-u": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-calco-u?model=calco-u&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:29:13.282Z",
+      "productFile": "data/harvest/products/vibra-stop-calco-u.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-calco-u.json",
+      "checks": {
+        "variants": 1,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 0
+      }
+    },
+    "vibra-stop-coxim-a": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim-a?model=coxim-a&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:29:27.215Z",
+      "productFile": "data/harvest/products/vibra-stop-coxim-a.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-coxim-a.json",
+      "checks": {
+        "variants": 3,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-coxim-m-x-m": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-m-x-m&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:29:40.740Z",
+      "productFile": "data/harvest/products/vibra-stop-coxim-m-x-m.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-coxim-m-x-m.json",
+      "checks": {
+        "variants": 3,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-coxim-m-x-f": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-m-x-f&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:30:01.500Z",
+      "productFile": "data/harvest/products/vibra-stop-coxim-m-x-f.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-coxim-m-x-f.json",
+      "checks": {
+        "variants": 3,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-coxim-f-x-f": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-f-x-f&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:30:17.630Z",
+      "productFile": "data/harvest/products/vibra-stop-coxim-f-x-f.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-coxim-f-x-f.json",
+      "checks": {
+        "variants": 3,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-coxim-xt": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim-xt?model=coxim-xt&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:30:33.643Z",
+      "productFile": "data/harvest/products/vibra-stop-coxim-xt.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-coxim-xt.json",
+      "checks": {
+        "variants": 3,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-micro": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-micro?model=micro&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:30:51.810Z",
+      "productFile": "data/harvest/products/vibra-stop-micro.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-micro.json",
+      "checks": {
+        "variants": 4,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-micro-femea": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-micro?model=micro-femea&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T10:31:06.313Z",
+      "productFile": "data/harvest/products/vibra-stop-micro-femea.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-micro-femea.json",
+      "checks": {
+        "variants": 4,
         "photos": 3,
         "pdfs": 1,
         "videos": 1

@@ -1,0 +1,254 @@
+{
+  "id": 200022,
+  "slug": "vibra-stop-coxim-m-x-m",
+  "name": "Vibra-Stop Coxim M x M",
+  "sku": "Coxim M x M",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-m-x-m&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para balanças, ventiladores, equipamentos de ar condicionado, motores de baixa, média e alta rotação, entre outros.",
+  "description": "<p>Ideais para balanças, ventiladores, equipamentos de ar condicionado, motores de baixa, média e alta rotação, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/coxim-m-x-m/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/coxim-m-x-m/foto-1.png",
+    "/images/products/vibra-stop/coxim-m-x-m/foto-2.png",
+    "/images/products/vibra-stop/coxim-m-x-m/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Borracha Natural, Aço Carbono Zincado ou Opção em Inox."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240087,
+      "sku": "CX1",
+      "label": "CX1",
+      "attributes": [
+        {
+          "name": "Capacidade à Compressão (Kgf)",
+          "value": "10 a 70"
+        },
+        {
+          "name": "Capacidade à Tração (Kgf)",
+          "value": "2 a 14"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "1,11/70"
+        },
+        {
+          "name": "Parafuso ((d) mm)",
+          "value": "1/4”, 5/16”, M6, M8"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "90"
+        },
+        {
+          "name": "Altura da borracha ((h) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Diâmetro ((D) mm)",
+          "value": "30"
+        },
+        {
+          "name": "Capacidade ao Cisalhamento (Kgf)",
+          "value": "5 a 14"
+        },
+        {
+          "name": "Diâmetro da Cintura ((c) mm)",
+          "value": "23"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240088,
+      "sku": "CX2",
+      "label": "CX2",
+      "attributes": [
+        {
+          "name": "Capacidade à Compressão (Kgf)",
+          "value": "70 a 150"
+        },
+        {
+          "name": "Capacidade à Tração (Kgf)",
+          "value": "14 a 30"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "7,7/100"
+        },
+        {
+          "name": "Parafuso ((d) mm)",
+          "value": "5/16”, 3/8”, M8, M10"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "130"
+        },
+        {
+          "name": "Altura da borracha ((h) mm)",
+          "value": "50"
+        },
+        {
+          "name": "Diâmetro ((D) mm)",
+          "value": "50"
+        },
+        {
+          "name": "Capacidade ao Cisalhamento (Kgf)",
+          "value": "14 a 30"
+        },
+        {
+          "name": "Diâmetro da Cintura ((c) mm)",
+          "value": "39"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240089,
+      "sku": "CX3",
+      "label": "CX3",
+      "attributes": [
+        {
+          "name": "Capacidade à Compressão (Kgf)",
+          "value": "150 a 250"
+        },
+        {
+          "name": "Capacidade à Tração (Kgf)",
+          "value": "30 a 50"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "10,33/250"
+        },
+        {
+          "name": "Parafuso ((d) mm)",
+          "value": "3/8”, 1/2\", M10, M12"
+        },
+        {
+          "name": "Altura ((H) mm)",
+          "value": "170"
+        },
+        {
+          "name": "Altura da borracha ((h) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Diâmetro ((D) mm)",
+          "value": "70"
+        },
+        {
+          "name": "Capacidade ao Cisalhamento (Kgf)",
+          "value": "30 a 50"
+        },
+        {
+          "name": "Diâmetro da Cintura ((c) mm)",
+          "value": "52"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/coxim-m-x-m/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Coxim%20M%20x%20M.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Vídeo apresentado pelo fabricante",
+      "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-coxim.mp4",
+      "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-coxim.mp4",
+      "hosted": false,
+      "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+    }
+  ],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade à Compressão (Kgf)",
+        "Capacidade à Tração (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Parafuso ((d) mm)",
+        "Altura ((H) mm)",
+        "Altura da borracha ((h) mm)",
+        "Diâmetro ((D) mm)",
+        "Capacidade ao Cisalhamento (Kgf)",
+        "Diâmetro da Cintura ((c) mm)"
+      ],
+      "rows": [
+        [
+          "CX1",
+          "10 a 70",
+          "2 a 14",
+          "1,11/70",
+          "1/4”, 5/16”, M6, M8",
+          "90",
+          "30",
+          "30",
+          "5 a 14",
+          "23"
+        ],
+        [
+          "CX2",
+          "70 a 150",
+          "14 a 30",
+          "7,7/100",
+          "5/16”, 3/8”, M8, M10",
+          "130",
+          "50",
+          "50",
+          "14 a 30",
+          "39"
+        ],
+        [
+          "CX3",
+          "150 a 250",
+          "30 a 50",
+          "10,33/250",
+          "3/8”, 1/2\", M10, M12",
+          "170",
+          "70",
+          "70",
+          "30 a 50",
+          "52"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/coxim-m-x-m/aplicacao-4.png",
+        "/images/products/vibra-stop/coxim-m-x-m/aplicacao-5.png",
+        "/images/products/vibra-stop/coxim-m-x-m/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

@@ -1,0 +1,230 @@
+{
+  "id": 200014,
+  "slug": "vibra-stop-batente-de-borracha",
+  "name": "Vibra-Stop Batente de Borracha",
+  "sku": "Batente de Borracha",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-batente-de-borracha?model=batente-de-borracha&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para correias transportadoras, carrinhos, portões, entre outros. Permite a fabricação com ou sem porca superior central de ajuste.",
+  "description": "<p>Ideais para correias transportadoras, carrinhos, portões, entre outros. Permite a fabricação com ou sem porca superior central de ajuste.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/batente-de-borracha/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/batente-de-borracha/foto-1.png",
+    "/images/products/vibra-stop/batente-de-borracha/foto-2.png",
+    "/images/products/vibra-stop/batente-de-borracha/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Borracha Natural, Aço Carbono Zincado ou Opção em Inox."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240065,
+      "sku": "P",
+      "label": "P",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "300 a 2.200"
+        },
+        {
+          "name": "Capacidade à Tração (Kgf)",
+          "value": ""
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "9,72/2400"
+        },
+        {
+          "name": "Diâmetro ((D x H) mm)",
+          "value": "125 x 56"
+        },
+        {
+          "name": "Capacidade ao Cisalhamento (Kgf)",
+          "value": ""
+        },
+        {
+          "name": "Distância entre Furos x Diâmetro do Furo ((t x d) mm)",
+          "value": "125 x 10"
+        },
+        {
+          "name": "Material elastômero",
+          "value": "Borracha Natural"
+        },
+        {
+          "name": "Chumbadores (CBA)",
+          "value": "3/8” x 2,5“"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240066,
+      "sku": "G",
+      "label": "G",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "500 a 2.600"
+        },
+        {
+          "name": "Capacidade à Tração (Kgf)",
+          "value": ""
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "19,72/3200"
+        },
+        {
+          "name": "Diâmetro ((D x H) mm)",
+          "value": "125 x 110"
+        },
+        {
+          "name": "Capacidade ao Cisalhamento (Kgf)",
+          "value": ""
+        },
+        {
+          "name": "Distância entre Furos x Diâmetro do Furo ((t x d) mm)",
+          "value": "125 x 13"
+        },
+        {
+          "name": "Material elastômero",
+          "value": "Borracha Natural"
+        },
+        {
+          "name": "Chumbadores (CBA)",
+          "value": "3/8” x 2,5“"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240067,
+      "sku": "K",
+      "label": "K",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "200 a 2.400"
+        },
+        {
+          "name": "Capacidade à Tração (Kgf)",
+          "value": "400"
+        },
+        {
+          "name": "Deflexão (mm/Kgf)",
+          "value": "24,63/2600"
+        },
+        {
+          "name": "Diâmetro ((D x H) mm)",
+          "value": ""
+        },
+        {
+          "name": "Capacidade ao Cisalhamento (Kgf)",
+          "value": "400"
+        },
+        {
+          "name": "Distância entre Furos x Diâmetro do Furo ((t x d) mm)",
+          "value": ""
+        },
+        {
+          "name": "Material elastômero",
+          "value": "Borracha Natural"
+        },
+        {
+          "name": "Chumbadores (CBA)",
+          "value": ""
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/batente-de-borracha/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Batente%20de%20Borracha%20Macho.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Capacidade à Tração (Kgf)",
+        "Deflexão (mm/Kgf)",
+        "Diâmetro ((D x H) mm)",
+        "Capacidade ao Cisalhamento (Kgf)",
+        "Distância entre Furos x Diâmetro do Furo ((t x d) mm)",
+        "Material elastômero",
+        "Chumbadores (CBA)"
+      ],
+      "rows": [
+        [
+          "P",
+          "300 a 2.200",
+          "",
+          "9,72/2400",
+          "125 x 56",
+          "",
+          "125 x 10",
+          "Borracha Natural",
+          "3/8” x 2,5“"
+        ],
+        [
+          "G",
+          "500 a 2.600",
+          "",
+          "19,72/3200",
+          "125 x 110",
+          "",
+          "125 x 13",
+          "Borracha Natural",
+          "3/8” x 2,5“"
+        ],
+        [
+          "K",
+          "200 a 2.400",
+          "400",
+          "24,63/2600",
+          "",
+          "400",
+          "",
+          "Borracha Natural",
+          ""
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/batente-de-borracha/aplicacao-4.png",
+        "/images/products/vibra-stop/batente-de-borracha/aplicacao-5.png",
+        "/images/products/vibra-stop/batente-de-borracha/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

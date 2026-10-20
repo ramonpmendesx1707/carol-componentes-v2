@@ -1,0 +1,100 @@
+{
+  "id": 200020,
+  "slug": "vibra-stop-calco-u",
+  "name": "Vibra-Stop Calço U",
+  "sku": "Calço U",
+  "brand": "Vibra-Stop",
+  "supplier": "Vibra-Stop",
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-calco-u?model=calco-u&language=pt-BR",
+  "type": "product",
+  "summary": "Ideais para piso elevado ou flutuante, vigas de 50x50 mm, entre outros.",
+  "description": "<p>Ideais para piso elevado ou flutuante, vigas de 50x50 mm, entre outros.</p>",
+  "categories": [
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    }
+  ],
+  "image": "/images/products/vibra-stop/calco-u/foto-1.png",
+  "images": [
+    "/images/products/vibra-stop/calco-u/foto-1.png",
+    "/images/products/vibra-stop/calco-u/foto-2.png",
+    "/images/products/vibra-stop/calco-u/foto-3.png"
+  ],
+  "attributes": [
+    {
+      "name": "Composição",
+      "value": "Borracha Natural."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240083,
+      "sku": "CU",
+      "label": "CU",
+      "attributes": [
+        {
+          "name": "Capacidade de Carga (Kgf)",
+          "value": "10 a 500"
+        },
+        {
+          "name": "Altura Total (mm)",
+          "value": "40"
+        },
+        {
+          "name": "Diâmetro da furação para fixador (mm)",
+          "value": "6,5"
+        },
+        {
+          "name": "Material elastômero",
+          "value": "Borracha Natural"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Ficha técnica oficial",
+      "url": "/downloads/products/vibra-stop/calco-u/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Calco%20U.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Ficha técnica dimensional",
+      "columns": [
+        "Referência",
+        "Capacidade de Carga (Kgf)",
+        "Altura Total (mm)",
+        "Diâmetro da furação para fixador (mm)",
+        "Material elastômero"
+      ],
+      "rows": [
+        [
+          "CU",
+          "10 a 500",
+          "40",
+          "6,5",
+          "Borracha Natural"
+        ]
+      ]
+    },
+    {
+      "title": "Aplicabilidades e instalação",
+      "images": [
+        "/images/products/vibra-stop/calco-u/aplicacao-4.png",
+        "/images/products/vibra-stop/calco-u/aplicacao-5.png",
+        "/images/products/vibra-stop/calco-u/instalacao-6.png"
+      ]
+    }
+  ],
+  "homepage": false
+}

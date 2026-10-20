@@ -1,0 +1,318 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-f-x-f&language=pt-BR",
+  "fetchedAt": "2026-10-20T10:30:17.627Z",
+  "product": {
+    "id": 200024,
+    "slug": "vibra-stop-coxim-f-x-f",
+    "name": "Vibra-Stop Coxim F x F",
+    "sku": "Coxim F x F",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-f-x-f&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para balanças, ventiladores, equipamentos de ar condicionado, motores de baixa, média e alta rotação, entre outros.",
+    "description": "<p>Ideais para balanças, ventiladores, equipamentos de ar condicionado, motores de baixa, média e alta rotação, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/coxim-f-x-f/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/coxim-f-x-f/foto-1.png",
+      "/images/products/vibra-stop/coxim-f-x-f/foto-2.png",
+      "/images/products/vibra-stop/coxim-f-x-f/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Borracha Natural, Aço Carbono Zincado ou Opção em Inox. ROSCA: M8 1/4\" M6 5/16\""
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240093,
+        "sku": "CX1FF",
+        "label": "CX1FF",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "10 a 70"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "2 a 14"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "1,11/70"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "30"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "5 a 14"
+          },
+          {
+            "name": "Rosca Interna ((R) mm)",
+            "value": "1/4”, 5/16”, M6, M8"
+          },
+          {
+            "name": "Profundidade da rosca ((P) mm)",
+            "value": "11"
+          },
+          {
+            "name": "Diâmetro da Cintura ((c) mm)",
+            "value": "23"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240094,
+        "sku": "CX2FF",
+        "label": "CX2FF",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "70 a 150"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "14 a 30"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "7,7/100"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "50"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "50"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "14 a 30"
+          },
+          {
+            "name": "Rosca Interna ((R) mm)",
+            "value": "5/16”, 3/8”, M8, M10"
+          },
+          {
+            "name": "Profundidade da rosca ((P) mm)",
+            "value": "12"
+          },
+          {
+            "name": "Diâmetro da Cintura ((c) mm)",
+            "value": "39"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240095,
+        "sku": "CX3FF",
+        "label": "CX3FF",
+        "attributes": [
+          {
+            "name": "Capacidade à Compressão (Kgf)",
+            "value": "150 a 250"
+          },
+          {
+            "name": "Capacidade à Tração (Kgf)",
+            "value": "30 a 50"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "10,33/250"
+          },
+          {
+            "name": "Altura ((H) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "70"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "30 a 50"
+          },
+          {
+            "name": "Rosca Interna ((R) mm)",
+            "value": "3/8”, 1/2\", M10, M12"
+          },
+          {
+            "name": "Profundidade da rosca ((P) mm)",
+            "value": "17"
+          },
+          {
+            "name": "Diâmetro da Cintura ((c) mm)",
+            "value": "52"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/coxim-f-x-f/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Coxim%20F%20x%20F.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vídeo apresentado pelo fabricante",
+        "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-coxim.mp4",
+        "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-coxim.mp4",
+        "hosted": false,
+        "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+      }
+    ],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Capacidade à Compressão (Kgf)",
+          "Capacidade à Tração (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Altura ((H) mm)",
+          "Diâmetro ((D) mm)",
+          "Capacidade ao Cisalhamento (Kgf)",
+          "Rosca Interna ((R) mm)",
+          "Profundidade da rosca ((P) mm)",
+          "Diâmetro da Cintura ((c) mm)"
+        ],
+        "rows": [
+          [
+            "CX1FF",
+            "10 a 70",
+            "2 a 14",
+            "1,11/70",
+            "30",
+            "30",
+            "5 a 14",
+            "1/4”, 5/16”, M6, M8",
+            "11",
+            "23"
+          ],
+          [
+            "CX2FF",
+            "70 a 150",
+            "14 a 30",
+            "7,7/100",
+            "50",
+            "50",
+            "14 a 30",
+            "5/16”, 3/8”, M8, M10",
+            "12",
+            "39"
+          ],
+          [
+            "CX3FF",
+            "150 a 250",
+            "30 a 50",
+            "10,33/250",
+            "70",
+            "70",
+            "30 a 50",
+            "3/8”, 1/2\", M10, M12",
+            "17",
+            "52"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/coxim-f-x-f/aplicacao-4.png",
+          "/images/products/vibra-stop/coxim-f-x-f/aplicacao-5.png",
+          "/images/products/vibra-stop/coxim-f-x-f/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/coxim-f-x-f/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/COXIM/FxF/Coxim%20FxF%201.1.png",
+      "bytes": 96354,
+      "sha256": "5a54cb11ccde7cde9895e14f9f8314334c267028b45eab339fd5e6d976a83868",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/coxim-f-x-f/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/COXIM/FxF/Coxim%20FxF%201.2.png",
+      "bytes": 99003,
+      "sha256": "a57b25301949fb445e6f4732f1ad7e05b99b9aaddeae475d78798be80ac3ee9f",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/coxim-f-x-f/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/COXIM/FxF/Coxim%20FxF%201.0.png",
+      "bytes": 92982,
+      "sha256": "b5c5dc60f32731a9c653e5a271df5509e259c8ecf58de239a17bba3113318649",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/coxim-f-x-f/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/COXIM/MxM%20-%20FxF%20-%20MxF/Coxim%201.0.png",
+      "bytes": 151004,
+      "sha256": "0a69d9587813de449b8fad36bde63ddf60e88e26336f5c42f294a3ef91968a84",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/coxim-f-x-f/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/COXIM/MxM%20-%20FxF%20-%20MxF/Coxim%201.1.png",
+      "bytes": 145342,
+      "sha256": "1250d50ed2abcf972505b504901efce0ca2e7295632be4e39daf575416b5468a",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/coxim-f-x-f/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/COXIM/FxF/Manual%20de%20Instalacao%20-%20COXIM%20FxF.png",
+      "bytes": 160054,
+      "sha256": "e788ffdae626bf367f8c1a48692a2d5bad7a31607eb986b2ceb8aadbdeca6a4b",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/coxim-f-x-f/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Coxim%20F%20x%20F.pdf",
+      "bytes": 1309549,
+      "sha256": "14db65218b70a5d5114a2a9dc675669427f77ee6e483d22244ffd7e010af7ca1",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "coxim-f-x-f",
+    "tableRows": 3,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 1,
+    "manualReviewRequired": true
+  }
+}
