@@ -1,9 +1,23 @@
 {
   "schema": 1,
+  "lastHandoff": {
+    "updatedAt": "2026-10-20T02:56:00Z",
+    "codeCommit": "64f16eff05d8cbfac706620f47d7ac3f90a336e4",
+    "githubPagesRun": "https://github.com/ramonpmendesx1707/carol-componentes-v2/actions/runs/39361345937",
+    "githubPagesChecked": "4 products, supplier filter, Kifix technical tab, Vibra video link and image tested at 390px/1440px",
+    "siteVersion": 3,
+    "siteDeploymentId": "appgdep_6ad6d7f446888191ac68772acbae4562",
+    "siteAudience": "owner-private (unchanged)",
+    "nextQueueId": "vibra-stop-3aacf4ff8c0e",
+    "nextSourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=malha-de-aco&language=pt-BR",
+    "nextAction": "Claim next queue item, collect and review it, then continue all remaining supplier categories; do not claim full crawl completed.",
+    "knownBlockers": ["Kifix drawings require supplier login", "Vibra-Stop pilot video is ~140 MB and linked, not hosted", "Carolfix 525.160 d3=45,6 needs technical confirmation"],
+    "counts": {"publishedPilotProducts": 4, "publishedPilotVariations": 45, "seedQueueTotal": 148, "seedQueueComplete": 1}
+  },
   "products": {
     "merkbak": {
       "sourceUrl": "https://merkbak.com.br/produto/volante-dois-raios-sem-alma-de-ferro/",
-      "status": "staged",
+      "status": "published",
       "startedAt": "2026-10-20T02:37:25.495Z",
       "updatedAt": "2026-10-20T02:37:29.887Z",
       "productFile": "data/harvest/products/merkbak.json",
@@ -22,7 +36,7 @@
     },
     "kifix": {
       "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-elevada/",
-      "status": "staged",
+      "status": "published",
       "startedAt": "2026-10-20T02:37:36.755Z",
       "updatedAt": "2026-10-20T02:37:37.059Z",
       "productFile": "data/harvest/products/kifix.json",
@@ -36,7 +50,7 @@
     },
     "carolfix": {
       "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf",
-      "status": "staged",
+      "status": "published",
       "startedAt": "2026-10-20T02:37:44.540Z",
       "updatedAt": "2026-10-20T02:37:44.546Z",
       "productFile": "data/harvest/products/carolfix.json",
@@ -50,7 +64,7 @@
     },
     "vibra": {
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=com-chapa&language=pt-BR",
-      "status": "staged",
+      "status": "published",
       "startedAt": "2026-10-20T02:37:51.412Z",
       "updatedAt": "2026-10-20T02:38:39.811Z",
       "error": null,
