@@ -23,39 +23,54 @@
       "kind": "model",
       "name": "Malha De Aço",
       "url": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=malha-de-aco&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-tradicional?model=malha-de-aco&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.842Z",
-      "note": ""
+      "updatedAt": "2026-10-20T06:07:59.802Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-malha-de-aco.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-malha-de-aco.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-malha-de-aco.json"
     },
     "vibra-stop-493ecc76b6bb": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Sem Chapa",
       "url": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=sem-chapa&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-tradicional?model=sem-chapa&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.842Z",
-      "note": ""
+      "updatedAt": "2026-10-20T06:09:13.576Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-sem-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-sem-chapa.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-sem-chapa.json"
     },
     "vibra-stop-1068e02bf00f": {
       "supplier": "vibra-stop",
       "kind": "model",
       "name": "Chapa + 2 Furos",
       "url": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=chapa-2-furos&language=pt-BR",
-      "status": "pending",
+      "status": "needs_review",
       "page": 1,
       "cursor": null,
-      "discoveredProductUrls": [],
+      "discoveredProductUrls": [
+        "https://www.vibra-stop.com.br/produto/linha-tradicional?model=chapa-2-furos&language=pt-BR"
+      ],
       "processedProductUrls": [],
-      "updatedAt": "2026-10-20T02:47:47.842Z",
-      "note": ""
+      "updatedAt": "2026-10-20T06:09:27.050Z",
+      "note": "Coletado integralmente do DOM público e mídias originais; revisão de todas as abas/tabela pendente antes da publicação.",
+      "productFile": "data/harvest/products/vibra-stop-chapa-2-furos.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-chapa-2-furos.json",
+      "rawFile": "data/harvest/raw/vibra-stop/vibra-stop-chapa-2-furos.json"
     },
     "vibra-stop-bb5b664150c9": {
       "supplier": "vibra-stop",

@@ -1,18 +1,35 @@
 {
   "schema": 1,
   "lastHandoff": {
-    "updatedAt": "2026-10-20T02:56:00Z",
+    "updatedAt": "2026-10-20T06:09:27.050Z",
     "codeCommit": "64f16eff05d8cbfac706620f47d7ac3f90a336e4",
     "githubPagesRun": "https://github.com/ramonpmendesx1707/carol-componentes-v2/actions/runs/39361345937",
     "githubPagesChecked": "4 products, supplier filter, Kifix technical tab, Vibra video link and image tested at 390px/1440px",
     "siteVersion": 3,
     "siteDeploymentId": "appgdep_6ad6d7f446888191ac68772acbae4562",
-    "siteAudience": "owner-private (unchanged)",
-    "nextQueueId": "vibra-stop-3aacf4ff8c0e",
-    "nextSourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=malha-de-aco&language=pt-BR",
-    "nextAction": "Claim next queue item, collect and review it, then continue all remaining supplier categories; do not claim full crawl completed.",
-    "knownBlockers": ["Kifix drawings require supplier login", "Vibra-Stop pilot video is ~140 MB and linked, not hosted", "Carolfix 525.160 d3=45,6 needs technical confirmation"],
-    "counts": {"publishedPilotProducts": 4, "publishedPilotVariations": 45, "seedQueueTotal": 148, "seedQueueComplete": 1}
+    "siteAudience": "public (aprovado por Ramon em 20/10/2026)",
+    "siteApiChecked": "HTTP 200, 4 produtos; página inicial da versão 3 retornou 500, correção de hidratação aguardando republicação e teste",
+    "activeSupplier": "Vibra-Stop",
+    "nextQueueId": "vibra-stop-bb5b664150c9",
+    "nextSourceUrl": "https://www.vibra-stop.com.br/produto/linha-articulado?model=articulado&language=pt-BR",
+    "nextAction": "Revisar Malha de Aço, Sem Chapa e Chapa + 2 Furos coletados em needs_review; resolver divergência de material da Malha de Aço; depois continuar Articulada com scripts/harvest-vibra-queue.mjs --limit=1. Não iniciar Merkbak/Kifix/Carolfix antes de concluir Vibra-Stop.",
+    "knownBlockers": [
+      "Kifix drawings require supplier login",
+      "Vibra-Stop pilot video is ~140 MB and linked, not hosted",
+      "Carolfix 525.160 d3=45,6 needs technical confirmation",
+      "Malha de Aço: catálogo 2026 fala malha galvanizada; ficha 2025 fala inox 304; site traz composição genérica de borracha",
+      "Site V2 público: página inicial versão 3 HTTP 500; API 200; republicar correção e testar"
+    ],
+    "counts": {
+      "publishedPilotProducts": 4,
+      "publishedPilotVariations": 45,
+      "seedQueueTotal": 148,
+      "seedQueueComplete": 1,
+      "seedQueueNeedsReview": 3,
+      "seedQueuePending": 144,
+      "vibraStopAdditionalVariantsStaged": 14,
+      "supplierDocuments2026": 3
+    }
   },
   "products": {
     "merkbak": {
@@ -80,6 +97,45 @@
         ],
         "variants": 6,
         "videoHosted": false
+      }
+    },
+    "vibra-stop-malha-de-aco": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=malha-de-aco&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T06:07:59.802Z",
+      "productFile": "data/harvest/products/vibra-stop-malha-de-aco.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-malha-de-aco.json",
+      "checks": {
+        "variants": 5,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-sem-chapa": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=sem-chapa&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T06:09:13.576Z",
+      "productFile": "data/harvest/products/vibra-stop-sem-chapa.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-sem-chapa.json",
+      "checks": {
+        "variants": 6,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
+      }
+    },
+    "vibra-stop-chapa-2-furos": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=chapa-2-furos&language=pt-BR",
+      "status": "needs_review",
+      "updatedAt": "2026-10-20T06:09:27.050Z",
+      "productFile": "data/harvest/products/vibra-stop-chapa-2-furos.json",
+      "manifestFile": "data/harvest/manifests/vibra-stop-chapa-2-furos.json",
+      "checks": {
+        "variants": 3,
+        "photos": 3,
+        "pdfs": 1,
+        "videos": 1
       }
     }
   }

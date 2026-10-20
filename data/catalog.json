@@ -9,8 +9,8 @@
       "supplier": "Vibra-Stop",
       "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=com-chapa&language=pt-BR",
       "type": "product",
-      "summary": "Amortecedor com chapa para fixação no piso por dois chumbadores, destinado a equipamentos industriais.",
-      "description": "<p>Aplicações citadas pelo fabricante: grupos geradores, politrizes, britadeiras, chillers e máquinas de lavar.</p>",
+      "summary": "Amortecedor Tradicional com Chapa para máquinas que exigem chumbagem ao piso.",
+      "description": "<p>O catálogo Vibra-Stop 2026, página 5, descreve a Linha Tradicional com Chapa para máquinas que se deslocam em funcionamento. O conjunto tem copo metálico, base de borracha natural, regulagem de nivelamento e chapa de aço para fixação ao piso. Aplicações apresentadas no site incluem grupos geradores, politrizes, britadeiras, chillers e máquinas de lavar.</p>",
       "categories": [
         {
           "id": 201,
@@ -372,6 +372,12 @@
           "url": "/downloads/products/vibra-stop/tradicional-com-chapa/ficha-tecnica.pdf",
           "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Com%20Chapa.pdf",
           "kind": "pdf"
+        },
+        {
+          "title": "Catálogo Vibra-Stop 2026 — página 5",
+          "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf#page=5",
+          "kind": "pdf",
+          "note": "Edição 2026 recebida do fornecedor; comparação integral das referências após a coleta completa."
         }
       ],
       "videos": [

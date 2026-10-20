@@ -6,7 +6,7 @@
 
 # Carol Componentes V2
 
-> Catálogo V2 em reconstrução: 50 exemplos antigos estão preservados em `data/archive/catalog-v1.json` e fora da busca. O catálogo ativo iniciou vazio e agora contém 4 pilotos técnicos de Vibra-Stop, Merkbak, Kifix e Carolfix (45 referências). A coleta do restante **ainda não está concluída**. Para continuar de onde parou, leia [01 ORIENTAÇÕES PARA NOVAS IA's.md](01%20ORIENTA%C3%87%C3%95ES%20PARA%20NOVAS%20IA%27s.md) e `data/harvest/status.json`.
+> Catálogo V2 em reconstrução: 50 exemplos antigos estão preservados em `data/archive/catalog-v1.json` e fora da busca. O catálogo ativo contém 4 pilotos técnicos de Vibra-Stop, Merkbak, Kifix e Carolfix (45 referências). A coleta do restante **ainda não está concluída**. A Vibra-Stop é o fornecedor em processamento: três modelos adicionais já foram coletados com fotos e PDFs originais, mas estão em revisão, fora da listagem pública. Os dois catálogos Vibra-Stop edição 2026 foram registrados para confronto técnico posterior. Para continuar de onde parou, leia [01 ORIENTAÇÕES PARA NOVAS IA's.md](01%20ORIENTA%C3%87%C3%95ES%20PARA%20NOVAS%20IA%27s.md) e `data/harvest/status.json`.
 
 Publicação GitHub Pages: https://ramonpmendesx1707.github.io/carol-componentes-v2/ . Esta V2 é uma evolução independente; o projeto `carol-componentes` original permanece congelado. Publicação automática via Actions; verificar execução para estado atual.
 

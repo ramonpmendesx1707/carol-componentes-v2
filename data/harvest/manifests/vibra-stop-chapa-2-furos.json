@@ -1,0 +1,354 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=chapa-2-furos&language=pt-BR",
+  "fetchedAt": "2026-10-20T06:09:27.048Z",
+  "product": {
+    "id": 200007,
+    "slug": "vibra-stop-chapa-2-furos",
+    "name": "Vibra-Stop Tradicional Com Chapa + 2 Furos",
+    "sku": "Chapa + 2 Furos",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=chapa-2-furos&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para para Equipamentos industriais que necessitam de chumbagem na base, grupo geradores, politrizes, britadeiras, chillers, máquinas de lavar, entre outros. Pertmite a fixação no piso com 4 chumbadores.",
+    "description": "<p>Ideais para para Equipamentos industriais que necessitam de chumbagem na base, grupo geradores, politrizes, britadeiras, chillers, máquinas de lavar, entre outros. Pertmite a fixação no piso com 4 chumbadores.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/chapa-2-furos/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/chapa-2-furos/foto-1.png",
+      "/images/products/vibra-stop/chapa-2-furos/foto-2.png",
+      "/images/products/vibra-stop/chapa-2-furos/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Ferro Nodular, Borracha Natural e Aço Carbono Zincado."
+      },
+      {
+        "name": "Materiais informados",
+        "value": "Aço Inox Ferro Nodular"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240036,
+        "sku": "Mac",
+        "label": "Mac",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "50 a 200"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "200 a 800"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "1,66/200"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "1/4”, 5/16”, 3/8”"
+          },
+          {
+            "name": "Altura Regulável ((H) mm)",
+            "value": "30~35"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "62"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "10 a 40"
+          },
+          {
+            "name": "Espessura da Chapa ((e) pol.)",
+            "value": "3/16”"
+          },
+          {
+            "name": "Largura da Chapa ((B x b) mm)",
+            "value": "107 x 80"
+          },
+          {
+            "name": "Distância entre os Furos ((t) mm)",
+            "value": "92"
+          },
+          {
+            "name": "Diâmetro dos Furos ((f) mm)",
+            "value": "8"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240037,
+        "sku": "Mini",
+        "label": "Mini",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "200 a 500"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "800 a 2.000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "2,76/500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”"
+          },
+          {
+            "name": "Altura Regulável ((H) mm)",
+            "value": "40~55"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "90"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "40 a 100"
+          },
+          {
+            "name": "Espessura da Chapa ((e) pol.)",
+            "value": "3/16”"
+          },
+          {
+            "name": "Largura da Chapa ((B x b) mm)",
+            "value": "136 x100"
+          },
+          {
+            "name": "Distância entre os Furos ((t) mm)",
+            "value": "120"
+          },
+          {
+            "name": "Diâmetro dos Furos ((f) mm)",
+            "value": "10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240038,
+        "sku": "Standard",
+        "label": "Standard",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "500 a 1.500"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "2.000 a 6.000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "3,34/1500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Regulável ((H) mm)",
+            "value": "50~65"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "115"
+          },
+          {
+            "name": "Capacidade ao Cisalhamento (Kgf)",
+            "value": "100 a 300"
+          },
+          {
+            "name": "Espessura da Chapa ((e) pol.)",
+            "value": "1/4\""
+          },
+          {
+            "name": "Largura da Chapa ((B x b) mm)",
+            "value": "174 x 130"
+          },
+          {
+            "name": "Distância entre os Furos ((t) mm)",
+            "value": "141"
+          },
+          {
+            "name": "Diâmetro dos Furos ((f) mm)",
+            "value": "10"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/chapa-2-furos/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Com%20Chapa%20%2B%202%20Furos.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vídeo apresentado pelo fabricante",
+        "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tradicional.mp4",
+        "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tradicional.mp4",
+        "hosted": false,
+        "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+      }
+    ],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Carga Estática (Kgf)",
+          "Carga Dinâmica (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Altura Regulável ((H) mm)",
+          "Diâmetro ((D) mm)",
+          "Capacidade ao Cisalhamento (Kgf)",
+          "Espessura da Chapa ((e) pol.)",
+          "Largura da Chapa ((B x b) mm)",
+          "Distância entre os Furos ((t) mm)",
+          "Diâmetro dos Furos ((f) mm)"
+        ],
+        "rows": [
+          [
+            "Mac",
+            "50 a 200",
+            "200 a 800",
+            "1,66/200",
+            "1/4”, 5/16”, 3/8”",
+            "30~35",
+            "62",
+            "10 a 40",
+            "3/16”",
+            "107 x 80",
+            "92",
+            "8"
+          ],
+          [
+            "Mini",
+            "200 a 500",
+            "800 a 2.000",
+            "2,76/500",
+            "3/8”, 1/2\", 5/8”",
+            "40~55",
+            "90",
+            "40 a 100",
+            "3/16”",
+            "136 x100",
+            "120",
+            "10"
+          ],
+          [
+            "Standard",
+            "500 a 1.500",
+            "2.000 a 6.000",
+            "3,34/1500",
+            "1/2\", 5/8”, 3/4\"",
+            "50~65",
+            "115",
+            "100 a 300",
+            "1/4\"",
+            "174 x 130",
+            "141",
+            "10"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/chapa-2-furos/aplicacao-4.png",
+          "/images/products/vibra-stop/chapa-2-furos/aplicacao-5.png",
+          "/images/products/vibra-stop/chapa-2-furos/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/chapa-2-furos/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/TRADICIONAL/COM%20CHAPA%202%20FUROS/Tradicional%20CC2F%201.1.png",
+      "bytes": 236994,
+      "sha256": "a3c0931f43d47c2d5455e09083d3e77db5d5f1ac42d74bf7335d3d3cd7ea4ccf",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/chapa-2-furos/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/TRADICIONAL/COM%20CHAPA%202%20FUROS/Tradicional%20CC2F%201.2.png",
+      "bytes": 190391,
+      "sha256": "7063cf5e07ca868c364c98da8f06a132c9e685562b5aba605105a2f9feab3c53",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/chapa-2-furos/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/TRADICIONAL/COM%20CHAPA%202%20FUROS/Tradicional%20CC2F%201.0.png",
+      "bytes": 202663,
+      "sha256": "9db001986d5034b4269ee5e2bcfaf3d74bf570b1157f4d52da905b664ce317ca",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/chapa-2-furos/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TRADICIONAL/COM%20CHAPA%202%20FUROS/Chapa%202%20Furos%201.0.png",
+      "bytes": 196032,
+      "sha256": "93fa05181a31042648a0103d9c84a76323cb0dec12f249572bf29b36504e9ffe",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/chapa-2-furos/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TRADICIONAL/COM%20CHAPA%202%20FUROS/Chapa%202%20Furos%201.1.png",
+      "bytes": 242939,
+      "sha256": "b6714981b4afeea71a2d81e70ed5fef2f194ea71c6db533d1dbac8f68fc92849",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/chapa-2-furos/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/TRADICIONAL/COM%20CHAPA%20+%202%20FUROS/Manual%20de%20Instalacao%20-%20TRADICIONAL%20CC%202%20F.png",
+      "bytes": 198867,
+      "sha256": "9041dcb55ff8eb52c7746eec318b6e21cfd78fa3bf633b6001c3640b3d61545a",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/chapa-2-furos/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Com%20Chapa%20%2B%202%20Furos.pdf",
+      "bytes": 1644792,
+      "sha256": "6fc62ce2fc0c6f589f9d3ed1cdc37eaa4d50ea406997d78a980ef3eead69f123",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "chapa-2-furos",
+    "tableRows": 3,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 1,
+    "manualReviewRequired": true
+  }
+}

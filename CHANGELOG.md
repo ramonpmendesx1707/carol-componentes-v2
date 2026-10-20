@@ -1,5 +1,13 @@
 # V2 — Catálogo preparado para reconstrução — 19/10/2026
 
+## PDFs 2026 e início da coleta contínua Vibra-Stop — 20/10/2026
+
+- Dois catálogos atualizados Vibra-Stop recebidos, preservados em `public/downloads/suppliers/vibra-stop/2026/` e registrados com SHA-256 e páginas em `data/harvest/supplier-documents.json`. Manual vivo agora exige confronto de todos os produtos com catálogos/datasheets após terminar cada fornecedor, com resolução documentada de divergências e preservação da foto original quando não houver imagem nova.
+- O PDF de molas atualmente público no fabricante difere do anexo recebido apesar de ambos indicarem “Edição 2026”: a revisão pública com criação em agosto modifica as páginas 26 e 31, incluindo dimensões da Mola Sísmica Plus. Ambas as cópias ficaram preservadas; a revisão pública foi marcada como candidata preferencial, sujeita à conferência por código. O catálogo geral enviado é idêntico ao público por SHA-256.
+- Corrigida a descrição do piloto Tradicional com Chapa: a edição 2026 distingue o modelo de chapa do modelo de dois furos. Ficha e catálogo 2026 vinculados no detalhe.
+- Coleta real retomável iniciada pela Vibra-Stop: Malha de Aço (5 referências), Sem Chapa (6) e Chapa + 2 Furos (3) baixados com fotografias, imagens técnicas e fichas PDF. Permanecem em `needs_review` e fora da listagem ativa até conferência. A Malha de Aço tem divergência entre catálogo 2026 (malha galvanizada), ficha 2025 (inox 304) e texto genérico do site (borracha); não foi inventada especificação definitiva.
+- Site V2 do ChatGPT passou a acesso público por decisão do proprietário. API pública respondeu com os 4 pilotos. A página inicial apresentou HTTP 500 na versão 3; mitigação de renderização inicial adicionada e depende de validação após a próxima publicação. GitHub Pages permanece disponível.
+
 ## Pilotos técnicos e continuidade de coleta — 20/10/2026
 
 - Quatro produtos-piloto coletados e preparados para a V2: Vibra-Stop Tradicional com Chapa (6 referências, ficha PDF, fotos/aplicação/instalação, vídeo oficial por link), Merkbak V2R sem alma (6 medidas, duas imagens, três abas), Kifix Base Elevada (9 referências e 3 imagens; ZIP de desenhos requer login) e Carolfix Anel de Retenção para Eixo Liso (24 códigos da página 18 do PDF).

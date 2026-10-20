@@ -42,6 +42,16 @@ export async function catalogApi(request:Request,env:Env):Promise<Response|null>
   await db.prepare('UPDATE cc_state SET payload=?,revision=revision+1 WHERE id=? AND revision=0 AND payload=?').bind(seed,catalogStateId,row.payload).run();
   row=await db.prepare('SELECT payload,revision FROM cc_state WHERE id=?').bind(catalogStateId).first<{payload:string;revision:number}>();
  }
+ // One-time, exact-content migration for the four untouched pilot records.
+ // Never replace a catalog edited through the admin UI, even at the same revision.
+ const originalPilotSha='c4d29f23c9c47c129bdd421f625d5625c71822f116c147351593dec28891379a';
+ if(row?.revision===1&&await digest(row.payload)===originalPilotSha&&row.payload!==seed){
+  const updated=await db.batch([
+   db.prepare('INSERT INTO cc_backups SELECT ?,payload,? FROM cc_state WHERE id=? AND revision=1').bind(crypto.randomUUID(),Date.now(),catalogStateId),
+   db.prepare('UPDATE cc_state SET payload=?,revision=revision+1 WHERE id=? AND revision=1 AND payload=?').bind(seed,catalogStateId,row.payload)
+  ]);
+  if(updated[1].meta.changes===1)row=await db.prepare('SELECT payload,revision FROM cc_state WHERE id=?').bind(catalogStateId).first<{payload:string;revision:number}>();
+ }
  const catalog=JSON.parse(row!.payload) as {products:Product[]};
  if(path==='/api/catalog')return reply({...catalog,revision:row!.revision});
  if(Number(request.headers.get('Content-Length')||0)>16_000_000)return reply({error:'Carga excede 16 MB.'},413);

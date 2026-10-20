@@ -1,0 +1,360 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=malha-de-aco&language=pt-BR",
+  "fetchedAt": "2026-10-20T06:07:59.802Z",
+  "product": {
+    "id": 200005,
+    "slug": "vibra-stop-malha-de-aco",
+    "name": "Vibra-Stop Tradicional Malha De Aço",
+    "sku": "Malha De Aço",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=malha-de-aco&language=pt-BR",
+    "type": "product",
+    "summary": "Amortecedor Tradicional com base de malha de aço para ambientes agressivos à borracha.",
+    "description": "<p>O catálogo Vibra-Stop 2026, página 4, descreve a base de malha de aço como alternativa à borracha para contato com óleos, ácidos, graxas e superfícies aquecidas. O site cita máquinas de solda, moedores, grupos geradores e chillers. A especificação exata do material da malha requer confirmação: o catálogo 2026 diz galvanizada; a ficha técnica 2025 diz inox 304.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/malha-de-aco/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/malha-de-aco/foto-1.png",
+      "/images/products/vibra-stop/malha-de-aco/foto-2.png",
+      "/images/products/vibra-stop/malha-de-aco/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Base de apoio",
+        "value": "Malha de aço; material exato pendente de confirmação técnica"
+      },
+      {
+        "name": "Carcaça",
+        "value": "Ferro fundido nodular; possibilidade de inox 304 segundo a ficha técnica 2025"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240025,
+        "sku": "Mac",
+        "label": "Mac",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "50 a 200"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "200 a 800"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "3,11/500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "1/4”, 5/16”, 3/8”"
+          },
+          {
+            "name": "Altura Regulável ((H) mm)",
+            "value": "25~30"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "62"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240026,
+        "sku": "Mini",
+        "label": "Mini",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "200 a 500"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "800 a 2.000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "1,35/200"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”"
+          },
+          {
+            "name": "Altura Regulável ((H) mm)",
+            "value": "35~50"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "90"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240027,
+        "sku": "Standard",
+        "label": "Standard",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "500 a 1.500"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "2.000 a 6.000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "5,42/1500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Regulável ((H) mm)",
+            "value": "45~60"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "115"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240028,
+        "sku": "Intermediário",
+        "label": "Intermediário",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "1.500 a 5.000"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "6.000 a 20.000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "9,42/5000"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/8”, 3/4\", 1”"
+          },
+          {
+            "name": "Altura Regulável ((H) mm)",
+            "value": "55~75"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "150"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240029,
+        "sku": "Super",
+        "label": "Super",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "5.000 a 10.000"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "20.000 a 40.000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "7,42/10000"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/8\", 3/4”, 1\""
+          },
+          {
+            "name": "Altura Regulável ((H) mm)",
+            "value": "55~75"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "190"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/malha-de-aco/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Malha%20De%20Aco.pdf",
+        "kind": "pdf"
+      },
+      {
+        "title": "Catálogo Vibra-Stop 2026 — página 4",
+        "url": "/downloads/suppliers/vibra-stop/2026/catalogo-de-produtos.pdf#page=4",
+        "kind": "pdf",
+        "note": "Há divergência de material com a ficha técnica 2025; revisão pendente."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vídeo apresentado pelo fabricante",
+        "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tradicional.mp4",
+        "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tradicional.mp4",
+        "hosted": false,
+        "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+      }
+    ],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Carga Estática (Kgf)",
+          "Carga Dinâmica (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Altura Regulável ((H) mm)",
+          "Diâmetro ((D) mm)"
+        ],
+        "rows": [
+          [
+            "Mac",
+            "50 a 200",
+            "200 a 800",
+            "3,11/500",
+            "1/4”, 5/16”, 3/8”",
+            "25~30",
+            "62"
+          ],
+          [
+            "Mini",
+            "200 a 500",
+            "800 a 2.000",
+            "1,35/200",
+            "3/8”, 1/2\", 5/8”",
+            "35~50",
+            "90"
+          ],
+          [
+            "Standard",
+            "500 a 1.500",
+            "2.000 a 6.000",
+            "5,42/1500",
+            "1/2\", 5/8”, 3/4\"",
+            "45~60",
+            "115"
+          ],
+          [
+            "Intermediário",
+            "1.500 a 5.000",
+            "6.000 a 20.000",
+            "9,42/5000",
+            "5/8”, 3/4\", 1”",
+            "55~75",
+            "150"
+          ],
+          [
+            "Super",
+            "5.000 a 10.000",
+            "20.000 a 40.000",
+            "7,42/10000",
+            "5/8\", 3/4”, 1\"",
+            "55~75",
+            "190"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/malha-de-aco/aplicacao-4.png",
+          "/images/products/vibra-stop/malha-de-aco/aplicacao-5.png",
+          "/images/products/vibra-stop/malha-de-aco/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/malha-de-aco/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/TRADICIONAL/MALHA%20DE%20ACO/Malha%20de%20Aco%201.1.png",
+      "bytes": 311851,
+      "sha256": "b76085a3b8e89c939a9398f34b7109bac59804712708c0a8f3ac9c53e72835b1"
+    },
+    {
+      "path": "/images/products/vibra-stop/malha-de-aco/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/TRADICIONAL/MALHA%20DE%20ACO/Malha%20de%20Aco%201.2.png",
+      "bytes": 317511,
+      "sha256": "fa1c31f7f0c288bec0e4e8fd9eb8e3eba7a6f8bc6dc8aba2684ca2db08b2ad91"
+    },
+    {
+      "path": "/images/products/vibra-stop/malha-de-aco/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/TRADICIONAL/MALHA%20DE%20ACO/Malha%20de%20Aco%201.0.png",
+      "bytes": 228722,
+      "sha256": "06ac391180afc4dd21f302106d1e4e718a614cfbeff6444decc0cdb4b51a22fd"
+    },
+    {
+      "path": "/images/products/vibra-stop/malha-de-aco/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TRADICIONAL/MALHA%20DE%20ACO/M.A%201.0.png",
+      "bytes": 209302,
+      "sha256": "a4330e71162b5fa421127a0a9cb7111e8e0d6d9ddebeb6470ecdd5e052ce5837"
+    },
+    {
+      "path": "/images/products/vibra-stop/malha-de-aco/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TRADICIONAL/MALHA%20DE%20ACO/M.A%201.1.png",
+      "bytes": 206713,
+      "sha256": "7f67e86d49176c4a8806c166220d8efaac4965276d69b36c4dbaf4b17ba3135b"
+    },
+    {
+      "path": "/images/products/vibra-stop/malha-de-aco/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/TRADICIONAL/MALHA%20DE%20ACO/Manual%20de%20Instalacao%20-%20MA.png",
+      "bytes": 101356,
+      "sha256": "bd69ab6423a5e9821a43b9a5d8370e870b9a3b709664fdc6924ff975d7cea9fc"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/malha-de-aco/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Malha%20De%20Aco.pdf",
+      "bytes": 2587741,
+      "sha256": "7f151b27f368dbf906934f1bbcbaaae4413f6a67e38ac09eef7ce8b69bc88519",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "malha-de-aco",
+    "tableRows": 5,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 1,
+    "manualReviewRequired": true
+  }
+}

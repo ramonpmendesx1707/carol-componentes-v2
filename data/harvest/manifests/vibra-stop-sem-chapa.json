@@ -1,0 +1,403 @@
+{
+  "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=sem-chapa&language=pt-BR",
+  "fetchedAt": "2026-10-20T06:09:13.574Z",
+  "product": {
+    "id": 200006,
+    "slug": "vibra-stop-sem-chapa",
+    "name": "Vibra-Stop Tradicional Sem Chapa",
+    "sku": "Sem Chapa",
+    "brand": "Vibra-Stop",
+    "supplier": "Vibra-Stop",
+    "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=sem-chapa&language=pt-BR",
+    "type": "product",
+    "summary": "Ideais para compressores, lixadeiras, limadoras, serras, politrizes, furadeiras, trituradores, prensas, tornos, fresas, grupos geradores, retíficas, injetoras, guilhotinas, entre outros.",
+    "description": "<p>Ideais para compressores, lixadeiras, limadoras, serras, politrizes, furadeiras, trituradores, prensas, tornos, fresas, grupos geradores, retíficas, injetoras, guilhotinas, entre outros.</p>",
+    "categories": [
+      {
+        "id": 201,
+        "name": "Amortecedores de vibração",
+        "slug": "amortecedores-de-vibracao"
+      }
+    ],
+    "image": "/images/products/vibra-stop/sem-chapa/foto-1.png",
+    "images": [
+      "/images/products/vibra-stop/sem-chapa/foto-1.png",
+      "/images/products/vibra-stop/sem-chapa/foto-2.png",
+      "/images/products/vibra-stop/sem-chapa/foto-3.png"
+    ],
+    "attributes": [
+      {
+        "name": "Composição",
+        "value": "Ferro Nodular, Borracha Natural e Aço Carbono Zincado."
+      },
+      {
+        "name": "Materiais informados",
+        "value": "Aço Inox Ferro Nodular"
+      }
+    ],
+    "weight": "",
+    "dimensions": "",
+    "variations": [
+      {
+        "id": 240030,
+        "sku": "Mac",
+        "label": "Mac",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "50 a 200"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "200 a 800"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "3,13/200"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "1/4”, 5/16”, 3/8”"
+          },
+          {
+            "name": "Altura Regulável ((H) mm)",
+            "value": "25~30"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "62"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240031,
+        "sku": "Mini",
+        "label": "Mini",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "200 a 500"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "800 a 2.000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "3,35/500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/8”, 1/2\", 5/8”"
+          },
+          {
+            "name": "Altura Regulável ((H) mm)",
+            "value": "35~50"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "90"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240032,
+        "sku": "Standard",
+        "label": "Standard",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "500 a 1.500"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "2.000 a 6.000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "4,25/1500"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "1/2\", 5/8”, 3/4\""
+          },
+          {
+            "name": "Altura Regulável ((H) mm)",
+            "value": "45~60"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "115"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240033,
+        "sku": "Intermediário",
+        "label": "Intermediário",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "1.500 a 5.000"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "6.000 a 20.000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "6,21/5000"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/8”, 3/4\", 1”"
+          },
+          {
+            "name": "Altura Regulável ((H) mm)",
+            "value": "55~75"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "150"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240034,
+        "sku": "Super",
+        "label": "Super",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "5.000 a 10.000"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "20.000 a 40.000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "7,7/10000"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "5/8\", 3/4”, 1\""
+          },
+          {
+            "name": "Altura Regulável ((H) mm)",
+            "value": "55~75"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "190"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      },
+      {
+        "id": 240035,
+        "sku": "Mega",
+        "label": "Mega",
+        "attributes": [
+          {
+            "name": "Carga Estática (Kgf)",
+            "value": "10.000 a 20.000"
+          },
+          {
+            "name": "Carga Dinâmica (Kgf)",
+            "value": "40.000 a 80.000"
+          },
+          {
+            "name": "Deflexão (mm/Kgf)",
+            "value": "9,07/20000"
+          },
+          {
+            "name": "Parafuso ((d))",
+            "value": "3/4\", 1”, 1 ½ \""
+          },
+          {
+            "name": "Altura Regulável ((H) mm)",
+            "value": "70~90"
+          },
+          {
+            "name": "Diâmetro ((D) mm)",
+            "value": "230"
+          }
+        ],
+        "weight": "",
+        "dimensions": "",
+        "image": null
+      }
+    ],
+    "documents": [
+      {
+        "title": "Ficha técnica oficial",
+        "url": "/downloads/products/vibra-stop/sem-chapa/ficha-tecnica.pdf",
+        "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Tradicional%20Sem%20Chapa.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vídeo apresentado pelo fabricante",
+        "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tradicional.mp4",
+        "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tradicional.mp4",
+        "hosted": false,
+        "reason": "Vídeo remoto grande; evitar arquivo único acima do limite do repositório."
+      }
+    ],
+    "technicalSections": [
+      {
+        "title": "Ficha técnica dimensional",
+        "columns": [
+          "Referência",
+          "Carga Estática (Kgf)",
+          "Carga Dinâmica (Kgf)",
+          "Deflexão (mm/Kgf)",
+          "Parafuso ((d))",
+          "Altura Regulável ((H) mm)",
+          "Diâmetro ((D) mm)"
+        ],
+        "rows": [
+          [
+            "Mac",
+            "50 a 200",
+            "200 a 800",
+            "3,13/200",
+            "1/4”, 5/16”, 3/8”",
+            "25~30",
+            "62"
+          ],
+          [
+            "Mini",
+            "200 a 500",
+            "800 a 2.000",
+            "3,35/500",
+            "3/8”, 1/2\", 5/8”",
+            "35~50",
+            "90"
+          ],
+          [
+            "Standard",
+            "500 a 1.500",
+            "2.000 a 6.000",
+            "4,25/1500",
+            "1/2\", 5/8”, 3/4\"",
+            "45~60",
+            "115"
+          ],
+          [
+            "Intermediário",
+            "1.500 a 5.000",
+            "6.000 a 20.000",
+            "6,21/5000",
+            "5/8”, 3/4\", 1”",
+            "55~75",
+            "150"
+          ],
+          [
+            "Super",
+            "5.000 a 10.000",
+            "20.000 a 40.000",
+            "7,7/10000",
+            "5/8\", 3/4”, 1\"",
+            "55~75",
+            "190"
+          ],
+          [
+            "Mega",
+            "10.000 a 20.000",
+            "40.000 a 80.000",
+            "9,07/20000",
+            "3/4\", 1”, 1 ½ \"",
+            "70~90",
+            "230"
+          ]
+        ]
+      },
+      {
+        "title": "Aplicabilidades e instalação",
+        "images": [
+          "/images/products/vibra-stop/sem-chapa/aplicacao-4.png",
+          "/images/products/vibra-stop/sem-chapa/aplicacao-5.png",
+          "/images/products/vibra-stop/sem-chapa/instalacao-6.png"
+        ]
+      }
+    ],
+    "homepage": false
+  },
+  "assets": [
+    {
+      "path": "/images/products/vibra-stop/sem-chapa/foto-1.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/TRADICIONAL/SEM%20CHAPA/Tradicional%201.1.png",
+      "bytes": 231683,
+      "sha256": "de75a945fc341dc2c01845f2d34904b6371dc5ff7f7078047e692cb55555b8d4",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/sem-chapa/foto-2.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/TRADICIONAL/SEM%20CHAPA/Tradicional%201.2.png",
+      "bytes": 203488,
+      "sha256": "08fdbb152a3cd3c93d22109302bdf7cfbe1095e9287fc1e9df7258897f4ef6e9",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/sem-chapa/foto-3.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/images/TRADICIONAL/SEM%20CHAPA/Tradicional%201.0.png",
+      "bytes": 194444,
+      "sha256": "777d199fcfd3d9f22267156b5cb65935e3bfd68c81822c8c96f4205751f87d24",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/sem-chapa/aplicacao-4.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TRADICIONAL/SEM%20CHAPA/Tradicional%20SC%201.0.png",
+      "bytes": 317554,
+      "sha256": "0e98019e6bf9d252a8edeecca328b716832437dfca02585174a41cc31d6e0901",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/sem-chapa/aplicacao-5.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/applicabilities/SITE/APLICACOES/TRADICIONAL/SEM%20CHAPA/Tradicional%20SC%201.1.png",
+      "bytes": 323119,
+      "sha256": "944adf12e573624f7fac1154464d85fa7ab5da03a7234c803a31c86cd4adcc93",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/products/vibra-stop/sem-chapa/instalacao-6.png",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/installations/TRADICIONAL/SEM%20CHAPA/Manual%20de%20Instalacao%20-%20TRADICIONAL.png",
+      "bytes": 101151,
+      "sha256": "dafab14c382aedc59d731f7051050481c63fad0db9110e66d6462d282e12853a",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/downloads/products/vibra-stop/sem-chapa/ficha-tecnica.pdf",
+      "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Tradicional%20Sem%20Chapa.pdf",
+      "bytes": 2564817,
+      "sha256": "95934ddf5e4294c5ab3471522718877ab1edfa49ea8ba70e010e37912f7ca6f1",
+      "contentType": "application/pdf"
+    }
+  ],
+  "checks": {
+    "model": "sem-chapa",
+    "tableRows": 6,
+    "photos": 3,
+    "technicalImages": 3,
+    "pdfs": 1,
+    "videos": 1,
+    "manualReviewRequired": true
+  }
+}
