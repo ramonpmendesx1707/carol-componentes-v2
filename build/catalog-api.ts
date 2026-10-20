@@ -62,6 +62,13 @@ export async function catalogApi(request:Request,env:Env):Promise<Response|null>
   ]);
   if(updated[1].meta.changes===1)row=await db.prepare('SELECT payload,revision FROM cc_state WHERE id=?').bind(catalogStateId).first<{payload:string;revision:number}>();
  }
+ if(row&&(JSON.parse(row.payload).products?.length||0)<10&&source.products.length>=200&&row.payload!==seed){
+  const updated=await db.batch([
+   db.prepare('INSERT INTO cc_backups SELECT ?,payload,? FROM cc_state WHERE id=? AND revision=?').bind(crypto.randomUUID(),Date.now(),catalogStateId,row.revision),
+   db.prepare('UPDATE cc_state SET payload=?,revision=revision+1 WHERE id=? AND revision=?').bind(seed,catalogStateId,row.revision)
+  ]);
+  if(updated[1].meta.changes===1)row=await db.prepare('SELECT payload,revision FROM cc_state WHERE id=?').bind(catalogStateId).first<{payload:string;revision:number}>();
+ }
  const catalog=JSON.parse(row!.payload) as {products:Product[]};
  if(path==='/api/catalog')return reply({...catalog,revision:row!.revision});
  if(Number(request.headers.get('Content-Length')||0)>16_000_000)return reply({error:'Carga excede 16 MB.'},413);

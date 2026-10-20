@@ -205,7 +205,7 @@ export default function Experience({
         r.ok ? (r.json() as Promise<{ products: Product[] }>) : null,
       )
       .then((d) => {
-        if (Array.isArray(d?.products)) {
+        if (Array.isArray(d?.products) && d.products.length >= initialProducts.length) {
           setProducts(d.products);
           setQuotes((q) =>
             q.filter((i) =>
