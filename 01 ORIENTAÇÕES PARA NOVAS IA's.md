@@ -22,7 +22,7 @@ Nunca usar a foto de outra família como ilustração do item. O piloto Carolfix
   * Vibra-Stop: IDs 200001+ / variantes 210001+
   * Merkbak: IDs 201001+ / variantes 220001+
   * Kifix: IDs 202001+ / variantes 230001+
-  * Carolfix: IDs 203001+ / variantes 240001+
+  * Normas e Fabricantes Reais (HCH, Seeger-Orbis, Padrão DIN - originários do catálogo de normas): IDs 203001+ / variantes 240001+ (distribuidora Carolfix 100% eliminada dos fornecedores)
 - Ambos os alvos de build (`npm run build:pages` e `npm run build`) e TypeScript (`npx tsc --noEmit`) validados com 0 erros.
 
 ## Ambiente Ubuntu 24.04 / Antigravity (Gemini Flash ou qualquer IA)
