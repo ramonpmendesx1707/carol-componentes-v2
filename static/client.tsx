@@ -4,6 +4,7 @@ import {validCnpj,normalizedPhone,maskCnpj,maskPhone} from '../lib/validation';
 import {GET as shipping} from '../app/api/frete/route';
 import '../app/globals.css';
 import '../app/movement.css';
+import '../app/harvest.css';
 
 // GitHub Pages has no Worker/D1. Keep this preview adapter out of server builds.
 const base=import.meta.env.BASE_URL;

@@ -1,0 +1,766 @@
+{
+  "id": 200003,
+  "slug": "kifix-base-elevada",
+  "name": "Base Elevada para Mesa de Solda",
+  "sku": "MS BE / KF-532/528",
+  "brand": "Kifix",
+  "supplier": "Kifix",
+  "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-elevada/",
+  "type": "product",
+  "summary": "Base elevada para adaptar grampos à mesa de solda. Referências com diferentes diâmetros e alturas.",
+  "description": "<p>Dimensões e desenhos técnicos por referência, conforme tabela oficial Kifix.</p>",
+  "categories": [
+    {
+      "id": 204,
+      "name": "Adaptadores para mesas de solda",
+      "slug": "adaptadores-para-mesas-de-solda"
+    }
+  ],
+  "image": "/images/products/kifix/base-elevada/1.png",
+  "images": [
+    "/images/products/kifix/base-elevada/1.png",
+    "/images/products/kifix/base-elevada/2.png",
+    "/images/products/kifix/base-elevada/3.png"
+  ],
+  "attributes": [],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 230001,
+      "sku": "MS BE Ø 16 H50 - KF-532/528",
+      "label": "MS BE Ø 16 H50 - KF-532/528",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "82,3 (3,24)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "50 (1,96)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "32,3 (1,27)"
+        },
+        {
+          "name": "B (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "C (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "D (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "E (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "F (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "G (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "H (in)",
+          "value": "27 (1,06)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "L (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,76 (1,67)"
+        }
+      ],
+      "weight": "0,76 (1,67)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230002,
+      "sku": "MS BE Ø 22 H50 - KF-532/528",
+      "label": "MS BE Ø 22 H50 - KF-532/528",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "88,4 (3,48)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "51 (1,96)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "36,4 (1,43)"
+        },
+        {
+          "name": "B (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "C (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "D (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "E (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "F (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "G (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "H (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "L (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,82 (1,80)"
+        }
+      ],
+      "weight": "0,82 (1,80)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230003,
+      "sku": "MS BE Ø 28 H50 - KF-532/528",
+      "label": "MS BE Ø 28 H50 - KF-532/528",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "95,5 (3,75)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "52 (1,96)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "42,5 (1,67)"
+        },
+        {
+          "name": "B (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "C (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "D (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "E (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "F (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "G (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "H (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "L (in)",
+          "value": "26 (1,02)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,91 (2,00)"
+        }
+      ],
+      "weight": "0,91 (2,00)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230004,
+      "sku": "MS BE Ø 16 H75 - KF-532/528",
+      "label": "MS BE Ø 16 H75 - KF-532/528",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "107,3 (4,22)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "75 (2,95)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "32,3 (1,27)"
+        },
+        {
+          "name": "B (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "C (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "D (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "E (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "F (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "G (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "H (in)",
+          "value": "27 (1,06)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "L (in)",
+          "value": "51 (2,00)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,85 (1,87)"
+        }
+      ],
+      "weight": "0,85 (1,87)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230005,
+      "sku": "MS BE Ø 22 H75 - KF-532/528",
+      "label": "MS BE Ø 22 H75 - KF-532/528",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "111,4 (4,38)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "75 (2,95)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "36,4 (1,43)"
+        },
+        {
+          "name": "B (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "C (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "D (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "E (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "F (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "G (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "H (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "L (in)",
+          "value": "51 (2,00)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,51 (2,00)"
+        }
+      ],
+      "weight": "0,51 (2,00)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230006,
+      "sku": "MS BE Ø 28 H75 - KF-532/528",
+      "label": "MS BE Ø 28 H75 - KF-532/528",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "117,5 (4,62)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "75 (2,95)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "42,5 (1,67)"
+        },
+        {
+          "name": "B (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "C (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "D (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "E (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "F (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "G (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "H (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "L (in)",
+          "value": "51 (2,00)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,995 (2,19)"
+        }
+      ],
+      "weight": "0,995 (2,19)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230007,
+      "sku": "MS BE Ø 16 H100 - KF-532/528",
+      "label": "MS BE Ø 16 H100 - KF-532/528",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "132,3 (5,20)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "100 (3,93)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "32,3 (1,27)"
+        },
+        {
+          "name": "B (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "C (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "D (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "E (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "F (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "G (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "H (in)",
+          "value": "27 (1,06)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "L (in)",
+          "value": "78 (3,07)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "0,942 (2,07)"
+        }
+      ],
+      "weight": "0,942 (2,07)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230008,
+      "sku": "MS BE Ø 22 H100 - KF-532/528",
+      "label": "MS BE Ø 22 H100 - KF-532/528",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "136,4 (5,37)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "100 (3,93)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "36,4 (1,43)"
+        },
+        {
+          "name": "B (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "C (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "D (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "E (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "F (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "G (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "H (in)",
+          "value": "30 (1,18)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "L (in)",
+          "value": "78 (3,07)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,005 (2,21)"
+        }
+      ],
+      "weight": "1,005 (2,21)",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 230009,
+      "sku": "MS BE Ø 28 H100 - KF-532/528",
+      "label": "MS BE Ø 28 H100 - KF-532/528",
+      "attributes": [
+        {
+          "name": "A (in)",
+          "value": "145,5 (5,72)"
+        },
+        {
+          "name": "A1 (in)",
+          "value": "100 (3,93)"
+        },
+        {
+          "name": "A2 (in)",
+          "value": "42,5 (1,67)"
+        },
+        {
+          "name": "B (in)",
+          "value": "58 (2,28)"
+        },
+        {
+          "name": "C (in)",
+          "value": "16 (0,62)"
+        },
+        {
+          "name": "D (in)",
+          "value": "42 (1,65)"
+        },
+        {
+          "name": "E (in)",
+          "value": "41 (1,61)"
+        },
+        {
+          "name": "F (in)",
+          "value": "57 (2,24)"
+        },
+        {
+          "name": "G (in)",
+          "value": "8 (0,31)"
+        },
+        {
+          "name": "H (in)",
+          "value": "35 (1,37)"
+        },
+        {
+          "name": "J (in)",
+          "value": "M8"
+        },
+        {
+          "name": "L (in)",
+          "value": "78 (3,07)"
+        },
+        {
+          "name": "PESO kg (lb)",
+          "value": "1,085 (2,39)"
+        }
+      ],
+      "weight": "1,085 (2,39)",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Desenhos por referência (login exigido pelo fabricante)",
+      "url": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-elevada/",
+      "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-elevada/",
+      "kind": "restricted",
+      "note": "Não contornar o login; solicitar o arquivo ao fornecedor."
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Tabela dimensional do fabricante",
+      "columns": [
+        "REFERÊNCIA",
+        "A (in)",
+        "A1 (in)",
+        "A2 (in)",
+        "B (in)",
+        "C (in)",
+        "D (in)",
+        "E (in)",
+        "F (in)",
+        "G (in)",
+        "H (in)",
+        "J (in)",
+        "L (in)",
+        "PESO kg (lb)"
+      ],
+      "rows": [
+        [
+          "MS BE Ø 16 H50 - KF-532/528",
+          "82,3 (3,24)",
+          "50 (1,96)",
+          "32,3 (1,27)",
+          "58 (2,28)",
+          "16 (0,62)",
+          "42 (1,65)",
+          "41 (1,61)",
+          "57 (2,24)",
+          "8 (0,31)",
+          "27 (1,06)",
+          "M8",
+          "26 (1,02)",
+          "0,76 (1,67)"
+        ],
+        [
+          "MS BE Ø 22 H50 - KF-532/528",
+          "88,4 (3,48)",
+          "51 (1,96)",
+          "36,4 (1,43)",
+          "58 (2,28)",
+          "16 (0,62)",
+          "42 (1,65)",
+          "41 (1,61)",
+          "57 (2,24)",
+          "8 (0,31)",
+          "30 (1,18)",
+          "M8",
+          "26 (1,02)",
+          "0,82 (1,80)"
+        ],
+        [
+          "MS BE Ø 28 H50 - KF-532/528",
+          "95,5 (3,75)",
+          "52 (1,96)",
+          "42,5 (1,67)",
+          "58 (2,28)",
+          "16 (0,62)",
+          "42 (1,65)",
+          "41 (1,61)",
+          "57 (2,24)",
+          "8 (0,31)",
+          "35 (1,37)",
+          "M8",
+          "26 (1,02)",
+          "0,91 (2,00)"
+        ],
+        [
+          "MS BE Ø 16 H75 - KF-532/528",
+          "107,3 (4,22)",
+          "75 (2,95)",
+          "32,3 (1,27)",
+          "58 (2,28)",
+          "16 (0,62)",
+          "42 (1,65)",
+          "41 (1,61)",
+          "57 (2,24)",
+          "8 (0,31)",
+          "27 (1,06)",
+          "M8",
+          "51 (2,00)",
+          "0,85 (1,87)"
+        ],
+        [
+          "MS BE Ø 22 H75 - KF-532/528",
+          "111,4 (4,38)",
+          "75 (2,95)",
+          "36,4 (1,43)",
+          "58 (2,28)",
+          "16 (0,62)",
+          "42 (1,65)",
+          "41 (1,61)",
+          "57 (2,24)",
+          "8 (0,31)",
+          "30 (1,18)",
+          "M8",
+          "51 (2,00)",
+          "0,51 (2,00)"
+        ],
+        [
+          "MS BE Ø 28 H75 - KF-532/528",
+          "117,5 (4,62)",
+          "75 (2,95)",
+          "42,5 (1,67)",
+          "58 (2,28)",
+          "16 (0,62)",
+          "42 (1,65)",
+          "41 (1,61)",
+          "57 (2,24)",
+          "8 (0,31)",
+          "35 (1,37)",
+          "M8",
+          "51 (2,00)",
+          "0,995 (2,19)"
+        ],
+        [
+          "MS BE Ø 16 H100 - KF-532/528",
+          "132,3 (5,20)",
+          "100 (3,93)",
+          "32,3 (1,27)",
+          "58 (2,28)",
+          "16 (0,62)",
+          "42 (1,65)",
+          "41 (1,61)",
+          "57 (2,24)",
+          "8 (0,31)",
+          "27 (1,06)",
+          "M8",
+          "78 (3,07)",
+          "0,942 (2,07)"
+        ],
+        [
+          "MS BE Ø 22 H100 - KF-532/528",
+          "136,4 (5,37)",
+          "100 (3,93)",
+          "36,4 (1,43)",
+          "58 (2,28)",
+          "16 (0,62)",
+          "42 (1,65)",
+          "41 (1,61)",
+          "57 (2,24)",
+          "8 (0,31)",
+          "30 (1,18)",
+          "M8",
+          "78 (3,07)",
+          "1,005 (2,21)"
+        ],
+        [
+          "MS BE Ø 28 H100 - KF-532/528",
+          "145,5 (5,72)",
+          "100 (3,93)",
+          "42,5 (1,67)",
+          "58 (2,28)",
+          "16 (0,62)",
+          "42 (1,65)",
+          "41 (1,61)",
+          "57 (2,24)",
+          "8 (0,31)",
+          "35 (1,37)",
+          "M8",
+          "78 (3,07)",
+          "1,085 (2,39)"
+        ]
+      ]
+    }
+  ],
+  "homepage": true
+}

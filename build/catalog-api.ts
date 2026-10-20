@@ -12,7 +12,7 @@ async function passwordHash(password:string,salt:string){const key=await crypto.
 function equal(a:string,b:string){let d=a.length^b.length;for(let i=0;i<Math.max(a.length,b.length);i++)d|=(a.charCodeAt(i)||0)^(b.charCodeAt(i)||0);return d===0}
 export function validateCatalog(input:unknown):Product[]{
  if(!Array.isArray(input)||input.length>5000)throw Error('O catálogo deve conter no máximo 5.000 produtos.');const ids=new Set(),slugs=new Set();let variantCount=0;
- return input.map((raw)=>{const p=raw as Product;if(!Number.isSafeInteger(p.id)||p.id<1||ids.has(p.id))throw Error('Há IDs de produto inválidos ou repetidos.');ids.add(p.id);if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(p.slug)||slugs.has(p.slug))throw Error('Use endereços (slugs) únicos, em letras minúsculas, números e hífens.');slugs.add(p.slug);
+ const result=input.map((raw)=>{const p=raw as Product;if(!Number.isSafeInteger(p.id)||p.id<1||ids.has(p.id))throw Error('Há IDs de produto inválidos ou repetidos.');ids.add(p.id);if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(p.slug)||slugs.has(p.slug))throw Error('Use endereços (slugs) únicos, em letras minúsculas, números e hífens.');slugs.add(p.slug);
  const text=(v:unknown,max=250)=>String(v??'').slice(0,max);const price=Number(p.price||0);if(!Number.isFinite(price)||price<0||price>99999999)throw Error('Preço inválido.');if(!p.name?.trim()||!p.categories?.length)throw Error('Cada produto precisa de nome e categoria.');
  const attrs=(a:unknown)=>{if(!Array.isArray(a)||a.length>100)throw Error('Atributos inválidos.');return a.map(x=>({name:text(x.name),value:text(x.value,2000)}))};
  const image=(s:unknown)=>{const v=text(s,1_400_000).replace(/^\/carol-componentes\/images\//,'/images/');if(/^\/images\/[a-zA-Z0-9_.\/-]+$/.test(v)||/^data:image\/(png|jpeg|webp);base64,[a-zA-Z0-9+/=]+$/.test(v)||/^https:\/\//.test(v))return v;return '/images/photo-pending.svg'};
@@ -21,6 +21,8 @@ export function validateCatalog(input:unknown):Product[]{
  const description=text(p.description,100000);if(/<\s*(script|iframe|object|embed|svg|style|form)|\bon\w+\s*=|javascript:|data:text/i.test(description))throw Error('Descrição contém HTML não permitido. Use texto ou tabelas simples.');
  return {id:p.id,slug:p.slug,name:text(p.name),sku:text(p.sku),brand:text(p.brand),type:text(p.type),section:text(p.section),price,homepage:!!p.homepage,summary:text(p.summary,5000),description,weight:text(p.weight),dimensions:text(p.dimensions),categories:p.categories.map(c=>({id:Number(c.id)||1,name:text(c.name),slug:text(c.slug)})),attributes:attrs(p.attributes),image:image(p.image),images:(p.images||[]).slice(0,10).map(image),variations:p.variations.map(v=>{if(!Number.isSafeInteger(v.id)||v.id<1||vids.has(v.id)||!v.label?.trim())throw Error('Cada medida precisa de ID único e nome.');vids.add(v.id);return {id:v.id,sku:text(v.sku),label:text(v.label),weight:text(v.weight),dimensions:text(v.dimensions),attributes:attrs(v.attributes),image:v.image?image(v.image):null}})};
  });
+ const safeUrl=(value:unknown)=>{const url=String(value??'').slice(0,2000);if(/^https:\/\/[^\s"'<>]+$/i.test(url)||/^\/(?:images|downloads|videos)\/[a-zA-Z0-9_.\/-]+(?:#page=\d+)?$/.test(url))return url;throw Error('URL de material técnico inválida.')};
+ return result.map((p,i)=>{const raw=input[i] as Product;const documents=(raw.documents||[]).slice(0,30).map(d=>({title:String(d.title||'').slice(0,200),url:safeUrl(d.url),sourceUrl:d.sourceUrl?safeUrl(d.sourceUrl):undefined,kind:['pdf','zip','restricted','other'].includes(d.kind)?d.kind:'other' as const,note:String(d.note||'').slice(0,500)}));const videos=(raw.videos||[]).slice(0,10).map(v=>({title:String(v.title||'').slice(0,200),url:safeUrl(v.url),sourceUrl:v.sourceUrl?safeUrl(v.sourceUrl):undefined,hosted:!!v.hosted,reason:String(v.reason||'').slice(0,300)}));const technicalSections=(raw.technicalSections||[]).slice(0,20).map(s=>({title:String(s.title||'').slice(0,200),columns:(s.columns||[]).slice(0,30).map(x=>String(x).slice(0,200)),rows:(s.rows||[]).slice(0,1000).map(row=>row.slice(0,30).map(x=>String(x).slice(0,300))),items:(s.items||[]).slice(0,100).map(x=>({name:String(x.name||'').slice(0,200),value:String(x.value||'').slice(0,2000)})),images:(s.images||[]).slice(0,20).map(x=>safeUrl(x)),note:String(s.note||'').slice(0,1000)}));return {...p,supplier:String(raw.supplier||raw.brand||'').slice(0,100),sourceUrl:raw.sourceUrl?safeUrl(raw.sourceUrl):undefined,documents,videos,technicalSections}});
 }
 export async function catalogApi(request:Request,env:Env):Promise<Response|null>{
  const url=new URL(request.url),path=url.pathname;if(!['/api/catalog','/api/company','/api/contact'].includes(path)&&!path.startsWith('/api/manage/')&&!path.startsWith('/api/media/'))return null;
@@ -33,7 +35,14 @@ export async function catalogApi(request:Request,env:Env):Promise<Response|null>
  const db=env.DB;if(!db)return reply({error:'Servidor de catálogo ainda não configurado.'},503);
  const seed=JSON.stringify({products:source.products});await db.prepare('INSERT OR IGNORE INTO cc_state(id,payload) VALUES (?,?)').bind(catalogStateId,seed).run();
  if(env.ADMIN_INITIAL_HASH)await db.prepare('INSERT OR IGNORE INTO cc_state(id,payload) VALUES (?,?)').bind('admin',JSON.stringify({username:'carol',hash:env.ADMIN_INITIAL_HASH,mustChange:true})).run();
- const row=await db.prepare('SELECT payload,revision FROM cc_state WHERE id=?').bind(catalogStateId).first<{payload:string;revision:number}>();const catalog=JSON.parse(row!.payload) as {products:Product[]};
+ let row=await db.prepare('SELECT payload,revision FROM cc_state WHERE id=?').bind(catalogStateId).first<{payload:string;revision:number}>();
+ // The V2 was deliberately initialized empty. Promote the first curated pilot seed
+ // only if no administrator has edited that pristine revision; never overwrite a live catalog.
+ if(row?.revision===0&&JSON.parse(row.payload).products?.length===0&&source.products.length>0){
+  await db.prepare('UPDATE cc_state SET payload=?,revision=revision+1 WHERE id=? AND revision=0 AND payload=?').bind(seed,catalogStateId,row.payload).run();
+  row=await db.prepare('SELECT payload,revision FROM cc_state WHERE id=?').bind(catalogStateId).first<{payload:string;revision:number}>();
+ }
+ const catalog=JSON.parse(row!.payload) as {products:Product[]};
  if(path==='/api/catalog')return reply({...catalog,revision:row!.revision});
  if(Number(request.headers.get('Content-Length')||0)>16_000_000)return reply({error:'Carga excede 16 MB.'},413);
  if(path==='/api/contact'){

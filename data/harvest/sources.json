@@ -1,0 +1,619 @@
+{
+  "schema": 1,
+  "discoveredAt": "2026-10-20T02:45:36.478Z",
+  "suppliers": {
+    "vibra-stop": {
+      "catalog": "https://www.vibra-stop.com.br/produtos?language=pt-BR",
+      "categories": [
+        {
+          "name": "Com Chapa",
+          "url": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=com-chapa&language=pt-BR"
+        },
+        {
+          "name": "Malha De Aço",
+          "url": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=malha-de-aco&language=pt-BR"
+        },
+        {
+          "name": "Sem Chapa",
+          "url": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=sem-chapa&language=pt-BR"
+        },
+        {
+          "name": "Chapa + 2 Furos",
+          "url": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=chapa-2-furos&language=pt-BR"
+        },
+        {
+          "name": "Articulada",
+          "url": "https://www.vibra-stop.com.br/produto/linha-articulado?model=articulado&language=pt-BR"
+        },
+        {
+          "name": "Arruela",
+          "url": "https://www.vibra-stop.com.br/produto/linha-arruela?model=arruela-de-borracha&language=pt-BR"
+        },
+        {
+          "name": "Base Antivibratória",
+          "url": "https://www.vibra-stop.com.br/produto/linha-base-antivibratoria?model=base-antivibratoria&language=pt-BR"
+        },
+        {
+          "name": "Base de Inércia",
+          "url": "https://www.vibra-stop.com.br/produto/linha-base-de-inercia?model=base-de-inercia&language=pt-BR"
+        },
+        {
+          "name": "Bat",
+          "url": "https://www.vibra-stop.com.br/produto/linha-bat?model=bat&language=pt-BR"
+        },
+        {
+          "name": "Batente Abaulado",
+          "url": "https://www.vibra-stop.com.br/produto/linha-batente-abaulado?model=batente-abaulado&language=pt-BR"
+        },
+        {
+          "name": "Batente de Borracha",
+          "url": "https://www.vibra-stop.com.br/produto/linha-batente-de-borracha?model=batente-de-borracha&language=pt-BR"
+        },
+        {
+          "name": "Batente de Borracha Fêmea",
+          "url": "https://www.vibra-stop.com.br/produto/linha-batente-de-borracha?model=batente-de-borracha-femea&language=pt-BR"
+        },
+        {
+          "name": "Batente de Elevador",
+          "url": "https://www.vibra-stop.com.br/produto/linha-batente-de-elevador?model=batente-de-elevador&language=pt-BR"
+        },
+        {
+          "name": "Batente de Estacionamento",
+          "url": "https://www.vibra-stop.com.br/produto/linha-batente-de-estacionamento?model=batente-de-estacionamento&language=pt-BR"
+        },
+        {
+          "name": "Calço de Borracha",
+          "url": "https://www.vibra-stop.com.br/produto/linha-calco-de-borracha?model=calco-de-borracha&language=pt-BR"
+        },
+        {
+          "name": "Calço de Tubulação",
+          "url": "https://www.vibra-stop.com.br/produto/linha-calco-de-tubulacao?model=tubulacao&language=pt-BR"
+        },
+        {
+          "name": "Calço U",
+          "url": "https://www.vibra-stop.com.br/produto/linha-calco-u?model=calco-u&language=pt-BR"
+        },
+        {
+          "name": "Coxim A",
+          "url": "https://www.vibra-stop.com.br/produto/linha-coxim-a?model=coxim-a&language=pt-BR"
+        },
+        {
+          "name": "Coxim M x M",
+          "url": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-m-x-m&language=pt-BR"
+        },
+        {
+          "name": "Coxim M x F",
+          "url": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-m-x-f&language=pt-BR"
+        },
+        {
+          "name": "Coxim F x F",
+          "url": "https://www.vibra-stop.com.br/produto/linha-coxim?model=coxim-f-x-f&language=pt-BR"
+        },
+        {
+          "name": "Coxim XT",
+          "url": "https://www.vibra-stop.com.br/produto/linha-coxim-xt?model=coxim-xt&language=pt-BR"
+        },
+        {
+          "name": "Micro",
+          "url": "https://www.vibra-stop.com.br/produto/linha-micro?model=micro&language=pt-BR"
+        },
+        {
+          "name": "Micro Fêmea",
+          "url": "https://www.vibra-stop.com.br/produto/linha-micro?model=micro-femea&language=pt-BR"
+        },
+        {
+          "name": "Quad",
+          "url": "https://www.vibra-stop.com.br/produto/linha-quad?model=quad&language=pt-BR"
+        },
+        {
+          "name": "Ret",
+          "url": "https://www.vibra-stop.com.br/produto/linha-ret?model=ret&language=pt-BR"
+        },
+        {
+          "name": "Slim",
+          "url": "https://www.vibra-stop.com.br/produto/linha-slim?model=slim&language=pt-BR"
+        },
+        {
+          "name": "Tartufo",
+          "url": "https://www.vibra-stop.com.br/produto/linha-tartufo?model=tartufo&language=pt-BR"
+        },
+        {
+          "name": "Tub",
+          "url": "https://www.vibra-stop.com.br/produto/linha-tub?model=tub&language=pt-BR"
+        },
+        {
+          "name": "Ventosa",
+          "url": "https://www.vibra-stop.com.br/produto/linha-ventosa?model=ventosa&language=pt-BR"
+        },
+        {
+          "name": "VS",
+          "url": "https://www.vibra-stop.com.br/produto/linha-vs?model=vs&language=pt-BR"
+        },
+        {
+          "name": "Pendural",
+          "url": "https://www.vibra-stop.com.br/produto/linha-pendural?model=pendural&language=pt-BR"
+        },
+        {
+          "name": "Mola Dupla",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-dupla?model=dupla&language=pt-BR"
+        },
+        {
+          "name": "Komp",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-komp?model=komp&language=pt-BR"
+        },
+        {
+          "name": "Komp Dupla",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-komp?model=komp-dupla&language=pt-BR"
+        },
+        {
+          "name": "Mola Óctupla",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-octupla?model=octupla&language=pt-BR"
+        },
+        {
+          "name": "Plus Com 2 Chapas",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-com-2-chapas&language=pt-BR"
+        },
+        {
+          "name": "Plus Com Chapa",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-com-chapa&language=pt-BR"
+        },
+        {
+          "name": "Plus Dupla",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-dupla&language=pt-BR"
+        },
+        {
+          "name": "Plus Sem Chapa",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-plus?model=plus-sem-chapa&language=pt-BR"
+        },
+        {
+          "name": "Mola Quádrupla",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-quadrupla?model=quadrupla&language=pt-BR"
+        },
+        {
+          "name": "Mola Quádrupla Vip",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-quadrupla-vip?model=vip&language=pt-BR"
+        },
+        {
+          "name": "Com 2 Chapas",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=com-2-chapas&language=pt-BR"
+        },
+        {
+          "name": "Com Chapa",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=com-chapa&language=pt-BR"
+        },
+        {
+          "name": "Sem Chapa",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-simples?model=sem-chapa&language=pt-BR"
+        },
+        {
+          "name": "Sísmica",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica&language=pt-BR"
+        },
+        {
+          "name": "Sísmica Plus",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica-plus&language=pt-BR"
+        },
+        {
+          "name": "Sísmica Vip",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-sismica?model=sismica-vip&language=pt-BR"
+        },
+        {
+          "name": "Tração Premium",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-tracao-premium?model=tracao-premium&language=pt-BR"
+        },
+        {
+          "name": "Tração Premium Plus",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-tracao-premium?model=tracao-premium-plus&language=pt-BR"
+        },
+        {
+          "name": "Tração Premium Vip",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-tracao-premium?model=tracao-premium-vip&language=pt-BR"
+        },
+        {
+          "name": "Vip Com 2 Chapas",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-vip?model=vip-com-2-chapas&language=pt-BR"
+        },
+        {
+          "name": "Vip Com Chapa",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-vip?model=vip-com-chapa&language=pt-BR"
+        },
+        {
+          "name": "Vip Sem Chapa",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-vip?model=vip-sem-chapa&language=pt-BR"
+        },
+        {
+          "name": "Flex Sem Chapa",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-flex?model=flex-sem-chapa&language=pt-BR"
+        },
+        {
+          "name": "Flex Com Chapa",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-flex?model=flex-com-chapa&language=pt-BR"
+        },
+        {
+          "name": "Flex Com 2 Chapas",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-flex?model=flex-com-2-chapas&language=pt-BR"
+        },
+        {
+          "name": "Flex Dupla",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-flex?model=flex-dupla&language=pt-BR"
+        },
+        {
+          "name": "Flex Plus Sem Chapa",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-flex-plus?model=flex-plus-sem-chapa&language=pt-BR"
+        },
+        {
+          "name": "Flex Plus Com Chapa",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-flex-plus?model=flex-plus-com-chapa&language=pt-BR"
+        },
+        {
+          "name": "Flex Plus Com 2 Chapas",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-flex-plus?model=flex-plus-com-2-chapas&language=pt-BR"
+        },
+        {
+          "name": "Flex Plus Dupla",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-flex-plus?model=flex-plus-dupla&language=pt-BR"
+        },
+        {
+          "name": "Tração",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-tracao?model=tracao&language=pt-BR"
+        },
+        {
+          "name": "Tração Plus",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-tracao?model=tracao-plus&language=pt-BR"
+        },
+        {
+          "name": "Tração Vip",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-tracao?model=tracao-vip&language=pt-BR"
+        },
+        {
+          "name": "Mola HVAC",
+          "url": "https://www.vibra-stop.com.br/produto/linha-mola-hvac?model=hvac&language=pt-BR"
+        },
+        {
+          "name": "Ficha Técnica",
+          "url": "https://www.vibra-stop.com.br/produto/linha-tradicional#product-tab-analogs-datasheet"
+        },
+        {
+          "name": "Vídeo",
+          "url": "https://www.vibra-stop.com.br/produto/linha-tradicional#product-tab-videos"
+        },
+        {
+          "name": "Aplicabilidades",
+          "url": "https://www.vibra-stop.com.br/produto/linha-tradicional#product-tab-description"
+        },
+        {
+          "name": "Especificações",
+          "url": "https://www.vibra-stop.com.br/produto/linha-tradicional#product-tab-specification"
+        },
+        {
+          "name": "Instalação",
+          "url": "https://www.vibra-stop.com.br/produto/linha-tradicional#product-tab-analogs"
+        }
+      ]
+    },
+    "merkbak": {
+      "catalog": "https://merkbak.com.br/loja-2/",
+      "categories": [
+        {
+          "name": "Plásticos",
+          "url": "https://merkbak.com.br/categoria-produto/plasticos/"
+        },
+        {
+          "name": "Volantes",
+          "url": "https://merkbak.com.br/categoria-produto/volantes/"
+        },
+        {
+          "name": "Alavancas",
+          "url": "https://merkbak.com.br/categoria-produto/alavancas/"
+        },
+        {
+          "name": "Baquelite",
+          "url": "https://merkbak.com.br/categoria-produto/baquelite/"
+        },
+        {
+          "name": "Botões",
+          "url": "https://merkbak.com.br/categoria-produto/botoes/"
+        },
+        {
+          "name": "Buchas para rolamento",
+          "url": "https://merkbak.com.br/categoria-produto/buchas-para-rolamento/"
+        },
+        {
+          "name": "Cabos",
+          "url": "https://merkbak.com.br/categoria-produto/cabos/"
+        },
+        {
+          "name": "Chaves de Fecho",
+          "url": "https://merkbak.com.br/categoria-produto/chaves-de-fecho/"
+        },
+        {
+          "name": "Dobradiças",
+          "url": "https://merkbak.com.br/categoria-produto/dobradicas/"
+        },
+        {
+          "name": "Engrenagens",
+          "url": "https://merkbak.com.br/categoria-produto/engrenagens/"
+        },
+        {
+          "name": "Esferas de Baquelite",
+          "url": "https://merkbak.com.br/categoria-produto/esferas-de-baquelite/"
+        },
+        {
+          "name": "Knobs",
+          "url": "https://merkbak.com.br/categoria-produto/knobs/"
+        },
+        {
+          "name": "Maçanetas",
+          "url": "https://merkbak.com.br/categoria-produto/macanetas/"
+        },
+        {
+          "name": "Manípulos",
+          "url": "https://merkbak.com.br/categoria-produto/manipulos/"
+        },
+        {
+          "name": "Manivelas",
+          "url": "https://merkbak.com.br/categoria-produto/manivelas/"
+        },
+        {
+          "name": "Pés Niveladores",
+          "url": "https://merkbak.com.br/categoria-produto/pes-niveladores/"
+        },
+        {
+          "name": "Puxadores",
+          "url": "https://merkbak.com.br/categoria-produto/puxadores/"
+        },
+        {
+          "name": "Visores de Óleo",
+          "url": "https://merkbak.com.br/categoria-produto/visores-de-oleo/"
+        }
+      ]
+    },
+    "kifix": {
+      "catalog": "https://www.kifix.com.br/catalogo/",
+      "categories": [
+        {
+          "name": "LANÇAMENTOS",
+          "url": "https://www.kifix.com.br/produtos/lancamentos/"
+        },
+        {
+          "name": "Adaptadores para mesas de solda",
+          "url": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/"
+        },
+        {
+          "name": "Grampo C e sargentos",
+          "url": "https://www.kifix.com.br/produtos/grampo-c-e-sargentos/"
+        },
+        {
+          "name": "Grampo vertical",
+          "url": "https://www.kifix.com.br/produtos/grampo-vertical/"
+        },
+        {
+          "name": "Grampo horizontal",
+          "url": "https://www.kifix.com.br/produtos/grampo-horizontal/"
+        },
+        {
+          "name": "Grampos horizontais reforçados",
+          "url": "https://www.kifix.com.br/produtos/grampos-horizontais-reforcados/"
+        },
+        {
+          "name": "Grampo tensor",
+          "url": "https://www.kifix.com.br/produtos/grampo-tensor/"
+        },
+        {
+          "name": "Grampo tensor com cinta",
+          "url": "https://www.kifix.com.br/produtos/grampo-tensor-com-cinta/"
+        },
+        {
+          "name": "Grampo tensor com fixação dupla",
+          "url": "https://www.kifix.com.br/produtos/grampo-tensor-com-fixacao-dupl/"
+        },
+        {
+          "name": "Grampo torpedo",
+          "url": "https://www.kifix.com.br/produtos/grampo-torpedo/"
+        },
+        {
+          "name": "Grampo torpedo com alça",
+          "url": "https://www.kifix.com.br/produtos/grampo-torpedo-com-alca/"
+        },
+        {
+          "name": "Grampo torpedo com giro",
+          "url": "https://www.kifix.com.br/produtos/grampo-torpedo-com-giro/"
+        },
+        {
+          "name": "Grampo Torpedo frontal",
+          "url": "https://www.kifix.com.br/produtos/grampo-torpedo-frontal/"
+        },
+        {
+          "name": "Grampo Torpedo haste quadrada",
+          "url": "https://www.kifix.com.br/produtos/grampo-torpedo-haste-quadrada/"
+        },
+        {
+          "name": "Grampo de fixação dupla",
+          "url": "https://www.kifix.com.br/produtos/grampo-de-fixacao-dupla/"
+        },
+        {
+          "name": "Grampo sargento",
+          "url": "https://www.kifix.com.br/produtos/grampo-sargento/"
+        },
+        {
+          "name": "Fuso rápido",
+          "url": "https://www.kifix.com.br/produtos/fuso-rpido/"
+        },
+        {
+          "name": "Manípulos",
+          "url": "https://www.kifix.com.br/produtos/manipulos/"
+        },
+        {
+          "name": "Morsa de aperto rápido",
+          "url": "https://www.kifix.com.br/produtos/morsa-de-aperto-rapido/"
+        },
+        {
+          "name": "Posicionadores/ Indexadores",
+          "url": "https://www.kifix.com.br/produtos/posicionadores-indexadores/"
+        },
+        {
+          "name": "Alicates",
+          "url": "https://www.kifix.com.br/produtos/alicates/"
+        },
+        {
+          "name": "Grampo compressor",
+          "url": "https://www.kifix.com.br/produtos/grampo-compressor/"
+        },
+        {
+          "name": "Grampo pneumático",
+          "url": "https://www.kifix.com.br/produtos/grampo-pneumatico/"
+        },
+        {
+          "name": "Alça",
+          "url": "https://www.kifix.com.br/produtos/alca/"
+        },
+        {
+          "name": "Puxador",
+          "url": "https://www.kifix.com.br/produtos/puxador/"
+        },
+        {
+          "name": "Ponteiras",
+          "url": "https://www.kifix.com.br/produtos/ponteiras/"
+        },
+        {
+          "name": "Dobradiça",
+          "url": "https://www.kifix.com.br/produtos/dobradica/"
+        },
+        {
+          "name": "Trinco",
+          "url": "https://www.kifix.com.br/produtos/trinco/"
+        },
+        {
+          "name": "Produtos",
+          "url": "https://www.kifix.com.br/produtos/"
+        }
+      ]
+    },
+    "carolfix": {
+      "catalog": "https://carolfix.com.br/loja/",
+      "catalogPdf": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf",
+      "categories": [
+        {
+          "name": "Alavancas",
+          "url": "https://carolfix.com.br/categoria-produto/alavancas/"
+        },
+        {
+          "name": "Amortecedores",
+          "url": "https://carolfix.com.br/categoria-produto/amortecedores/"
+        },
+        {
+          "name": "Anéis",
+          "url": "https://carolfix.com.br/categoria-produto/aneis/"
+        },
+        {
+          "name": "Botões",
+          "url": "https://carolfix.com.br/categoria-produto/botoes/"
+        },
+        {
+          "name": "Buchas para rolamento",
+          "url": "https://carolfix.com.br/categoria-produto/buchas-para-rolamento/"
+        },
+        {
+          "name": "Cabos",
+          "url": "https://carolfix.com.br/categoria-produto/cabos/"
+        },
+        {
+          "name": "Chaves de Fecho",
+          "url": "https://carolfix.com.br/categoria-produto/chaves-de-fecho/"
+        },
+        {
+          "name": "Chavetas",
+          "url": "https://carolfix.com.br/categoria-produto/chavetas/"
+        },
+        {
+          "name": "Dobradiças",
+          "url": "https://carolfix.com.br/categoria-produto/dobradicas/"
+        },
+        {
+          "name": "Engrenagens",
+          "url": "https://carolfix.com.br/categoria-produto/engrenagens/"
+        },
+        {
+          "name": "Esferas de Baquelite",
+          "url": "https://carolfix.com.br/categoria-produto/esferas-de-baquelite/"
+        },
+        {
+          "name": "Grampos",
+          "url": "https://carolfix.com.br/categoria-produto/grampos/"
+        },
+        {
+          "name": "Knobs",
+          "url": "https://carolfix.com.br/categoria-produto/knobs/"
+        },
+        {
+          "name": "Maçanetas",
+          "url": "https://carolfix.com.br/categoria-produto/macanetas/"
+        },
+        {
+          "name": "Manípulos",
+          "url": "https://carolfix.com.br/categoria-produto/manipulos/"
+        },
+        {
+          "name": "Manivelas",
+          "url": "https://carolfix.com.br/categoria-produto/manivelas/"
+        },
+        {
+          "name": "Molas",
+          "url": "https://carolfix.com.br/categoria-produto/molas/"
+        },
+        {
+          "name": "Molas para molde",
+          "url": "https://carolfix.com.br/categoria-produto/molas-para-molde/"
+        },
+        {
+          "name": "Pés Niveladores",
+          "url": "https://carolfix.com.br/categoria-produto/pes-niveladores/"
+        },
+        {
+          "name": "Pinos elasticos",
+          "url": "https://carolfix.com.br/categoria-produto/pinos-elasticos/"
+        },
+        {
+          "name": "Pinos extratores",
+          "url": "https://carolfix.com.br/categoria-produto/pinos-extratores/"
+        },
+        {
+          "name": "Pinos guias",
+          "url": "https://carolfix.com.br/categoria-produto/pinos-guias/"
+        },
+        {
+          "name": "Puxadores",
+          "url": "https://carolfix.com.br/categoria-produto/puxadores/"
+        },
+        {
+          "name": "Químicos para indústria",
+          "url": "https://carolfix.com.br/categoria-produto/quimicos-para-industria/"
+        },
+        {
+          "name": "Usinagem",
+          "url": "https://carolfix.com.br/categoria-produto/quimicos-para-industria/usinagem/"
+        },
+        {
+          "name": "Rolamentos",
+          "url": "https://carolfix.com.br/categoria-produto/rolamentos/"
+        },
+        {
+          "name": "Rolamentos importados",
+          "url": "https://carolfix.com.br/categoria-produto/rolamentos-importados/"
+        },
+        {
+          "name": "Sem categoria",
+          "url": "https://carolfix.com.br/categoria-produto/sem-categoria/"
+        },
+        {
+          "name": "Visores de Óleo",
+          "url": "https://carolfix.com.br/categoria-produto/visores-de-oleo/"
+        },
+        {
+          "name": "Volantes",
+          "url": "https://carolfix.com.br/categoria-produto/volantes/"
+        }
+      ]
+    }
+  }
+}

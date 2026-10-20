@@ -1,76 +1,2032 @@
-'use client';
-import {useState,useEffect,useRef} from 'react';
-import {MovementHero,MotionStory,NationalPresence,SocialConnections} from './movement';
-import {Dialog,DialogContent,DialogTitle,DialogDescription} from '@/components/ui/dialog';
-import {Search,Menu,X,Plus,Minus,Check,SlidersHorizontal,LayoutGrid,List,Download,MapPin,Phone,FileText,Package,Layers,Truck,MessageCircle,Bookmark,Columns3,ChevronRight,ChevronLeft,ExternalLink,Clock,ShieldCheck,ZoomIn,CheckCircle2,LoaderCircle,Building2,Wrench} from 'lucide-react';
-import {products as initialProducts,categories as initialCategories,families,pdf,shortName,code,normalize,type Product} from '@/lib/catalog';
-import {BrandPartners,ContactDetails,PaymentMethods} from './showcase';
-import {WhatsAppIcon} from './whatsapp-icon';
-import {validCnpj,normalizedPhone,maskCnpj,maskPhone} from '@/lib/validation';
-import {apiFetch} from '@/lib/api-client';
-import {CompanyLookup} from './company-lookup';
-import {buildSelection} from '@/lib/selection';
-type Quote={key:string;id:number;variant:string;qty:number};
-const currency=(v:number)=>v.toLocaleString('pt-BR',{style:'currency',currency:'BRL'});
-function Brand(){return <a href="/" className="brand official-brand" aria-label="Carol Componentes Industriais, início"><img src="/images/brand/carol-symbol.png" alt="" width="52" height="60"/><span><strong>Carol<span>Componentes Industriais</span></strong></span></a>}
-function Freight(){
- const [cep,setCep]=useState(''),[busy,setBusy]=useState(false),[error,setError]=useState(''),[result,setResult]=useState<{name:string;price:number;days:string}|null>(null);
- async function calculate(e:React.FormEvent){e.preventDefault();setError('');setResult(null);if(cep.replace(/\D/g,'').length!==8){setError('Informe um CEP com 8 dígitos.');return}setBusy(true);try{const r=await fetch(`/api/frete?cep=${cep.replace(/\D/g,'')}`);const d=await r.json() as {error?:string;name:string;price:number;days:string};if(!r.ok)throw Error(d.error);setResult(d);}catch(e){setError(e instanceof Error?e.message:'Não foi possível simular. Tente novamente.')}finally{setBusy(false)}}
- return <div className="freight"><div className="freight-heading"><Truck size={20}/><strong>Simule a entrega</strong><span className="pill">Estimativa</span></div><form onSubmit={calculate}><input aria-label="CEP para simulação de frete" inputMode="numeric" placeholder="Seu CEP" maxLength={9} value={cep} onChange={e=>setCep(e.target.value.replace(/[^\d-]/g,''))}/><button className="button secondary" disabled={busy}>{busy?<LoaderCircle className="spin" size={17}/>: 'Calcular'}</button></form>{error&&<p role="alert" className="error">{error}</p>}{result&&<div className="freight-result" aria-live="polite"><small>Destino: {result.name}</small><table><thead><tr><th>Modalidade</th><th>Valor</th><th>Transporte</th></tr></thead><tbody><tr><td>Econômico</td><td>{currency(result.price)}</td><td>{result.days}</td></tr><tr><td>Retirada em Joinville</td><td>Grátis</td><td>Após confirmação</td></tr></tbody></table></div>}<p className="micro">Estimativa de referência. Confirme valor e prazo com a equipe. O preparo da peça é contado separadamente.</p></div>
+"use client";
+import { useState, useEffect, useRef } from "react";
+import {
+  MovementHero,
+  MotionStory,
+  NationalPresence,
+  SocialConnections,
+} from "./movement";
+import {
+  Dialog,
+  DialogContent,
+  DialogTitle,
+  DialogDescription,
+} from "@/components/ui/dialog";
+import {
+  Search,
+  Menu,
+  X,
+  Plus,
+  Minus,
+  Check,
+  SlidersHorizontal,
+  LayoutGrid,
+  List,
+  Download,
+  MapPin,
+  Phone,
+  FileText,
+  Package,
+  Layers,
+  Truck,
+  MessageCircle,
+  Bookmark,
+  Columns3,
+  ChevronRight,
+  ChevronLeft,
+  ExternalLink,
+  Clock,
+  ShieldCheck,
+  ZoomIn,
+  CheckCircle2,
+  LoaderCircle,
+  Building2,
+  Wrench,
+} from "lucide-react";
+import {
+  products as initialProducts,
+  categories as initialCategories,
+  families,
+  pdf,
+  shortName,
+  code,
+  normalize,
+  type Product,
+} from "@/lib/catalog";
+import { BrandPartners, ContactDetails, PaymentMethods } from "./showcase";
+import { WhatsAppIcon } from "./whatsapp-icon";
+import {
+  validCnpj,
+  normalizedPhone,
+  maskCnpj,
+  maskPhone,
+} from "@/lib/validation";
+import { apiFetch } from "@/lib/api-client";
+import { CompanyLookup } from "./company-lookup";
+import { buildSelection } from "@/lib/selection";
+type Quote = { key: string; id: number; variant: string; qty: number };
+const currency = (v: number) =>
+  v.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
+function Brand() {
+  return (
+    <a
+      href="/"
+      className="brand official-brand"
+      aria-label="Carol Componentes Industriais, início"
+    >
+      <img src="/images/brand/carol-symbol.png" alt="" width="52" height="60" />
+      <span>
+        <strong>
+          Carol<span>Componentes Industriais</span>
+        </strong>
+      </span>
+    </a>
+  );
 }
-export default function Experience({initialProduct}:{initialProduct?:string}){
- const [products,setProducts]=useState(initialProducts);
- const categories=Array.from(new Map(products.flatMap(p=>p.categories).map(c=>[c.name,c])).values()).map(c=>({...c,count:products.filter(p=>p.categories.some(x=>x.name===c.name)).length})).sort((a,b)=>a.name.localeCompare(b.name,'pt-BR'));
- useEffect(()=>{apiFetch('/api/catalog').then(r=>r.ok?r.json() as Promise<{products:Product[]}>:null).then(d=>{if(Array.isArray(d?.products)){setProducts(d.products);setQuotes(q=>q.filter(i=>d.products.some(p=>p.id===i.id&&(!p.variations.length||!i.variant||p.variations.some(v=>v.label===i.variant)))));setCompare(ids=>ids.filter(id=>d.products.some(p=>p.id===id)));setSaved(ids=>ids.filter(id=>d.products.some(p=>p.id===id)))}}).catch(()=>{});},[]);
- const [productSlug,setProductSlug]=useState(initialProduct||''),[productOpen,setProductOpen]=useState(false),[activeSection,setActiveSection]=useState(''),[scrolled,setScrolled]=useState(false);
- const detail=products.find(p=>p.slug===productSlug);const productPanel=useRef<HTMLDivElement>(null),productTrigger=useRef<HTMLElement|null>(null);
- const [query,setQuery]=useState(''),[cat,setCat]=useState('Todas'),[view,setView]=useState('grid'),[page,setPage]=useState(1),[sort,setSort]=useState('name'),[onlySaved,setOnlySaved]=useState(false),[saved,setSaved]=useState<number[]>([]),[compare,setCompare]=useState<number[]>([]),[compareOpen,setCompareOpen]=useState(false),[quotes,setQuotes]=useState<Quote[]>([]),[quoteOpen,setQuoteOpen]=useState(false),[contact,setContact]=useState(false),[source,setSource]=useState('Contato geral'),[menu,setMenu]=useState(false),[tab,setTab]=useState('Descrição'),[variant,setVariant]=useState(''),[qty,setQty]=useState(1),[zoom,setZoom]=useState(false),[toast,setToast]=useState(''),[privacy,setPrivacy]=useState(false),[docsOpen,setDocsOpen]=useState(false),[docPage,setDocPage]=useState(5),[hydrated,setHydrated]=useState(false);
- const selection=buildSelection(products,quotes,saved);
- const [cnpj,setCnpj]=useState(''),[phone,setPhone]=useState(''),[name,setName]=useState(''),[message,setMessage]=useState(''),[error,setError]=useState(''),[busy,setBusy]=useState(false),[success,setSuccess]=useState<{whatsappUrl:string;simulated:boolean;id:string}|null>(null);const requestId=useRef('');
- const [cnpjTouched,setCnpjTouched]=useState(false),[phoneTouched,setPhoneTouched]=useState(false);
- const cnpjCheck=cnpjTouched||cnpj.replace(/[^A-Z0-9]/ig,'').length===14,phoneCheck=phoneTouched||phone.replace(/\D/g,'').length===(phone.replace(/\D/g,'')[2]==='9'?11:10);
- const cnpjError=cnpjCheck&&!validCnpj(cnpj),phoneError=phoneCheck&&!normalizedPhone(phone);
- function masked(e:React.ChangeEvent<HTMLInputElement>,mask:(s:string)=>string,set:(s:string)=>void){const input=e.currentTarget,raw=input.value,position=input.selectionStart??raw.length;const count=raw.slice(0,position).replace(/[^A-Z0-9]/ig,'').length;const next=mask(raw);set(next);requestAnimationFrame(()=>{if(document.activeElement!==input)return;let seen=0,caret=0;while(caret<next.length&&seen<count){if(/[A-Z0-9]/i.test(next[caret]))seen++;caret++}input.setSelectionRange(caret,caret)});}
- useEffect(()=>{try{const favorites=JSON.parse(localStorage.getItem('carol-favorites')||'[]');const draft=JSON.parse(localStorage.getItem('carol-quote-draft')||'[]');if(Array.isArray(favorites))setSaved(favorites.filter(id=>products.some(p=>p.id===id)));if(Array.isArray(draft))setQuotes(draft.filter(q=>products.some(p=>p.id===q.id&&(!p.variations.length||!q.variant||p.variations.some(v=>v.label===q.variant)))&&typeof q.key==='string'&&Number.isFinite(q.qty)&&q.qty>=1&&q.qty<=9999).slice(0,100));}catch{}setHydrated(true);},[]);
- useEffect(()=>{if(hydrated){localStorage.setItem('carol-favorites',JSON.stringify(saved));localStorage.setItem('carol-quote-draft',JSON.stringify(quotes));}},[saved,quotes,hydrated]);
- useEffect(()=>{if(toast){const t=setTimeout(()=>setToast(''),2800);return()=>clearTimeout(t)}},[toast]);
- const [selectedPhoto,setSelectedPhoto]=useState('');
- const chosen=detail?.variations.find(v=>v.label===variant);const currentImage=selectedPhoto||chosen?.image||detail?.image;
- const highlights=[9944,10246,9969,9964].map(id=>products.find(p=>p.id===id)!).filter(Boolean);
- const found=products.filter(p=>(cat==='Todas'||p.categories.some(c=>c.name===cat))&&(!onlySaved||saved.includes(p.id))&&normalize(p.name+' '+p.summary+' '+p.variations.map(v=>v.label).join(' ')).includes(normalize(query))).sort((a,b)=>sort==='variants'?b.variations.length-a.variations.length:((!query&&cat==='Todas'&&!onlySaved&&products.filter(p=>p.homepage).length===12)?Number(!!b.homepage)-Number(!!a.homepage):0)||a.name.localeCompare(b.name,'pt-BR'));const pages=Math.ceil(found.length/12);
- function favorite(id:number){setSaved(v=>v.includes(id)?v.filter(i=>i!==id):[...v,id]);setToast(saved.includes(id)?'Produto removido dos salvos.':'Produto salvo e incluído na sua seleção.')}
- function comparison(id:number){setCompare(v=>{if(v.includes(id))return v.filter(i=>i!==id);if(v.length>=3){setToast('Compare até 3 componentes por vez.');return v}return [...v,id]})}
- function add(p:Product,v='',count=1){if(p.variations.length&&!v){setToast('Selecione uma medida.');return}const key=`${p.id}:${v}`;setQuotes(prev=>prev.some(i=>i.key===key)?prev.map(i=>i.key===key?{...i,qty:Math.min(9999,i.qty+count)}:i):[...prev,{key,id:p.id,variant:v,qty:count}]);setToast('Componente adicionado à sua cotação.')}
- function openContact(s='Contato geral'){setSource(s);setSuccess(null);setError('');setCnpjTouched(false);setPhoneTouched(false);requestId.current=crypto.randomUUID();setContact(true)}
- function openFamily(n:number){setDocPage(n);setDocsOpen(true)}
- async function submit(e:React.FormEvent){e.preventDefault();setError('');setCnpjTouched(true);setPhoneTouched(true);if(!validCnpj(cnpj)||!normalizedPhone(phone)){document.getElementById(!validCnpj(cnpj)?'contact-cnpj':'contact-phone')?.focus();return}setBusy(true);try{const items=selection.map(q=>{const p=products.find(p=>p.id===q.id)!;return {id:q.id,name:shortName(p),variant:q.variant||(p.variations.length?'Medida a definir':''),qty:q.qty}});const r=await apiFetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:requestId.current,cnpj,phone,name,message,source,items,website:''})});const d=await r.json() as {error?:string;id:string;simulated:boolean;whatsappUrl:string};if(!r.ok)throw Error(d.error);setSuccess(d);window.location.assign(d.whatsappUrl);}catch(e){setError(e instanceof Error?e.message:'Não foi possível registrar. Tente novamente.')}finally{setBusy(false)}}
- function Card({p}:{p:Product}){return <article className="product-card"><div className="product-image"><a href={`/produto/${p.slug}`} onClick={e=>{if(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;e.preventDefault();openProduct(p)}}><img src={p.image} alt={shortName(p)} loading="lazy"/></a><button className={`favorite ${saved.includes(p.id)?'active':''}`} aria-label={`${saved.includes(p.id)?'Remover':'Salvar'} ${shortName(p)}`} aria-pressed={saved.includes(p.id)} onClick={()=>favorite(p.id)}><Bookmark size={17}/></button>{p.variations.length>0&&<span className="variant-count">{p.variations.length} medidas</span>}</div><div className="card-body"><small>{p.categories[0]?.name}</small><a href={`/produto/${p.slug}`} onClick={e=>{if(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;e.preventDefault();openProduct(p)}}><h3>{shortName(p)}</h3></a><p>{p.brand} <span>{p.price?currency(p.price):'Preço sob consulta'}</span></p><div className="card-actions"><a className="text-action" href={`/produto/${p.slug}`} onClick={e=>{if(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;e.preventDefault();openProduct(p)}}>Ver componente <ChevronRight size={16}/></a><button className={`compare-select ${compare.includes(p.id)?'compare-active':''}`} aria-describedby="comparison-guide" onClick={()=>comparison(p.id)} aria-pressed={compare.includes(p.id)} aria-label={`Comparar ${shortName(p)}`}><Columns3 size={18}/><span>{compare.includes(p.id)?'Selecionado':'Comparar'}</span></button></div></div></article>}
+function Freight() {
+  const [cep, setCep] = useState(""),
+    [busy, setBusy] = useState(false),
+    [error, setError] = useState(""),
+    [result, setResult] = useState<{
+      name: string;
+      price: number;
+      days: string;
+    } | null>(null);
+  async function calculate(e: React.FormEvent) {
+    e.preventDefault();
+    setError("");
+    setResult(null);
+    if (cep.replace(/\D/g, "").length !== 8) {
+      setError("Informe um CEP com 8 dígitos.");
+      return;
+    }
+    setBusy(true);
+    try {
+      const r = await fetch(`/api/frete?cep=${cep.replace(/\D/g, "")}`);
+      const d = (await r.json()) as {
+        error?: string;
+        name: string;
+        price: number;
+        days: string;
+      };
+      if (!r.ok) throw Error(d.error);
+      setResult(d);
+    } catch (e) {
+      setError(
+        e instanceof Error
+          ? e.message
+          : "Não foi possível simular. Tente novamente.",
+      );
+    } finally {
+      setBusy(false);
+    }
+  }
+  return (
+    <div className="freight">
+      <div className="freight-heading">
+        <Truck size={20} />
+        <strong>Simule a entrega</strong>
+        <span className="pill">Estimativa</span>
+      </div>
+      <form onSubmit={calculate}>
+        <input
+          aria-label="CEP para simulação de frete"
+          inputMode="numeric"
+          placeholder="Seu CEP"
+          maxLength={9}
+          value={cep}
+          onChange={(e) => setCep(e.target.value.replace(/[^\d-]/g, ""))}
+        />
+        <button className="button secondary" disabled={busy}>
+          {busy ? <LoaderCircle className="spin" size={17} /> : "Calcular"}
+        </button>
+      </form>
+      {error && (
+        <p role="alert" className="error">
+          {error}
+        </p>
+      )}
+      {result && (
+        <div className="freight-result" aria-live="polite">
+          <small>Destino: {result.name}</small>
+          <table>
+            <thead>
+              <tr>
+                <th>Modalidade</th>
+                <th>Valor</th>
+                <th>Transporte</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Econômico</td>
+                <td>{currency(result.price)}</td>
+                <td>{result.days}</td>
+              </tr>
+              <tr>
+                <td>Retirada em Joinville</td>
+                <td>Grátis</td>
+                <td>Após confirmação</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      )}
+      <p className="micro">
+        Estimativa de referência. Confirme valor e prazo com a equipe. O preparo
+        da peça é contado separadamente.
+      </p>
+    </div>
+  );
+}
+export default function Experience({
+  initialProduct,
+}: {
+  initialProduct?: string;
+}) {
+  const [products, setProducts] = useState(initialProducts);
+  const categories = Array.from(
+    new Map(
+      products.flatMap((p) => p.categories).map((c) => [c.name, c]),
+    ).values(),
+  )
+    .map((c) => ({
+      ...c,
+      count: products.filter((p) => p.categories.some((x) => x.name === c.name))
+        .length,
+    }))
+    .sort((a, b) => a.name.localeCompare(b.name, "pt-BR"));
+  const suppliers = [...new Set(products.map((p) => p.supplier || p.brand))]
+    .filter(Boolean)
+    .sort((a, b) => a.localeCompare(b, "pt-BR"));
+  useEffect(() => {
+    apiFetch("/api/catalog")
+      .then((r) =>
+        r.ok ? (r.json() as Promise<{ products: Product[] }>) : null,
+      )
+      .then((d) => {
+        if (Array.isArray(d?.products)) {
+          setProducts(d.products);
+          setQuotes((q) =>
+            q.filter((i) =>
+              d.products.some(
+                (p) =>
+                  p.id === i.id &&
+                  (!p.variations.length ||
+                    !i.variant ||
+                    p.variations.some((v) => v.label === i.variant)),
+              ),
+            ),
+          );
+          setCompare((ids) =>
+            ids.filter((id) => d.products.some((p) => p.id === id)),
+          );
+          setSaved((ids) =>
+            ids.filter((id) => d.products.some((p) => p.id === id)),
+          );
+        }
+      })
+      .catch(() => {});
+  }, []);
+  const [productSlug, setProductSlug] = useState(initialProduct || ""),
+    [productOpen, setProductOpen] = useState(false),
+    [activeSection, setActiveSection] = useState(""),
+    [scrolled, setScrolled] = useState(false);
+  const detail = products.find((p) => p.slug === productSlug);
+  const productPanel = useRef<HTMLDivElement>(null),
+    productTrigger = useRef<HTMLElement | null>(null);
+  const [query, setQuery] = useState(""),
+    [cat, setCat] = useState("Todas"),
+    [supplier, setSupplier] = useState("Todos"),
+    [view, setView] = useState("grid"),
+    [page, setPage] = useState(1),
+    [sort, setSort] = useState("name"),
+    [onlySaved, setOnlySaved] = useState(false),
+    [saved, setSaved] = useState<number[]>([]),
+    [compare, setCompare] = useState<number[]>([]),
+    [compareOpen, setCompareOpen] = useState(false),
+    [quotes, setQuotes] = useState<Quote[]>([]),
+    [quoteOpen, setQuoteOpen] = useState(false),
+    [contact, setContact] = useState(false),
+    [source, setSource] = useState("Contato geral"),
+    [menu, setMenu] = useState(false),
+    [tab, setTab] = useState("Descrição"),
+    [variant, setVariant] = useState(""),
+    [qty, setQty] = useState(1),
+    [zoom, setZoom] = useState(false),
+    [toast, setToast] = useState(""),
+    [privacy, setPrivacy] = useState(false),
+    [docsOpen, setDocsOpen] = useState(false),
+    [docPage, setDocPage] = useState(5),
+    [hydrated, setHydrated] = useState(false);
+  const selection = buildSelection(products, quotes, saved);
+  const [cnpj, setCnpj] = useState(""),
+    [phone, setPhone] = useState(""),
+    [name, setName] = useState(""),
+    [message, setMessage] = useState(""),
+    [error, setError] = useState(""),
+    [busy, setBusy] = useState(false),
+    [success, setSuccess] = useState<{
+      whatsappUrl: string;
+      simulated: boolean;
+      id: string;
+    } | null>(null);
+  const requestId = useRef("");
+  const [cnpjTouched, setCnpjTouched] = useState(false),
+    [phoneTouched, setPhoneTouched] = useState(false);
+  const cnpjCheck =
+      cnpjTouched || cnpj.replace(/[^A-Z0-9]/gi, "").length === 14,
+    phoneCheck =
+      phoneTouched ||
+      phone.replace(/\D/g, "").length ===
+        (phone.replace(/\D/g, "")[2] === "9" ? 11 : 10);
+  const cnpjError = cnpjCheck && !validCnpj(cnpj),
+    phoneError = phoneCheck && !normalizedPhone(phone);
+  function masked(
+    e: React.ChangeEvent<HTMLInputElement>,
+    mask: (s: string) => string,
+    set: (s: string) => void,
+  ) {
+    const input = e.currentTarget,
+      raw = input.value,
+      position = input.selectionStart ?? raw.length;
+    const count = raw.slice(0, position).replace(/[^A-Z0-9]/gi, "").length;
+    const next = mask(raw);
+    set(next);
+    requestAnimationFrame(() => {
+      if (document.activeElement !== input) return;
+      let seen = 0,
+        caret = 0;
+      while (caret < next.length && seen < count) {
+        if (/[A-Z0-9]/i.test(next[caret])) seen++;
+        caret++;
+      }
+      input.setSelectionRange(caret, caret);
+    });
+  }
+  useEffect(() => {
+    try {
+      const favorites = JSON.parse(
+        localStorage.getItem("carol-favorites") || "[]",
+      );
+      const draft = JSON.parse(
+        localStorage.getItem("carol-quote-draft") || "[]",
+      );
+      if (Array.isArray(favorites))
+        setSaved(favorites.filter((id) => products.some((p) => p.id === id)));
+      if (Array.isArray(draft))
+        setQuotes(
+          draft
+            .filter(
+              (q) =>
+                products.some(
+                  (p) =>
+                    p.id === q.id &&
+                    (!p.variations.length ||
+                      !q.variant ||
+                      p.variations.some((v) => v.label === q.variant)),
+                ) &&
+                typeof q.key === "string" &&
+                Number.isFinite(q.qty) &&
+                q.qty >= 1 &&
+                q.qty <= 9999,
+            )
+            .slice(0, 100),
+        );
+    } catch {}
+    setHydrated(true);
+  }, []);
+  useEffect(() => {
+    if (hydrated) {
+      localStorage.setItem("carol-favorites", JSON.stringify(saved));
+      localStorage.setItem("carol-quote-draft", JSON.stringify(quotes));
+    }
+  }, [saved, quotes, hydrated]);
+  useEffect(() => {
+    if (toast) {
+      const t = setTimeout(() => setToast(""), 2800);
+      return () => clearTimeout(t);
+    }
+  }, [toast]);
+  const [selectedPhoto, setSelectedPhoto] = useState("");
+  const chosen = detail?.variations.find((v) => v.label === variant);
+  const currentImage = selectedPhoto || chosen?.image || detail?.image;
+  const found = products
+    .filter(
+      (p) =>
+        (cat === "Todas" || p.categories.some((c) => c.name === cat)) &&
+        (supplier === "Todos" || (p.supplier || p.brand) === supplier) &&
+        (!onlySaved || saved.includes(p.id)) &&
+        normalize(
+          p.name +
+            " " +
+            p.summary +
+            " " +
+            (p.supplier || p.brand) +
+            " " +
+            p.variations.map((v) => v.label).join(" "),
+        ).includes(normalize(query)),
+    )
+    .sort((a, b) =>
+      sort === "variants"
+        ? b.variations.length - a.variations.length
+        : (!query &&
+          cat === "Todas" &&
+          !onlySaved &&
+          products.filter((p) => p.homepage).length === 12
+            ? Number(!!b.homepage) - Number(!!a.homepage)
+            : 0) || a.name.localeCompare(b.name, "pt-BR"),
+    );
+  const pages = Math.ceil(found.length / 12);
+  function favorite(id: number) {
+    setSaved((v) => (v.includes(id) ? v.filter((i) => i !== id) : [...v, id]));
+    setToast(
+      saved.includes(id)
+        ? "Produto removido dos salvos."
+        : "Produto salvo e incluído na sua seleção.",
+    );
+  }
+  function comparison(id: number) {
+    setCompare((v) => {
+      if (v.includes(id)) return v.filter((i) => i !== id);
+      if (v.length >= 3) {
+        setToast("Compare até 3 componentes por vez.");
+        return v;
+      }
+      return [...v, id];
+    });
+  }
+  function add(p: Product, v = "", count = 1) {
+    if (p.variations.length && !v) {
+      setToast("Selecione uma medida.");
+      return;
+    }
+    const key = `${p.id}:${v}`;
+    setQuotes((prev) =>
+      prev.some((i) => i.key === key)
+        ? prev.map((i) =>
+            i.key === key ? { ...i, qty: Math.min(9999, i.qty + count) } : i,
+          )
+        : [...prev, { key, id: p.id, variant: v, qty: count }],
+    );
+    setToast("Componente adicionado à sua cotação.");
+  }
+  function openContact(s = "Contato geral") {
+    setSource(s);
+    setSuccess(null);
+    setError("");
+    setCnpjTouched(false);
+    setPhoneTouched(false);
+    requestId.current = crypto.randomUUID();
+    setContact(true);
+  }
+  function openFamily(n: number) {
+    setDocPage(n);
+    setDocsOpen(true);
+  }
+  async function submit(e: React.FormEvent) {
+    e.preventDefault();
+    setError("");
+    setCnpjTouched(true);
+    setPhoneTouched(true);
+    if (!validCnpj(cnpj) || !normalizedPhone(phone)) {
+      document
+        .getElementById(!validCnpj(cnpj) ? "contact-cnpj" : "contact-phone")
+        ?.focus();
+      return;
+    }
+    setBusy(true);
+    try {
+      const items = selection.map((q) => {
+        const p = products.find((p) => p.id === q.id)!;
+        return {
+          id: q.id,
+          name: shortName(p),
+          variant: q.variant || (p.variations.length ? "Medida a definir" : ""),
+          qty: q.qty,
+        };
+      });
+      const r = await apiFetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          id: requestId.current,
+          cnpj,
+          phone,
+          name,
+          message,
+          source,
+          items,
+          website: "",
+        }),
+      });
+      const d = (await r.json()) as {
+        error?: string;
+        id: string;
+        simulated: boolean;
+        whatsappUrl: string;
+      };
+      if (!r.ok) throw Error(d.error);
+      setSuccess(d);
+      window.location.assign(d.whatsappUrl);
+    } catch (e) {
+      setError(
+        e instanceof Error
+          ? e.message
+          : "Não foi possível registrar. Tente novamente.",
+      );
+    } finally {
+      setBusy(false);
+    }
+  }
+  function Card({ p }: { p: Product }) {
+    return (
+      <article className="product-card">
+        <div className="product-image">
+          <a
+            href={`/produto/${p.slug}`}
+            onClick={(e) => {
+              if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+              e.preventDefault();
+              openProduct(p);
+            }}
+          >
+            <img src={p.image} alt={shortName(p)} loading="lazy" />
+          </a>
+          <button
+            className={`favorite ${saved.includes(p.id) ? "active" : ""}`}
+            aria-label={`${saved.includes(p.id) ? "Remover" : "Salvar"} ${shortName(p)}`}
+            aria-pressed={saved.includes(p.id)}
+            onClick={() => favorite(p.id)}
+          >
+            <Bookmark size={17} />
+          </button>
+          {p.variations.length > 0 && (
+            <span className="variant-count">{p.variations.length} medidas</span>
+          )}
+        </div>
+        <div className="card-body">
+          <small>{p.categories[0]?.name} · {p.supplier || p.brand}</small>
+          <a
+            href={`/produto/${p.slug}`}
+            onClick={(e) => {
+              if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+              e.preventDefault();
+              openProduct(p);
+            }}
+          >
+            <h3>{shortName(p)}</h3>
+          </a>
+          <p>
+            {p.brand}{" "}
+            <span>{p.price ? currency(p.price) : "Preço sob consulta"}</span>
+          </p>
+          <div className="card-actions">
+            <a
+              className="text-action"
+              href={`/produto/${p.slug}`}
+              onClick={(e) => {
+                if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+                e.preventDefault();
+                openProduct(p);
+              }}
+            >
+              Ver componente <ChevronRight size={16} />
+            </a>
+            <button
+              className={`compare-select ${compare.includes(p.id) ? "compare-active" : ""}`}
+              aria-describedby="comparison-guide"
+              onClick={() => comparison(p.id)}
+              aria-pressed={compare.includes(p.id)}
+              aria-label={`Comparar ${shortName(p)}`}
+            >
+              <Columns3 size={18} />
+              <span>{compare.includes(p.id) ? "Selecionado" : "Comparar"}</span>
+            </button>
+          </div>
+        </div>
+      </article>
+    );
+  }
 
- function goSection(id:string){setMenu(false);if(initialProduct){window.location.assign('/#'+id);return}document.getElementById(id)?.scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth',block:'start'});}
- function openProduct(p:Product){setCompareOpen(false);setQuoteOpen(false);setDocsOpen(false);setZoom(false);if(initialProduct){window.location.assign(`/produto/${p.slug}`);return}if(!productOpen)productTrigger.current=document.activeElement as HTMLElement;setProductSlug(p.slug);setVariant('');setSelectedPhoto('');setQty(1);setTab('Descrição');setProductOpen(true);const url='#peca='+encodeURIComponent(p.slug);if(productOpen)history.replaceState({...history.state,carolProduct:true},'',url);else history.pushState({...history.state,carolProduct:true},'',url);requestAnimationFrame(()=>productPanel.current?.scrollTo({top:0,behavior:'instant'}));}
- function closeProduct(){setProductOpen(false);if(location.hash.startsWith('#peca=')&&history.state?.carolProduct)history.back();else if(location.hash.startsWith('#peca='))history.replaceState(history.state,'',location.pathname+location.search);}
- useEffect(()=>{if(initialProduct)return;const pop=()=>{if(location.hash.startsWith('#peca=')){const slug=decodeURIComponent(location.hash.slice(6));if(products.some(p=>p.slug===slug)){setProductSlug(slug);setProductOpen(true);return}}setProductOpen(false)};pop();window.addEventListener('popstate',pop);return()=>window.removeEventListener('popstate',pop)},[initialProduct]);
- useEffect(()=>{let frame=0;const measure=()=>{frame=0;setScrolled(window.scrollY>40);let current='';for(const id of ['catalogo','tecnico','empresa','localizacao']){const section=document.getElementById(id);if(section&&section.getBoundingClientRect().top<=Math.max(140,window.innerHeight*.35))current=id;}setActiveSection(current);const max=document.documentElement.scrollHeight-window.innerHeight;document.querySelector<HTMLElement>('.reading-progress')?.style.setProperty('--reading',String(max>0?window.scrollY/max:0));};const run=()=>{if(!frame)frame=requestAnimationFrame(measure)};run();window.addEventListener('scroll',run,{passive:true});window.addEventListener('resize',run);return()=>{cancelAnimationFrame(frame);window.removeEventListener('scroll',run);window.removeEventListener('resize',run)}},[initialProduct]);
- function renderDetail(){if(!detail)return null;return <main className="detail-main container"><div className="breadcrumb"><a href="/">Início</a><ChevronRight size={14}/><button onClick={()=>initialProduct?window.location.assign('/#catalogo'):closeProduct()}>Componentes</button><ChevronRight size={14}/><span>{detail.categories[0]?.name}</span></div><div className="detail-layout"><div className="detail-gallery"><div className="detail-image"><img src={currentImage} alt={shortName(detail)}/><button onClick={()=>setZoom(true)} aria-label="Ampliar imagem"><ZoomIn size={23}/></button><span className="detail-image-label">{detail.brand} / {code(detail)}</span></div>{Array.from(new Set([detail.image,...detail.images])).length>1&&<div className="product-thumbnails" aria-label="Fotos do produto">{Array.from(new Set([detail.image,...detail.images])).map((image,i)=><button key={image} aria-label={`Ver foto ${i+1} de ${shortName(detail)}`} aria-pressed={currentImage===image} onClick={()=>setSelectedPhoto(image)}><img src={image} alt={`Foto ${i+1} de ${shortName(detail)}`} loading="lazy"/></button>)}</div>}<div className="detail-meta"><span><ShieldCheck size={18}/> Informações técnicas preservadas</span><button onClick={()=>favorite(detail.id)}><Bookmark size={17}/>{saved.includes(detail.id)?'Salvo':'Salvar componente'}</button></div></div><div className="detail-summary"><p className="eyebrow">{detail.categories[0]?.name} / Merkbak</p><h1>{shortName(detail)}</h1><p className="product-code">Referência: {code(detail)}</p><div className="consult-price"><strong>{detail.price?currency(detail.price):'Preço sob consulta'}</strong><span>Condições e disponibilidade confirmadas pela equipe.</span></div>{detail.variations.length>0&&<label className="field">Selecione a medida<select value={variant} onChange={e=>{setVariant(e.target.value);setSelectedPhoto('')}}><option value="">Escolha entre {detail.variations.length} medidas</option>{detail.variations.map(v=><option key={v.id} value={v.label}>{v.label}</option>)}</select></label>}<div className="purchase-row"><div className="quantity"><button aria-label="Diminuir quantidade" disabled={qty<=1} onClick={()=>setQty(qty-1)}><Minus size={16}/></button><input aria-label="Quantidade" type="number" min={1} max={9999} value={qty} onChange={e=>setQty(Math.min(9999,Math.max(1,Number(e.target.value))))}/><button aria-label="Aumentar quantidade" disabled={qty>=9999} onClick={()=>setQty(qty+1)}><Plus size={16}/></button></div><button className="button primary" disabled={detail.variations.length>0&&!variant} onClick={()=>add(detail,variant,qty)}><Plus size={18}/> Adicionar à cotação</button></div><button className="button outline full" disabled={detail.variations.length>0&&!variant} onClick={()=>openContact(`${shortName(detail)}${variant?' / '+variant:''} / ${qty} unidade(s)`)}><MessageCircle size={19}/> Cotar este componente</button><div className="shipping-preparation"><Clock size={18}/><span>{detail.summary.match(/\(Até[^)]+\)/i)?.[0]||'Prazo de preparação sob consulta'}</span></div><Freight/></div></div><div className="detail-tabs"><div className="tabs" role="tablist">{['Descrição','Informação adicional','Medidas disponíveis','Materiais técnicos'].map(t=><button key={t} role="tab" id={`tab-${t}`} aria-selected={tab===t} aria-controls="product-tabpanel" onClick={()=>setTab(t)}>{t}</button>)}</div><div className="tab-content" id="product-tabpanel" role="tabpanel" aria-labelledby={`tab-${tab}`}>{tab==='Descrição'&&<><h2>Conheça o componente</h2><p className="detail-short-description">{detail.summary}</p><div className="technical-html" dangerouslySetInnerHTML={{__html:detail.description}}/></>}{tab==='Informação adicional'&&<><h2>Especificações</h2><table className="spec-table"><tbody>{detail.attributes.map(a=><tr key={a.name}><th>{a.name}</th><td>{a.name==='Peso'?(chosen?chosen.weight||'Sob consulta':a.value):a.name==='Dimensões'?(chosen?chosen.dimensions||'Sob consulta':a.value):a.value}</td></tr>)}</tbody></table><p className="micro">{chosen?`Medida selecionada: ${chosen.label}.`:'Selecione uma medida para consultar os dados específicos.'}</p></>}{tab==='Medidas disponíveis'&&<><h2>{detail.variations.length?'Escolha a referência':'Referência única'}</h2><div className="variant-table-wrap"><table className="spec-table"><thead><tr><th>Medida</th><th>Peso</th><th>Dimensões de envio</th><th>Seleção</th></tr></thead><tbody>{detail.variations.length?detail.variations.map(v=><tr key={v.id} className={variant===v.label?'chosen-row':''}><td>{v.label}</td><td>{v.weight||'Sob consulta'}</td><td>{v.dimensions||'Sob consulta'}</td><td><button className="text-action" onClick={()=>{setVariant(v.label);setSelectedPhoto('');setToast('Medida selecionada.')}}>{variant===v.label?<><Check size={15}/> Selecionada</>:'Selecionar'}</button></td></tr>):<tr><td>{code(detail)}</td><td>{detail.weight}</td><td>{detail.dimensions}</td><td>Única</td></tr>}</tbody></table></div></>}{tab==='Materiais técnicos'&&<><h2>Para seu projeto</h2><div className="document-card"><FileText size={30}/><div><strong>Catálogo técnico Carol Componentes</strong><p>Tabelas e desenhos dimensionais. Edição original 2016.</p></div><a className="button secondary" href={pdf} download><Download size={17}/> Baixar PDF</a></div><p>Solicite à equipe arquivos CAD ou fichas atualizadas deste componente.</p><button className="text-action" onClick={()=>openContact(`Arquivo CAD: ${shortName(detail)} ${variant}`)}>Solicitar material técnico <MessageCircle size={17}/></button></>}</div></div><section className="related-section section"><div className="section-head"><h2>Na mesma família.</h2><a className="text-action" href="/#catalogo">Explorar catálogo <ChevronRight size={17}/></a></div><div className="featured-grid">{products.filter(p=>p.id!==detail.id&&p.categories.some(c=>detail.categories.some(d=>d.id===c.id))).slice(0,4).map(p=><Card key={p.id} p={p}/>)}</div></section></main>;}
- return <>
- <div className="topbar"><div className="container"><span><MapPin size={13}/> De Joinville para todo o Brasil</span><a href="/admin" className="preview-link">Área da equipe</a></div></div>
- <header className={`site-header ${scrolled?'is-scrolled':''}`}><div className="reading-progress" aria-hidden="true"/><div className="container header-inner"><Brand/><nav aria-label="Navegação principal" id="main-navigation" className={menu?'open':''}><a href="/#catalogo" aria-current={activeSection==='catalogo'?'location':undefined} onClick={e=>{if(!initialProduct)e.preventDefault();goSection('catalogo')}}>Componentes</a><a href="/#tecnico" aria-current={activeSection==='tecnico'?'location':undefined} onClick={e=>{if(!initialProduct)e.preventDefault();goSection('tecnico')}}>Catálogo técnico</a><a href="/#empresa" aria-current={activeSection==='empresa'?'location':undefined} onClick={e=>{if(!initialProduct)e.preventDefault();goSection('empresa')}}>A Carol</a><a href="/#localizacao" aria-current={activeSection==='localizacao'?'location':undefined} onClick={e=>{if(!initialProduct)e.preventDefault();goSection('localizacao')}}>Onde estamos</a></nav><div className="header-actions"><button className="quote-toggle" onClick={()=>setQuoteOpen(true)} aria-label={`Sua seleção, ${selection.length} itens`}><Layers size={19}/><span>Sua seleção</span><b aria-live="polite" aria-atomic="true">{selection.length}</b></button><button className="button primary header-contact" onClick={()=>openContact()}><WhatsAppIcon width={19} height={19}/>WhatsApp</button><button className="mobile-menu" aria-label={menu?'Fechar menu':'Abrir menu'} aria-expanded={menu} aria-controls="main-navigation" onClick={()=>setMenu(!menu)}>{menu?<X/>:<Menu/>}</button></div></div></header>
- {!initialProduct?<main>
- <MovementHero query={query} onQuery={v=>{setQuery(v);setPage(1)}} onProduct={openProduct} onBrowse={()=>goSection('catalogo')}/>
+  function goSection(id: string) {
+    setMenu(false);
+    if (initialProduct) {
+      window.location.assign("/#" + id);
+      return;
+    }
+    document
+      .getElementById(id)
+      ?.scrollIntoView({
+        behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches
+          ? "instant"
+          : "smooth",
+        block: "start",
+      });
+  }
+  function openProduct(p: Product) {
+    setCompareOpen(false);
+    setQuoteOpen(false);
+    setDocsOpen(false);
+    setZoom(false);
+    if (initialProduct) {
+      window.location.assign(`/produto/${p.slug}`);
+      return;
+    }
+    if (!productOpen)
+      productTrigger.current = document.activeElement as HTMLElement;
+    setProductSlug(p.slug);
+    setVariant("");
+    setSelectedPhoto("");
+    setQty(1);
+    setTab("Descrição");
+    setProductOpen(true);
+    const url = "#peca=" + encodeURIComponent(p.slug);
+    if (productOpen)
+      history.replaceState({ ...history.state, carolProduct: true }, "", url);
+    else history.pushState({ ...history.state, carolProduct: true }, "", url);
+    requestAnimationFrame(() =>
+      productPanel.current?.scrollTo({ top: 0, behavior: "instant" }),
+    );
+  }
+  function closeProduct() {
+    setProductOpen(false);
+    if (location.hash.startsWith("#peca=") && history.state?.carolProduct)
+      history.back();
+    else if (location.hash.startsWith("#peca="))
+      history.replaceState(
+        history.state,
+        "",
+        location.pathname + location.search,
+      );
+  }
+  useEffect(() => {
+    if (initialProduct) return;
+    const pop = () => {
+      if (location.hash.startsWith("#peca=")) {
+        const slug = decodeURIComponent(location.hash.slice(6));
+        if (products.some((p) => p.slug === slug)) {
+          setProductSlug(slug);
+          setProductOpen(true);
+          return;
+        }
+      }
+      setProductOpen(false);
+    };
+    pop();
+    window.addEventListener("popstate", pop);
+    return () => window.removeEventListener("popstate", pop);
+  }, [initialProduct]);
+  useEffect(() => {
+    let frame = 0;
+    const measure = () => {
+      frame = 0;
+      setScrolled(window.scrollY > 40);
+      let current = "";
+      for (const id of ["catalogo", "tecnico", "empresa", "localizacao"]) {
+        const section = document.getElementById(id);
+        if (
+          section &&
+          section.getBoundingClientRect().top <=
+            Math.max(140, window.innerHeight * 0.35)
+        )
+          current = id;
+      }
+      setActiveSection(current);
+      const max = document.documentElement.scrollHeight - window.innerHeight;
+      document
+        .querySelector<HTMLElement>(".reading-progress")
+        ?.style.setProperty(
+          "--reading",
+          String(max > 0 ? window.scrollY / max : 0),
+        );
+    };
+    const run = () => {
+      if (!frame) frame = requestAnimationFrame(measure);
+    };
+    run();
+    window.addEventListener("scroll", run, { passive: true });
+    window.addEventListener("resize", run);
+    return () => {
+      cancelAnimationFrame(frame);
+      window.removeEventListener("scroll", run);
+      window.removeEventListener("resize", run);
+    };
+  }, [initialProduct]);
+  function renderDetail() {
+    if (!detail) return null;
+    return (
+      <main className="detail-main container">
+        <div className="breadcrumb">
+          <a href="/">Início</a>
+          <ChevronRight size={14} />
+          <button
+            onClick={() =>
+              initialProduct
+                ? window.location.assign("/#catalogo")
+                : closeProduct()
+            }
+          >
+            Componentes
+          </button>
+          <ChevronRight size={14} />
+          <span>{detail.categories[0]?.name}</span>
+        </div>
+        <div className="detail-layout">
+          <div className="detail-gallery">
+            <div className="detail-image">
+              <img src={currentImage} alt={shortName(detail)} />
+              <button onClick={() => setZoom(true)} aria-label="Ampliar imagem">
+                <ZoomIn size={23} />
+              </button>
+              <span className="detail-image-label">
+                {detail.brand} / {code(detail)}
+              </span>
+            </div>
+            {Array.from(new Set([detail.image, ...detail.images])).length >
+              1 && (
+              <div className="product-thumbnails" aria-label="Fotos do produto">
+                {Array.from(new Set([detail.image, ...detail.images])).map(
+                  (image, i) => (
+                    <button
+                      key={image}
+                      aria-label={`Ver foto ${i + 1} de ${shortName(detail)}`}
+                      aria-pressed={currentImage === image}
+                      onClick={() => setSelectedPhoto(image)}
+                    >
+                      <img
+                        src={image}
+                        alt={`Foto ${i + 1} de ${shortName(detail)}`}
+                        loading="lazy"
+                      />
+                    </button>
+                  ),
+                )}
+              </div>
+            )}
+            <div className="detail-meta">
+              <span>
+                <ShieldCheck size={18} /> Informações técnicas preservadas
+              </span>
+              <button onClick={() => favorite(detail.id)}>
+                <Bookmark size={17} />
+                {saved.includes(detail.id) ? "Salvo" : "Salvar componente"}
+              </button>
+            </div>
+          </div>
+          <div className="detail-summary">
+            <p className="eyebrow">{detail.categories[0]?.name} / {detail.supplier || detail.brand}</p>
+            <h1>{shortName(detail)}</h1>
+            <p className="product-code">Referência: {code(detail)}</p>
+            <div className="consult-price">
+              <strong>
+                {detail.price ? currency(detail.price) : "Preço sob consulta"}
+              </strong>
+              <span>Condições e disponibilidade confirmadas pela equipe.</span>
+            </div>
+            {detail.variations.length > 0 && (
+              <label className="field">
+                Selecione a medida
+                <select
+                  value={variant}
+                  onChange={(e) => {
+                    setVariant(e.target.value);
+                    setSelectedPhoto("");
+                  }}
+                >
+                  <option value="">
+                    Escolha entre {detail.variations.length} medidas
+                  </option>
+                  {detail.variations.map((v) => (
+                    <option key={v.id} value={v.label}>
+                      {v.label}
+                    </option>
+                  ))}
+                </select>
+              </label>
+            )}
+            <div className="purchase-row">
+              <div className="quantity">
+                <button
+                  aria-label="Diminuir quantidade"
+                  disabled={qty <= 1}
+                  onClick={() => setQty(qty - 1)}
+                >
+                  <Minus size={16} />
+                </button>
+                <input
+                  aria-label="Quantidade"
+                  type="number"
+                  min={1}
+                  max={9999}
+                  value={qty}
+                  onChange={(e) =>
+                    setQty(Math.min(9999, Math.max(1, Number(e.target.value))))
+                  }
+                />
+                <button
+                  aria-label="Aumentar quantidade"
+                  disabled={qty >= 9999}
+                  onClick={() => setQty(qty + 1)}
+                >
+                  <Plus size={16} />
+                </button>
+              </div>
+              <button
+                className="button primary"
+                disabled={detail.variations.length > 0 && !variant}
+                onClick={() => add(detail, variant, qty)}
+              >
+                <Plus size={18} /> Adicionar à cotação
+              </button>
+            </div>
+            <button
+              className="button outline full"
+              disabled={detail.variations.length > 0 && !variant}
+              onClick={() =>
+                openContact(
+                  `${shortName(detail)}${variant ? " / " + variant : ""} / ${qty} unidade(s)`,
+                )
+              }
+            >
+              <MessageCircle size={19} /> Cotar este componente
+            </button>
+            <p className="micro">Preço, disponibilidade e condições comerciais serão informados pela Carol Componentes na cotação.</p>
+          </div>
+        </div>
+        <div className="detail-tabs">
+          <div className="tabs" role="tablist">
+            {[
+              "Descrição",
+              "Informação adicional",
+              "Medidas disponíveis",
+              ...(detail.technicalSections?.length ? ["Dados técnicos"] : []),
+              "Materiais técnicos",
+              ...(detail.videos?.length ? ["Vídeo"] : []),
+            ].map((t) => (
+              <button
+                key={t}
+                role="tab"
+                id={`tab-${t}`}
+                aria-selected={tab === t}
+                aria-controls="product-tabpanel"
+                onClick={() => setTab(t)}
+              >
+                {t}
+              </button>
+            ))}
+          </div>
+          <div
+            className="tab-content"
+            id="product-tabpanel"
+            role="tabpanel"
+            aria-labelledby={`tab-${tab}`}
+          >
+            {tab === "Descrição" && (
+              <>
+                <h2>Conheça o componente</h2>
+                <p className="detail-short-description">{detail.summary}</p>
+                <div
+                  className="technical-html"
+                  dangerouslySetInnerHTML={{ __html: detail.description }}
+                />
+              </>
+            )}
+            {tab === "Informação adicional" && (
+              <>
+                <h2>Especificações</h2>
+                <table className="spec-table">
+                  <tbody>
+                    {detail.attributes.map((a) => (
+                      <tr key={a.name}>
+                        <th>{a.name}</th>
+                        <td>
+                          {a.name === "Peso"
+                            ? chosen
+                              ? chosen.weight || "Sob consulta"
+                              : a.value
+                            : a.name === "Dimensões"
+                              ? chosen
+                                ? chosen.dimensions || "Sob consulta"
+                                : a.value
+                              : a.value}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+                <p className="micro">
+                  {chosen
+                    ? `Medida selecionada: ${chosen.label}.`
+                    : "Selecione uma medida para consultar os dados específicos."}
+                </p>
+              </>
+            )}
+            {tab === "Medidas disponíveis" && (
+              <>
+                <h2>
+                  {detail.variations.length
+                    ? "Escolha a referência"
+                    : "Referência única"}
+                </h2>
+                <div className="variant-table-wrap">
+                  <table className="spec-table">
+                    <thead>
+                      <tr>
+                        <th>Medida</th>
+                        <th>Peso</th>
+                        <th>Dimensões de envio</th>
+                        <th>Seleção</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {detail.variations.length ? (
+                        detail.variations.map((v) => (
+                          <tr
+                            key={v.id}
+                            className={variant === v.label ? "chosen-row" : ""}
+                          >
+                            <td>{v.label}</td>
+                            <td>{v.weight || "Sob consulta"}</td>
+                            <td>{v.dimensions || "Sob consulta"}</td>
+                            <td>
+                              <button
+                                className="text-action"
+                                onClick={() => {
+                                  setVariant(v.label);
+                                  setSelectedPhoto("");
+                                  setToast("Medida selecionada.");
+                                }}
+                              >
+                                {variant === v.label ? (
+                                  <>
+                                    <Check size={15} /> Selecionada
+                                  </>
+                                ) : (
+                                  "Selecionar"
+                                )}
+                              </button>
+                            </td>
+                          </tr>
+                        ))
+                      ) : (
+                        <tr>
+                          <td>{code(detail)}</td>
+                          <td>{detail.weight}</td>
+                          <td>{detail.dimensions}</td>
+                          <td>Única</td>
+                        </tr>
+                      )}
+                    </tbody>
+                  </table>
+                </div>
+              </>
+            )}
+            {tab === "Materiais técnicos" && (
+              <>
+                <h2>Para seu projeto</h2>
+                {(detail.documents?.length ? detail.documents : [{title:"Catálogo técnico Carol Componentes",url:pdf,kind:"pdf" as const}]).map((document) => (
+                  <div className="document-card" key={document.url}>
+                    <FileText size={30} />
+                    <div><strong>{document.title}</strong>{document.note && <p>{document.note}</p>}</div>
+                    <a className="button secondary" href={document.url} target="_blank" rel="noreferrer"><Download size={17} /> {document.kind === "restricted" ? "Abrir origem" : "Abrir arquivo"}</a>
+                  </div>
+                ))}
+                {detail.sourceUrl && <p className="micro">Origem técnica: <a href={detail.sourceUrl} target="_blank" rel="noreferrer">{detail.supplier || detail.brand} <ChevronRight size={14}/></a></p>}
+                <p>Arquivos restritos não são copiados; solicite à equipe os desenhos necessários.</p>
+                <button
+                  className="text-action"
+                  onClick={() =>
+                    openContact(`Arquivo CAD: ${shortName(detail)} ${variant}`)
+                  }
+                >
+                  Solicitar material técnico <MessageCircle size={17} />
+                </button>
+              </>
+            )}
+            {tab === "Dados técnicos" && (
+              <>
+                <h2>Dados técnicos do fabricante</h2>
+                {chosen?.attributes?.length ? <table className="spec-table"><tbody>{chosen.attributes.map(a=><tr key={a.name}><th>{a.name}</th><td>{a.value}</td></tr>)}</tbody></table> : <p>Selecione uma referência para ver suas dimensões específicas.</p>}
+                {detail.technicalSections?.map((section,index)=><div className="technical-section-product" key={index}><h3>{section.title}</h3>{section.note&&<p className="micro">{section.note}</p>}{(section.items?.length||0)>0&&<table className="spec-table"><tbody>{section.items?.map(a=><tr key={a.name+a.value}><th>{a.name}</th><td>{a.value}</td></tr>)}</tbody></table>}{(section.columns?.length||0)>0&&(section.rows?.length||0)>0&&<div className="variant-table-wrap"><table className="spec-table"><thead><tr>{section.columns?.map((column,i)=><th key={i}>{column}</th>)}</tr></thead><tbody>{section.rows?.map((row,i)=><tr key={i}>{row.map((value,j)=><td key={j}>{value}</td>)}</tr>)}</tbody></table></div>}{section.images?.map(image=><img className="technical-illustration" key={image} src={image} alt={`${section.title} de ${shortName(detail)}`} loading="lazy" />)}</div>)}
+              </>
+            )}
+            {tab === "Vídeo" && <><h2>Vídeos do fabricante</h2>{detail.videos?.map(video=><div className="video-card" key={video.url}><h3>{video.title}</h3>{video.hosted?<video controls preload="metadata" src={video.url} />:<a className="button secondary" href={video.url} target="_blank" rel="noreferrer">Assistir no site do fabricante <ChevronRight size={17}/></a>}<p className="micro">{video.hosted?'Arquivo hospedado na V2.':'Vídeo disponibilizado pelo fabricante em sua página de origem.'}</p></div>)}</>}
+          </div>
+        </div>
+        <section className="related-section section">
+          <div className="section-head">
+            <h2>Na mesma família.</h2>
+            <a className="text-action" href="/#catalogo">
+              Explorar catálogo <ChevronRight size={17} />
+            </a>
+          </div>
+          <div className="featured-grid">
+            {products
+              .filter(
+                (p) =>
+                  p.id !== detail.id &&
+                  p.categories.some((c) =>
+                    detail.categories.some((d) => d.id === c.id),
+                  ),
+              )
+              .slice(0, 4)
+              .map((p) => (
+                <Card key={p.id} p={p} />
+              ))}
+          </div>
+        </section>
+      </main>
+    );
+  }
+  return (
+    <>
+      <div className="topbar">
+        <div className="container">
+          <span>
+            <MapPin size={13} /> De Joinville para todo o Brasil
+          </span>
+          <a href="/admin" className="preview-link">
+            Área da equipe
+          </a>
+        </div>
+      </div>
+      <header className={`site-header ${scrolled ? "is-scrolled" : ""}`}>
+        <div className="reading-progress" aria-hidden="true" />
+        <div className="container header-inner">
+          <Brand />
+          <nav
+            aria-label="Navegação principal"
+            id="main-navigation"
+            className={menu ? "open" : ""}
+          >
+            <a
+              href="/#catalogo"
+              aria-current={
+                activeSection === "catalogo" ? "location" : undefined
+              }
+              onClick={(e) => {
+                if (!initialProduct) e.preventDefault();
+                goSection("catalogo");
+              }}
+            >
+              Componentes
+            </a>
+            <a
+              href="/#tecnico"
+              aria-current={
+                activeSection === "tecnico" ? "location" : undefined
+              }
+              onClick={(e) => {
+                if (!initialProduct) e.preventDefault();
+                goSection("tecnico");
+              }}
+            >
+              Catálogo técnico
+            </a>
+            <a
+              href="/#empresa"
+              aria-current={
+                activeSection === "empresa" ? "location" : undefined
+              }
+              onClick={(e) => {
+                if (!initialProduct) e.preventDefault();
+                goSection("empresa");
+              }}
+            >
+              A Carol
+            </a>
+            <a
+              href="/#localizacao"
+              aria-current={
+                activeSection === "localizacao" ? "location" : undefined
+              }
+              onClick={(e) => {
+                if (!initialProduct) e.preventDefault();
+                goSection("localizacao");
+              }}
+            >
+              Onde estamos
+            </a>
+          </nav>
+          <div className="header-actions">
+            <button
+              className="quote-toggle"
+              onClick={() => setQuoteOpen(true)}
+              aria-label={`Sua seleção, ${selection.length} itens`}
+            >
+              <Layers size={19} />
+              <span>Sua seleção</span>
+              <b aria-live="polite" aria-atomic="true">
+                {selection.length}
+              </b>
+            </button>
+            <button
+              className="button primary header-contact"
+              onClick={() => openContact()}
+            >
+              <WhatsAppIcon width={19} height={19} />
+              WhatsApp
+            </button>
+            <button
+              className="mobile-menu"
+              aria-label={menu ? "Fechar menu" : "Abrir menu"}
+              aria-expanded={menu}
+              aria-controls="main-navigation"
+              onClick={() => setMenu(!menu)}
+            >
+              {menu ? <X /> : <Menu />}
+            </button>
+          </div>
+        </div>
+      </header>
+      {!initialProduct ? (
+        <main>
+          <MovementHero
+            products={products}
+            query={query}
+            onQuery={(v) => {
+              setQuery(v);
+              setPage(1);
+            }}
+            onProduct={openProduct}
+            onBrowse={() => goSection("catalogo")}
+          />
 
- <BrandPartners onContact={openContact}/><section id="catalogo" className="catalog-section section"><div className="container"><div className="section-head"><div><p className="eyebrow">Seleção técnica</p><h2>Explore os componentes.</h2></div><a className="text-action" href="#tecnico">Outras famílias no catálogo técnico <ChevronRight size={17}/></a></div><div className="catalog-layout"><aside className="filters"><div className="filter-title"><SlidersHorizontal size={18}/><strong>Famílias</strong></div><button className={cat==='Todas'?'selected':''} onClick={()=>{setCat('Todas');setPage(1)}}>Todos os componentes <span>{products.length}</span></button>{categories.map(c=><button key={c.id} className={cat===c.name?'selected':''} onClick={()=>{setCat(c.name);setPage(1)}}>{c.name}<span>{c.count}</span></button>)}<div className="filter-help"><Wrench size={23}/><strong>Não achou a peça?</strong><p>Envie o código ou a aplicação. Nossa equipe ajuda na seleção.</p><button onClick={()=>openContact('Ajuda para encontrar componente')}>Pedir orientação</button></div></aside><div className="catalog-results"><div className="catalog-toolbar"><label className="catalog-search"><Search size={18}/><input placeholder="Nome, código ou medida" aria-label="Filtrar catálogo" value={query} onChange={e=>{setQuery(e.target.value);setPage(1)}}/>{query&&<button aria-label="Limpar busca" onClick={()=>{setQuery('');setPage(1)}}><X size={16}/></button>}</label><select aria-label="Ordenar componentes" value={sort} onChange={e=>{setSort(e.target.value);setPage(1)}}><option value="name">Nome A–Z</option><option value="variants">Mais medidas</option></select><div className="view-toggle"><button aria-label="Grade" aria-pressed={view==='grid'} onClick={()=>setView('grid')}><LayoutGrid size={18}/></button><button aria-label="Lista" aria-pressed={view==='list'} onClick={()=>setView('list')}><List size={18}/></button></div></div><details className="comparison-guide" id="comparison-guide"><summary><Columns3 size={22}/><span><strong>Qual componente escolher?</strong> Compare até 3 peças lado a lado.</span><span className="guide-toggle">Como funciona <Plus size={16}/></span></summary><div><p>1. Toque em <strong>Comparar</strong> nos componentes que deseja avaliar.</p><p>2. Escolha duas ou três peças e abra <strong>Ver comparação</strong> na barra inferior.</p><p>3. Consulte família, fabricante, peso, dimensões e quantidade de medidas lado a lado. Para a especificação de uma medida, abra o produto.</p></div></details><div className="results-info"><p><strong>{found.length}</strong> componentes {cat!=='Todas'&&`em ${cat}`}</p><button className={onlySaved?'saved-filter active':'saved-filter'} onClick={()=>{setOnlySaved(!onlySaved);setPage(1)}}><Bookmark size={15}/> Salvos ({saved.length})</button></div>{found.length?<div className={`product-grid ${view==='list'?'list-view':''}`}>{found.slice((page-1)*12,page*12).map(p=><Card key={p.id} p={p}/>)}</div>:<div className="empty-state"><Search size={32}/><h3>Vamos encontrar juntos?</h3><p>Tente um código mais curto ou fale com nossa equipe.</p><button className="button secondary" onClick={()=>{setQuery('');setCat('Todas');setOnlySaved(false);setPage(1)}}>Limpar filtros</button></div>}{pages>1&&<div className="pagination"><button aria-label="Página anterior" disabled={page===1} onClick={()=>setPage(page-1)}><ChevronLeft size={18}/></button>{Array.from({length:pages},(_,i)=><button key={i} aria-current={page===i+1?'page':undefined} onClick={()=>setPage(i+1)}>{i+1}</button>)}<button aria-label="Próxima página" disabled={page===pages} onClick={()=>setPage(page+1)}><ChevronRight size={18}/></button></div>}</div></div></div></section>
- <section id="tecnico" className="technical-section section"><div className="container"><div className="technical-heading"><div><p className="eyebrow">Para quem projeta, compra e mantém</p><h2>Detalhes que ajudam<br/>a decidir.</h2><p>Consulte desenhos, códigos e tabelas dimensionais. Navegue por família ou leve o catálogo completo com você.</p><a className="button yellow" href={pdf} download><Download size={19}/> Baixar catálogo completo</a><small>PDF / 60 páginas / Conteúdo técnico da edição 2016</small></div><button className="catalog-book" onClick={()=>openFamily(5)} aria-label="Abrir catálogo técnico"><img src="/images/catalog-cover.webp" alt="Capa do catálogo Carol Componentes" loading="lazy"/><span><FileText size={18}/> Catálogo técnico</span></button></div><div className="family-grid">{families.map((f,i)=><button key={f.name} onClick={()=>openFamily(f.page)}><span className="family-number">{String(i+1).padStart(2,'0')}</span><h3>{f.name}</h3><p>{f.text}</p><span className="family-bottom">Consultar tabelas <Plus size={20}/></span></button>)}</div><p className="technical-note">Precisa de CAD ou ficha atualizada? Solicite o arquivo específico à equipe.</p></div></section>
- <MotionStory onContact={()=>openContact('Conhecer atendimento Carol')}/>
- <NationalPresence onContact={()=>openContact('Entrega para todo o Brasil')}/><SocialConnections/>
- </main>:renderDetail()}
- <section className="contact-band"><div className="container"><div><p>Um código, uma medida ou uma ideia.</p><h2>Vamos encontrar a sua solução?</h2></div><button className="button whatsapp-cta" onClick={()=>openContact('Contato rodapé')}><WhatsAppIcon width={21} height={21}/> Fale pelo WhatsApp</button></div></section><ContactDetails onContact={openContact}/><PaymentMethods/><footer className="footer"><div className="container footer-grid"><div><a href="/" className="official-logo" aria-label="Carol Componentes Industriais, início"><img src="/images/brand/carol-logo.png" alt="Carol Componentes Industriais" width="220" height="220" loading="lazy"/></a><p>Componentes que conectam<br/>projetos à indústria.</p></div><div><strong>Explore</strong><a href="/#catalogo">Componentes</a><a href="/#tecnico">Catálogo técnico</a><a href="/#empresa">A Carol</a><a href="/#conexoes">Nas redes</a></div><div><strong>Joinville</strong><a href="mailto:vendas@carolcomponentes.com.br">vendas@carolcomponentes.com.br</a><p>Rua Carlos Willy Boehm, 537<br/>Santo Antônio, Joinville – SC</p><a href="tel:+554734350101">(47) 3435-0101</a><button onClick={()=>openContact('Contato rodapé')}>WhatsApp: (47) 99618-0088</button></div><div><strong>Carol Componentes</strong><span>carolcomponentes.com.br</span><button onClick={()=>setPrivacy(true)}>Privacidade</button><a href="/admin">Administrar catálogo</a></div></div><div className="container footer-bottom"><span>© 2026 Carol Componentes Industriais</span><div className="creator-credit"><span>Desenvolvido por</span><a href="mailto:ramonpmendesx@gmail.com">Ramon Paulino Mendes</a><a href="mailto:ramonpmendesx@gmail.com" className="creator-email">ramonpmendesx@gmail.com</a><a href="https://wa.me/5541999751171" target="_blank" rel="noreferrer" aria-label="WhatsApp de Ramon Paulino Mendes, (41) 99975-1171"><WhatsAppIcon width={16} height={16}/><span>(41) 99975-1171</span></a></div></div></footer>
- <button className="whatsapp" onClick={()=>openContact(detail?shortName(detail):'WhatsApp do site')} aria-label="Iniciar contato pelo WhatsApp"><WhatsAppIcon width={27} height={27}/><span>Chamar no WhatsApp</span></button>{compare.length>0&&<div className="compare-dock"><Columns3 size={19}/><span>{compare.length===1?'Selecione mais uma peça':`${compare.length} peças selecionadas`}</span><button onClick={()=>setCompareOpen(true)} disabled={compare.length<2}>Ver comparação</button><button aria-label="Limpar comparação" onClick={()=>setCompare([])}><X size={18}/></button></div>}{toast&&<div className="toast" role="status"><CheckCircle2 size={18}/>{toast}</div>}
- <Dialog open={productOpen&&!initialProduct} onOpenChange={v=>{if(!v)closeProduct()}}><DialogContent ref={productPanel} className="product-explorer" overlayClassName="product-explorer-backdrop" showCloseButton={false} onCloseAutoFocus={e=>{e.preventDefault();productTrigger.current?.focus({preventScroll:true})}}><DialogTitle className="sr-only">{detail?shortName(detail):'Componente'}</DialogTitle><DialogDescription className="sr-only">Consulte a peça sem perder a posição no catálogo.</DialogDescription><div className="explorer-bar"><button onClick={closeProduct}><ChevronLeft size={19}/> Voltar à sua seleção</button><span>Carol Componentes</span><div>{detail&&<a href={`/produto/${detail.slug}`} target="_blank" rel="noreferrer" aria-label="Abrir página deste produto em outra aba"><ExternalLink size={18}/></a>}<button aria-label="Fechar produto" onClick={closeProduct}><X size={22}/></button></div></div>{renderDetail()}</DialogContent></Dialog>
- <Dialog open={compareOpen} onOpenChange={setCompareOpen}><DialogContent className="wide-dialog comparison-dialog"><DialogTitle>Compare os componentes</DialogTitle><DialogDescription>Dados técnicos lado a lado para apoiar sua escolha.</DialogDescription><div className="comparison-mobile">{compare.map((id,i)=>{const p=products.find(p=>p.id===id)!;return <article className="comparison-product" key={id}><div className="comparison-product-heading"><span>Componente {i+1} de {compare.length}</span><button aria-label={`Retirar ${shortName(p)} da comparação`} onClick={()=>setCompare(v=>v.filter(x=>x!==id))}><X size={18}/></button></div><img src={p.image} alt={shortName(p)}/><h3>{shortName(p)}</h3><dl><div><dt>Família</dt><dd>{p.categories[0]?.name}</dd></div><div><dt>Fabricante</dt><dd>{p.brand}</dd></div><div><dt>Peso</dt><dd>{p.weight||'Sob consulta'}</dd></div><div><dt>Dimensões</dt><dd>{p.dimensions||'Sob consulta'}</dd></div><div><dt>Medidas</dt><dd>{p.variations.length?`${p.variations.length} opções`:'Referência única'}</dd></div></dl><button className="button secondary full" onClick={()=>openProduct(p)}>Ver medidas e detalhes</button></article>})}{compare.length<2&&<p className="comparison-empty">Selecione outro componente no catálogo para continuar comparando.</p>}</div><div className="comparison-wrap"><table className="comparison-table"><thead><tr><th>Componente</th>{compare.map(id=>{const p=products.find(p=>p.id===id)!;return <th key={id}><img src={p.image} alt=""/><a href={`/produto/${p.slug}`} onClick={e=>{if(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;e.preventDefault();openProduct(p)}}>{shortName(p)}</a></th>})}</tr></thead><tbody>{['Família','Fabricante','Peso','Dimensões','Medidas'].map(label=><tr key={label}><th>{label}</th>{compare.map(id=>{const p=products.find(p=>p.id===id)!;return <td key={id}>{label==='Família'?p.categories[0]?.name:label==='Fabricante'?p.brand:label==='Peso'?p.weight||'Sob consulta':label==='Dimensões'?p.dimensions||'Sob consulta':p.variations.length?`${p.variations.length} opções`: 'Referência única'}</td>})}</tr>)}</tbody></table></div></DialogContent></Dialog>
- <Dialog open={quoteOpen} onOpenChange={setQuoteOpen}><DialogContent className="quote-dialog"><DialogTitle>Sua seleção de componentes</DialogTitle><DialogDescription>Produtos salvos e itens da cotação, reunidos para conversar com a equipe.</DialogDescription>{selection.length?<><div className="quote-items">{selection.map(q=>{const p=products.find(p=>p.id===q.id)!;return <div className="quote-item" key={q.key}><img src={p.image} alt=""/><div><strong>{shortName(p)}</strong><small>{q.variant||(p.variations.length?'Medida a definir':'Referência única')}</small><label>Quantidade <input aria-label={`Quantidade de ${shortName(p)}`} type="number" min={1} max={9999} value={q.qty} onChange={e=>setQuotes(items=>{const qty=Math.min(9999,Math.max(1,Number(e.target.value)));return items.some(i=>i.key===q.key)?items.map(i=>i.key===q.key?{...i,qty}:i):[...items,{...q,qty}]})}/></label></div><button aria-label={`Remover ${shortName(p)}`} onClick={()=>{setQuotes(items=>items.filter(i=>i.key!==q.key));setSaved(ids=>ids.filter(id=>id!==q.id))}}><X size={17}/></button></div>})}</div><button className="button primary full" onClick={()=>{setQuoteOpen(false);openContact('Lista de cotação')}}>Solicitar cotação de {selection.length} item{selection.length>1?'s':''}</button><p className="micro">Seleção salva neste dispositivo. Medidas pendentes serão confirmadas com a equipe; não representa pedido ou reserva.</p></>:<div className="empty-state"><Layers size={32}/><h3>Sua seleção começa no catálogo.</h3><p>Salve um componente ou selecione uma medida e adicione à cotação.</p><a className="button primary" href="/#catalogo" onClick={()=>setQuoteOpen(false)}>Explorar componentes</a></div>}</DialogContent></Dialog>
- <Dialog open={contact} onOpenChange={setContact}><DialogContent className="contact-dialog"><DialogTitle>Encontre a solução para sua indústria.</DialogTitle><DialogDescription>Atendimento próximo, para projetos em todo o Brasil.</DialogDescription>{success?<div className="contact-success"><CheckCircle2 size={44}/><h3>{success.simulated?'Sua conversa está pronta.':'Contato encaminhado.'}</h3><p>{success.simulated?'Continue no WhatsApp com seus dados e sua seleção de componentes já preenchidos.':'Os dados foram encaminhados por e-mail. Continue no WhatsApp.'}</p><a className="button primary full" href={success.whatsappUrl}>Abrir WhatsApp com meus dados</a><small>Toque em “Enviar” no WhatsApp para iniciar a conversa.</small><p className="micro">Protocolo {success.id.slice(0,8)}</p></div>:<form onSubmit={submit} noValidate><div className="contact-context"><Package size={18}/><span>{source}</span></div>{selection.length>0&&<div className="contact-selection"><strong>{selection.length} componente{selection.length>1?'s':''} na sua mensagem</strong><ul>{selection.map(q=>{const p=products.find(p=>p.id===q.id)!;return <li key={q.key}><span>{q.qty} ×</span><div><strong>{shortName(p)}</strong><small>{q.variant||(p.variations.length?'Medida a definir':'Referência única')}</small></div></li>})}</ul><p>Estes itens acompanham seus dados no WhatsApp. Você poderá revisar a mensagem antes de enviar.</p></div>}<label className={`field validated-field ${cnpjError?'field-invalid':cnpjCheck?'field-valid':''}`}>CNPJ <span>obrigatório</span><input id="contact-cnpj" aria-label="CNPJ" aria-invalid={cnpjError} aria-describedby="cnpj-feedback" required maxLength={18} autoComplete="off" placeholder="00.000.000/0000-00" value={cnpj} onChange={e=>masked(e,maskCnpj,setCnpj)} onBlur={()=>setCnpjTouched(true)}/><small id="cnpj-feedback" className="field-feedback" aria-live="polite">{cnpjError?<><X size={15}/>{cnpj?'Confira os caracteres e os dígitos verificadores do CNPJ.':'Informe o CNPJ da empresa.'}</>:cnpjCheck?<><CheckCircle2 size={15}/>Formato e dígitos verificadores válidos.</>:'Informe o CNPJ completo da sua empresa.'}</small></label><CompanyLookup cnpj={cnpj}/><label className={`field validated-field ${phoneError?'field-invalid':phoneCheck?'field-valid':''}`}>Telefone com DDD <span>obrigatório</span><input id="contact-phone" aria-label="Telefone com DDD" aria-invalid={phoneError} aria-describedby="phone-feedback" required type="tel" inputMode="tel" autoComplete="tel-national" maxLength={20} placeholder="(47) 99999-9999" value={phone} onChange={e=>masked(e,maskPhone,setPhone)} onBlur={()=>setPhoneTouched(true)}/><small id="phone-feedback" className="field-feedback" aria-live="polite">{phoneError?<><X size={15}/>Use um DDD válido e o número completo: celular com 9 ou telefone fixo.</>:phoneCheck?<><CheckCircle2 size={15}/>Formato de telefone válido.</>:'Celular ou telefone fixo, incluindo o DDD.'}</small></label><label className="field">Como podemos chamar você? <span>opcional</span><input maxLength={80} autoComplete="name" value={name} onChange={e=>setName(e.target.value)}/></label><label className="field">Sua necessidade <span>opcional</span><textarea maxLength={1000} rows={3} value={message} onChange={e=>setMessage(e.target.value)}/></label><p className="micro">Ao continuar, você solicita retorno e o uso dos dados para atender sua cotação. <button type="button" className="inline-button" onClick={()=>setPrivacy(true)}>Privacidade</button>.</p>{error&&<p className="error" role="alert">{error}</p>}<button className="button primary full" disabled={busy}>{busy?<><LoaderCircle className="spin" size={18}/> Preparando conversa…</>:<><WhatsAppIcon width={20} height={20}/>Continuar no WhatsApp</>}</button></form>}</DialogContent></Dialog>
- <Dialog open={zoom} onOpenChange={setZoom}><DialogContent className="image-dialog"><DialogTitle className="sr-only">{detail&&shortName(detail)}</DialogTitle><DialogDescription className="sr-only">Imagem ampliada do componente</DialogDescription><img src={currentImage} alt={detail?shortName(detail):''}/></DialogContent></Dialog>
- <Dialog open={docsOpen} onOpenChange={setDocsOpen}><DialogContent className="document-dialog"><DialogTitle>Catálogo técnico</DialogTitle><DialogDescription>Tabelas originais, com identidade Carol Componentes. Edição técnica 2016.</DialogDescription><div className="pdf-controls"><a href={`${pdf}#page=${docPage}`} target="_blank" rel="noreferrer"><ExternalLink size={16}/> Abrir em outra aba</a><a href={pdf} download><Download size={16}/> Baixar PDF</a></div><iframe title="Catálogo técnico Carol Componentes" src={`${pdf}#page=${docPage}`}/></DialogContent></Dialog>
- <Dialog open={privacy} onOpenChange={setPrivacy}><DialogContent><DialogTitle>Seus dados, com clareza.</DialogTitle><DialogDescription>Como usamos os dados do seu contato.</DialogDescription><div className="privacy-copy"><p>CNPJ, telefone e informações da solicitação ficam registrados para apoiar seu atendimento. O contato continua pelo WhatsApp; não há envio automático de e-mail nesta versão.</p><p>A mensagem no WhatsApp só é enviada com sua confirmação no aplicativo. Você pode revisar os dados e a seleção antes de enviar.</p><p>Favoritos e a lista de cotação ficam neste dispositivo. O mapa é carregado pelo Google. Não há compra, pagamento ou reserva de estoque nesta versão.</p><p>Solicite correção ou exclusão de dados pelo atendimento de Joinville. A política definitiva será validada antes do lançamento público.</p></div></DialogContent></Dialog>
- </>;
+          <BrandPartners onContact={openContact} />
+          <section id="catalogo" className="catalog-section section">
+            <div className="container">
+              <div className="section-head">
+                <div>
+                  <p className="eyebrow">Seleção técnica</p>
+                  <h2>Explore os componentes.</h2>
+                </div>
+                <a className="text-action" href="#tecnico">
+                  Outras famílias no catálogo técnico <ChevronRight size={17} />
+                </a>
+              </div>
+              <div className="catalog-layout">
+                <aside className="filters">
+                  <div className="filter-title">
+                    <SlidersHorizontal size={18} />
+                    <strong>Famílias</strong>
+                  </div>
+                  <button
+                    className={cat === "Todas" ? "selected" : ""}
+                    onClick={() => {
+                      setCat("Todas");
+                      setPage(1);
+                    }}
+                  >
+                    Todos os componentes <span>{products.length}</span>
+                  </button>
+                  {categories.map((c) => (
+                    <button
+                      key={c.id}
+                      className={cat === c.name ? "selected" : ""}
+                      onClick={() => {
+                        setCat(c.name);
+                        setPage(1);
+                      }}
+                    >
+                      {c.name}
+                      <span>{c.count}</span>
+                    </button>
+                  ))}
+                  <div className="filter-title supplier-filter-title"><SlidersHorizontal size={18} /><strong>Fornecedor</strong></div>
+                  <button className={supplier === "Todos" ? "selected" : ""} onClick={() => {setSupplier("Todos");setPage(1);}}>Todos os fornecedores <span>{products.length}</span></button>
+                  {suppliers.map(name=><button key={name} className={supplier===name?"selected":""} onClick={()=>{setSupplier(name);setPage(1);}}>{name}<span>{products.filter(p=>(p.supplier||p.brand)===name).length}</span></button>)}
+                  <div className="filter-help">
+                    <Wrench size={23} />
+                    <strong>Não achou a peça?</strong>
+                    <p>
+                      Envie o código ou a aplicação. Nossa equipe ajuda na
+                      seleção.
+                    </p>
+                    <button
+                      onClick={() =>
+                        openContact("Ajuda para encontrar componente")
+                      }
+                    >
+                      Pedir orientação
+                    </button>
+                  </div>
+                </aside>
+                <div className="catalog-results">
+                  <div className="catalog-toolbar">
+                    <label className="catalog-search">
+                      <Search size={18} />
+                      <input
+                        placeholder="Nome, código ou medida"
+                        aria-label="Filtrar catálogo"
+                        value={query}
+                        onChange={(e) => {
+                          setQuery(e.target.value);
+                          setPage(1);
+                        }}
+                      />
+                      {query && (
+                        <button
+                          aria-label="Limpar busca"
+                          onClick={() => {
+                            setQuery("");
+                            setPage(1);
+                          }}
+                        >
+                          <X size={16} />
+                        </button>
+                      )}
+                    </label>
+                    <select
+                      aria-label="Ordenar componentes"
+                      value={sort}
+                      onChange={(e) => {
+                        setSort(e.target.value);
+                        setPage(1);
+                      }}
+                    >
+                      <option value="name">Nome A–Z</option>
+                      <option value="variants">Mais medidas</option>
+                    </select>
+                    <div className="view-toggle">
+                      <button
+                        aria-label="Grade"
+                        aria-pressed={view === "grid"}
+                        onClick={() => setView("grid")}
+                      >
+                        <LayoutGrid size={18} />
+                      </button>
+                      <button
+                        aria-label="Lista"
+                        aria-pressed={view === "list"}
+                        onClick={() => setView("list")}
+                      >
+                        <List size={18} />
+                      </button>
+                    </div>
+                  </div>
+                  <details className="comparison-guide" id="comparison-guide">
+                    <summary>
+                      <Columns3 size={22} />
+                      <span>
+                        <strong>Qual componente escolher?</strong> Compare até 3
+                        peças lado a lado.
+                      </span>
+                      <span className="guide-toggle">
+                        Como funciona <Plus size={16} />
+                      </span>
+                    </summary>
+                    <div>
+                      <p>
+                        1. Toque em <strong>Comparar</strong> nos componentes
+                        que deseja avaliar.
+                      </p>
+                      <p>
+                        2. Escolha duas ou três peças e abra{" "}
+                        <strong>Ver comparação</strong> na barra inferior.
+                      </p>
+                      <p>
+                        3. Consulte família, fabricante, peso, dimensões e
+                        quantidade de medidas lado a lado. Para a especificação
+                        de uma medida, abra o produto.
+                      </p>
+                    </div>
+                  </details>
+                  <div className="results-info">
+                    <p>
+                      <strong>{found.length}</strong> componentes{" "}
+                      {cat !== "Todas" && `em ${cat}`}{supplier !== "Todos" && ` · ${supplier}`}
+                    </p>
+                    <button
+                      className={
+                        onlySaved ? "saved-filter active" : "saved-filter"
+                      }
+                      onClick={() => {
+                        setOnlySaved(!onlySaved);
+                        setPage(1);
+                      }}
+                    >
+                      <Bookmark size={15} /> Salvos ({saved.length})
+                    </button>
+                  </div>
+                  {found.length ? (
+                    <div
+                      className={`product-grid ${view === "list" ? "list-view" : ""}`}
+                    >
+                      {found.slice((page - 1) * 12, page * 12).map((p) => (
+                        <Card key={p.id} p={p} />
+                      ))}
+                    </div>
+                  ) : (
+                    <div className="empty-state">
+                      <Search size={32} />
+                      <h3>Vamos encontrar juntos?</h3>
+                      <p>
+                        Tente um código mais curto ou fale com nossa equipe.
+                      </p>
+                      <button
+                        className="button secondary"
+                        onClick={() => {
+                          setQuery("");
+                          setCat("Todas");
+                          setSupplier("Todos");
+                          setOnlySaved(false);
+                          setPage(1);
+                        }}
+                      >
+                        Limpar filtros
+                      </button>
+                    </div>
+                  )}
+                  {pages > 1 && (
+                    <div className="pagination">
+                      <button
+                        aria-label="Página anterior"
+                        disabled={page === 1}
+                        onClick={() => setPage(page - 1)}
+                      >
+                        <ChevronLeft size={18} />
+                      </button>
+                      {Array.from({ length: pages }, (_, i) => (
+                        <button
+                          key={i}
+                          aria-current={page === i + 1 ? "page" : undefined}
+                          onClick={() => setPage(i + 1)}
+                        >
+                          {i + 1}
+                        </button>
+                      ))}
+                      <button
+                        aria-label="Próxima página"
+                        disabled={page === pages}
+                        onClick={() => setPage(page + 1)}
+                      >
+                        <ChevronRight size={18} />
+                      </button>
+                    </div>
+                  )}
+                </div>
+              </div>
+            </div>
+          </section>
+          <section id="tecnico" className="technical-section section">
+            <div className="container">
+              <div className="technical-heading">
+                <div>
+                  <p className="eyebrow">Para quem projeta, compra e mantém</p>
+                  <h2>
+                    Detalhes que ajudam
+                    <br />a decidir.
+                  </h2>
+                  <p>
+                    Consulte desenhos, códigos e tabelas dimensionais. Navegue
+                    por família ou leve o catálogo completo com você.
+                  </p>
+                  <a className="button yellow" href={pdf} download>
+                    <Download size={19} /> Baixar catálogo completo
+                  </a>
+                  <small>
+                    PDF / 60 páginas / Conteúdo técnico da edição 2016
+                  </small>
+                </div>
+                <button
+                  className="catalog-book"
+                  onClick={() => openFamily(5)}
+                  aria-label="Abrir catálogo técnico"
+                >
+                  <img
+                    src="/images/catalog-cover.webp"
+                    alt="Capa do catálogo Carol Componentes"
+                    loading="lazy"
+                  />
+                  <span>
+                    <FileText size={18} /> Catálogo técnico
+                  </span>
+                </button>
+              </div>
+              <div className="family-grid">
+                {families.map((f, i) => (
+                  <button key={f.name} onClick={() => openFamily(f.page)}>
+                    <span className="family-number">
+                      {String(i + 1).padStart(2, "0")}
+                    </span>
+                    <h3>{f.name}</h3>
+                    <p>{f.text}</p>
+                    <span className="family-bottom">
+                      Consultar tabelas <Plus size={20} />
+                    </span>
+                  </button>
+                ))}
+              </div>
+              <p className="technical-note">
+                Precisa de CAD ou ficha atualizada? Solicite o arquivo
+                específico à equipe.
+              </p>
+            </div>
+          </section>
+          <MotionStory
+            onContact={() => openContact("Conhecer atendimento Carol")}
+          />
+          <NationalPresence
+            onContact={() => openContact("Entrega para todo o Brasil")}
+          />
+          <SocialConnections />
+        </main>
+      ) : (
+        renderDetail()
+      )}
+      <section className="contact-band">
+        <div className="container">
+          <div>
+            <p>Um código, uma medida ou uma ideia.</p>
+            <h2>Vamos encontrar a sua solução?</h2>
+          </div>
+          <button
+            className="button whatsapp-cta"
+            onClick={() => openContact("Contato rodapé")}
+          >
+            <WhatsAppIcon width={21} height={21} /> Fale pelo WhatsApp
+          </button>
+        </div>
+      </section>
+      <ContactDetails onContact={openContact} />
+      <PaymentMethods />
+      <footer className="footer">
+        <div className="container footer-grid">
+          <div>
+            <a
+              href="/"
+              className="official-logo"
+              aria-label="Carol Componentes Industriais, início"
+            >
+              <img
+                src="/images/brand/carol-logo.png"
+                alt="Carol Componentes Industriais"
+                width="220"
+                height="220"
+                loading="lazy"
+              />
+            </a>
+            <p>
+              Componentes que conectam
+              <br />
+              projetos à indústria.
+            </p>
+          </div>
+          <div>
+            <strong>Explore</strong>
+            <a href="/#catalogo">Componentes</a>
+            <a href="/#tecnico">Catálogo técnico</a>
+            <a href="/#empresa">A Carol</a>
+            <a href="/#conexoes">Nas redes</a>
+          </div>
+          <div>
+            <strong>Joinville</strong>
+            <a href="mailto:vendas@carolcomponentes.com.br">
+              vendas@carolcomponentes.com.br
+            </a>
+            <p>
+              Rua Carlos Willy Boehm, 537
+              <br />
+              Santo Antônio, Joinville – SC
+            </p>
+            <a href="tel:+554734350101">(47) 3435-0101</a>
+            <button onClick={() => openContact("Contato rodapé")}>
+              WhatsApp: (47) 99618-0088
+            </button>
+          </div>
+          <div>
+            <strong>Carol Componentes</strong>
+            <span>carolcomponentes.com.br</span>
+            <button onClick={() => setPrivacy(true)}>Privacidade</button>
+            <a href="/admin">Administrar catálogo</a>
+          </div>
+        </div>
+        <div className="container footer-bottom">
+          <span>© 2026 Carol Componentes Industriais</span>
+          <div className="creator-credit">
+            <span>Desenvolvido por</span>
+            <a href="mailto:ramonpmendesx@gmail.com">Ramon Paulino Mendes</a>
+            <a href="mailto:ramonpmendesx@gmail.com" className="creator-email">
+              ramonpmendesx@gmail.com
+            </a>
+            <a
+              href="https://wa.me/5541999751171"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="WhatsApp de Ramon Paulino Mendes, (41) 99975-1171"
+            >
+              <WhatsAppIcon width={16} height={16} />
+              <span>(41) 99975-1171</span>
+            </a>
+          </div>
+        </div>
+      </footer>
+      <button
+        className="whatsapp"
+        onClick={() =>
+          openContact(detail ? shortName(detail) : "WhatsApp do site")
+        }
+        aria-label="Iniciar contato pelo WhatsApp"
+      >
+        <WhatsAppIcon width={27} height={27} />
+        <span>Chamar no WhatsApp</span>
+      </button>
+      {compare.length > 0 && (
+        <div className="compare-dock">
+          <Columns3 size={19} />
+          <span>
+            {compare.length === 1
+              ? "Selecione mais uma peça"
+              : `${compare.length} peças selecionadas`}
+          </span>
+          <button
+            onClick={() => setCompareOpen(true)}
+            disabled={compare.length < 2}
+          >
+            Ver comparação
+          </button>
+          <button aria-label="Limpar comparação" onClick={() => setCompare([])}>
+            <X size={18} />
+          </button>
+        </div>
+      )}
+      {toast && (
+        <div className="toast" role="status">
+          <CheckCircle2 size={18} />
+          {toast}
+        </div>
+      )}
+      <Dialog
+        open={productOpen && !initialProduct}
+        onOpenChange={(v) => {
+          if (!v) closeProduct();
+        }}
+      >
+        <DialogContent
+          ref={productPanel}
+          className="product-explorer"
+          overlayClassName="product-explorer-backdrop"
+          showCloseButton={false}
+          onCloseAutoFocus={(e) => {
+            e.preventDefault();
+            productTrigger.current?.focus({ preventScroll: true });
+          }}
+        >
+          <DialogTitle className="sr-only">
+            {detail ? shortName(detail) : "Componente"}
+          </DialogTitle>
+          <DialogDescription className="sr-only">
+            Consulte a peça sem perder a posição no catálogo.
+          </DialogDescription>
+          <div className="explorer-bar">
+            <button onClick={closeProduct}>
+              <ChevronLeft size={19} /> Voltar à sua seleção
+            </button>
+            <span>Carol Componentes</span>
+            <div>
+              {detail && (
+                <a
+                  href={`/produto/${detail.slug}`}
+                  target="_blank"
+                  rel="noreferrer"
+                  aria-label="Abrir página deste produto em outra aba"
+                >
+                  <ExternalLink size={18} />
+                </a>
+              )}
+              <button aria-label="Fechar produto" onClick={closeProduct}>
+                <X size={22} />
+              </button>
+            </div>
+          </div>
+          {renderDetail()}
+        </DialogContent>
+      </Dialog>
+      <Dialog open={compareOpen} onOpenChange={setCompareOpen}>
+        <DialogContent className="wide-dialog comparison-dialog">
+          <DialogTitle>Compare os componentes</DialogTitle>
+          <DialogDescription>
+            Dados técnicos lado a lado para apoiar sua escolha.
+          </DialogDescription>
+          <div className="comparison-mobile">
+            {compare.map((id, i) => {
+              const p = products.find((p) => p.id === id)!;
+              return (
+                <article className="comparison-product" key={id}>
+                  <div className="comparison-product-heading">
+                    <span>
+                      Componente {i + 1} de {compare.length}
+                    </span>
+                    <button
+                      aria-label={`Retirar ${shortName(p)} da comparação`}
+                      onClick={() =>
+                        setCompare((v) => v.filter((x) => x !== id))
+                      }
+                    >
+                      <X size={18} />
+                    </button>
+                  </div>
+                  <img src={p.image} alt={shortName(p)} />
+                  <h3>{shortName(p)}</h3>
+                  <dl>
+                    <div>
+                      <dt>Família</dt>
+                      <dd>{p.categories[0]?.name}</dd>
+                    </div>
+                    <div>
+                      <dt>Fabricante</dt>
+                      <dd>{p.brand}</dd>
+                    </div>
+                    <div>
+                      <dt>Peso</dt>
+                      <dd>{p.weight || "Sob consulta"}</dd>
+                    </div>
+                    <div>
+                      <dt>Dimensões</dt>
+                      <dd>{p.dimensions || "Sob consulta"}</dd>
+                    </div>
+                    <div>
+                      <dt>Medidas</dt>
+                      <dd>
+                        {p.variations.length
+                          ? `${p.variations.length} opções`
+                          : "Referência única"}
+                      </dd>
+                    </div>
+                  </dl>
+                  <button
+                    className="button secondary full"
+                    onClick={() => openProduct(p)}
+                  >
+                    Ver medidas e detalhes
+                  </button>
+                </article>
+              );
+            })}
+            {compare.length < 2 && (
+              <p className="comparison-empty">
+                Selecione outro componente no catálogo para continuar
+                comparando.
+              </p>
+            )}
+          </div>
+          <div className="comparison-wrap">
+            <table className="comparison-table">
+              <thead>
+                <tr>
+                  <th>Componente</th>
+                  {compare.map((id) => {
+                    const p = products.find((p) => p.id === id)!;
+                    return (
+                      <th key={id}>
+                        <img src={p.image} alt="" />
+                        <a
+                          href={`/produto/${p.slug}`}
+                          onClick={(e) => {
+                            if (
+                              e.metaKey ||
+                              e.ctrlKey ||
+                              e.shiftKey ||
+                              e.altKey
+                            )
+                              return;
+                            e.preventDefault();
+                            openProduct(p);
+                          }}
+                        >
+                          {shortName(p)}
+                        </a>
+                      </th>
+                    );
+                  })}
+                </tr>
+              </thead>
+              <tbody>
+                {["Família", "Fabricante", "Peso", "Dimensões", "Medidas"].map(
+                  (label) => (
+                    <tr key={label}>
+                      <th>{label}</th>
+                      {compare.map((id) => {
+                        const p = products.find((p) => p.id === id)!;
+                        return (
+                          <td key={id}>
+                            {label === "Família"
+                              ? p.categories[0]?.name
+                              : label === "Fabricante"
+                                ? p.brand
+                                : label === "Peso"
+                                  ? p.weight || "Sob consulta"
+                                  : label === "Dimensões"
+                                    ? p.dimensions || "Sob consulta"
+                                    : p.variations.length
+                                      ? `${p.variations.length} opções`
+                                      : "Referência única"}
+                          </td>
+                        );
+                      })}
+                    </tr>
+                  ),
+                )}
+              </tbody>
+            </table>
+          </div>
+        </DialogContent>
+      </Dialog>
+      <Dialog open={quoteOpen} onOpenChange={setQuoteOpen}>
+        <DialogContent className="quote-dialog">
+          <DialogTitle>Sua seleção de componentes</DialogTitle>
+          <DialogDescription>
+            Produtos salvos e itens da cotação, reunidos para conversar com a
+            equipe.
+          </DialogDescription>
+          {selection.length ? (
+            <>
+              <div className="quote-items">
+                {selection.map((q) => {
+                  const p = products.find((p) => p.id === q.id)!;
+                  return (
+                    <div className="quote-item" key={q.key}>
+                      <img src={p.image} alt="" />
+                      <div>
+                        <strong>{shortName(p)}</strong>
+                        <small>
+                          {q.variant ||
+                            (p.variations.length
+                              ? "Medida a definir"
+                              : "Referência única")}
+                        </small>
+                        <label>
+                          Quantidade{" "}
+                          <input
+                            aria-label={`Quantidade de ${shortName(p)}`}
+                            type="number"
+                            min={1}
+                            max={9999}
+                            value={q.qty}
+                            onChange={(e) =>
+                              setQuotes((items) => {
+                                const qty = Math.min(
+                                  9999,
+                                  Math.max(1, Number(e.target.value)),
+                                );
+                                return items.some((i) => i.key === q.key)
+                                  ? items.map((i) =>
+                                      i.key === q.key ? { ...i, qty } : i,
+                                    )
+                                  : [...items, { ...q, qty }];
+                              })
+                            }
+                          />
+                        </label>
+                      </div>
+                      <button
+                        aria-label={`Remover ${shortName(p)}`}
+                        onClick={() => {
+                          setQuotes((items) =>
+                            items.filter((i) => i.key !== q.key),
+                          );
+                          setSaved((ids) => ids.filter((id) => id !== q.id));
+                        }}
+                      >
+                        <X size={17} />
+                      </button>
+                    </div>
+                  );
+                })}
+              </div>
+              <button
+                className="button primary full"
+                onClick={() => {
+                  setQuoteOpen(false);
+                  openContact("Lista de cotação");
+                }}
+              >
+                Solicitar cotação de {selection.length} item
+                {selection.length > 1 ? "s" : ""}
+              </button>
+              <p className="micro">
+                Seleção salva neste dispositivo. Medidas pendentes serão
+                confirmadas com a equipe; não representa pedido ou reserva.
+              </p>
+            </>
+          ) : (
+            <div className="empty-state">
+              <Layers size={32} />
+              <h3>Sua seleção começa no catálogo.</h3>
+              <p>
+                Salve um componente ou selecione uma medida e adicione à
+                cotação.
+              </p>
+              <a
+                className="button primary"
+                href="/#catalogo"
+                onClick={() => setQuoteOpen(false)}
+              >
+                Explorar componentes
+              </a>
+            </div>
+          )}
+        </DialogContent>
+      </Dialog>
+      <Dialog open={contact} onOpenChange={setContact}>
+        <DialogContent className="contact-dialog">
+          <DialogTitle>Encontre a solução para sua indústria.</DialogTitle>
+          <DialogDescription>
+            Atendimento próximo, para projetos em todo o Brasil.
+          </DialogDescription>
+          {success ? (
+            <div className="contact-success">
+              <CheckCircle2 size={44} />
+              <h3>
+                {success.simulated
+                  ? "Sua conversa está pronta."
+                  : "Contato encaminhado."}
+              </h3>
+              <p>
+                {success.simulated
+                  ? "Continue no WhatsApp com seus dados e sua seleção de componentes já preenchidos."
+                  : "Os dados foram encaminhados por e-mail. Continue no WhatsApp."}
+              </p>
+              <a className="button primary full" href={success.whatsappUrl}>
+                Abrir WhatsApp com meus dados
+              </a>
+              <small>
+                Toque em “Enviar” no WhatsApp para iniciar a conversa.
+              </small>
+              <p className="micro">Protocolo {success.id.slice(0, 8)}</p>
+            </div>
+          ) : (
+            <form onSubmit={submit} noValidate>
+              <div className="contact-context">
+                <Package size={18} />
+                <span>{source}</span>
+              </div>
+              {selection.length > 0 && (
+                <div className="contact-selection">
+                  <strong>
+                    {selection.length} componente
+                    {selection.length > 1 ? "s" : ""} na sua mensagem
+                  </strong>
+                  <ul>
+                    {selection.map((q) => {
+                      const p = products.find((p) => p.id === q.id)!;
+                      return (
+                        <li key={q.key}>
+                          <span>{q.qty} ×</span>
+                          <div>
+                            <strong>{shortName(p)}</strong>
+                            <small>
+                              {q.variant ||
+                                (p.variations.length
+                                  ? "Medida a definir"
+                                  : "Referência única")}
+                            </small>
+                          </div>
+                        </li>
+                      );
+                    })}
+                  </ul>
+                  <p>
+                    Estes itens acompanham seus dados no WhatsApp. Você poderá
+                    revisar a mensagem antes de enviar.
+                  </p>
+                </div>
+              )}
+              <label
+                className={`field validated-field ${cnpjError ? "field-invalid" : cnpjCheck ? "field-valid" : ""}`}
+              >
+                CNPJ <span>obrigatório</span>
+                <input
+                  id="contact-cnpj"
+                  aria-label="CNPJ"
+                  aria-invalid={cnpjError}
+                  aria-describedby="cnpj-feedback"
+                  required
+                  maxLength={18}
+                  autoComplete="off"
+                  placeholder="00.000.000/0000-00"
+                  value={cnpj}
+                  onChange={(e) => masked(e, maskCnpj, setCnpj)}
+                  onBlur={() => setCnpjTouched(true)}
+                />
+                <small
+                  id="cnpj-feedback"
+                  className="field-feedback"
+                  aria-live="polite"
+                >
+                  {cnpjError ? (
+                    <>
+                      <X size={15} />
+                      {cnpj
+                        ? "Confira os caracteres e os dígitos verificadores do CNPJ."
+                        : "Informe o CNPJ da empresa."}
+                    </>
+                  ) : cnpjCheck ? (
+                    <>
+                      <CheckCircle2 size={15} />
+                      Formato e dígitos verificadores válidos.
+                    </>
+                  ) : (
+                    "Informe o CNPJ completo da sua empresa."
+                  )}
+                </small>
+              </label>
+              <CompanyLookup cnpj={cnpj} />
+              <label
+                className={`field validated-field ${phoneError ? "field-invalid" : phoneCheck ? "field-valid" : ""}`}
+              >
+                Telefone com DDD <span>obrigatório</span>
+                <input
+                  id="contact-phone"
+                  aria-label="Telefone com DDD"
+                  aria-invalid={phoneError}
+                  aria-describedby="phone-feedback"
+                  required
+                  type="tel"
+                  inputMode="tel"
+                  autoComplete="tel-national"
+                  maxLength={20}
+                  placeholder="(47) 99999-9999"
+                  value={phone}
+                  onChange={(e) => masked(e, maskPhone, setPhone)}
+                  onBlur={() => setPhoneTouched(true)}
+                />
+                <small
+                  id="phone-feedback"
+                  className="field-feedback"
+                  aria-live="polite"
+                >
+                  {phoneError ? (
+                    <>
+                      <X size={15} />
+                      Use um DDD válido e o número completo: celular com 9 ou
+                      telefone fixo.
+                    </>
+                  ) : phoneCheck ? (
+                    <>
+                      <CheckCircle2 size={15} />
+                      Formato de telefone válido.
+                    </>
+                  ) : (
+                    "Celular ou telefone fixo, incluindo o DDD."
+                  )}
+                </small>
+              </label>
+              <label className="field">
+                Como podemos chamar você? <span>opcional</span>
+                <input
+                  maxLength={80}
+                  autoComplete="name"
+                  value={name}
+                  onChange={(e) => setName(e.target.value)}
+                />
+              </label>
+              <label className="field">
+                Sua necessidade <span>opcional</span>
+                <textarea
+                  maxLength={1000}
+                  rows={3}
+                  value={message}
+                  onChange={(e) => setMessage(e.target.value)}
+                />
+              </label>
+              <p className="micro">
+                Ao continuar, você solicita retorno e o uso dos dados para
+                atender sua cotação.{" "}
+                <button
+                  type="button"
+                  className="inline-button"
+                  onClick={() => setPrivacy(true)}
+                >
+                  Privacidade
+                </button>
+                .
+              </p>
+              {error && (
+                <p className="error" role="alert">
+                  {error}
+                </p>
+              )}
+              <button className="button primary full" disabled={busy}>
+                {busy ? (
+                  <>
+                    <LoaderCircle className="spin" size={18} /> Preparando
+                    conversa…
+                  </>
+                ) : (
+                  <>
+                    <WhatsAppIcon width={20} height={20} />
+                    Continuar no WhatsApp
+                  </>
+                )}
+              </button>
+            </form>
+          )}
+        </DialogContent>
+      </Dialog>
+      <Dialog open={zoom} onOpenChange={setZoom}>
+        <DialogContent className="image-dialog">
+          <DialogTitle className="sr-only">
+            {detail && shortName(detail)}
+          </DialogTitle>
+          <DialogDescription className="sr-only">
+            Imagem ampliada do componente
+          </DialogDescription>
+          <img src={currentImage} alt={detail ? shortName(detail) : ""} />
+        </DialogContent>
+      </Dialog>
+      <Dialog open={docsOpen} onOpenChange={setDocsOpen}>
+        <DialogContent className="document-dialog">
+          <DialogTitle>Catálogo técnico</DialogTitle>
+          <DialogDescription>
+            Tabelas originais, com identidade Carol Componentes. Edição técnica
+            2016.
+          </DialogDescription>
+          <div className="pdf-controls">
+            <a href={`${pdf}#page=${docPage}`} target="_blank" rel="noreferrer">
+              <ExternalLink size={16} /> Abrir em outra aba
+            </a>
+            <a href={pdf} download>
+              <Download size={16} /> Baixar PDF
+            </a>
+          </div>
+          <iframe
+            title="Catálogo técnico Carol Componentes"
+            src={`${pdf}#page=${docPage}`}
+          />
+        </DialogContent>
+      </Dialog>
+      <Dialog open={privacy} onOpenChange={setPrivacy}>
+        <DialogContent>
+          <DialogTitle>Seus dados, com clareza.</DialogTitle>
+          <DialogDescription>
+            Como usamos os dados do seu contato.
+          </DialogDescription>
+          <div className="privacy-copy">
+            <p>
+              CNPJ, telefone e informações da solicitação ficam registrados para
+              apoiar seu atendimento. O contato continua pelo WhatsApp; não há
+              envio automático de e-mail nesta versão.
+            </p>
+            <p>
+              A mensagem no WhatsApp só é enviada com sua confirmação no
+              aplicativo. Você pode revisar os dados e a seleção antes de
+              enviar.
+            </p>
+            <p>
+              Favoritos e a lista de cotação ficam neste dispositivo. O mapa é
+              carregado pelo Google. Não há compra, pagamento ou reserva de
+              estoque nesta versão.
+            </p>
+            <p>
+              Solicite correção ou exclusão de dados pelo atendimento de
+              Joinville. A política definitiva será validada antes do lançamento
+              público.
+            </p>
+          </div>
+        </DialogContent>
+      </Dialog>
+    </>
+  );
 }

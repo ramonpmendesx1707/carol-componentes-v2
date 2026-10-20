@@ -6,6 +6,8 @@
 
 # Carol Componentes V2
 
+> Catálogo V2 em reconstrução: 50 exemplos antigos estão preservados em `data/archive/catalog-v1.json` e fora da busca. O catálogo ativo iniciou vazio e agora contém 4 pilotos técnicos de Vibra-Stop, Merkbak, Kifix e Carolfix (45 referências). A coleta do restante **ainda não está concluída**. Para continuar de onde parou, leia [01 ORIENTAÇÕES PARA NOVAS IA's.md](01%20ORIENTA%C3%87%C3%95ES%20PARA%20NOVAS%20IA%27s.md) e `data/harvest/status.json`.
+
 Publicação GitHub Pages: https://ramonpmendesx1707.github.io/carol-componentes-v2/ . Esta V2 é uma evolução independente; o projeto `carol-componentes` original permanece congelado. Publicação automática via Actions; verificar execução para estado atual.
 
 Versão 2.2 — **Movimento e proximidade**. Identidade azul-marinho e dourado, superfícies claras e composição mecânica que responde à rolagem. Atendimento em Joinville com envio para todo o Brasil. Barlow e Source Sans; marca tipográfica provisória. A primeira proposta permanece no histórico/tag v1.0.0.
@@ -21,7 +23,7 @@ Versão 2.2 — **Movimento e proximidade**. Identidade azul-marinho e dourado, 
 A seção institucional agora é uma linha do tempo de **quatro marcos históricos/propostos**, com avanço na rolagem; os três passos comerciais foram removidos. Carrossel de marcas, pagamentos e contatos completos integrados.
 
 ## Funcionalidades
-Catálogo público com 50 produtos principais, 290 variantes e 16 categorias; busca, grade/lista, filtros, medidas, informação adicional, desenhos, comparação de três peças, favoritos e cotação persistidos no dispositivo. PDF técnico de 60 páginas com nova identidade, mapa de Joinville e área autenticada de pedidos de melhoria.
+Catálogo técnico ativo com fornecedores separados, busca, grade/lista, filtros de família e fornecedor, medidas, informação adicional, tabelas técnicas, anexos, vídeo quando disponível, comparação de três peças, favoritos e cotação persistidos no dispositivo. PDF técnico histórico de 60 páginas com nova identidade, mapa de Joinville e área autenticada de pedidos de melhoria. O acervo antigo de 50 produtos/290 variantes pertence somente ao backup da V1.
 
 O contato exige CNPJ válido e telefone com DDD; registra a solicitação antes de abrir WhatsApp preenchido, exclusivamente **5547996180088**. O usuário confirmou que **e-mail permanece demonstrativo**. Destinatário futuro: ramonpmendesx@gmail.com. A interface não afirma envio real. Não há checkout, pagamentos, estoque real ou CAD fictício. Frete e prazos são explicitamente simulados. Preço zero na origem é apresentado sob consulta.
 

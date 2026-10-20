@@ -1,4 +1,2676 @@
 {
-  "products": [],
-  "categories": []
+  "products": [
+    {
+      "id": 200001,
+      "slug": "vibra-stop-tradicional-com-chapa",
+      "name": "Amortecedor Tradicional com Chapa",
+      "sku": "Tradicional CC",
+      "brand": "Vibra-Stop",
+      "supplier": "Vibra-Stop",
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=com-chapa&language=pt-BR",
+      "type": "product",
+      "summary": "Amortecedor com chapa para fixação no piso por dois chumbadores, destinado a equipamentos industriais.",
+      "description": "<p>Aplicações citadas pelo fabricante: grupos geradores, politrizes, britadeiras, chillers e máquinas de lavar.</p>",
+      "categories": [
+        {
+          "id": 201,
+          "name": "Amortecedores de vibração",
+          "slug": "amortecedores-de-vibracao"
+        }
+      ],
+      "image": "/images/products/vibra-stop/tradicional-com-chapa/foto-1.png",
+      "images": [
+        "/images/products/vibra-stop/tradicional-com-chapa/foto-1.png",
+        "/images/products/vibra-stop/tradicional-com-chapa/foto-2.png",
+        "/images/products/vibra-stop/tradicional-com-chapa/foto-3.png"
+      ],
+      "attributes": [
+        {
+          "name": "Composição",
+          "value": "Ferro nodular, borracha natural e aço carbono zincado"
+        },
+        {
+          "name": "Materiais informados",
+          "value": "Aço inox e ferro nodular"
+        },
+        {
+          "name": "Capacidade estática/dinâmica geral",
+          "value": "50 a 200 kgf / 200 a 800 kgf"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "variations": [
+        {
+          "id": 210001,
+          "sku": "Mac",
+          "label": "Mac",
+          "attributes": [
+            {
+              "name": "Carga Estática (Kgf)",
+              "value": "50 a 200"
+            },
+            {
+              "name": "Carga Dinâmica (Kgf)",
+              "value": "200 a 800"
+            },
+            {
+              "name": "Deflexão (mm/Kgf)",
+              "value": "1,66/200"
+            },
+            {
+              "name": "Parafuso ((d))",
+              "value": "1/4”, 5/16”, 3/8”"
+            },
+            {
+              "name": "Altura Regulável ((H) mm)",
+              "value": "30~35"
+            },
+            {
+              "name": "Diâmetro ((D) mm)",
+              "value": "62"
+            },
+            {
+              "name": "Capacidade ao Cisalhamento (Kgf)",
+              "value": "10 a 40"
+            },
+            {
+              "name": "Espessura da Chapa ((e) pol.)",
+              "value": "3/16”"
+            },
+            {
+              "name": "Largura da Chapa ((L) mm)",
+              "value": "80 x 80"
+            },
+            {
+              "name": "Distância entre os Furos ((t) mm)",
+              "value": "65"
+            },
+            {
+              "name": "Diâmetro dos Furos ((f) mm)",
+              "value": "8"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 210002,
+          "sku": "Mini",
+          "label": "Mini",
+          "attributes": [
+            {
+              "name": "Carga Estática (Kgf)",
+              "value": "200 a 500"
+            },
+            {
+              "name": "Carga Dinâmica (Kgf)",
+              "value": "800 a 2.000"
+            },
+            {
+              "name": "Deflexão (mm/Kgf)",
+              "value": "2,76/500"
+            },
+            {
+              "name": "Parafuso ((d))",
+              "value": "3/8”, 1/2\", 5/8”"
+            },
+            {
+              "name": "Altura Regulável ((H) mm)",
+              "value": "40~55"
+            },
+            {
+              "name": "Diâmetro ((D) mm)",
+              "value": "90"
+            },
+            {
+              "name": "Capacidade ao Cisalhamento (Kgf)",
+              "value": "40 a 100"
+            },
+            {
+              "name": "Espessura da Chapa ((e) pol.)",
+              "value": "3/16”"
+            },
+            {
+              "name": "Largura da Chapa ((L) mm)",
+              "value": "100 x100"
+            },
+            {
+              "name": "Distância entre os Furos ((t) mm)",
+              "value": "85"
+            },
+            {
+              "name": "Diâmetro dos Furos ((f) mm)",
+              "value": "10"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 210003,
+          "sku": "Standard",
+          "label": "Standard",
+          "attributes": [
+            {
+              "name": "Carga Estática (Kgf)",
+              "value": "500 a 1.500"
+            },
+            {
+              "name": "Carga Dinâmica (Kgf)",
+              "value": "2.000 a 6.000"
+            },
+            {
+              "name": "Deflexão (mm/Kgf)",
+              "value": "3,34/1500"
+            },
+            {
+              "name": "Parafuso ((d))",
+              "value": "1/2\", 5/8”, 3/4\""
+            },
+            {
+              "name": "Altura Regulável ((H) mm)",
+              "value": "50~65"
+            },
+            {
+              "name": "Diâmetro ((D) mm)",
+              "value": "115"
+            },
+            {
+              "name": "Capacidade ao Cisalhamento (Kgf)",
+              "value": "100 a 300"
+            },
+            {
+              "name": "Espessura da Chapa ((e) pol.)",
+              "value": "1/4\""
+            },
+            {
+              "name": "Largura da Chapa ((L) mm)",
+              "value": "130 x 130"
+            },
+            {
+              "name": "Distância entre os Furos ((t) mm)",
+              "value": "100"
+            },
+            {
+              "name": "Diâmetro dos Furos ((f) mm)",
+              "value": "10"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 210004,
+          "sku": "Intermediário",
+          "label": "Intermediário",
+          "attributes": [
+            {
+              "name": "Carga Estática (Kgf)",
+              "value": "1.500 a 5.000"
+            },
+            {
+              "name": "Carga Dinâmica (Kgf)",
+              "value": "6.000 a 20.000"
+            },
+            {
+              "name": "Deflexão (mm/Kgf)",
+              "value": "2,76/5000"
+            },
+            {
+              "name": "Parafuso ((d))",
+              "value": "5/8”, 3/4\", 1”"
+            },
+            {
+              "name": "Altura Regulável ((H) mm)",
+              "value": "60~80"
+            },
+            {
+              "name": "Diâmetro ((D) mm)",
+              "value": "150"
+            },
+            {
+              "name": "Capacidade ao Cisalhamento (Kgf)",
+              "value": "300 a 500"
+            },
+            {
+              "name": "Espessura da Chapa ((e) pol.)",
+              "value": "1/4\""
+            },
+            {
+              "name": "Largura da Chapa ((L) mm)",
+              "value": "170 x 170"
+            },
+            {
+              "name": "Distância entre os Furos ((t) mm)",
+              "value": "145"
+            },
+            {
+              "name": "Diâmetro dos Furos ((f) mm)",
+              "value": "10"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 210005,
+          "sku": "Super",
+          "label": "Super",
+          "attributes": [
+            {
+              "name": "Carga Estática (Kgf)",
+              "value": "5.000 a 10.000"
+            },
+            {
+              "name": "Carga Dinâmica (Kgf)",
+              "value": "20.000 a 40.000"
+            },
+            {
+              "name": "Deflexão (mm/Kgf)",
+              "value": "5,52/10000"
+            },
+            {
+              "name": "Parafuso ((d))",
+              "value": "5/8\", 3/4”, 1\""
+            },
+            {
+              "name": "Altura Regulável ((H) mm)",
+              "value": "65~85"
+            },
+            {
+              "name": "Diâmetro ((D) mm)",
+              "value": "190"
+            },
+            {
+              "name": "Capacidade ao Cisalhamento (Kgf)",
+              "value": "1.000 a 2.000"
+            },
+            {
+              "name": "Espessura da Chapa ((e) pol.)",
+              "value": "3/8”"
+            },
+            {
+              "name": "Largura da Chapa ((L) mm)",
+              "value": "205 x205"
+            },
+            {
+              "name": "Distância entre os Furos ((t) mm)",
+              "value": "170"
+            },
+            {
+              "name": "Diâmetro dos Furos ((f) mm)",
+              "value": "13"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 210006,
+          "sku": "Mega",
+          "label": "Mega",
+          "attributes": [
+            {
+              "name": "Carga Estática (Kgf)",
+              "value": "10.000 a 20.000"
+            },
+            {
+              "name": "Carga Dinâmica (Kgf)",
+              "value": "40.000 a 80.000"
+            },
+            {
+              "name": "Deflexão (mm/Kgf)",
+              "value": "7,49/20000"
+            },
+            {
+              "name": "Parafuso ((d))",
+              "value": "3/4\", 1”, 1 ½ \""
+            },
+            {
+              "name": "Altura Regulável ((H) mm)",
+              "value": "75~95"
+            },
+            {
+              "name": "Diâmetro ((D) mm)",
+              "value": "230"
+            },
+            {
+              "name": "Capacidade ao Cisalhamento (Kgf)",
+              "value": "2.000 a 4.000"
+            },
+            {
+              "name": "Espessura da Chapa ((e) pol.)",
+              "value": "3/8”"
+            },
+            {
+              "name": "Largura da Chapa ((L) mm)",
+              "value": "250 x250"
+            },
+            {
+              "name": "Distância entre os Furos ((t) mm)",
+              "value": "208"
+            },
+            {
+              "name": "Diâmetro dos Furos ((f) mm)",
+              "value": "13"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        }
+      ],
+      "documents": [
+        {
+          "title": "Ficha técnica oficial",
+          "url": "/downloads/products/vibra-stop/tradicional-com-chapa/ficha-tecnica.pdf",
+          "sourceUrl": "https://www.vibra-stop.com.br/assets/product/datasheets/Vibra-Stop%20-%20Com%20Chapa.pdf",
+          "kind": "pdf"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Vídeo de treinamento Vibra-Stop",
+          "url": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tradicional.mp4",
+          "sourceUrl": "https://www.vibra-stop.com.br/download/training/vibra-stop-treinamento-tradicional.mp4",
+          "hosted": false,
+          "reason": "Error: Arquivo grande (140380253 bytes)"
+        }
+      ],
+      "technicalSections": [
+        {
+          "title": "Ficha técnica dimensional",
+          "columns": [
+            "Referência",
+            "Carga Estática",
+            "Carga Dinâmica",
+            "Deflexão",
+            "Parafuso",
+            "Altura Regulável",
+            "Diâmetro",
+            "Capacidade ao Cisalhamento",
+            "Espessura da Chapa",
+            "Largura da Chapa",
+            "Distância entre os Furos",
+            "Diâmetro dos Furos"
+          ],
+          "rows": [
+            [
+              "Mac",
+              "50 a 200",
+              "200 a 800",
+              "1,66/200",
+              "1/4”, 5/16”, 3/8”",
+              "30~35",
+              "62",
+              "10 a 40",
+              "3/16”",
+              "80 x 80",
+              "65",
+              "8"
+            ],
+            [
+              "Mini",
+              "200 a 500",
+              "800 a 2.000",
+              "2,76/500",
+              "3/8”, 1/2\", 5/8”",
+              "40~55",
+              "90",
+              "40 a 100",
+              "3/16”",
+              "100 x100",
+              "85",
+              "10"
+            ],
+            [
+              "Standard",
+              "500 a 1.500",
+              "2.000 a 6.000",
+              "3,34/1500",
+              "1/2\", 5/8”, 3/4\"",
+              "50~65",
+              "115",
+              "100 a 300",
+              "1/4\"",
+              "130 x 130",
+              "100",
+              "10"
+            ],
+            [
+              "Intermediário",
+              "1.500 a 5.000",
+              "6.000 a 20.000",
+              "2,76/5000",
+              "5/8”, 3/4\", 1”",
+              "60~80",
+              "150",
+              "300 a 500",
+              "1/4\"",
+              "170 x 170",
+              "145",
+              "10"
+            ],
+            [
+              "Super",
+              "5.000 a 10.000",
+              "20.000 a 40.000",
+              "5,52/10000",
+              "5/8\", 3/4”, 1\"",
+              "65~85",
+              "190",
+              "1.000 a 2.000",
+              "3/8”",
+              "205 x205",
+              "170",
+              "13"
+            ],
+            [
+              "Mega",
+              "10.000 a 20.000",
+              "40.000 a 80.000",
+              "7,49/20000",
+              "3/4\", 1”, 1 ½ \"",
+              "75~95",
+              "230",
+              "2.000 a 4.000",
+              "3/8”",
+              "250 x250",
+              "208",
+              "13"
+            ]
+          ]
+        },
+        {
+          "title": "Aplicabilidades e instalação",
+          "images": [
+            "/images/products/vibra-stop/tradicional-com-chapa/aplicacao-4.png",
+            "/images/products/vibra-stop/tradicional-com-chapa/aplicacao-5.png",
+            "/images/products/vibra-stop/tradicional-com-chapa/instalacao-6.png"
+          ]
+        }
+      ],
+      "homepage": true
+    },
+    {
+      "id": 200004,
+      "slug": "carolfix-anel-retencao-eixo-liso",
+      "name": "Anel de Retenção para Eixo Liso",
+      "sku": "Série 525",
+      "brand": "Carolfix",
+      "supplier": "Carolfix",
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf",
+      "type": "product",
+      "summary": "Anel de retenção para eixo liso; 24 referências dimensionais no catálogo técnico Carolfix, página 18.",
+      "description": "<p>Série especial com dimensões d1, e, d3, d4, número de dentes, X e capacidade axial informadas na página 18 do catálogo.</p>",
+      "categories": [
+        {
+          "id": 205,
+          "name": "Anéis de retenção",
+          "slug": "aneis-de-retencao"
+        }
+      ],
+      "image": "/images/products/carolfix/anel-retencao-eixo-liso/visual-pagina-18.png",
+      "images": [
+        "/images/products/carolfix/anel-retencao-eixo-liso/visual-pagina-18.png"
+      ],
+      "attributes": [
+        {
+          "name": "Origem",
+          "value": "Catálogo Carolfix, edição histórica, página 18"
+        },
+        {
+          "name": "Pendência de validação",
+          "value": "Conferir d3 da referência 525.160 com a equipe técnica"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "variations": [
+        {
+          "id": 240001,
+          "sku": "525.015",
+          "label": "525.015",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "1,5"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,25"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "1,4"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "6"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "3"
+            },
+            {
+              "name": "X (mm)",
+              "value": "1,5"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "10"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240002,
+          "sku": "525.020",
+          "label": "525.020",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "2"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,25"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "1,85"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "6,5"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "3"
+            },
+            {
+              "name": "X (mm)",
+              "value": "1,5"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "15"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240003,
+          "sku": "525.030",
+          "label": "525.030",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "3"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,25"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "2,8"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "8"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "4"
+            },
+            {
+              "name": "X (mm)",
+              "value": "1,5"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "20"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240004,
+          "sku": "525.035",
+          "label": "525.035",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "3,5"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,4"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "3,3"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "8,2"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "4"
+            },
+            {
+              "name": "X (mm)",
+              "value": "2"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "21"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240005,
+          "sku": "525.040",
+          "label": "525.040",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "4"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,25"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "3,8"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "9"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "4"
+            },
+            {
+              "name": "X (mm)",
+              "value": "2"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "22"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240006,
+          "sku": "525.050",
+          "label": "525.050",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "5"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,25"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "4,8"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "10"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "4"
+            },
+            {
+              "name": "X (mm)",
+              "value": "2"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "23"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240007,
+          "sku": "525.060",
+          "label": "525.060",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "6"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,25"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "5,8"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "11"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "4"
+            },
+            {
+              "name": "X (mm)",
+              "value": "2,5"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "24"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240008,
+          "sku": "525.070",
+          "label": "525.070",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "7"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,25"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "6,8"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "12"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "4"
+            },
+            {
+              "name": "X (mm)",
+              "value": "2,5"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "25"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240009,
+          "sku": "525.080",
+          "label": "525.080",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "8"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,25"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "7,75"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "13"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "4"
+            },
+            {
+              "name": "X (mm)",
+              "value": "2,5"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "25"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240010,
+          "sku": "525.090",
+          "label": "525.090",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "9"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,3"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "8,75"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "14"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "6"
+            },
+            {
+              "name": "X (mm)",
+              "value": "2,5"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "30"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240011,
+          "sku": "525.100",
+          "label": "525.100",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "10"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,3"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "9,75"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "16"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "6"
+            },
+            {
+              "name": "X (mm)",
+              "value": "3"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "32"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240012,
+          "sku": "525.120",
+          "label": "525.120",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "12"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,3"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "11,7"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "18"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "6"
+            },
+            {
+              "name": "X (mm)",
+              "value": "3"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "35"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240013,
+          "sku": "525.140",
+          "label": "525.140",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "14"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,3"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "13,7"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "20,5"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "6"
+            },
+            {
+              "name": "X (mm)",
+              "value": "3"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "40"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240014,
+          "sku": "525.150",
+          "label": "525.150",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "15"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,5"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "14,6"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "23"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "8"
+            },
+            {
+              "name": "X (mm)",
+              "value": "3"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "60"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240015,
+          "sku": "525.160",
+          "label": "525.160",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "16"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,4"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "45,6"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "24,5"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "8"
+            },
+            {
+              "name": "X (mm)",
+              "value": "3"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "70"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240016,
+          "sku": "525.170",
+          "label": "525.170",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "17"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,5"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "16,6"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "26"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "8"
+            },
+            {
+              "name": "X (mm)",
+              "value": "3,5"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "80"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240017,
+          "sku": "525.180",
+          "label": "525.180",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "18"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,4"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "17,6"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "27"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "8"
+            },
+            {
+              "name": "X (mm)",
+              "value": "3,5"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "85"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240018,
+          "sku": "525.190",
+          "label": "525.190",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "19"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,5"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "18,6"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "28"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "8"
+            },
+            {
+              "name": "X (mm)",
+              "value": "3,5"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "90"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240019,
+          "sku": "525.200",
+          "label": "525.200",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "20"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,5"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "19,5"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "29"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "8"
+            },
+            {
+              "name": "X (mm)",
+              "value": "3,5"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "95"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240020,
+          "sku": "525.220",
+          "label": "525.220",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "22"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,5"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "21,5"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "31"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "8"
+            },
+            {
+              "name": "X (mm)",
+              "value": "3,5"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "100"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240021,
+          "sku": "525.230",
+          "label": "525.230",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "23"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,5"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "22,5"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "31,5"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "8"
+            },
+            {
+              "name": "X (mm)",
+              "value": "4"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "105"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240022,
+          "sku": "525.250",
+          "label": "525.250",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "25"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,5"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "24,5"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "34"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "8"
+            },
+            {
+              "name": "X (mm)",
+              "value": "4"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "110"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240023,
+          "sku": "525.280",
+          "label": "525.280",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "28"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,5"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "27,5"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "37"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "8"
+            },
+            {
+              "name": "X (mm)",
+              "value": "4"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "120"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 240024,
+          "sku": "525.300",
+          "label": "525.300",
+          "attributes": [
+            {
+              "name": "d1 (mm)",
+              "value": "30"
+            },
+            {
+              "name": "e (mm)",
+              "value": "0,5"
+            },
+            {
+              "name": "d3 (mm)",
+              "value": "29,5"
+            },
+            {
+              "name": "d4 (mm)",
+              "value": "40"
+            },
+            {
+              "name": "Nº de dentes",
+              "value": "8"
+            },
+            {
+              "name": "X (mm)",
+              "value": "4"
+            },
+            {
+              "name": "Capacidade axial (kgf)",
+              "value": "130"
+            }
+          ],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        }
+      ],
+      "documents": [
+        {
+          "title": "Catálogo técnico Carolfix, página 18",
+          "url": "/downloads/catalogo-carol-componentes.pdf#page=18",
+          "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf",
+          "kind": "pdf"
+        }
+      ],
+      "videos": [],
+      "technicalSections": [
+        {
+          "title": "Página 18 — anel de retenção para eixo liso",
+          "columns": [
+            "Código",
+            "d1 (mm)",
+            "e (mm)",
+            "d3 (mm)",
+            "d4 (mm)",
+            "Nº de dentes",
+            "X (mm)",
+            "Capacidade axial (kgf)"
+          ],
+          "rows": [
+            [
+              "525.015",
+              "1,5",
+              "0,25",
+              "1,4",
+              "6",
+              "3",
+              "1,5",
+              "10"
+            ],
+            [
+              "525.020",
+              "2",
+              "0,25",
+              "1,85",
+              "6,5",
+              "3",
+              "1,5",
+              "15"
+            ],
+            [
+              "525.030",
+              "3",
+              "0,25",
+              "2,8",
+              "8",
+              "4",
+              "1,5",
+              "20"
+            ],
+            [
+              "525.035",
+              "3,5",
+              "0,4",
+              "3,3",
+              "8,2",
+              "4",
+              "2",
+              "21"
+            ],
+            [
+              "525.040",
+              "4",
+              "0,25",
+              "3,8",
+              "9",
+              "4",
+              "2",
+              "22"
+            ],
+            [
+              "525.050",
+              "5",
+              "0,25",
+              "4,8",
+              "10",
+              "4",
+              "2",
+              "23"
+            ],
+            [
+              "525.060",
+              "6",
+              "0,25",
+              "5,8",
+              "11",
+              "4",
+              "2,5",
+              "24"
+            ],
+            [
+              "525.070",
+              "7",
+              "0,25",
+              "6,8",
+              "12",
+              "4",
+              "2,5",
+              "25"
+            ],
+            [
+              "525.080",
+              "8",
+              "0,25",
+              "7,75",
+              "13",
+              "4",
+              "2,5",
+              "25"
+            ],
+            [
+              "525.090",
+              "9",
+              "0,3",
+              "8,75",
+              "14",
+              "6",
+              "2,5",
+              "30"
+            ],
+            [
+              "525.100",
+              "10",
+              "0,3",
+              "9,75",
+              "16",
+              "6",
+              "3",
+              "32"
+            ],
+            [
+              "525.120",
+              "12",
+              "0,3",
+              "11,7",
+              "18",
+              "6",
+              "3",
+              "35"
+            ],
+            [
+              "525.140",
+              "14",
+              "0,3",
+              "13,7",
+              "20,5",
+              "6",
+              "3",
+              "40"
+            ],
+            [
+              "525.150",
+              "15",
+              "0,5",
+              "14,6",
+              "23",
+              "8",
+              "3",
+              "60"
+            ],
+            [
+              "525.160",
+              "16",
+              "0,4",
+              "45,6",
+              "24,5",
+              "8",
+              "3",
+              "70"
+            ],
+            [
+              "525.170",
+              "17",
+              "0,5",
+              "16,6",
+              "26",
+              "8",
+              "3,5",
+              "80"
+            ],
+            [
+              "525.180",
+              "18",
+              "0,4",
+              "17,6",
+              "27",
+              "8",
+              "3,5",
+              "85"
+            ],
+            [
+              "525.190",
+              "19",
+              "0,5",
+              "18,6",
+              "28",
+              "8",
+              "3,5",
+              "90"
+            ],
+            [
+              "525.200",
+              "20",
+              "0,5",
+              "19,5",
+              "29",
+              "8",
+              "3,5",
+              "95"
+            ],
+            [
+              "525.220",
+              "22",
+              "0,5",
+              "21,5",
+              "31",
+              "8",
+              "3,5",
+              "100"
+            ],
+            [
+              "525.230",
+              "23",
+              "0,5",
+              "22,5",
+              "31,5",
+              "8",
+              "4",
+              "105"
+            ],
+            [
+              "525.250",
+              "25",
+              "0,5",
+              "24,5",
+              "34",
+              "8",
+              "4",
+              "110"
+            ],
+            [
+              "525.280",
+              "28",
+              "0,5",
+              "27,5",
+              "37",
+              "8",
+              "4",
+              "120"
+            ],
+            [
+              "525.300",
+              "30",
+              "0,5",
+              "29,5",
+              "40",
+              "8",
+              "4",
+              "130"
+            ]
+          ],
+          "note": "Fonte apresenta d3=45,6 para 525.160; valor mantido sem correção e sinalizado para revisão técnica."
+        }
+      ],
+      "homepage": true
+    },
+    {
+      "id": 200003,
+      "slug": "kifix-base-elevada",
+      "name": "Base Elevada para Mesa de Solda",
+      "sku": "MS BE / KF-532/528",
+      "brand": "Kifix",
+      "supplier": "Kifix",
+      "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-elevada/",
+      "type": "product",
+      "summary": "Base elevada para adaptar grampos à mesa de solda. Referências com diferentes diâmetros e alturas.",
+      "description": "<p>Dimensões e desenhos técnicos por referência, conforme tabela oficial Kifix.</p>",
+      "categories": [
+        {
+          "id": 204,
+          "name": "Adaptadores para mesas de solda",
+          "slug": "adaptadores-para-mesas-de-solda"
+        }
+      ],
+      "image": "/images/products/kifix/base-elevada/1.png",
+      "images": [
+        "/images/products/kifix/base-elevada/1.png",
+        "/images/products/kifix/base-elevada/2.png",
+        "/images/products/kifix/base-elevada/3.png"
+      ],
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "variations": [
+        {
+          "id": 230001,
+          "sku": "MS BE Ø 16 H50 - KF-532/528",
+          "label": "MS BE Ø 16 H50 - KF-532/528",
+          "attributes": [
+            {
+              "name": "A (in)",
+              "value": "82,3 (3,24)"
+            },
+            {
+              "name": "A1 (in)",
+              "value": "50 (1,96)"
+            },
+            {
+              "name": "A2 (in)",
+              "value": "32,3 (1,27)"
+            },
+            {
+              "name": "B (in)",
+              "value": "58 (2,28)"
+            },
+            {
+              "name": "C (in)",
+              "value": "16 (0,62)"
+            },
+            {
+              "name": "D (in)",
+              "value": "42 (1,65)"
+            },
+            {
+              "name": "E (in)",
+              "value": "41 (1,61)"
+            },
+            {
+              "name": "F (in)",
+              "value": "57 (2,24)"
+            },
+            {
+              "name": "G (in)",
+              "value": "8 (0,31)"
+            },
+            {
+              "name": "H (in)",
+              "value": "27 (1,06)"
+            },
+            {
+              "name": "J (in)",
+              "value": "M8"
+            },
+            {
+              "name": "L (in)",
+              "value": "26 (1,02)"
+            },
+            {
+              "name": "PESO kg (lb)",
+              "value": "0,76 (1,67)"
+            }
+          ],
+          "weight": "0,76 (1,67)",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 230002,
+          "sku": "MS BE Ø 22 H50 - KF-532/528",
+          "label": "MS BE Ø 22 H50 - KF-532/528",
+          "attributes": [
+            {
+              "name": "A (in)",
+              "value": "88,4 (3,48)"
+            },
+            {
+              "name": "A1 (in)",
+              "value": "51 (1,96)"
+            },
+            {
+              "name": "A2 (in)",
+              "value": "36,4 (1,43)"
+            },
+            {
+              "name": "B (in)",
+              "value": "58 (2,28)"
+            },
+            {
+              "name": "C (in)",
+              "value": "16 (0,62)"
+            },
+            {
+              "name": "D (in)",
+              "value": "42 (1,65)"
+            },
+            {
+              "name": "E (in)",
+              "value": "41 (1,61)"
+            },
+            {
+              "name": "F (in)",
+              "value": "57 (2,24)"
+            },
+            {
+              "name": "G (in)",
+              "value": "8 (0,31)"
+            },
+            {
+              "name": "H (in)",
+              "value": "30 (1,18)"
+            },
+            {
+              "name": "J (in)",
+              "value": "M8"
+            },
+            {
+              "name": "L (in)",
+              "value": "26 (1,02)"
+            },
+            {
+              "name": "PESO kg (lb)",
+              "value": "0,82 (1,80)"
+            }
+          ],
+          "weight": "0,82 (1,80)",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 230003,
+          "sku": "MS BE Ø 28 H50 - KF-532/528",
+          "label": "MS BE Ø 28 H50 - KF-532/528",
+          "attributes": [
+            {
+              "name": "A (in)",
+              "value": "95,5 (3,75)"
+            },
+            {
+              "name": "A1 (in)",
+              "value": "52 (1,96)"
+            },
+            {
+              "name": "A2 (in)",
+              "value": "42,5 (1,67)"
+            },
+            {
+              "name": "B (in)",
+              "value": "58 (2,28)"
+            },
+            {
+              "name": "C (in)",
+              "value": "16 (0,62)"
+            },
+            {
+              "name": "D (in)",
+              "value": "42 (1,65)"
+            },
+            {
+              "name": "E (in)",
+              "value": "41 (1,61)"
+            },
+            {
+              "name": "F (in)",
+              "value": "57 (2,24)"
+            },
+            {
+              "name": "G (in)",
+              "value": "8 (0,31)"
+            },
+            {
+              "name": "H (in)",
+              "value": "35 (1,37)"
+            },
+            {
+              "name": "J (in)",
+              "value": "M8"
+            },
+            {
+              "name": "L (in)",
+              "value": "26 (1,02)"
+            },
+            {
+              "name": "PESO kg (lb)",
+              "value": "0,91 (2,00)"
+            }
+          ],
+          "weight": "0,91 (2,00)",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 230004,
+          "sku": "MS BE Ø 16 H75 - KF-532/528",
+          "label": "MS BE Ø 16 H75 - KF-532/528",
+          "attributes": [
+            {
+              "name": "A (in)",
+              "value": "107,3 (4,22)"
+            },
+            {
+              "name": "A1 (in)",
+              "value": "75 (2,95)"
+            },
+            {
+              "name": "A2 (in)",
+              "value": "32,3 (1,27)"
+            },
+            {
+              "name": "B (in)",
+              "value": "58 (2,28)"
+            },
+            {
+              "name": "C (in)",
+              "value": "16 (0,62)"
+            },
+            {
+              "name": "D (in)",
+              "value": "42 (1,65)"
+            },
+            {
+              "name": "E (in)",
+              "value": "41 (1,61)"
+            },
+            {
+              "name": "F (in)",
+              "value": "57 (2,24)"
+            },
+            {
+              "name": "G (in)",
+              "value": "8 (0,31)"
+            },
+            {
+              "name": "H (in)",
+              "value": "27 (1,06)"
+            },
+            {
+              "name": "J (in)",
+              "value": "M8"
+            },
+            {
+              "name": "L (in)",
+              "value": "51 (2,00)"
+            },
+            {
+              "name": "PESO kg (lb)",
+              "value": "0,85 (1,87)"
+            }
+          ],
+          "weight": "0,85 (1,87)",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 230005,
+          "sku": "MS BE Ø 22 H75 - KF-532/528",
+          "label": "MS BE Ø 22 H75 - KF-532/528",
+          "attributes": [
+            {
+              "name": "A (in)",
+              "value": "111,4 (4,38)"
+            },
+            {
+              "name": "A1 (in)",
+              "value": "75 (2,95)"
+            },
+            {
+              "name": "A2 (in)",
+              "value": "36,4 (1,43)"
+            },
+            {
+              "name": "B (in)",
+              "value": "58 (2,28)"
+            },
+            {
+              "name": "C (in)",
+              "value": "16 (0,62)"
+            },
+            {
+              "name": "D (in)",
+              "value": "42 (1,65)"
+            },
+            {
+              "name": "E (in)",
+              "value": "41 (1,61)"
+            },
+            {
+              "name": "F (in)",
+              "value": "57 (2,24)"
+            },
+            {
+              "name": "G (in)",
+              "value": "8 (0,31)"
+            },
+            {
+              "name": "H (in)",
+              "value": "30 (1,18)"
+            },
+            {
+              "name": "J (in)",
+              "value": "M8"
+            },
+            {
+              "name": "L (in)",
+              "value": "51 (2,00)"
+            },
+            {
+              "name": "PESO kg (lb)",
+              "value": "0,51 (2,00)"
+            }
+          ],
+          "weight": "0,51 (2,00)",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 230006,
+          "sku": "MS BE Ø 28 H75 - KF-532/528",
+          "label": "MS BE Ø 28 H75 - KF-532/528",
+          "attributes": [
+            {
+              "name": "A (in)",
+              "value": "117,5 (4,62)"
+            },
+            {
+              "name": "A1 (in)",
+              "value": "75 (2,95)"
+            },
+            {
+              "name": "A2 (in)",
+              "value": "42,5 (1,67)"
+            },
+            {
+              "name": "B (in)",
+              "value": "58 (2,28)"
+            },
+            {
+              "name": "C (in)",
+              "value": "16 (0,62)"
+            },
+            {
+              "name": "D (in)",
+              "value": "42 (1,65)"
+            },
+            {
+              "name": "E (in)",
+              "value": "41 (1,61)"
+            },
+            {
+              "name": "F (in)",
+              "value": "57 (2,24)"
+            },
+            {
+              "name": "G (in)",
+              "value": "8 (0,31)"
+            },
+            {
+              "name": "H (in)",
+              "value": "35 (1,37)"
+            },
+            {
+              "name": "J (in)",
+              "value": "M8"
+            },
+            {
+              "name": "L (in)",
+              "value": "51 (2,00)"
+            },
+            {
+              "name": "PESO kg (lb)",
+              "value": "0,995 (2,19)"
+            }
+          ],
+          "weight": "0,995 (2,19)",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 230007,
+          "sku": "MS BE Ø 16 H100 - KF-532/528",
+          "label": "MS BE Ø 16 H100 - KF-532/528",
+          "attributes": [
+            {
+              "name": "A (in)",
+              "value": "132,3 (5,20)"
+            },
+            {
+              "name": "A1 (in)",
+              "value": "100 (3,93)"
+            },
+            {
+              "name": "A2 (in)",
+              "value": "32,3 (1,27)"
+            },
+            {
+              "name": "B (in)",
+              "value": "58 (2,28)"
+            },
+            {
+              "name": "C (in)",
+              "value": "16 (0,62)"
+            },
+            {
+              "name": "D (in)",
+              "value": "42 (1,65)"
+            },
+            {
+              "name": "E (in)",
+              "value": "41 (1,61)"
+            },
+            {
+              "name": "F (in)",
+              "value": "57 (2,24)"
+            },
+            {
+              "name": "G (in)",
+              "value": "8 (0,31)"
+            },
+            {
+              "name": "H (in)",
+              "value": "27 (1,06)"
+            },
+            {
+              "name": "J (in)",
+              "value": "M8"
+            },
+            {
+              "name": "L (in)",
+              "value": "78 (3,07)"
+            },
+            {
+              "name": "PESO kg (lb)",
+              "value": "0,942 (2,07)"
+            }
+          ],
+          "weight": "0,942 (2,07)",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 230008,
+          "sku": "MS BE Ø 22 H100 - KF-532/528",
+          "label": "MS BE Ø 22 H100 - KF-532/528",
+          "attributes": [
+            {
+              "name": "A (in)",
+              "value": "136,4 (5,37)"
+            },
+            {
+              "name": "A1 (in)",
+              "value": "100 (3,93)"
+            },
+            {
+              "name": "A2 (in)",
+              "value": "36,4 (1,43)"
+            },
+            {
+              "name": "B (in)",
+              "value": "58 (2,28)"
+            },
+            {
+              "name": "C (in)",
+              "value": "16 (0,62)"
+            },
+            {
+              "name": "D (in)",
+              "value": "42 (1,65)"
+            },
+            {
+              "name": "E (in)",
+              "value": "41 (1,61)"
+            },
+            {
+              "name": "F (in)",
+              "value": "57 (2,24)"
+            },
+            {
+              "name": "G (in)",
+              "value": "8 (0,31)"
+            },
+            {
+              "name": "H (in)",
+              "value": "30 (1,18)"
+            },
+            {
+              "name": "J (in)",
+              "value": "M8"
+            },
+            {
+              "name": "L (in)",
+              "value": "78 (3,07)"
+            },
+            {
+              "name": "PESO kg (lb)",
+              "value": "1,005 (2,21)"
+            }
+          ],
+          "weight": "1,005 (2,21)",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 230009,
+          "sku": "MS BE Ø 28 H100 - KF-532/528",
+          "label": "MS BE Ø 28 H100 - KF-532/528",
+          "attributes": [
+            {
+              "name": "A (in)",
+              "value": "145,5 (5,72)"
+            },
+            {
+              "name": "A1 (in)",
+              "value": "100 (3,93)"
+            },
+            {
+              "name": "A2 (in)",
+              "value": "42,5 (1,67)"
+            },
+            {
+              "name": "B (in)",
+              "value": "58 (2,28)"
+            },
+            {
+              "name": "C (in)",
+              "value": "16 (0,62)"
+            },
+            {
+              "name": "D (in)",
+              "value": "42 (1,65)"
+            },
+            {
+              "name": "E (in)",
+              "value": "41 (1,61)"
+            },
+            {
+              "name": "F (in)",
+              "value": "57 (2,24)"
+            },
+            {
+              "name": "G (in)",
+              "value": "8 (0,31)"
+            },
+            {
+              "name": "H (in)",
+              "value": "35 (1,37)"
+            },
+            {
+              "name": "J (in)",
+              "value": "M8"
+            },
+            {
+              "name": "L (in)",
+              "value": "78 (3,07)"
+            },
+            {
+              "name": "PESO kg (lb)",
+              "value": "1,085 (2,39)"
+            }
+          ],
+          "weight": "1,085 (2,39)",
+          "dimensions": "",
+          "image": null
+        }
+      ],
+      "documents": [
+        {
+          "title": "Desenhos por referência (login exigido pelo fabricante)",
+          "url": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-elevada/",
+          "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-elevada/",
+          "kind": "restricted",
+          "note": "Não contornar o login; solicitar o arquivo ao fornecedor."
+        }
+      ],
+      "videos": [],
+      "technicalSections": [
+        {
+          "title": "Tabela dimensional do fabricante",
+          "columns": [
+            "REFERÊNCIA",
+            "A (in)",
+            "A1 (in)",
+            "A2 (in)",
+            "B (in)",
+            "C (in)",
+            "D (in)",
+            "E (in)",
+            "F (in)",
+            "G (in)",
+            "H (in)",
+            "J (in)",
+            "L (in)",
+            "PESO kg (lb)"
+          ],
+          "rows": [
+            [
+              "MS BE Ø 16 H50 - KF-532/528",
+              "82,3 (3,24)",
+              "50 (1,96)",
+              "32,3 (1,27)",
+              "58 (2,28)",
+              "16 (0,62)",
+              "42 (1,65)",
+              "41 (1,61)",
+              "57 (2,24)",
+              "8 (0,31)",
+              "27 (1,06)",
+              "M8",
+              "26 (1,02)",
+              "0,76 (1,67)"
+            ],
+            [
+              "MS BE Ø 22 H50 - KF-532/528",
+              "88,4 (3,48)",
+              "51 (1,96)",
+              "36,4 (1,43)",
+              "58 (2,28)",
+              "16 (0,62)",
+              "42 (1,65)",
+              "41 (1,61)",
+              "57 (2,24)",
+              "8 (0,31)",
+              "30 (1,18)",
+              "M8",
+              "26 (1,02)",
+              "0,82 (1,80)"
+            ],
+            [
+              "MS BE Ø 28 H50 - KF-532/528",
+              "95,5 (3,75)",
+              "52 (1,96)",
+              "42,5 (1,67)",
+              "58 (2,28)",
+              "16 (0,62)",
+              "42 (1,65)",
+              "41 (1,61)",
+              "57 (2,24)",
+              "8 (0,31)",
+              "35 (1,37)",
+              "M8",
+              "26 (1,02)",
+              "0,91 (2,00)"
+            ],
+            [
+              "MS BE Ø 16 H75 - KF-532/528",
+              "107,3 (4,22)",
+              "75 (2,95)",
+              "32,3 (1,27)",
+              "58 (2,28)",
+              "16 (0,62)",
+              "42 (1,65)",
+              "41 (1,61)",
+              "57 (2,24)",
+              "8 (0,31)",
+              "27 (1,06)",
+              "M8",
+              "51 (2,00)",
+              "0,85 (1,87)"
+            ],
+            [
+              "MS BE Ø 22 H75 - KF-532/528",
+              "111,4 (4,38)",
+              "75 (2,95)",
+              "36,4 (1,43)",
+              "58 (2,28)",
+              "16 (0,62)",
+              "42 (1,65)",
+              "41 (1,61)",
+              "57 (2,24)",
+              "8 (0,31)",
+              "30 (1,18)",
+              "M8",
+              "51 (2,00)",
+              "0,51 (2,00)"
+            ],
+            [
+              "MS BE Ø 28 H75 - KF-532/528",
+              "117,5 (4,62)",
+              "75 (2,95)",
+              "42,5 (1,67)",
+              "58 (2,28)",
+              "16 (0,62)",
+              "42 (1,65)",
+              "41 (1,61)",
+              "57 (2,24)",
+              "8 (0,31)",
+              "35 (1,37)",
+              "M8",
+              "51 (2,00)",
+              "0,995 (2,19)"
+            ],
+            [
+              "MS BE Ø 16 H100 - KF-532/528",
+              "132,3 (5,20)",
+              "100 (3,93)",
+              "32,3 (1,27)",
+              "58 (2,28)",
+              "16 (0,62)",
+              "42 (1,65)",
+              "41 (1,61)",
+              "57 (2,24)",
+              "8 (0,31)",
+              "27 (1,06)",
+              "M8",
+              "78 (3,07)",
+              "0,942 (2,07)"
+            ],
+            [
+              "MS BE Ø 22 H100 - KF-532/528",
+              "136,4 (5,37)",
+              "100 (3,93)",
+              "36,4 (1,43)",
+              "58 (2,28)",
+              "16 (0,62)",
+              "42 (1,65)",
+              "41 (1,61)",
+              "57 (2,24)",
+              "8 (0,31)",
+              "30 (1,18)",
+              "M8",
+              "78 (3,07)",
+              "1,005 (2,21)"
+            ],
+            [
+              "MS BE Ø 28 H100 - KF-532/528",
+              "145,5 (5,72)",
+              "100 (3,93)",
+              "42,5 (1,67)",
+              "58 (2,28)",
+              "16 (0,62)",
+              "42 (1,65)",
+              "41 (1,61)",
+              "57 (2,24)",
+              "8 (0,31)",
+              "35 (1,37)",
+              "M8",
+              "78 (3,07)",
+              "1,085 (2,39)"
+            ]
+          ]
+        }
+      ],
+      "homepage": true
+    },
+    {
+      "id": 200002,
+      "slug": "merkbak-volante-dois-raios-sem-alma",
+      "name": "Volante Dois Raios sem Alma de Ferro",
+      "sku": "V2R S/ALMA",
+      "brand": "Merkbak",
+      "supplier": "Merkbak",
+      "sourceUrl": "https://merkbak.com.br/produto/volante-dois-raios-sem-alma-de-ferro/",
+      "type": "product",
+      "summary": "Volante de dois raios, revestido em nylon reforçado com fibra de vidro e cubo de ferro fundido.",
+      "description": "<p>APLICAÇÃO: Máquinas e equipamentos que exigem regulagens precisas. INFORMAÇÕES ADICIONAIS: Alta resistência / Com a opção de cabo giratório para facilitar a regulagem.</p>",
+      "categories": [
+        {
+          "id": 202,
+          "name": "Volantes",
+          "slug": "volantes"
+        },
+        {
+          "id": 203,
+          "name": "Plásticos",
+          "slug": "plasticos"
+        }
+      ],
+      "image": "/images/products/merkbak/volante-dois-raios-sem-alma/1.png",
+      "images": [
+        "/images/products/merkbak/volante-dois-raios-sem-alma/1.png",
+        "/images/products/merkbak/volante-dois-raios-sem-alma/2.png"
+      ],
+      "attributes": [
+        {
+          "name": "MATERIAL",
+          "value": "Revestido em nylon reforçado com fibra de vidro + cubo de ferro fundido"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial texturizado na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Máquinas e equipamentos que exigem regulagens precisas."
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Com a opção de cabo giratório para facilitar a regulagem."
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "variations": [
+        {
+          "id": 220001,
+          "sku": "V2R 96 S/ALMA",
+          "label": "V2R 96 S/ALMA",
+          "attributes": [],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 220002,
+          "sku": "V2R 116 S/ALMA",
+          "label": "V2R 116 S/ALMA",
+          "attributes": [],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 220003,
+          "sku": "V2R 141 S/ALMA",
+          "label": "V2R 141 S/ALMA",
+          "attributes": [],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 220004,
+          "sku": "V2R 161 S/ALMA",
+          "label": "V2R 161 S/ALMA",
+          "attributes": [],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 220005,
+          "sku": "V2R 186 S/ALMA",
+          "label": "V2R 186 S/ALMA",
+          "attributes": [],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        },
+        {
+          "id": 220006,
+          "sku": "V2R 216 S/ALMA",
+          "label": "V2R 216 S/ALMA",
+          "attributes": [],
+          "weight": "",
+          "dimensions": "",
+          "image": null
+        }
+      ],
+      "documents": [],
+      "videos": [],
+      "technicalSections": [
+        {
+          "title": "Informações do fabricante",
+          "items": [
+            {
+              "name": "PESO",
+              "value": "Variável conforme opção tamanho"
+            },
+            {
+              "name": "MATERIAL",
+              "value": "Revestido em nylon reforçado com fibra de vidro + cubo de ferro fundido"
+            },
+            {
+              "name": "ACABAMENTO",
+              "value": "Acabamento superficial texturizado na cor preta"
+            },
+            {
+              "name": "APLICAÇÃO",
+              "value": "Máquinas e equipamentos que exigem regulagens precisas."
+            },
+            {
+              "name": "INFORMAÇÕES ADICIONAIS",
+              "value": "Alta resistência / Com a opção de cabo giratório para facilitar a regulagem."
+            }
+          ]
+        },
+        {
+          "title": "Medidas disponíveis",
+          "items": [
+            {
+              "name": "Medida",
+              "value": "V2R 96 S/ALMA"
+            },
+            {
+              "name": "Medida",
+              "value": "V2R 116 S/ALMA"
+            },
+            {
+              "name": "Medida",
+              "value": "V2R 141 S/ALMA"
+            },
+            {
+              "name": "Medida",
+              "value": "V2R 161 S/ALMA"
+            },
+            {
+              "name": "Medida",
+              "value": "V2R 186 S/ALMA"
+            },
+            {
+              "name": "Medida",
+              "value": "V2R 216 S/ALMA"
+            }
+          ]
+        }
+      ],
+      "homepage": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 204,
+      "name": "Adaptadores para mesas de solda",
+      "slug": "adaptadores-para-mesas-de-solda"
+    },
+    {
+      "id": 201,
+      "name": "Amortecedores de vibração",
+      "slug": "amortecedores-de-vibracao"
+    },
+    {
+      "id": 205,
+      "name": "Anéis de retenção",
+      "slug": "aneis-de-retencao"
+    },
+    {
+      "id": 203,
+      "name": "Plásticos",
+      "slug": "plasticos"
+    },
+    {
+      "id": 202,
+      "name": "Volantes",
+      "slug": "volantes"
+    }
+  ]
 }

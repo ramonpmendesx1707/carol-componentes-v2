@@ -1,0 +1,72 @@
+{
+  "schema": 1,
+  "products": {
+    "merkbak": {
+      "sourceUrl": "https://merkbak.com.br/produto/volante-dois-raios-sem-alma-de-ferro/",
+      "status": "staged",
+      "startedAt": "2026-10-20T02:37:25.495Z",
+      "updatedAt": "2026-10-20T02:37:29.887Z",
+      "productFile": "data/harvest/products/merkbak.json",
+      "manifestFile": "data/harvest/manifests/merkbak.json",
+      "checks": {
+        "tabs": [
+          "Descrição",
+          "Informação adicional",
+          "INFORMAÇÕES"
+        ],
+        "variants": 6,
+        "pdfs": 0,
+        "videos": 0
+      },
+      "error": null
+    },
+    "kifix": {
+      "sourceUrl": "https://www.kifix.com.br/produtos/adaptadores-para-mesas-de-sold/base-elevada/",
+      "status": "staged",
+      "startedAt": "2026-10-20T02:37:36.755Z",
+      "updatedAt": "2026-10-20T02:37:37.059Z",
+      "productFile": "data/harvest/products/kifix.json",
+      "manifestFile": "data/harvest/manifests/kifix.json",
+      "checks": {
+        "variants": 9,
+        "drawings": "restrito a usuário autenticado",
+        "rows": 9
+      },
+      "error": null
+    },
+    "carolfix": {
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf",
+      "status": "staged",
+      "startedAt": "2026-10-20T02:37:44.540Z",
+      "updatedAt": "2026-10-20T02:37:44.546Z",
+      "productFile": "data/harvest/products/carolfix.json",
+      "manifestFile": "data/harvest/manifests/carolfix.json",
+      "checks": {
+        "variants": 24,
+        "source": "PDF página 18",
+        "anomaly": "525.160 d3=45,6 — revisão pendente"
+      },
+      "error": null
+    },
+    "vibra": {
+      "sourceUrl": "https://www.vibra-stop.com.br/produto/linha-tradicional?model=com-chapa&language=pt-BR",
+      "status": "staged",
+      "startedAt": "2026-10-20T02:37:51.412Z",
+      "updatedAt": "2026-10-20T02:38:39.811Z",
+      "error": null,
+      "productFile": "data/harvest/products/vibra.json",
+      "manifestFile": "data/harvest/manifests/vibra.json",
+      "checks": {
+        "tabs": [
+          "Ficha técnica",
+          "Vídeo",
+          "Aplicabilidades",
+          "Especificações",
+          "Instalação"
+        ],
+        "variants": 6,
+        "videoHosted": false
+      }
+    }
+  }
+}

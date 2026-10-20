@@ -1,0 +1,164 @@
+{
+  "id": 200002,
+  "slug": "merkbak-volante-dois-raios-sem-alma",
+  "name": "Volante Dois Raios sem Alma de Ferro",
+  "sku": "V2R S/ALMA",
+  "brand": "Merkbak",
+  "supplier": "Merkbak",
+  "sourceUrl": "https://merkbak.com.br/produto/volante-dois-raios-sem-alma-de-ferro/",
+  "type": "product",
+  "summary": "Volante de dois raios, revestido em nylon reforçado com fibra de vidro e cubo de ferro fundido.",
+  "description": "<p>APLICAÇÃO: Máquinas e equipamentos que exigem regulagens precisas. INFORMAÇÕES ADICIONAIS: Alta resistência / Com a opção de cabo giratório para facilitar a regulagem.</p>",
+  "categories": [
+    {
+      "id": 202,
+      "name": "Volantes",
+      "slug": "volantes"
+    },
+    {
+      "id": 203,
+      "name": "Plásticos",
+      "slug": "plasticos"
+    }
+  ],
+  "image": "/images/products/merkbak/volante-dois-raios-sem-alma/1.png",
+  "images": [
+    "/images/products/merkbak/volante-dois-raios-sem-alma/1.png",
+    "/images/products/merkbak/volante-dois-raios-sem-alma/2.png"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIAL",
+      "value": "Revestido em nylon reforçado com fibra de vidro + cubo de ferro fundido"
+    },
+    {
+      "name": "ACABAMENTO",
+      "value": "Acabamento superficial texturizado na cor preta"
+    },
+    {
+      "name": "APLICAÇÃO",
+      "value": "Máquinas e equipamentos que exigem regulagens precisas."
+    },
+    {
+      "name": "INFORMAÇÕES ADICIONAIS",
+      "value": "Alta resistência / Com a opção de cabo giratório para facilitar a regulagem."
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 220001,
+      "sku": "V2R 96 S/ALMA",
+      "label": "V2R 96 S/ALMA",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220002,
+      "sku": "V2R 116 S/ALMA",
+      "label": "V2R 116 S/ALMA",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220003,
+      "sku": "V2R 141 S/ALMA",
+      "label": "V2R 141 S/ALMA",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220004,
+      "sku": "V2R 161 S/ALMA",
+      "label": "V2R 161 S/ALMA",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220005,
+      "sku": "V2R 186 S/ALMA",
+      "label": "V2R 186 S/ALMA",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 220006,
+      "sku": "V2R 216 S/ALMA",
+      "label": "V2R 216 S/ALMA",
+      "attributes": [],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Informações do fabricante",
+      "items": [
+        {
+          "name": "PESO",
+          "value": "Variável conforme opção tamanho"
+        },
+        {
+          "name": "MATERIAL",
+          "value": "Revestido em nylon reforçado com fibra de vidro + cubo de ferro fundido"
+        },
+        {
+          "name": "ACABAMENTO",
+          "value": "Acabamento superficial texturizado na cor preta"
+        },
+        {
+          "name": "APLICAÇÃO",
+          "value": "Máquinas e equipamentos que exigem regulagens precisas."
+        },
+        {
+          "name": "INFORMAÇÕES ADICIONAIS",
+          "value": "Alta resistência / Com a opção de cabo giratório para facilitar a regulagem."
+        }
+      ]
+    },
+    {
+      "title": "Medidas disponíveis",
+      "items": [
+        {
+          "name": "Medida",
+          "value": "V2R 96 S/ALMA"
+        },
+        {
+          "name": "Medida",
+          "value": "V2R 116 S/ALMA"
+        },
+        {
+          "name": "Medida",
+          "value": "V2R 141 S/ALMA"
+        },
+        {
+          "name": "Medida",
+          "value": "V2R 161 S/ALMA"
+        },
+        {
+          "name": "Medida",
+          "value": "V2R 186 S/ALMA"
+        },
+        {
+          "name": "Medida",
+          "value": "V2R 216 S/ALMA"
+        }
+      ]
+    }
+  ],
+  "homepage": true
+}

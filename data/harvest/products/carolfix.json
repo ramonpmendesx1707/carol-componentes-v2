@@ -1,0 +1,1217 @@
+{
+  "id": 200004,
+  "slug": "carolfix-anel-retencao-eixo-liso",
+  "name": "Anel de Retenção para Eixo Liso",
+  "sku": "Série 525",
+  "brand": "Carolfix",
+  "supplier": "Carolfix",
+  "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf",
+  "type": "product",
+  "summary": "Anel de retenção para eixo liso; 24 referências dimensionais no catálogo técnico Carolfix, página 18.",
+  "description": "<p>Série especial com dimensões d1, e, d3, d4, número de dentes, X e capacidade axial informadas na página 18 do catálogo.</p>",
+  "categories": [
+    {
+      "id": 205,
+      "name": "Anéis de retenção",
+      "slug": "aneis-de-retencao"
+    }
+  ],
+  "image": "/images/products/carolfix/anel-retencao-eixo-liso/visual-pagina-18.png",
+  "images": [
+    "/images/products/carolfix/anel-retencao-eixo-liso/visual-pagina-18.png"
+  ],
+  "attributes": [
+    {
+      "name": "Origem",
+      "value": "Catálogo Carolfix, edição histórica, página 18"
+    },
+    {
+      "name": "Pendência de validação",
+      "value": "Conferir d3 da referência 525.160 com a equipe técnica"
+    }
+  ],
+  "weight": "",
+  "dimensions": "",
+  "variations": [
+    {
+      "id": 240001,
+      "sku": "525.015",
+      "label": "525.015",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "1,5"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,25"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "1,4"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "6"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "3"
+        },
+        {
+          "name": "X (mm)",
+          "value": "1,5"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "10"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240002,
+      "sku": "525.020",
+      "label": "525.020",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "2"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,25"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "1,85"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "6,5"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "3"
+        },
+        {
+          "name": "X (mm)",
+          "value": "1,5"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "15"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240003,
+      "sku": "525.030",
+      "label": "525.030",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "3"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,25"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "2,8"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "8"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "4"
+        },
+        {
+          "name": "X (mm)",
+          "value": "1,5"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "20"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240004,
+      "sku": "525.035",
+      "label": "525.035",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "3,5"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,4"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "3,3"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "8,2"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "4"
+        },
+        {
+          "name": "X (mm)",
+          "value": "2"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "21"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240005,
+      "sku": "525.040",
+      "label": "525.040",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "4"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,25"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "3,8"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "9"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "4"
+        },
+        {
+          "name": "X (mm)",
+          "value": "2"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "22"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240006,
+      "sku": "525.050",
+      "label": "525.050",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "5"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,25"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "4,8"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "10"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "4"
+        },
+        {
+          "name": "X (mm)",
+          "value": "2"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "23"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240007,
+      "sku": "525.060",
+      "label": "525.060",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "6"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,25"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "5,8"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "11"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "4"
+        },
+        {
+          "name": "X (mm)",
+          "value": "2,5"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "24"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240008,
+      "sku": "525.070",
+      "label": "525.070",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "7"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,25"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "6,8"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "12"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "4"
+        },
+        {
+          "name": "X (mm)",
+          "value": "2,5"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "25"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240009,
+      "sku": "525.080",
+      "label": "525.080",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "8"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,25"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "7,75"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "13"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "4"
+        },
+        {
+          "name": "X (mm)",
+          "value": "2,5"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "25"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240010,
+      "sku": "525.090",
+      "label": "525.090",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "9"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,3"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "8,75"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "14"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "6"
+        },
+        {
+          "name": "X (mm)",
+          "value": "2,5"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "30"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240011,
+      "sku": "525.100",
+      "label": "525.100",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "10"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,3"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "9,75"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "16"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "6"
+        },
+        {
+          "name": "X (mm)",
+          "value": "3"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "32"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240012,
+      "sku": "525.120",
+      "label": "525.120",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "12"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,3"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "11,7"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "18"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "6"
+        },
+        {
+          "name": "X (mm)",
+          "value": "3"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "35"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240013,
+      "sku": "525.140",
+      "label": "525.140",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "14"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,3"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "13,7"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "20,5"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "6"
+        },
+        {
+          "name": "X (mm)",
+          "value": "3"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "40"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240014,
+      "sku": "525.150",
+      "label": "525.150",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "15"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,5"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "14,6"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "23"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "8"
+        },
+        {
+          "name": "X (mm)",
+          "value": "3"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "60"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240015,
+      "sku": "525.160",
+      "label": "525.160",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "16"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,4"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "45,6"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "24,5"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "8"
+        },
+        {
+          "name": "X (mm)",
+          "value": "3"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "70"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240016,
+      "sku": "525.170",
+      "label": "525.170",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "17"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,5"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "16,6"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "26"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "8"
+        },
+        {
+          "name": "X (mm)",
+          "value": "3,5"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "80"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240017,
+      "sku": "525.180",
+      "label": "525.180",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "18"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,4"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "17,6"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "27"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "8"
+        },
+        {
+          "name": "X (mm)",
+          "value": "3,5"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "85"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240018,
+      "sku": "525.190",
+      "label": "525.190",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "19"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,5"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "18,6"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "28"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "8"
+        },
+        {
+          "name": "X (mm)",
+          "value": "3,5"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "90"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240019,
+      "sku": "525.200",
+      "label": "525.200",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "20"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,5"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "19,5"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "29"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "8"
+        },
+        {
+          "name": "X (mm)",
+          "value": "3,5"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "95"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240020,
+      "sku": "525.220",
+      "label": "525.220",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "22"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,5"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "21,5"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "31"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "8"
+        },
+        {
+          "name": "X (mm)",
+          "value": "3,5"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "100"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240021,
+      "sku": "525.230",
+      "label": "525.230",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "23"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,5"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "22,5"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "31,5"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "8"
+        },
+        {
+          "name": "X (mm)",
+          "value": "4"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "105"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240022,
+      "sku": "525.250",
+      "label": "525.250",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "25"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,5"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "24,5"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "34"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "8"
+        },
+        {
+          "name": "X (mm)",
+          "value": "4"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "110"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240023,
+      "sku": "525.280",
+      "label": "525.280",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "28"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,5"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "27,5"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "37"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "8"
+        },
+        {
+          "name": "X (mm)",
+          "value": "4"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "120"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    },
+    {
+      "id": 240024,
+      "sku": "525.300",
+      "label": "525.300",
+      "attributes": [
+        {
+          "name": "d1 (mm)",
+          "value": "30"
+        },
+        {
+          "name": "e (mm)",
+          "value": "0,5"
+        },
+        {
+          "name": "d3 (mm)",
+          "value": "29,5"
+        },
+        {
+          "name": "d4 (mm)",
+          "value": "40"
+        },
+        {
+          "name": "Nº de dentes",
+          "value": "8"
+        },
+        {
+          "name": "X (mm)",
+          "value": "4"
+        },
+        {
+          "name": "Capacidade axial (kgf)",
+          "value": "130"
+        }
+      ],
+      "weight": "",
+      "dimensions": "",
+      "image": null
+    }
+  ],
+  "documents": [
+    {
+      "title": "Catálogo técnico Carolfix, página 18",
+      "url": "/downloads/catalogo-carol-componentes.pdf#page=18",
+      "sourceUrl": "https://carolfix.com.br/wp-content/uploads/2021/03/Catalogo-Carolfix-1.pdf",
+      "kind": "pdf"
+    }
+  ],
+  "videos": [],
+  "technicalSections": [
+    {
+      "title": "Página 18 — anel de retenção para eixo liso",
+      "columns": [
+        "Código",
+        "d1 (mm)",
+        "e (mm)",
+        "d3 (mm)",
+        "d4 (mm)",
+        "Nº de dentes",
+        "X (mm)",
+        "Capacidade axial (kgf)"
+      ],
+      "rows": [
+        [
+          "525.015",
+          "1,5",
+          "0,25",
+          "1,4",
+          "6",
+          "3",
+          "1,5",
+          "10"
+        ],
+        [
+          "525.020",
+          "2",
+          "0,25",
+          "1,85",
+          "6,5",
+          "3",
+          "1,5",
+          "15"
+        ],
+        [
+          "525.030",
+          "3",
+          "0,25",
+          "2,8",
+          "8",
+          "4",
+          "1,5",
+          "20"
+        ],
+        [
+          "525.035",
+          "3,5",
+          "0,4",
+          "3,3",
+          "8,2",
+          "4",
+          "2",
+          "21"
+        ],
+        [
+          "525.040",
+          "4",
+          "0,25",
+          "3,8",
+          "9",
+          "4",
+          "2",
+          "22"
+        ],
+        [
+          "525.050",
+          "5",
+          "0,25",
+          "4,8",
+          "10",
+          "4",
+          "2",
+          "23"
+        ],
+        [
+          "525.060",
+          "6",
+          "0,25",
+          "5,8",
+          "11",
+          "4",
+          "2,5",
+          "24"
+        ],
+        [
+          "525.070",
+          "7",
+          "0,25",
+          "6,8",
+          "12",
+          "4",
+          "2,5",
+          "25"
+        ],
+        [
+          "525.080",
+          "8",
+          "0,25",
+          "7,75",
+          "13",
+          "4",
+          "2,5",
+          "25"
+        ],
+        [
+          "525.090",
+          "9",
+          "0,3",
+          "8,75",
+          "14",
+          "6",
+          "2,5",
+          "30"
+        ],
+        [
+          "525.100",
+          "10",
+          "0,3",
+          "9,75",
+          "16",
+          "6",
+          "3",
+          "32"
+        ],
+        [
+          "525.120",
+          "12",
+          "0,3",
+          "11,7",
+          "18",
+          "6",
+          "3",
+          "35"
+        ],
+        [
+          "525.140",
+          "14",
+          "0,3",
+          "13,7",
+          "20,5",
+          "6",
+          "3",
+          "40"
+        ],
+        [
+          "525.150",
+          "15",
+          "0,5",
+          "14,6",
+          "23",
+          "8",
+          "3",
+          "60"
+        ],
+        [
+          "525.160",
+          "16",
+          "0,4",
+          "45,6",
+          "24,5",
+          "8",
+          "3",
+          "70"
+        ],
+        [
+          "525.170",
+          "17",
+          "0,5",
+          "16,6",
+          "26",
+          "8",
+          "3,5",
+          "80"
+        ],
+        [
+          "525.180",
+          "18",
+          "0,4",
+          "17,6",
+          "27",
+          "8",
+          "3,5",
+          "85"
+        ],
+        [
+          "525.190",
+          "19",
+          "0,5",
+          "18,6",
+          "28",
+          "8",
+          "3,5",
+          "90"
+        ],
+        [
+          "525.200",
+          "20",
+          "0,5",
+          "19,5",
+          "29",
+          "8",
+          "3,5",
+          "95"
+        ],
+        [
+          "525.220",
+          "22",
+          "0,5",
+          "21,5",
+          "31",
+          "8",
+          "3,5",
+          "100"
+        ],
+        [
+          "525.230",
+          "23",
+          "0,5",
+          "22,5",
+          "31,5",
+          "8",
+          "4",
+          "105"
+        ],
+        [
+          "525.250",
+          "25",
+          "0,5",
+          "24,5",
+          "34",
+          "8",
+          "4",
+          "110"
+        ],
+        [
+          "525.280",
+          "28",
+          "0,5",
+          "27,5",
+          "37",
+          "8",
+          "4",
+          "120"
+        ],
+        [
+          "525.300",
+          "30",
+          "0,5",
+          "29,5",
+          "40",
+          "8",
+          "4",
+          "130"
+        ]
+      ],
+      "note": "Fonte apresenta d3=45,6 para 525.160; valor mantido sem correção e sinalizado para revisão técnica."
+    }
+  ],
+  "homepage": true
+}

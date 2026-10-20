@@ -1,5 +1,12 @@
 # V2 — Catálogo preparado para reconstrução — 19/10/2026
 
+## Pilotos técnicos e continuidade de coleta — 20/10/2026
+
+- Quatro produtos-piloto coletados e preparados para a V2: Vibra-Stop Tradicional com Chapa (6 referências, ficha PDF, fotos/aplicação/instalação, vídeo oficial por link), Merkbak V2R sem alma (6 medidas, duas imagens, três abas), Kifix Base Elevada (9 referências e 3 imagens; ZIP de desenhos requer login) e Carolfix Anel de Retenção para Eixo Liso (24 códigos da página 18 do PDF).
+- Catálogo ativo passa a 4 produtos/45 referências, sem preços ou prazos de fornecedores. Filtro por fornecedor, dados técnicos dimensionais, documentos e aba de vídeo no detalhe. Hero deixa de depender dos IDs arquivados da V1. Regra de duplicação: fornecedor prevalece; Carolfix só entra quando exclusiva.
+- Imagens originais locais por produto, manifesto de arquivos com origem/hash, mapa de 148 sementes e fila retomável. Manual vivo `01 ORIENTAÇÕES PARA NOVAS IA's.md` para Codex/Antigravity em Ubuntu + Playwright. Vídeo Vibra-Stop de ~140 MB não foi hospedado no Git; desenho Kifix restrito não foi baixado. Anomalia `d3=45,6` da referência Carolfix 525.160 pendente de revisão técnica.
+- API D1 da V2 migra somente o estado inicial vazio e intocado para os pilotos, sem sobrescrever revisão administrativa. TypeScript, builds Pages/Worker e navegação Playwright 390/1440 px validados.
+
 - Catálogo de 50 produtos/290 medidas da V1 arquivado em `data/archive/catalog-v1.json`, fora da listagem ativa, com restauração assistida por `scripts/catalog-restore.mjs`.
 - Catálogo ativo iniciado vazio. API da V2 passa a usar estado próprio `catalog_v2` e o frontend aponta para o Site V2; nenhuma leitura ou gravação de catálogo usa o Site original.
 - TypeScript, build GitHub Pages e build Worker passaram. O acervo antigo e os arquivos técnicos permanecem disponíveis no histórico Git e no arquivo de backup.
